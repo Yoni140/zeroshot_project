@@ -1,0 +1,2 @@
+dataset,model,cv_f1_macro_mean,cv_f1_macro_std,test_accuracy,test_f1_macro,test_f1_weighted,test_precision,test_recall,test_f1_misinformation
+pheme,roberta-base,0.599004,0.007317,0.82213,0.598062,0.805061,0.627025,0.585865,0.898165

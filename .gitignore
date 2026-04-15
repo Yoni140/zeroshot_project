@@ -1,0 +1,39 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.env
+venv/
+.venv/
+*.egg-info/
+dist/
+build/
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Data (large files - track only structure)
+data/raw/*.csv
+data/raw/*.json
+data/raw/*.tsv
+data/raw/*.zip
+data/processed/*.csv
+data/processed/*.json
+
+# Models (large binaries)
+results/models/
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE
+.vscode/
+.idea/
+
+# Secrets / API keys
+*.env
+secrets.py
+config_local.py
