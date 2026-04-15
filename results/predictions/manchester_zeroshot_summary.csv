@@ -1,2 +1,2 @@
-dataset,model,test_accuracy,test_f1_macro,test_f1_weighted,test_precision,test_recall,f1_misinformation,null_predictions,parse_errors
-manchester,ollama-zero-shot (llama3.1),0.7397260273972602,0.6718526720230151,0.7687561974669673,0.6665056360708534,0.7683762458471761,0.5226130653266331,2,3
+dataset,model,test_accuracy,test_f1_macro,test_f1_weighted,test_precision,test_recall,f1_misinformation,null_predictions,parse_errors,parse_json,parse_keyword_fallback,parse_empty,parse_default
+manchester,ollama-zero-shot (llama3.1),0.7534246575342466,0.684086013232805,0.7801869412997152,0.674468085106383,0.7766818936877076,0.5360824742268042,2,3,362,1,0,2

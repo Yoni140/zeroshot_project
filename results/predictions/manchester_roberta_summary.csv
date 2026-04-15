@@ -1,2 +1,2 @@
-dataset,model,cv_f1_macro_mean,cv_f1_macro_std,test_accuracy,test_f1_macro,test_f1_weighted,test_precision,test_recall,test_f1_misinformation
-manchester,roberta-base,0.9632562352998516,0.015954066332998743,0.9917808219178083,0.9858762527570328,0.9918058412786589,0.982948717948718,0.9888652408637874,0.9767441860465116
+dataset,model,cv_f1_macro_mean,cv_f1_macro_std,test_accuracy,test_f1_macro,test_f1_weighted,test_precision,test_recall,test_f1_misinformation,test_roc_auc,test_pr_auc
+manchester,roberta-base,0.96077,0.011895,0.991781,0.985701,0.991755,0.988752,0.982714,0.976378,0.99891,0.995074

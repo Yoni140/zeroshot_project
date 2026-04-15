@@ -1,2 +1,2 @@
-dataset,model,test_accuracy,test_f1_macro,test_f1_weighted,test_precision,test_recall,f1_misinformation,null_predictions,parse_errors
-monkeypox,ollama-zero-shot (llama3.1),0.6105032822757112,0.6104566524920507,0.6091230406793622,0.6834447799827437,0.6805626326963907,0.6147186147186147,5,5
+dataset,model,test_accuracy,test_f1_macro,test_f1_weighted,test_precision,test_recall,f1_misinformation,null_predictions,parse_errors,parse_json,parse_keyword_fallback,parse_empty,parse_default
+monkeypox,ollama-zero-shot (llama3.1),0.612691466083151,0.6126617919581676,0.611600941990009,0.6845330237358102,0.6822292993630573,0.6160520607375272,5,5,452,0,0,5

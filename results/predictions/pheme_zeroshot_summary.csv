@@ -1,2 +1,2 @@
-dataset,model,test_accuracy,test_f1_macro,test_f1_weighted,test_precision,test_recall,f1_rumour,null_predictions,parse_errors
-pheme,ollama-zero-shot (llama3.1),0.4343329886246122,0.3981829973148864,0.4999215804523845,0.5032979149959904,0.5060403916768665,0.5456810631229235,118,120
+dataset,model,test_accuracy,test_f1_macro,test_f1_weighted,test_precision,test_recall,f1_rumour,null_predictions,parse_errors,parse_json,parse_keyword_fallback,parse_empty,parse_default
+pheme,ollama-zero-shot (llama3.1),0.4343329886246122,0.39818299731488643,0.49992158045238455,0.5032979149959904,0.5060403916768665,0.5456810631229235,118,120,1814,2,0,118
