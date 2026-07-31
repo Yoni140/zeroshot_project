@@ -1,0 +1,2 @@
+dataset,model,model_key,cv_f1_macro_mean,cv_f1_macro_std,test_accuracy,test_f1_macro,test_f1_weighted,test_precision,test_recall,test_f1_misinformation
+monkeypox,vinai/bertweet-base,bertweet,0.866819,0.013149,0.876442,0.873157,0.875464,0.873832,0.873489,0.852564

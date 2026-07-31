@@ -1,0 +1,2 @@
+dataset,model,model_key,cv_f1_macro_mean,cv_f1_macro_std,test_accuracy,test_f1_macro,test_f1_weighted,test_precision,test_recall,test_f1_rumour
+germanwings-crash,roberta-base,roberta,0.858422,0.031195,0.871429,0.871192,0.87135,0.871826,0.870915,0.876712

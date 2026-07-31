@@ -1,0 +1,2 @@
+dataset,model,model_key,cv_f1_macro_mean,cv_f1_macro_std,test_accuracy,test_f1_macro,test_f1_weighted,test_precision,test_recall,test_f1_rumour
+gurlitt,roberta-base,roberta,0.364069,0.007353,0.578947,0.366667,0.424561,0.289474,0.5,0.0

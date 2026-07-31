@@ -1,0 +1,2 @@
+dataset,model,model_key,cv_f1_macro_mean,cv_f1_macro_std,test_accuracy,test_f1_macro,test_f1_weighted,test_precision,test_recall,test_f1_rumour
+germanwings-crash,vinai/bertweet-base,bertweet,0.840848,0.017727,0.828571,0.826303,0.82687,0.839286,0.82598,0.846154

@@ -1,0 +1,20 @@
+cleaned_tweet,label,true_label_int,pred_label_int,pred_label,prob_not_rumour,prob_rumour,correct
+Swiss museum accepts Gurlitt art bequest,rumour,1,1,rumour,0.49655157,0.5034484,True
+"Summary of the Gurlitt agreement between Kunstmuseum Bern, State of Bavaria and German government via",rumour,1,0,not_rumour,0.61222273,0.38777727,False
+GMLive ArtsBeat Cousin of Cornelius Gurlitt Challenges Will That Leaves Collection to Swiss Museum A cousin...,not_rumour,0,0,not_rumour,0.6292052,0.37079483,True
+Sounds like a good resolution to conundrum of what to do with the Gurlitt Nazi-looted art stash Bern museum,not_rumour,0,0,not_rumour,0.5950955,0.40490445,True
+Kunstmuseum Bern Obtains Trove From Gurlitt Collection,rumour,1,0,not_rumour,0.55310553,0.4468945,False
+ArtsBeat Cousin of Cornelius Gurlitt Challenges Will That Leaves Collection to Swiss Museum A cousin of... art,not_rumour,0,0,not_rumour,0.627666,0.37233403,True
+Watching Kunstmuseum Bern this week for Gurlitt decision. An article on Gurlitt and Nazi loot from a few months back,not_rumour,0,0,not_rumour,0.6348829,0.36511704,True
+"3rd work in Gurlitt collection found to have been loted, 'Klavierespieler' from Carl Spitzweg to be returned to Jewish heirs",not_rumour,0,0,not_rumour,0.60498255,0.3950175,True
+Swiss Bern Art Museum to accept Gurlitt 'Nazi art' art museum,rumour,1,1,rumour,0.49969482,0.5003052,True
+Swiss Museum Accepts Art Trove With Nazi-Looted Works via Gurlitt,rumour,1,0,not_rumour,0.5474475,0.45255244,False
+Swiss museum deciding on Gurlitt art trove,not_rumour,0,0,not_rumour,0.54775137,0.45224866,True
+Where should the Gurlitt collection go? Many people sounding off on before the upcoming press conference Monday.,not_rumour,0,0,not_rumour,0.6097856,0.39021438,True
+The Gurlitt collection should be sold to benefit Jewish organisations - The Art Newspaper artnews artcrime art,not_rumour,0,0,not_rumour,0.56708646,0.43291354,True
+Will Bern's Museum of Fine Arts accept the controversial Gurlitt collection? art stolen,not_rumour,0,0,not_rumour,0.52597755,0.47402242,True
+The Kunstmuseum Bern agrees to takes the controversial Gurlitt art collection.,rumour,1,0,not_rumour,0.5512152,0.44878483,False
+Breaking news Kunstmuseum Bern accepts Cornelius Gurlitt estate.,rumour,1,0,not_rumour,0.607343,0.39265704,False
+ARCAblog Gurlitt Art Collection An Interview with Art Recovery's Christopher Marinello on the eve of the Ku...,not_rumour,0,0,not_rumour,0.57925165,0.42074832,True
+Schublin agreement in accepting Gurlitt collection Objects with suspicion of being Nazi-looted art will initially remain in Germany.,rumour,1,0,not_rumour,0.5925193,0.4074808,False
+"Degenerate artworks seized by Nazis should go back to museums, says German advisor Gurlitt",not_rumour,0,0,not_rumour,0.5444381,0.45556194,True

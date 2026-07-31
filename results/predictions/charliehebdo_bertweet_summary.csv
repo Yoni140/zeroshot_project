@@ -1,0 +1,2 @@
+dataset,model,model_key,cv_f1_macro_mean,cv_f1_macro_std,test_accuracy,test_f1_macro,test_f1_weighted,test_precision,test_recall,test_f1_rumour
+charliehebdo,vinai/bertweet-base,bertweet,0.850878,0.027637,0.914384,0.880795,0.915034,0.875225,0.886799,0.817518

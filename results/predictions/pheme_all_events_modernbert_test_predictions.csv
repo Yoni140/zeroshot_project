@@ -1,0 +1,451 @@
+cleaned_tweet,label,true_label_int,pred_label_int,pred_label,prob_not_rumour,prob_rumour,correct
+Police name the officer who shot Ferguson teenager MichaelBrown. Watch,rumour,1,1,rumour,0.025988236,0.9740117,True
+"White ""anti-looting"" high-horse riders listen up! Read amp follow Ferguson",not_rumour,0,0,not_rumour,0.9999658,3.4201625e-05,True
+"11 confirmed dead, Francois Hollande to visit scene of attack - latest from Paris",rumour,1,1,rumour,0.000118205375,0.99988174,True
+.'s first-hand account of the scene in Ottawa that will 'change this country forever',not_rumour,0,0,not_rumour,0.98228765,0.017712297,True
+Sydney trains Train driver here. Never be afraid to let me know if you're having problems. illridewithyou,not_rumour,0,0,not_rumour,0.9555893,0.044410706,True
+"OttawaShooting police say they are investigating 3 shootings, one at War Memorial, one on Parliament Hill and one near Rideau Centre",rumour,1,1,rumour,7.52799e-06,0.9999925,True
+"DEVELOPING Gunman Takes Hostages In Sydney Cafe, 'ISIS' Flags Being Held Against Window -",rumour,1,1,rumour,6.001846e-06,0.99999404,True
+Gunfire and explosions heard at second Paris hostage site. Live reporting from on CNN,not_rumour,0,0,not_rumour,0.77881753,0.2211824,True
+"CharlieHebdo Now is the time to uphold freedoms, not give in to fear -",not_rumour,0,0,not_rumour,0.99999976,2.300069e-07,True
+Update - AFP Aviation official says Germanwings crew did not send a distress signal,rumour,1,1,rumour,0.00074806996,0.9992519,True
+Swiss museum decides to accept Gurlitt Nazi-era art trove,rumour,1,1,rumour,0.00026170083,0.9997383,True
+German Wings airline tweeting now about reports of plane crashing in French Alps with 148 on board,rumour,1,1,rumour,7.5870316e-06,0.9999924,True
+Where's Putin? Stroke? Dead? Has there been a coup? This is huge Where's Obama? Oh he's joking on Jimmy Kimmel while his wife dances w Ellen,not_rumour,0,1,rumour,0.000334696,0.99966526,False
+Police have named the cop who shot Michael Brown. 's latest report from Ferguson,rumour,1,1,rumour,0.009349064,0.9906509,True
+"The famous French cartoonist, Charb assassinated in Paris, wrote recently about Kurds .CharlieHebdo",not_rumour,0,0,not_rumour,0.99398476,0.0060152626,True
+"Islamist militants take hostages in Sydney caf, display black jihadist flag sydneysiege",rumour,1,0,not_rumour,0.9462003,0.05379964,False
+The University of Ottawa is no longer in lockdown. cbcOTT OTTnews,rumour,1,0,not_rumour,0.9956262,0.0043738233,False
+"To everyone in Ottawa, please stay safe. PrayForOttawa from Indonesia",not_rumour,0,0,not_rumour,0.99999833,1.6344235e-06,True
+Putin Mistress Alina Kabayeva announce she has given birth to a boy Putindead via,rumour,1,1,rumour,0.07009669,0.9299034,True
+Alleged theft of cigars is not a reason to shoot dead an unarmed teenager. MichaelBrown Ferguson,rumour,1,1,rumour,0.03071575,0.9692842,True
+"Pretty sure Prince bailed as soon as he heard Toronto fans referring to it as a ""pop-up show"".",rumour,1,1,rumour,7.767568e-05,0.9999223,True
+The Mausoleum for two putindead lenindead putin lenin,not_rumour,0,0,not_rumour,0.83004373,0.16995624,True
+"UK Foreign Office in London ""We are aware of sydneysiege in MartinPlace and are in touch with authorities""",not_rumour,0,0,not_rumour,0.7123823,0.28761774,True
+Photo posted online shows scene by Paris supermarket where gunman reportedly holding hostages,not_rumour,0,1,rumour,0.046313465,0.9536866,False
+Sample of line-up outside Massey Hall for rumoured Prince concert via cbcto,rumour,1,1,rumour,9.00981e-06,0.99999094,True
+"Nine journalists and two police officers killed in CharlieHebdo attack, police spokesman confirms",rumour,1,1,rumour,0.060245406,0.93975455,True
+Police in Ferguson once charged a man for bleeding on their uniforms after 4 of them beat him,rumour,1,1,rumour,0.00092538487,0.9990746,True
+"Police confirm multiple suspects involved in shooting incident at Ottawa War Memorial - ,",rumour,1,1,rumour,2.0383159e-05,0.9999796,True
+BREAKING French police descend on town where gunmen resembling suspected CharlieHebdo attackers hit gas station,rumour,1,1,rumour,0.13691486,0.8630852,True
+"For those saying we don't yet know who's responsible for CharlieHebdo killings, yes, you're right, it was probably fundamentalist atheists.",not_rumour,0,0,not_rumour,0.99668854,0.0033115193,True
+Frightening events here in Ottawa. Game has yet to be postponed but betting it will be. Schools and malls have been closed,not_rumour,0,1,rumour,0.07204688,0.9279531,False
+This puts it all in perspective. Ferguson MikeBrown,not_rumour,0,0,not_rumour,0.9999856,1.4453909e-05,True
+"We have a lot of work to do. From ""White St. Louis Has Some Awful Things to Say About Ferguson""",not_rumour,0,0,not_rumour,0.9999658,3.4268494e-05,True
+Oh France.... my heart breaks for the horrible terrorist attack on my beloved Paris. Je t'aime,not_rumour,0,0,not_rumour,0.9993026,0.00069731334,True
+"Atlantic cadet programs cancelled, other cadets advised to not wear uniform but show up in business casual. OttawaShooting",not_rumour,0,1,rumour,0.4748747,0.5251253,False
+Attempts to extend blame for this to all Muslims should be treated with the same disgust as attempts to justify the attacks. CharlieHebdo,not_rumour,0,0,not_rumour,0.9999918,8.203532e-06,True
+Two women flee sydneysiege cafe via,rumour,1,1,rumour,0.0055873864,0.9944126,True
+French police have confirmed that an Airbus operated by -Germanwings has crashed in Southern France,rumour,1,1,rumour,0.00068183616,0.9993181,True
+Why was Ferguson PD still looking for the suspect 7 hours after Michael Brown had been killed?,rumour,1,1,rumour,0.0022584393,0.9977416,True
+Hostage-taker at kosher market in Paris said to be killed. Mayor confirms 2 brothers killed at separate hostage-taking. CharlieHebdo,rumour,1,1,rumour,2.7805903e-05,0.9999722,True
+UPDATE This mornings shooting incidents occurred at the National War Memorial and on Parliament Hill. Not Rideau Centre. ottnews,rumour,1,1,rumour,0.001032231,0.99896777,True
+"Cops are running with guns drawn, they're clearing streets in downtown Ottawa, and there are snipers on the rooftops.",not_rumour,0,1,rumour,0.034749623,0.9652504,False
+Prince is in my spin class right now. Toronto WheresPrince,rumour,1,1,rumour,0.0016517006,0.99834836,True
+"UPDATE 240 firefighters, 210 policemen are on their way to the crash site Germanwings 4U9525",not_rumour,0,0,not_rumour,0.9449947,0.055005286,True
+. students stand in solidarity with MikeBrown amp the Ferguson community. HandsUpDontShoot HBLSA,not_rumour,0,0,not_rumour,0.9999857,1.4341429e-05,True
+SydneySiege is over - New South Wales Police Force tweets,not_rumour,0,0,not_rumour,0.9993148,0.0006851713,True
+Sydney Australia Not technically ISIS flag but Shahadah flag with Islamic creed on it. Commonly used by militants,rumour,1,1,rumour,0.0010649626,0.99893504,True
+From on Ray Hadley's speculative reports sydneysiege,rumour,1,0,not_rumour,0.6134971,0.3865029,False
+More than 40 Australian Muslim groups have jointly condemned the Sydneysiege,not_rumour,0,0,not_rumour,0.99863833,0.0013617034,True
+Vladimir Putin reappears on television amid claims that he us unwell and under threat of a coup.... Russia,rumour,1,1,rumour,3.200041e-06,0.9999968,True
+Ottawa shooting suspect named as Michael Zehaf-Bibeau 2 U.S. sources tell ABC News.,rumour,1,1,rumour,3.120191e-05,0.99996877,True
+"Hostages held in Sydney cafe, Islamic flag seen in window local TV",rumour,1,1,rumour,4.408237e-06,0.9999956,True
+Lineup grows in Toronto amid rumours of secret Prince show,rumour,1,1,rumour,1.5266358e-05,0.99998474,True
+Racial discrimination's still a dilemma in US. Still ppl are unsecure for having dark skins.The way police treat them confirms it. Ferguson,not_rumour,0,0,not_rumour,0.99866986,0.0013302016,True
+Thougts and prayers go out to everyone involved in the Paris terrorist situation - Hope everyone comes out save!,not_rumour,0,0,not_rumour,0.9995497,0.0004503306,True
+The illridewithyou hashtag is taking off in support of Muslims riding on Sydney transport and it's beautiful,not_rumour,0,0,not_rumour,0.9999989,1.0677029e-06,True
+Sydney Opera House among buildings evacuated due to SydneySiege,rumour,1,1,rumour,0.00023367908,0.9997663,True
+IF YOU DONT STAND FOR SOMETHING YOULL FALL FOR ANYTHING RipMikeBrown Ferguson,not_rumour,0,1,rumour,0.089653656,0.91034627,False
+Vladimir Putin reappears on television amidst all wild speculations,not_rumour,0,1,rumour,0.0007947255,0.9992053,False
+UPDATE Police confirm they have made contact with the gunman. There are no reported injuries. 9News,rumour,1,1,rumour,6.8399635e-07,0.9999993,True
+"The SydneySiege perpetrators target all citizens, irrespective of their faith. So please cut it out with the anti-Muslim bigotry on Twitter",not_rumour,0,0,not_rumour,0.99999666,3.3405393e-06,True
+Journalists and others using JeSuisCharlie to express support for freedom of speech after Paris attack,not_rumour,0,0,not_rumour,0.99999917,8.545788e-07,True
+Should our media show Charlie Hedbo cartoons like this? Absolutely. JeSuisCharlie,not_rumour,0,0,not_rumour,0.9999877,1.2314911e-05,True
+"Q Why did he stop Michael Brown? ""Because he was walking down the middle of the street,"" Ferguson chief says.",rumour,1,1,rumour,0.026848441,0.9731515,True
+"BREAKING Two brothers suspected of CharlieHebdo terror attacks in Paris killed, according to reports in France",rumour,1,1,rumour,0.009340025,0.99066,True
+"So the flag didn't tip you off? Australian police ""We have not confirmed this is terror-related event"" sydneysiege",not_rumour,0,1,rumour,0.39997277,0.60002726,False
+3 people run out of Sydney cafe where hostages are being held. sydneysiege,rumour,1,1,rumour,6.7092245e-05,0.9999329,True
+French official says attack on Paris weekly CharlieHebdo was with Kalachnikov automatic rifles and rocket launcher. Unprecedented. AFP,rumour,1,1,rumour,0.00034802416,0.999652,True
+"Schools close, people told to stay indoors amid Dammartin-en-Goele CharlieHebdo manhunt",rumour,1,0,not_rumour,0.9999733,2.6688529e-05,False
+I'll say it again One trained patron in Sydney chocolate shop with a concealed weapon may have prevented this. But that's illegal there.,not_rumour,0,1,rumour,0.18798834,0.81201166,False
+Do the math. Stop the conflation and collateral indictment of Muslim Australians. sydneysiege,not_rumour,0,0,not_rumour,0.9999933,6.6955386e-06,True
+A look at the cockpit-security measures that prevented Germanwings pilot from reentering,not_rumour,0,0,not_rumour,0.7092205,0.2907794,True
+It took the police 5 days to concoct this tale and this is what they came up with? ninjaplease ferguson,rumour,1,1,rumour,0.18227993,0.8177201,True
+2 brothers suspected in CharlieHebdo attack killed by police after standoff NE of Paris. Kosher market hostage-taking reportedly over too.,not_rumour,0,1,rumour,0.0005336929,0.99946636,False
+Times Square right now for Ferguson MichaelBrown,not_rumour,0,0,not_rumour,0.9999962,3.8001403e-06,True
+"Lots of disappointment and disbelief at Massey Hall after would-be Prince called off. Five hours in line based on media speculation, ouch!",rumour,1,1,rumour,0.000771798,0.99922824,True
+Photo of the moment a cafe worker escaped the SydneySiege via STORY,rumour,1,1,rumour,0.03882902,0.961171,True
+Please don't watch or share the video of execution of a policeman. Spare a thought for his family and all innocents killed. CharlieHebdo,not_rumour,0,0,not_rumour,0.9999491,5.0842922e-05,True
+Chris Marinello commenting on the Gurlitt case on - listen now,not_rumour,0,1,rumour,0.107297085,0.89270294,False
+A real Muslim cannot be a terrorist. CharlieHebdo,not_rumour,0,0,not_rumour,0.9999547,4.5309294e-05,True
+Sitting in Melbourne watching what's going on in Sydney...I bloody hope it ends ok for those poor people! Disgusting behaviour!,not_rumour,0,1,rumour,0.4245909,0.57540905,False
+"Martin Place, Sydney Opera House amp State Library evacuated due to sydneysiege follow our blog",rumour,1,1,rumour,0.18884702,0.81115305,True
+Germanwings Airbus A320 plane crash Two babies and 16 children among 150 dead,rumour,1,1,rumour,0.004759824,0.9952402,True
+Update French interior ministry says Trocadero security scare is a false alarm. ParisAttacks,rumour,1,1,rumour,0.00021444011,0.9997856,True
+"Thinking of Layton's words ""Love is better than anger. Hope is better than fear. Optimism is better than despair."" ottawashooting",not_rumour,0,0,not_rumour,0.9999527,4.7298516e-05,True
+Video The moment the police stormed the Sydney cafe. Police confirm the siege is now over.,not_rumour,0,1,rumour,0.2520157,0.7479843,False
+BREAKING Charlie Hebdo gunmen's hostage freed and safe after police assault,rumour,1,0,not_rumour,0.9521532,0.047846753,False
+Gurlitt collection accepted by Kunstmuseum Bern,rumour,1,1,rumour,0.012339075,0.9876609,True
+Pittsburgh will play the Canadian National anthem before tonights game in support of Ottawa. This makes me happy.,not_rumour,0,0,not_rumour,0.6534863,0.34651363,True
+"Appalled by the attack on Charlie Hebdo in Paris, 10 - probably journalists - now confirmed dead. An attack on free speech everywhere.",rumour,1,0,not_rumour,0.9009228,0.09907727,False
+"Indians OMG OMG. Can't believe this. God is Cruel. sydneysiege Today, Bomb Blast in Imphal. Indians Where is Imphal?",not_rumour,0,1,rumour,0.48242915,0.5175709,False
+BREAKING news Shots fired at Parliament Hill. Follow developing story,rumour,1,1,rumour,4.0615174e-05,0.99995935,True
+Rest in peace to the soldier killed in Ottawa today,rumour,1,1,rumour,0.0005082725,0.9994917,True
+"Today's CharlieHebdo cover on Houellebecq ""In 2022 I'll observe Ramadan""",not_rumour,0,0,not_rumour,0.99992836,7.169852e-05,True
+"Seven people reportedly taken away on stretchers, with paramedics treating five. SydneySiege",rumour,1,1,rumour,9.895332e-06,0.9999901,True
+Bad craziness. RT STL SWAT has weapons drawn in Ferguson protest in broad daylight w media attending,not_rumour,0,0,not_rumour,0.99928623,0.0007138379,True
+"Ferguson police say Michael Brown was robbery suspect, which totally explains why he got the death penalty without a trial.",rumour,1,1,rumour,0.014350837,0.98564917,True
+"Seeing condemnations from Muslim figures, worldwide. Tmrw, there will be articles on 'why don't they condemn terrorism?' Sigh. CharlieHebdo",not_rumour,0,0,not_rumour,0.9999988,1.2004504e-06,True
+Something being talked about tonight is the makeup of the Ferguson Police Dept. Here's a breakdown MichaelBrown,not_rumour,0,0,not_rumour,0.9866041,0.01339595,True
+. tells us what we know right now on the OttawaShooting,not_rumour,0,0,not_rumour,0.9999567,4.331904e-05,True
+Maybe Massey Hall was just a decoy location and Prince has actually loaded all his gear into the El Mocambo. Maybe he BOUGHT the El Mo.,rumour,1,1,rumour,4.7576454e-05,0.99995244,True
+"""Race relations are a top priority right now,"" says Ferguson police chief.",not_rumour,0,0,not_rumour,0.9673853,0.03261477,True
+Kunstmuseum Bern Obtains Trove From Gurlitt Collection,rumour,1,1,rumour,0.0006263342,0.99937373,True
+"The difference between ""unrest"" and ""patriotism"" is directly proportional to how black the protesters are. Ferguson Murrieta BundyRanch",not_rumour,0,0,not_rumour,0.9999746,2.5367122e-05,True
+"Canada will remain the true North, strong and free, after today. These events can't, and won't, break our spirit. cdnpoli OttawaShooting",not_rumour,0,0,not_rumour,0.99984026,0.00015967865,True
+In case you are confused. Check who's the terrorist and who's the Muslim. JeSuisCharlie JeSuisAhmed,not_rumour,0,0,not_rumour,0.9998752,0.00012484893,True
+breaking We have now heard that all airspace in the Sydney city has been shut down. martinplace Lindt cafe,rumour,1,1,rumour,0.08559456,0.9144054,True
+Headquarters of and in Berlin. JeSuisCharlie,not_rumour,0,0,not_rumour,0.9999145,8.547617e-05,True
+LIVE REPORT - Assault in Paris Vincennes . Some hostages are free. CharlieHebdo,rumour,1,0,not_rumour,0.9679902,0.032009806,False
+What a difference a day makes. Ferguson,not_rumour,0,0,not_rumour,0.9999099,9.010425e-05,True
+Why release the report about the robbery if it's not related to the contact with the cop who shot him? This all stinks. Ferguson,rumour,1,1,rumour,0.00017366599,0.9998264,True
+French MP says those who attacked Charlie Hebdo are murderers and barbarians,not_rumour,0,0,not_rumour,0.9997981,0.0002018442,True
+"BREAKING Another shooting and hostage situation is reported in Paris, at least 2 dead",rumour,1,1,rumour,0.00013685053,0.99986315,True
+"If I understand Hillary Clinton amp Sen Feinstein correctly, 1st step for current Sydney hostage situation is to empathize w the f'n bastards.",rumour,1,0,not_rumour,0.9998834,0.00011660047,False
+BREAKING NEWS CANADIAN OFFICIALS NOW CALLING TODAY'S PARLIAMENT SHOOTING A TERRORIST ATTACK -,rumour,1,1,rumour,9.856754e-06,0.9999901,True
+Photos from the aftermath of the attack on the Charlie Hebdo newspaper in Paris,not_rumour,0,0,not_rumour,0.999998,2.0025368e-06,True
+Our thoughts amp prayers are with the families and friends of 4U9525 passengers amp crew.,not_rumour,0,0,not_rumour,0.9996941,0.00030594572,True
+"Germanwings plane crashes in France, up to 150 feared dead",rumour,1,1,rumour,0.003999501,0.99600047,True
+CharlieHebdo attack new hostage situation at Paris shop - live updates,not_rumour,0,0,not_rumour,0.87402344,0.1259765,True
+BREAKING Germanwings crew did not send distress signal aviation official,rumour,1,1,rumour,7.4694067e-06,0.9999925,True
+We don't need to stinkin' PoliceState Americans! This must stop! . Going 2 War w Americans Ferguson,not_rumour,0,0,not_rumour,0.99980515,0.00019487277,True
+CharlieHebdo ParisShooting Islamist will not allow anyone to sketch even a cartoon but A PK can hurt sentiments,not_rumour,0,0,not_rumour,0.9999871,1.2855593e-05,True
+Amateur video shows chaos of Paris shooting CharlieHebdo,not_rumour,0,0,not_rumour,0.99896276,0.0010372783,True
+even in Afghanistan we never pointed our rifles at civilians there is something seriously wrong with the police in Ferguson,not_rumour,0,0,not_rumour,0.90590656,0.09409339,True
+"Ferguson cops beat innocent man, then charged him with bleeding on their uniforms",rumour,1,1,rumour,0.014714449,0.9852856,True
+"As a Muslim, I find the murder of innocent people more despicable and offensive than any cartoon could ever be. CharlieHebdo",not_rumour,0,0,not_rumour,0.999992,7.9822585e-06,True
+So a large Negro robbed a store and then the cops saw a large Negro. WHAT WERE THEY SUPPOSED TO DO?!?! Perhaps not execute him. Ferguson,rumour,1,1,rumour,0.08799393,0.9120061,True
+"BREAKING Germanwings 4U9525 co-pilot's name is Andreas Lubitz, a German national, says Marseilles prosecutor.",rumour,1,1,rumour,1.2385568e-06,0.9999988,True
+This via JeSuisAhmed JeSuisCharlie CharlieHebdo,not_rumour,0,0,not_rumour,0.99985707,0.00014285813,True
+"As we speak, with quiet resolve, Gazza is loading his car with chicken and a fishing rod and planning his route to Dammartin-en-Goele",not_rumour,0,1,rumour,0.017716546,0.9822834,False
+BREAKING Reports 2 dead in Paris kosher supermarket hostage situation,rumour,1,1,rumour,0.00060589175,0.99939406,True
+"Breaking Two hostage situations in France are linked, Paris prosecutor says",rumour,1,1,rumour,0.00198004,0.99801993,True
+"BREAKING This is a photo of Michael Zehaf-Bibeau, gunman in this morning's shootings in Ottawa. cbcOTT OTTnews",rumour,1,1,rumour,0.0022430879,0.9977569,True
+Tainted Gurlitt collection should be sold with profits going to Jewish organizations. WWII via .,not_rumour,0,1,rumour,0.1696809,0.83031917,False
+Police say the shooter is on roof of building at Metcalfe and Sparks 1 block from Parliament Hill ottnews cbcott,rumour,1,1,rumour,3.7052967e-05,0.9999629,True
+"Breaking The officer involved in the shooting of Michael Brown is named Darren Wilson, Ferguson police chief says.",rumour,1,1,rumour,0.15941359,0.84058636,True
+JeSuisCharlie vigils held around the world - in pictures Pic E CASTRO-MENDIVIL REUTERS,not_rumour,0,0,not_rumour,0.9996768,0.00032313753,True
+Ronald Johnson is proof that there can be cops who care about their communities amp will do right. But Ferguson deserved that from day one.,not_rumour,0,0,not_rumour,0.9911355,0.008864499,True
+Sydney Crisis Hostages share gunman's demands in chilling phone calls,rumour,1,1,rumour,0.003166512,0.9968335,True
+"Last words from Germanwings A320 distress call were ""emergency, emergency,"" authorities say.",rumour,1,1,rumour,0.079281576,0.9207184,True
+Update - 11 people dead at headquarters of French satirical weekly publication Charlie Hebdo after armed gunmen stormed the office in Paris,rumour,1,1,rumour,0.0008001724,0.9991998,True
+Serve and protect?... Ferguson Justice UniteBlue,not_rumour,0,0,not_rumour,0.99991417,8.581068e-05,True
+The magazine attacked in Paris has a history of bold satire CharlieHebdo ParisShooting,not_rumour,0,0,not_rumour,0.9955446,0.004455371,True
+"More startling statistics about the segregated population of Ferguson, Mo.",not_rumour,0,0,not_rumour,0.9998418,0.00015812712,True
+This is not in the name of Islam. These ppl don't represent ANY religion. No matter what they say. Disgraceful amp heartbreaking CharlieHebdo,not_rumour,0,0,not_rumour,0.9998783,0.000121719226,True
+DEVELOPING story here Gunman killed in Ottawa 3 shootings confirmed,rumour,1,1,rumour,5.7837668e-05,0.9999422,True
+A good summary via . JeSuisCharlie CharlieHebdo,not_rumour,0,0,not_rumour,0.9996087,0.0003912771,True
+In case you are confusedCharlieHebdo via,not_rumour,0,0,not_rumour,0.99999905,9.570828e-07,True
+JeSuisCharlie rallies held worldwide to condemn Paris massacre PHOTOS,not_rumour,0,0,not_rumour,0.999998,2.026142e-06,True
+The moment SydneySiege came to an end,not_rumour,0,0,not_rumour,0.9996947,0.00030534895,True
+VIDEO Helicopter understood to have landed on roof of CharlieHebdo siege building during raid ParisAttacks,not_rumour,0,1,rumour,0.03155902,0.968441,False
+BREAKING say a photo circulating of arrest of man near MartinPlace is NOT related to the police operation sydneysiege,rumour,1,1,rumour,0.040712018,0.959288,True
+Prince and 3RDEYEGIRL playing last minute show at Massey Hall. Tix 10,rumour,1,1,rumour,3.5773002e-05,0.99996424,True
+"Oh, a suspect in a robbery? That changes everything. Everyone knows summary execution is the penalty for suspicion of robbery Ferguson",rumour,1,1,rumour,0.045777272,0.9542227,True
+Just seen the scenes from Sydney. Tho gets with the people amp their families of those inside the cafe at the moment.,not_rumour,0,0,not_rumour,0.9327602,0.0672398,True
+"Where's JihadistJoe when you need him? Oh, that's right! Twitter banned him for tweeting the truth about Islam. CharlieHebdo",not_rumour,0,0,not_rumour,0.9999076,9.2421134e-05,True
+...and LiveNation confirms Prince will not be playing Massey Hall tonight.,rumour,1,1,rumour,1.9983347e-07,0.99999976,True
+"One pilot in Germanwings crash was locked out of cockpit, reports",rumour,1,1,rumour,3.314939e-05,0.99996686,True
+SYDNEYSIEGE American readers weigh in with their messages of support.,not_rumour,0,0,not_rumour,0.99877924,0.0012207953,True
+The moment of silence in Anaheim also meant to honor all those affected by the tragedy in Ottawa today,not_rumour,0,0,not_rumour,0.9712929,0.028707078,True
+"Frank Gardner BBC ""There are elements of Four Lions here. The gunman has the wrong flag. He is asking for the ISIL flag to be delivered.""",rumour,1,0,not_rumour,0.7468782,0.25312182,False
+UPDATE Reports the Sydney Opera House has also been evacuated. 9News,rumour,1,1,rumour,4.06106e-06,0.99999595,True
+schoolmates of co-pilot who crashed 4U9525 tell german reporters he took 6-months break from flight training in 2009 due to burnout-syndrom,rumour,1,1,rumour,0.022307476,0.97769254,True
+Swiss museum accepts Gurlitt's problematic bequest via,rumour,1,1,rumour,3.6836504e-05,0.99996316,True
+These are the areas where the OttawaShootings have been reported.,rumour,1,0,not_rumour,0.68452775,0.31547233,False
+"3 people carried out CharlieHebdo attack, and authorities are searching for them, French interior minister says.",rumour,1,1,rumour,0.006666932,0.99333304,True
+Hostages in Sydney cafe made to hold up Islamic flags,rumour,1,1,rumour,0.0009217804,0.99907815,True
+Ferguson or Iraq? Photos unmask the militarization of America's police via,not_rumour,0,0,not_rumour,0.9998913,0.00010868445,True
+"The violence of OttawaShooting has left a city on edge. After the chaos, here's what we know",not_rumour,0,0,not_rumour,0.99928623,0.0007138379,True
+"Parisians will take to the streets tonight, for freedom of the press, democracy and the Republic CharlieHebdo",not_rumour,0,0,not_rumour,0.9999987,1.3132967e-06,True
+Ambulance heading towards kosher market hostage situation in Paris after several large explosions heard gunfire,not_rumour,0,0,not_rumour,0.94616306,0.05383694,True
+At least 12 dead in terrorist attack at satirical magazine in Paris. Our live blog,not_rumour,0,1,rumour,0.00795339,0.9920466,False
+Ottawa Canada identifies the gunman who is probably Muslim but that will not be mentioned.,not_rumour,0,1,rumour,0.01225309,0.98774695,False
+TORONTO???? saying something about a secret Prince show tomorrow? Maybe at ? Personally I've got no idea! Any more info?,rumour,1,1,rumour,5.0738468e-06,0.9999949,True
+Too many news organisations now showing online footage of killings at CharlieHebdo office but not the cartoons for which they were murdered,not_rumour,0,0,not_rumour,0.99993217,6.7883055e-05,True
+Some sort of live terror shooting seems to be going on in Canada. Pray for our polite neighbors to the north.,not_rumour,0,0,not_rumour,0.99086106,0.0091388915,True
+Cartoonists are reacting to the attack on CharlieHebdo. Freelancer Lindsay Foyle joins us in 10mins. Pic,not_rumour,0,0,not_rumour,0.96612406,0.033875983,True
+"This afternoon's rain will not be purple, even if Prince is playing a secret show tonight at Massey Hall. Just regular colour rain amp windy",rumour,1,1,rumour,0.002795477,0.9972045,True
+"Terrifying account. Attackers spoke perfect French, eyewitness says RT via",rumour,1,1,rumour,0.00035976936,0.9996402,True
+"You can't condemn an entire race, nation or religion based on the actions of a few radicals, please keep that in mind sydneysiege",not_rumour,0,0,not_rumour,0.9999993,6.947677e-07,True
+FBI working with Canadian authorities to determine if Ottawa shooting was an act of terrorism,rumour,1,1,rumour,0.10322766,0.8967724,True
+"Ahmed Merabet, a French Muslim Cop, first victim of CharlieHebdo attack, JeSuisCharlie",rumour,1,1,rumour,0.064270675,0.93572927,True
+What we do and do not know about Germanwings flight 4U9525,not_rumour,0,0,not_rumour,0.9999949,5.153748e-06,True
+Crazy RT Someone please remind me what year it is again? ferguson,not_rumour,0,0,not_rumour,0.99963665,0.00036329866,True
+"BREAKING NSW police have confirmed the siege in Sydney's CBD is now over, a police officer is reportedly among the several injured.",rumour,1,1,rumour,2.764346e-05,0.99997234,True
+Watch live PM Stephen Harper expected to speak to the nation imminently on OttawaShooting cdnpoli,rumour,1,1,rumour,0.00051829213,0.99948174,True
+This is how Frances top sports newspaper covered the CharlieHebdo killings.,not_rumour,0,0,not_rumour,0.991339,0.008660931,True
+"Before the brutal attacks on CharlieHebdo, the big news today was Houellebecq's new novel imagining a Muslim president of France in 2022.",not_rumour,0,0,not_rumour,0.99995565,4.4346274e-05,True
+"Degenerate artworks seized by Nazis should go back to museums, says German advisor Gurlitt",not_rumour,0,0,not_rumour,0.8188636,0.18113643,True
+The co-pilot of the Germanwings Airbus was a convert to Islam and became Fidain!,rumour,1,1,rumour,0.021476367,0.9785236,True
+PUTIN FULL OF LEAD putindead,not_rumour,0,0,not_rumour,0.90087914,0.099120855,True
+7 things to know about the new guy running things in Ferguson RonJohnson,not_rumour,0,0,not_rumour,0.99920064,0.00079939206,True
+Every newspaper in Europe should publish those cartoons from Charlie Hebdo tomorrow. Every single one.,not_rumour,0,0,not_rumour,0.999985,1.4971083e-05,True
+Smoke rising over first Paris hostage scene. Watch live on CNN.,not_rumour,0,1,rumour,0.2623927,0.7376073,False
+"When you are black amp the victim of a crime, people will dig up something you did in kindergarten to justify what happened to you. Ferguson",not_rumour,0,0,not_rumour,0.9998287,0.00017130819,True
+Rest In Peace Cpl. Nathan Cirillo. Ottawa OttawaShooting,rumour,1,1,rumour,0.00028629453,0.9997137,True
+Turns out CharlieHebdo was a two face douche on free speech - Telegraph,not_rumour,0,0,not_rumour,0.9507321,0.049267832,True
+My thoughts are with the people in Sydney right now,not_rumour,0,0,not_rumour,0.9999622,3.778375e-05,True
+Cartoonist Stephane Charbonnier was critically injured in the attack LeFigaro CharlieHebdo,rumour,1,1,rumour,0.00025764454,0.9997423,True
+This is the police presence at a peaceful protest - in the USA. Ferguson right NOW!! WTF!!!,not_rumour,0,0,not_rumour,0.9931496,0.00685048,True
+Fight intimidation with controversy CharlieHebdos response to critics,not_rumour,0,0,not_rumour,0.99999726,2.7911265e-06,True
+Funny but as soon as Putin will re appear on public most of the current tweets will be quickly deleted putindead,not_rumour,0,0,not_rumour,0.94639724,0.053602684,True
+Israels Ex-Ambassador To Russia There Are Signs Of A Coup Against Putin,rumour,1,1,rumour,6.085041e-05,0.9999392,True
+"""thank god 5sos arent in sydney"" woah wait youre think about a band not being there rn when innocent people are in danger ffs",not_rumour,0,1,rumour,0.4902356,0.5097644,False
+"UPDATE Australian PM Abbott Police dealing with ""reported hostage-taking incident"" in Sydney's business district -",rumour,1,1,rumour,1.7778551e-05,0.99998224,True
+The attack on CharlieHebdo led to a Twitter reaction that ranged from condemnation to support,not_rumour,0,0,not_rumour,0.9999856,1.43975585e-05,True
+Toronto riots tonight RT LiveNation confirms that Prince will not be performing at Massey Hall tonight.,rumour,1,1,rumour,5.453295e-07,0.9999994,True
+Everyone assumes everyone has a gun in America. And they're usually right. That's the problem. MichaelBrown Ferguson,not_rumour,0,0,not_rumour,0.99951875,0.0004812358,True
+Dr Ali from the Irish Islamic Culture Centre just said he would seek legal advice if any journalist tweets one of CharlieHebdo cartoons.,not_rumour,0,0,not_rumour,0.9998148,0.00018522574,True
+Sad Survival Lessons We Have To Teach Our Young Black Boys. JusticeForMikeBrown MikeBrown Ferguson,not_rumour,0,0,not_rumour,0.99999964,2.98816e-07,True
+Cousin of Cornelius Gurlitt Challenges Will That Leaves Collection to Swiss Museum,not_rumour,0,1,rumour,0.26608306,0.733917,False
+BREAKING - An armed man has reportedly taken a hostage at a kosher grocery store at Porte de Vincennes Paris,rumour,1,1,rumour,7.4992546e-05,0.999925,True
+. Our thoughts are with the families of the passengers on board of Germanwings Airbus A320 -,not_rumour,0,0,not_rumour,0.8795612,0.120438814,True
+Prince Harry signs the book of condolence at the French Embassy in London CharlieHebdo via,not_rumour,0,0,not_rumour,0.8899839,0.11001615,True
+"BREAKING NEWS R.I.P. Ahmed Merabet, Muslim Cop, first victim of CharlieHebdo attack",rumour,1,1,rumour,0.00026221233,0.9997378,True
+Vladimir Putin reappears on television amid rumours his 'girlfriend' is about to give birth,rumour,1,1,rumour,0.00028185718,0.9997181,True
+"Today's frontpage Across the globe, JeSuisCharlie becomes rallying cry.",not_rumour,0,0,not_rumour,0.9999999,1.4060042e-07,True
+St. Louis Unarmed teenager MikeBrown was shot ten times by a Ferguson police officer for accusation of shoplifting,rumour,1,1,rumour,0.010125516,0.9898745,True
+Thousands shut down Times Square last night in support of Ferguson US where police shot unarmed teen MikeBrown,not_rumour,0,0,not_rumour,0.9859364,0.0140636265,True
+This is what it sounds like when fans cry. Prince Toronto PRINCEWATCH princeTOrumours masseyhall,rumour,1,1,rumour,7.967302e-05,0.99992037,True
+"This isn't a riot story. My latest, on why the ""hands up don't shoot"" protest is so important in St. Louis Ferguson",not_rumour,0,0,not_rumour,0.9999176,8.236258e-05,True
+"The co-pilot who rammed the Germanwings plane into the French Alps had previously ""battled depression""",rumour,1,1,rumour,0.010944578,0.9890554,True
+JusticeForMikeBrown Powerful photos from the Ferguson police protests,not_rumour,0,0,not_rumour,0.99999785,2.0904583e-06,True
+CharlieHebdo killers shot dead by police,rumour,1,1,rumour,0.02297737,0.97702265,True
+"Video footage of the the Paris shooting from French TV, via , including a shout of Allahu akbar",rumour,1,0,not_rumour,0.9662755,0.033724494,False
+"MikeBrown's tragic death isn't a Ferguson problem or a Missouri problem, it's an American problem. .",not_rumour,0,0,not_rumour,0.9996345,0.00036543285,True
+"CHARLIEHEBDO Shooting Wrap-up 12 dead, 3 gunmen at large, Paris on high terrorist alert",rumour,1,1,rumour,6.156765e-05,0.9999385,True
+"Let's not forget that even if Mike Brown did shoplift, that's not why police said he was stopped or why he was shot. mikebrown ferguson",rumour,1,1,rumour,0.045713324,0.95428663,True
+"PHOTO This 2014 file photo shows a Germanwings Airbus 320 parked at the airport in Duesseldorf, Germany",not_rumour,0,0,not_rumour,0.7794897,0.22051026,True
+"No matter what we do, it won't be as bad as killing a kid and leaving him to die on the street, covered with his own blood. Ferguson",not_rumour,0,0,not_rumour,0.98750824,0.01249174,True
+"Police in Ottawa call situation 'fluid,' 'dynamic,' 'unfolding.' Confirm deaths of soldier, gunman. cdnpoli",rumour,1,1,rumour,0.015369036,0.984631,True
+MPs credit sergeant-at-arms for saving lives in Parliament Hill shootings,rumour,1,0,not_rumour,0.5162296,0.4837703,False
+"Dont let irrational thoughts lead you,Dr. King's non violent movement got results. What has violence ever gotten us?Ferguson KeepingItReal",not_rumour,0,0,not_rumour,0.9999478,5.225227e-05,True
+Central Sydney shut down amid ongoing hostage situation SydneySiege,rumour,1,1,rumour,4.281438e-05,0.9999572,True
+According to show is 8pm and wristbands handed out at 6pm. This is unconfirmed though!!!,rumour,1,1,rumour,0.33671263,0.6632874,True
+"If Ferguson protesters were white, they'd be walking away with several hundred cattle and an apology. p2",not_rumour,0,0,not_rumour,0.98247355,0.017526364,True
+"Who's your pick for ""worst contribution to sydneysiege"" - Mamamia, Uber or the Daily Tele?",rumour,1,0,not_rumour,0.9772842,0.022715755,False
+WakeUpAmerica Co-pilot was a Muslim Convert,rumour,1,1,rumour,0.00014202362,0.9998579,True
+faith in humanity restored. sydneysiege,not_rumour,0,0,not_rumour,0.99994946,5.0545903e-05,True
+Realist picture you will see today.. Ferguson,not_rumour,0,0,not_rumour,0.9999982,1.7330516e-06,True
+"More than 80,000 police officers are involved in search for CharlieHebdo suspects Cherif and Said Kouachi.",not_rumour,0,0,not_rumour,0.92847365,0.07152632,True
+IllRideWithYou Sydney Stands Up To Racism And Bigotry With One Beautiful Hashtag,not_rumour,0,0,not_rumour,0.99999905,9.240199e-07,True
+"Charlie Hebdo We ignored the threat from within our own societies, says",not_rumour,0,0,not_rumour,0.9999999,1.3156694e-07,True
+Chief Jackson officer was not aware that MikeBrown was a robbery suspect. Ferguson,rumour,1,1,rumour,0.00020988309,0.99979013,True
+One shooting victim succumbed to injuries. He was a member of the Canadian Forces. Our thoughts and prayers are with him and his loved ones.,rumour,1,1,rumour,0.0015322384,0.99846774,True
+The latest on the manhunt for Charlie Hebdo suspects,rumour,1,0,not_rumour,0.9999789,2.1112483e-05,False
+"France's transport minister says distress signal was sent from Germanwings plane - ,",rumour,1,1,rumour,0.0017494903,0.9982504,True
+"URGENT The only 2 livestreams just went down, police is using jammers in Ferguson. This is far beyond a police state.",not_rumour,0,1,rumour,0.24580847,0.7541916,False
+Why would the officer tell MikeBrown to get out of the street if he was a suspect? Ferguson,rumour,1,1,rumour,0.0016452717,0.99835473,True
+People talking about stupid shit like government corruption and harassment when Prince is in Toronto smh,rumour,1,1,rumour,0.0013380081,0.998662,True
+Condolences to the family of the fallen officer in Ottawa He was a hero who bravely stood in defence of our country and our freedoms,rumour,1,1,rumour,0.27125168,0.7287483,True
+Shocked and disgusted about what's happening in Sydney... Those poor people trapped in that cafe.. illridewithyou,not_rumour,0,0,not_rumour,0.9995073,0.0004926423,True
+Some signs from the earlier shutdown of West Florissant in Ferguson,not_rumour,0,0,not_rumour,0.9843664,0.015633563,True
+"Stay safe, Ferguson. RT I counted 70 SWAT officers. Guns trained on crowds. Insanity.",not_rumour,0,0,not_rumour,0.9187722,0.08122775,True
+"Germanwings statement says Flight 4U9525 crashed at 11 20 local time 144 passengers, 6 crew on board -",rumour,1,1,rumour,5.1845658e-05,0.99994814,True
+Banksy account joins cartoonists support for CharlieHebdo JeSuisCharlie,rumour,1,0,not_rumour,0.9789554,0.021044565,False
+Here's the cartoonist's response to the CharlieHebdo attack,not_rumour,0,0,not_rumour,0.9999862,1.3792024e-05,True
+"Since FBI is investigating the shooting, isn't Darren Wilson a fugitive amp the cops who let him leave accessories after the fact? Ferguson",rumour,1,1,rumour,0.010443578,0.9895564,True
+Who's the daddy? One explanation for Putin's absence. His 32 year old girlfriend checked into Swiss maternity unit.,rumour,1,1,rumour,0.00037702857,0.99962294,True
+"BREAKING Police say SydneySiege is ""over,"" fate of remaining hostages is unknown",not_rumour,0,1,rumour,5.215032e-05,0.9999479,False
+"Sorry, fans. Prince will not be performing at Massey Hall tonight",rumour,1,1,rumour,2.4155197e-06,0.9999976,True
+SydneySiege - Entering 11th hour - At least 15 hostages - 5 hostages escaped - Motivation amp demands unknown - 1 gunman - rotating hostages,not_rumour,0,1,rumour,4.5220888e-05,0.9999548,False
+Breaking Unconfirmed reports of a gunman at the Trocadero near the Eiffel Tower in Paris. More info when available.,rumour,1,1,rumour,1.8129196e-05,0.9999819,True
+Soldier killed in Canada shooting was a young reservist with a six-year-old son,rumour,1,1,rumour,5.2868167e-05,0.9999471,True
+"To various media people - if you don't know something, say so. Speculation fills airtime but doesn't serve your audience. sydneysiege",not_rumour,0,0,not_rumour,0.9999604,3.9596955e-05,True
+"I deleted my suggestion that Paris attacks be blamed on US drones, when it became apparent that even that EXTREME sarcasm was being missed.",not_rumour,0,1,rumour,0.49975586,0.50024414,False
+My thoughts are with all the people on the missing Germanwings flight and their families!,not_rumour,0,0,not_rumour,0.9873811,0.012618863,True
+Witness to CharlieHebdo attack claims gunmen told him it was Al-Qaeda in Yemen i.e. AQAP,rumour,1,1,rumour,0.0016597718,0.99834025,True
+"BREAKING 2 more people seen fleeing Sydney building at center of hostage drama, bringing total of those who escaped to 5.",rumour,1,1,rumour,1.4089615e-06,0.99999857,True
+Sydneysiege ends with shootout leaving two dead and more injured,rumour,1,1,rumour,2.5314425e-06,0.9999975,True
+"Children among at least six people taken hostage at kosher store, reports say. ParisAttacks",not_rumour,0,0,not_rumour,0.58529377,0.41470626,True
+"LATEST Numerous gunmen involved in Ottawa shooting attacks, manhunt is on - police spokesman",rumour,1,1,rumour,0.0028118587,0.99718815,True
+Public servants being asked to stay inside their buildings as the active shooter investigation continues in Ottawa. cbcOTT OTTnews,not_rumour,0,0,not_rumour,0.99949956,0.0005003964,True
+Watch video showing gunfire inside Canada's parliament in Ottawa,rumour,1,1,rumour,0.18341073,0.8165893,True
+Sydney airspace wasn't closed. A second terror suspect wasn't arrested. Myths around sydneysiege debunked.,rumour,1,1,rumour,0.101924166,0.89807576,True
+12 confirmed dead in CharlieHebdo attack,rumour,1,1,rumour,0.23835345,0.7616465,True
+We are all Charlie Hebdo. Kill us all! CharlieHebdo,not_rumour,0,0,not_rumour,0.9999994,5.6484225e-07,True
+Ultra capitalism backflip - Uber rethinks fee hike amid Sydneysiege,rumour,1,1,rumour,0.10678371,0.8932163,True
+The Constitution of the United States does NOT state that citizens can only peacefully assemble in the daytime. FirstAmendment Ferguson,not_rumour,0,0,not_rumour,0.99545276,0.0045472644,True
+148 people were on board the Germanwings plane which crashed in the French Alps. Here's what we know so far,rumour,1,1,rumour,0.29645053,0.70354944,True
+Australians use IllRideWithYou hashtag in solidarity with Muslims during Sydney siege,not_rumour,0,0,not_rumour,0.9999995,4.9652823e-07,True
+DEVELOPING 2 reported dead in second hostage situation at Paris grocery store,rumour,1,1,rumour,1.559578e-06,0.99999845,True
+Captain Johnson says Ferguson police did not consult with him before they released the name of DarrenWilson. He wishes they did.,not_rumour,0,1,rumour,0.026127648,0.9738723,False
+"BREAKING Germanwings crash victims include 72 German citizens, 35 Spaniards, 2 Americans, per CEO - via",rumour,1,1,rumour,0.00025266255,0.99974734,True
+"Jobless bums lineup in rain all day for unannounced, secret Price gig tonight. Live Nation says no dice. Hilarious.",rumour,1,1,rumour,0.00063992746,0.99936,True
+Watching Ferguson being on the verge of imposing martial law is far better than any reality TV. Tune in now,not_rumour,0,0,not_rumour,0.8066623,0.1933377,True
+BREAKING Three hostages run out of Sydney siege cafe report,rumour,1,1,rumour,4.6838886e-05,0.99995315,True
+"Police seem relaxed, suggesting all hostages are out and gunman no longer a threat sydneysiege",rumour,1,0,not_rumour,0.8076883,0.19231172,False
+Flight 4U9525 is a flight from Barcelona to Dusseldorf. STD 08 35 ATD 09 00 STA 10 55 Signal lost 09 41,rumour,1,1,rumour,0.013171949,0.9868281,True
+World waits to see if Putin turns up russia putin coup,not_rumour,0,1,rumour,0.13974822,0.86025184,False
+"Hostages held in Sydney cafe, forced to hold Islamic flag in window",rumour,1,1,rumour,0.00010032139,0.9998996,True
+"2nd police-involved shooting reported in Ferguson, Mo., overnight",rumour,1,0,not_rumour,0.9507065,0.049293574,False
+"Andreas Lubitz, co-pilot who brought down Germanwings flight intentionally, recently commended by the FAA",rumour,1,1,rumour,0.00015751073,0.9998424,True
+Apparent hostage situation unfolding in Sydney prime minister convenes security briefing,rumour,1,1,rumour,0.009615036,0.99038494,True
+"RCMP to hold news conference on Ottawa shootings at 2 pm ET, 11 am PT. Watch live coverage",rumour,1,1,rumour,0.14608724,0.8539127,True
+Statement on appalling attack against CharlieHebdo,not_rumour,0,0,not_rumour,0.99999774,2.2252812e-06,True
+This is trending on French twitter MouradHamydInnocent started by classmates who say Mourad was in class when CharlieHebdo attack happened,rumour,1,0,not_rumour,0.96982837,0.030171696,False
+Ottawa hospital confirms it's treating 3 OttawaShooting victims - 2 in stable condition,rumour,1,1,rumour,2.9827668e-06,0.999997,True
+Channel 9 now showing footage of 9 11. You've gotta gotta gotta be kidding me. sydneysiege,not_rumour,0,0,not_rumour,0.9944343,0.005565725,True
+MORE Police surround kosher grocery store in eastern Paris where armed man is holding hostage,rumour,1,0,not_rumour,0.642881,0.357119,False
+"The 2011 issue of Charlie Hebdo, whose cover featured Mohammed.",not_rumour,0,0,not_rumour,0.9999976,2.3595642e-06,True
+"When an ideology resorts to murdering satirists, it is publically admitting how weak, insecure amp ridiculous it is. CharlieHebdo",not_rumour,0,0,not_rumour,0.99997675,2.3278231e-05,True
+JeSuisCharlie part 2. Retweet everywhere in honor of the fabulous satirists under attack,not_rumour,0,0,not_rumour,0.9999995,5.2443835e-07,True
+"As you hear reports on the Germanwings crash, remember to be patient. The truth takes time.",not_rumour,0,0,not_rumour,0.9999722,2.7751648e-05,True
+This HAS to stop. CharlieHebdo,not_rumour,0,0,not_rumour,0.9999994,5.389762e-07,True
+All my prayers are going to the hostages in Sydney.. And all not Muslims are terrorists..It's a religion of peace.,not_rumour,0,0,not_rumour,0.99216896,0.00783105,True
+Update - Reuters reports at least one person killed amp several injured in shootout before hostage-taking in Dammartin-en-Goele in France,rumour,1,1,rumour,3.618516e-07,0.99999964,True
+The CEO of Lindt says there are around 50 people holed up in the cafe in central Sydney sydneysiege,rumour,1,1,rumour,0.0085443305,0.9914556,True
+"OTTAWA SHOOTING - Soldier shot at memorial - Parliament Hill on lockdown - Harper, Mulcair, Trudeau, safe",rumour,1,1,rumour,6.553815e-05,0.99993443,True
+Jason Kenney says Canadians soldier shot at War Memorial today has died. Employment Minister also says Parliamentary guard wounded. cdnpoli,rumour,1,1,rumour,0.0002976958,0.9997023,True
+Why we need brave journalists Ferguson,not_rumour,0,0,not_rumour,0.99996305,3.6908517e-05,True
+AFP several hostages have been freed at Jewish supermarket in Paris,rumour,1,1,rumour,0.00593983,0.9940601,True
+"LATEST Suspected Ottawa gunman identified as Michael Joseph Hall, a convert to Islam also known as Michael Zehaf-Bibeau -",rumour,1,1,rumour,1.5998992e-05,0.999984,True
+If you want to follow the hostage situation in Sydney,rumour,1,0,not_rumour,0.9741166,0.025883388,False
+DEVELOPING Pilot locked out of cockpit in Alps crash report.,rumour,1,1,rumour,0.00010826078,0.99989176,True
+"UPDATE Parliament Hill attack Soldier dies of injuries, gunman shot dead OttawaShooting",rumour,1,1,rumour,1.3549851e-06,0.9999987,True
+CharlieHebdo Stphane Charbonnier and Jean Cabut died for freedom of press. May their bravery amp spirit live forever,rumour,1,0,not_rumour,0.56949353,0.43050644,False
+Coincidence? Nobelist Malala Youseafzai was to receive honorary Canadian citizenship in Ottawa today,not_rumour,0,1,rumour,8.514296e-05,0.9999149,False
+Heavy police activity at Sydney cafe shown on livestream just now. Many shots fired.,rumour,1,1,rumour,0.0032382065,0.9967618,True
+"UPDATED Obama condemns Ottawa shootings as 'outrageous,' offers to help with response",not_rumour,0,0,not_rumour,0.9995851,0.0004148787,True
+"Converts are DISTURBED!! Co-Pilot of GermanWings Airbus Was a Muslim convert. ""Hero of Islamic State"" WhiteMuslims",rumour,1,1,rumour,0.00029537978,0.99970454,True
+Here are the 3 locations of shootings in Ottawa around Parliament Hill GoofleEarth From,rumour,1,0,not_rumour,0.914939,0.085061036,False
+"BREAKING Name of co-pilot of crashed Germanwings flight 4U9525 was German, Named Andreas Lubitz",rumour,1,1,rumour,8.187526e-06,0.9999918,True
+i cant sleep knowing just 15 minutes away innocent people have been hostages for almost 14 hours please pray for the hostages and for sydney,not_rumour,0,1,rumour,0.016090874,0.9839091,False
+ArtsBeat Cousin of Cornelius Gurlitt Challenges Will That Leaves Collection to Swiss Museum A cousin of... art,not_rumour,0,1,rumour,0.059674334,0.9403257,False
+"FYI Toronto "" In response to inquiries, we can confirm that Prince will not be performing at tonight.""",rumour,1,1,rumour,1.4009213e-05,0.99998593,True
+"BREAKING UPDATE Soldier shot at National War Memorial in Ottawa, Canada, police tell News -",rumour,1,1,rumour,2.8744618e-05,0.9999713,True
+"Germanwings CEO says 72 Germans, 35 Spanish citizens and two Americans were aboard plane that crashed in France",rumour,1,1,rumour,0.00033404317,0.999666,True
+"OTTAWA SHOOTING - Soldier shot at war memorial - Parliament Hill locked down - PM Harper safe, 'off the hill'",rumour,1,1,rumour,2.7751648e-05,0.9999722,True
+Weather deteriorating for GermanWings 4U9525 search amp rescue operation with snow above 1500m in S French Alps. CF,not_rumour,0,0,not_rumour,0.9935743,0.0064256205,True
+The surviving staff at CharlieHebdo have just announced that the magazine will publish next week--ON SCHEDULE.,not_rumour,0,1,rumour,0.43134466,0.5686554,False
+Germanwings could face enormous legal liabilities in the crash that killed 150 people,not_rumour,0,1,rumour,0.33084264,0.66915727,False
+When and where - MikeBrown shot by police officer Darren Wilson in Ferguson,not_rumour,0,0,not_rumour,0.55012405,0.44987595,True
+Watch live CBC NN coverage of shooting of soldier at Ottawa Cenotaph shooter still on loose around Parliament Hill,rumour,1,1,rumour,0.004736749,0.9952632,True
+"3rd work in Gurlitt collection found to have been loted, 'Klavierespieler' from Carl Spitzweg to be returned to Jewish heirs",not_rumour,0,1,rumour,6.1088555e-05,0.99993896,False
+"""Da man wit the chips"" in this iconic photo from Ferguson has been identified.",not_rumour,0,0,not_rumour,0.9676404,0.03235962,True
+A gunman holding hostages in a Sydney cafe is said to be demanding an ISIS flag sydneysiege,rumour,1,1,rumour,0.0003792433,0.9996207,True
+sydneysiege Up to 20 hostages are being held in darkness in a cafe in Sydney.,rumour,1,1,rumour,9.13445e-05,0.9999087,True
+France's top security official confirms that 3 gunmen carried out the attack on CharlieHebdo,rumour,1,1,rumour,0.27708158,0.7229184,True
+DEVELOPING MPs tweeting that gunman has been shot dead. CBC has not confirmed this. Condition of soldier also unknown,rumour,1,1,rumour,1.6929057e-06,0.99999833,True
+The Roots of Evil CharlieHebdo,not_rumour,0,0,not_rumour,0.9999926,7.3823862e-06,True
+"Still no information about hostage taker unclear if alive, injured or killed sydneysiege",rumour,1,1,rumour,0.017251054,0.9827489,True
+All Muslims are not like that... Okay? RT The co-pilot of the Germanwings Airbus was a convert to Islam,rumour,1,1,rumour,0.48389226,0.5161077,True
+Our thoughts are with Ottawa.,not_rumour,0,0,not_rumour,0.9999907,9.29581e-06,True
+Australia's leader Tony Abbott addresses sydneysiege no questions from the media taken,not_rumour,0,0,not_rumour,0.99978477,0.00021527923,True
+Bottom line cops are supposed to use deadly force only when lives are at risk. You don't shoot robbery suspects. Ferguson,rumour,1,0,not_rumour,0.9442283,0.05577169,False
+"TWITTER. Charlie Hebdo is a racist publication. Murderers murdering people are not justified in murdering people. Crazy paradox, I know.",not_rumour,0,0,not_rumour,0.9999572,4.281438e-05,True
+Cartoonist's continue to poke at Tyranny. Quite brilliantly too. CharlieHebdo JeSuisCharlie,not_rumour,0,0,not_rumour,0.9999958,4.157365e-06,True
+Gurlitt's Museum Bequest Is Challenged ArtCrimes,not_rumour,0,1,rumour,0.057308346,0.9426917,False
+"SYDNEYSIEGE OVER, police confirm. Reports hostage-taker is down",rumour,1,1,rumour,1.4681521e-05,0.99998534,True
+"Latest reports are that there 13 hostages being held in the centre of Sydney, by two armed Islamic terrorists. Black Islamic flag in window",rumour,1,1,rumour,5.9194963e-07,0.9999994,True
+"Every incident report I've seen says ""the suspect was X,"" ""the suspect did Y."" On the Ferguson report, MikeBrown is ALREADY NAMED. HOW??",rumour,1,1,rumour,0.032824233,0.9671757,True
+Parisians gather under rain by Notre Dame to mourn CharlieHebdo killings Jesuischarlie,not_rumour,0,0,not_rumour,0.99999774,2.2515123e-06,True
+Ferguson or Afghanistan? Powerful evidence of growing militarization of US police forces.,not_rumour,0,0,not_rumour,0.99883956,0.0011604195,True
+"France's Interior Ministry says debris located at 2,000 meters altitude in French Alps. Airbus A320 GermanWings",not_rumour,0,0,not_rumour,0.9493885,0.05061143,True
+Ferguson Police Department Release First Official Statement On Shooting Of Mike Brown JusticeForMikeBrown,not_rumour,0,1,rumour,0.3829488,0.61705124,False
+Charlie Hebdo killers tell police 'We are ready to die as martyrs',rumour,1,0,not_rumour,0.92255217,0.077447854,False
+JUST IN Police tell it's probable gunman in second Paris hostage situation is man who killed a policewoman yesterday -,rumour,1,1,rumour,5.583975e-05,0.9999442,True
+Hostage situation ongoing in Sydney business district. LIVE UPDATES,rumour,1,1,rumour,0.0030933863,0.9969066,True
+Separating fact from fiction on the SydneySiege. Here's what we do and don't know,not_rumour,0,0,not_rumour,0.9999989,1.1189429e-06,True
+Local news piece on Toronto show tonight prince Princearmy,rumour,1,1,rumour,0.011642225,0.98835784,True
+Our thoughts are with everyone in Ottawa at this time.,not_rumour,0,0,not_rumour,0.99999595,3.9980987e-06,True
+"Sad truth, is that if u crticize islam even after CharlieHebdo massacre, u wl still b labeled 'right wing fanatic' or islamophobic!",not_rumour,0,0,not_rumour,0.99995756,4.239832e-05,True
+Update Ferguson police release stills from convenience store footage showing robbery,rumour,1,1,rumour,0.00018199887,0.999818,True
+Look at his arrive time on the report. This man was still in the store. Exlplain this. Ferguson FergusonShooting,rumour,1,0,not_rumour,0.79647064,0.20352939,False
+Single-aisle Airbus A320s are the workhorses of the global fleet amp proliferate across European skies 4U9525,not_rumour,0,0,not_rumour,0.97565246,0.024347585,True
+BREAKING Sydneysiege latest Armed police have stormed cafe Multiple hostages freed Paramedics entered scene,not_rumour,0,1,rumour,0.47840697,0.521593,False
+Car chase under way in Paris as gunfight breaks out. Reports of hostages. Latest from Paris,rumour,1,1,rumour,6.962859e-05,0.9999304,True
+Paris staff in solidarity with CharlieHebdo. Freedom of expression is a human right,not_rumour,0,0,not_rumour,0.99999917,8.5792357e-07,True
+What the media won't show Ferguson MikeBrown,not_rumour,0,0,not_rumour,0.9999869,1.3058036e-05,True
+Dramatic video of gunfire from inside Parliament Hill,rumour,1,1,rumour,0.30538648,0.69461346,True
+The staff of Agence France Presse stand in silence amp solidarity to remember their murdered colleagues. JeSuisCharlie,not_rumour,0,0,not_rumour,0.99582565,0.0041743675,True
+Media told not to leave Moscow amp expect statements fr Kremlin No flag on building putindead,rumour,1,0,not_rumour,0.9291196,0.070880495,False
+"I woke up today believing Ottawa was a safe place for my family. I'll go to bed tonight thinking the same thing. Stay strong, stay calm.",not_rumour,0,0,not_rumour,0.9985923,0.0014076104,True
+Join us in hating horrible crimes and racist cartoons at the same time CitizenRadio CharlieHebdo,not_rumour,0,0,not_rumour,0.99999964,4.1324753e-07,True
+Memo to you owe an apology GERMAN NEWS Co-Pilot of Germanwings Airbus Was MUSLIM CONVERT,rumour,1,1,rumour,0.003689262,0.9963108,True
+"It didn't take that long. The first Pakistani to say, CharlieHebdo massacre has nothing to with Islam, has emerged.",not_rumour,0,0,not_rumour,0.96059287,0.039407145,True
+"BREAKING Police official tells the Associated Press suspects in Charlie Hebdo massacre killed, hostage freed.",not_rumour,0,1,rumour,0.17147702,0.828523,False
+CTV reports that soldier shot at war memorial still alive.,rumour,1,1,rumour,9.496347e-07,0.99999905,True
+"Please join me in prayer for those held hostage in Martin Place, Sydney, and for the police who are trying to resolve the situation.",rumour,1,0,not_rumour,0.82104415,0.1789559,False
+Hostages are posting the requests of the gunman on social media. has asked the media not to publish those requests SydneySiege,rumour,1,1,rumour,0.0039110174,0.996089,True
+"GermanWings A320 Airbus 24 yrs old, first flight was in November 1990 4U9525",not_rumour,0,0,not_rumour,0.9807288,0.019271135,True
+Horrific footage shows police officer begging for his life before gunman shoots him in the head CharlieHebdo,not_rumour,0,1,rumour,0.104660206,0.89533985,False
+"BREAKING One gunman has been killed following a shooting on Parliament Hill, sources confirm to CTV News.",rumour,1,1,rumour,1.3900195e-05,0.99998605,True
+"JUST IN Two gunmen, dozen hostages inside cafe in Sydney, Australia. ISIS flags remain on display. -",rumour,1,1,rumour,1.9525884e-05,0.99998045,True
+". tweets ""Prince will not be performing at Massey Hall tonight."" cbcto",rumour,1,1,rumour,3.9586686e-07,0.99999964,True
+"All evidence indicates copilot of Airbus machine in his 6-months break during his training as a pilot in Germanwings, converted to Islam",rumour,1,1,rumour,0.006481977,0.993518,True
+Thoughts and prayers go out to everyone downtown Ottawa right now. PrayForOttawa Special thanks to the officers protecting us.,not_rumour,0,0,not_rumour,0.9995216,0.00047842565,True
+"Local media 3 people appear to escape from Martin Place, Sydney, caf, amid hostage situation -",rumour,1,1,rumour,2.5466403e-05,0.9999745,True
+Ferguson police chief says officer Darren Wilson didn't know MikeBrown was a robbery suspect,rumour,1,1,rumour,0.0011581581,0.9988418,True
+"3 people appear to escape from Lindt Cafe in Sydney, reports. SydneySiege",rumour,1,1,rumour,6.8275954e-06,0.9999932,True
+Sunni extremists behind CharlieHebdo attack have no issues mocking Shia holy figures in their own cartoons,not_rumour,0,0,not_rumour,0.9999989,1.0973007e-06,True
+BREAKING Smoke coming from building where Charlie Hebdo attack suspects located Reuters reporter,not_rumour,0,0,not_rumour,0.7496174,0.25038257,True
+Tragedy mounts as soldier shot this AM dies of his wounds in an Ottawa Hospital. Deep sympathy to his family and friends. shooting ottawa,rumour,1,1,rumour,6.5410284e-05,0.99993455,True
+"UPDATE A hostage situation is unfolding in a kosher supermarket in Vincennes, eastern Paris. French police on scene. Reports of one injured",not_rumour,0,1,rumour,5.235442e-05,0.99994767,False
+NEWS Germanwings pilot was muslim convert,rumour,1,1,rumour,0.0051897867,0.9948102,True
+Thousands have gathered at Martin Place to honour CharlieHebdo victims. via 9News,not_rumour,0,0,not_rumour,0.98780584,0.012194133,True
+"Boko Haram killed 2000 people in Baga over a period of 5 days. No, that won't make news like CharlieHebdo because this is Africa lad.",not_rumour,0,0,not_rumour,0.9999231,7.6920885e-05,True
+"sydneysiege gunman was reportedly ""extremely agitated"", shouting as some hostages escaped.",not_rumour,0,1,rumour,1.7466441e-06,0.9999982,False
+"Religion Of COWARDS- gt Hostages Forced Display Islamic Flag, Women Used AsShields sydneysiege",rumour,1,1,rumour,0.008976738,0.9910233,True
+Thoughts also with the Muslim community whose name and religion has again been hijacked against their will. sydneysiege notintheirname,not_rumour,0,0,not_rumour,0.9999988,1.1957703e-06,True
+We must confirm to our deepest regret that Germanwings Flight 4U 9525 from Barcelona to Dsseldorf has suffered an accident over the 1 5,rumour,1,1,rumour,0.0026061658,0.99739385,True
+I want to commend the courage and bravery of the first responders on the ground in Ottawa right now,not_rumour,0,0,not_rumour,0.98748416,0.012515857,True
+Islam is not the enemy. Muslims are not the enemy. hatecannotdriveouthate jesuischarlie,not_rumour,0,0,not_rumour,0.9999956,4.4428116e-06,True
+Single finger raised by CharlieHebdo gunman looks like what ISIS fighters often do in battle. CC,not_rumour,0,1,rumour,0.23988312,0.7601169,False
+Praying for Sydney. Also thank heavens for streaming foreign networks because American media is completely MIA.,not_rumour,0,1,rumour,0.024563087,0.97543687,False
+Mike Brown was to start studying at Vatterott College on Monday. Ferguson,not_rumour,0,1,rumour,0.4185038,0.5814962,False
+"According to 2014-15 GM Survey, Kobe is the 3rd best shooting guard.",not_rumour,0,0,not_rumour,0.7061651,0.2938349,True
+"Proud of NDTV for upholding India's SECULAR credentials! Nidhi Razdan ""NOTORIOUS French magazine attacked by armed men""!! CharlieHebdo",not_rumour,0,0,not_rumour,0.9998615,0.00013846345,True
+Yesterday 4U9525 took exactly the same route so yes it is a normal route!,not_rumour,0,0,not_rumour,0.98588216,0.014117894,True
+"I'm not retweeting the pic of MikeBrown's body, but evidently he lost the hat and changed his shoes and shorts. And lost 40 lbs. Ferguson",rumour,1,0,not_rumour,0.7821637,0.21783626,False
+Here's everything we know so far about the sydneysiege. Dozens of hostages are being held.,rumour,1,1,rumour,0.19853961,0.8014603,True
+The streets of Times Square have been taken over. Literally. NMOS14 ferguson,not_rumour,0,0,not_rumour,0.997981,0.002019014,True
+Sky News reporter at the scene of the sydneysiege. Live now on Sky News,not_rumour,0,0,not_rumour,0.8292847,0.17071529,True
+"So Putin is back. He's been busy. There's been a coup, he's been dead, his girlfriend gave birth, he was riding bears etc.",not_rumour,0,1,rumour,0.14518352,0.85481644,False
+"BREAKING UPDATE Gunman demands to speak to Abbott, asks to bring him ISIS flag SydneySiege",rumour,1,1,rumour,0.17849003,0.82151,True
+Lk t RT Rumors in Switzerland Putin absence due to his girlfriend Alina Kabaeva giving birth in Ticino,rumour,1,1,rumour,0.004895881,0.9951041,True
+MORE Airbus A320 was lost from Flightradar24 at 6800 feet at 09.39 UTC time GermanWings,rumour,1,1,rumour,0.00067324063,0.9993268,True
+"10 people confirmed dead in Paris attack - rocket launcher used in assault, according to reports",rumour,1,1,rumour,6.464239e-06,0.99999356,True
+"My hometown, Sydney, just showed the world how to face terrorism and fear. I'm moved to tears. illridewithyou",not_rumour,0,0,not_rumour,0.9999621,3.7931623e-05,True
+2 babies were among 144 passengers on board crashed Germanwings plane - says in news briefing,rumour,1,1,rumour,0.00014425987,0.99985576,True
+"CharlieHebdo last cover satirizing ISIS If Mohammed returned ""But I'm the Prophet, blockhead!"" ""Shut up, infidel!""",not_rumour,0,0,not_rumour,0.99973875,0.00026119032,True
+Swiss museum will accept Gurlitt art trove A Swiss museum agreed on Monday to accept a priceless collection o...,rumour,1,1,rumour,7.967302e-05,0.99992037,True
+TWO TORONTO SHOWS TONIGHT? Looks like is hinting at TWO Prince shows tonight.... stay tuned!,rumour,1,1,rumour,1.791799e-05,0.9999821,True
+Live Nation wants to apologize for any inconvenience experienced by Prince and his fans. Read more here,rumour,1,1,rumour,0.046877436,0.95312256,True
+"The controversial history of France's ""Charlie Hebdo""",not_rumour,0,0,not_rumour,0.99981004,0.00018998804,True
+"Plane crashes in southern France, 148 on board Germanwings budget airline was flying from Barcelona to Dusseldorf.",rumour,1,1,rumour,3.295573e-05,0.9999671,True
+"JUST IN U.S. officials tell CBS News the name of the dead Ottawa shooting suspect is Michael Zehaf-Bibeau, a Canadian born in 1982.",rumour,1,1,rumour,5.5189234e-05,0.9999448,True
+"In the USA, if a cop says something, it automatically becomes fact. By law media must report it as fact no matter how outrageous. Ferguson",not_rumour,0,0,not_rumour,0.98262435,0.017375665,True
+UPDATED Photos from shooting on Parliament Hill,not_rumour,0,0,not_rumour,0.9946568,0.0053432565,True
+"Re Charlie Hebdo Seriously. If your god amp or prophet needs armed men to protect him from cartoons, it pretty much says he's a huge pussy.",not_rumour,0,0,not_rumour,0.99903786,0.0009622126,True
+The Pen vs. the Gun on the life-giving defiance of the CharlieHebdo cartoonists,not_rumour,0,0,not_rumour,0.999925,7.4992546e-05,True
+Update Reuters reports a witness who says police chased a suspect into Candian parliament in Ottawa amp then heard 30 shots fired inside,rumour,1,1,rumour,1.3081766e-06,0.9999987,True
+Reports in French media of hostage situation as manhunt for CharlieHebdo suspects centres on DammartinEnGoele,rumour,1,1,rumour,0.020023443,0.97997653,True
+I heard Putin escaped the Kremlin and is on his way to his girl in Switzerland. Putindead PutinPregnant,rumour,1,1,rumour,0.0010433674,0.99895656,True
+We r being told it's still not safe outside downtown. Shooter on the loose. University of Ottawa shut down.,rumour,1,1,rumour,0.1799625,0.8200375,True
+"Uta Werner, 1st cousin of the late Cornelius Gurlitt, to formally challenge will that named Kunstmuseum Bern as heir.",not_rumour,0,1,rumour,0.04605535,0.9539447,False
+Where should the Gurlitt collection go? Many people sounding off on before the upcoming press conference Monday.,not_rumour,0,0,not_rumour,0.7329743,0.26702574,True
+"Paris Terrorist was Radicalized by Bushs Iraq War, Abu Ghraib Torture",not_rumour,0,0,not_rumour,0.99915576,0.0008442883,True
+"Ferguson crowd gone, crowd showed restraint, chanted amp yelled at police then left, scene now empty, only media here",not_rumour,0,0,not_rumour,0.999089,0.00091105123,True
+"Gunshots heard as well as shouts of ""Allahu Akbar!"" in amateur videos of CharlieHebdo attack",rumour,1,0,not_rumour,0.9598375,0.040162586,False
+"In 2009 Ferguson PD beat a black man, then charged him for getting blood on their uniforms",rumour,1,1,rumour,0.0033179715,0.996682,True
+"""Your right to demonstrate is not being denied."" Says dude in a Tank with snipers. Ferguson",not_rumour,0,0,not_rumour,0.8474635,0.15253651,True
+It seems AKP supporters in Turkey are happy about the terror attack against CharlieHebdo. They seem joyfully celebrating barbaric terror,not_rumour,0,0,not_rumour,0.9999716,2.8409744e-05,True
+"Even if MikeBrown was running down the street with a bag full of boosted goods, he deserved a trial. Not a street execution. Ferguson",rumour,1,1,rumour,0.06617585,0.9338242,True
+French media reporting owner of petrol station saw 2 men wearing masks in car with guns amp rocket launcher CharlieHebdo,rumour,1,1,rumour,3.1875652e-06,0.9999968,True
+"""The officers were literally putting hands on media personnel, throwing people..."" Ferguson",rumour,1,1,rumour,0.25362986,0.74637014,True
+News of the attack in Ottawa is extremely disturbing. I pray for everyone's safety.,not_rumour,0,0,not_rumour,0.99877924,0.0012207953,True
+BREAKING NEWS Alert of armed explosives at Sydney's Opera House. All airspace near the area has been closed and diverted.,rumour,1,1,rumour,0.22944887,0.77055115,True
+ISIS is to Islam what the Westboro Baptist Church is to Christianity An abomination. siege sydneysiege MartinPlace Lindt Islamic,not_rumour,0,0,not_rumour,0.9999809,1.9073577e-05,True

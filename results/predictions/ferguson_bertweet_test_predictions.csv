@@ -1,0 +1,165 @@
+cleaned_tweet,label,true_label_int,pred_label_int,pred_label,prob_not_rumour,prob_rumour,correct
+Ferguson is completely shut down. No journalists allowed.,rumour,1,0,not_rumour,0.9793738,0.020626193,False
+Whenever you want to justify shooting an unarmed person you always say they reached for your gun. George Zimmerman taught us that Ferguson,not_rumour,0,1,rumour,0.14039516,0.8596048,False
+From jaywalking to strong-arm robbery. Mhm... Ferguson,rumour,1,1,rumour,0.05910154,0.9408984,True
+"So, many of those calling for transparency yesterday are condemning police for what they released today. Cant have it both ways. ferguson",not_rumour,0,0,not_rumour,0.9763782,0.023621807,True
+"Police are demanding protesters disperse. ""this is not up for discussion. Return to your vehicles. Return to your homes."" Ferguson",not_rumour,0,0,not_rumour,0.9810765,0.01892357,True
+Americans are 8 times more likely to be killed by a police officer than by a terrorist. Ferguson,rumour,1,1,rumour,0.31079897,0.68920106,True
+"In 2009 Ferguson PD beat a black man, then charged him for getting blood on their uniforms",rumour,1,1,rumour,0.0527164,0.94728357,True
+42 Is the Ferguson investigation trying to get all of the facts to find the truth or trying to cover their behinds?,rumour,1,1,rumour,0.09585608,0.90414387,True
+"Oh, a suspect in a robbery? That changes everything. Everyone knows summary execution is the penalty for suspicion of robbery Ferguson",rumour,1,1,rumour,0.0548532,0.9451468,True
+End police brutality sign at mikebrown memorial in ferguson,not_rumour,0,0,not_rumour,0.97881407,0.021185858,True
+"So in Ferguson, robbing a convenience carries the death penalty. Got it.",rumour,1,0,not_rumour,0.70089483,0.2991052,False
+"""What happened in Ferguson doesn't contradict America's racial narrative. It illustrates it.""",not_rumour,0,0,not_rumour,0.9814,0.018599967,True
+"Anti-Gunners Donated 500k 2 Defeat Pro-Gun Sheriff, He Won Anyway! tcot 2A Ferguson NRA",not_rumour,0,0,not_rumour,0.97752154,0.022478504,True
+Anonymous hacking group threatens Ferguson police in wake of Shooting via,not_rumour,0,0,not_rumour,0.98065484,0.019345103,True
+"In 2009, Ferguson police beat a man and charged him for bleeding on them",rumour,1,1,rumour,0.051082738,0.94891727,True
+We got through. That's a sniper on top of a tank pointing guns at us... ferguson,not_rumour,0,0,not_rumour,0.9816127,0.018387254,True
+"Ferguson headlines like ""Is this how a dystopia starts?"" ... Read ""Could police militarization start affecting white people soon?""",not_rumour,0,0,not_rumour,0.9816127,0.018387254,True
+Palestinians in Gaza West Bank have been showing support for Ferguson.,not_rumour,0,0,not_rumour,0.9808576,0.019142363,True
+Witness To MichaelBrown's Shooting Opens Up He Was 'Shot Like An Animal' Ferguson,not_rumour,0,1,rumour,0.20963143,0.79036856,False
+Ferguson shows how a militarized police force can compromise our rights and our safety JusticeForMikeBrown,not_rumour,0,0,not_rumour,0.9799574,0.020042613,True
+Missouri Mayor Looters came from out of town. Was he talking about Sharpton? Ferguson,not_rumour,0,0,not_rumour,0.8067004,0.19329962,True
+"Question for Ferguson police chief? If OFFICER DARREN WILSON was in pursuit of a robbery suspect, why tell kids to get out of the road? LIE",rumour,1,1,rumour,0.05455022,0.94544977,True
+"Cops or Soldiers? Pentagon, DHS Helped Arm Police in Ferguson with Equipment Used in War",not_rumour,0,0,not_rumour,0.9813643,0.018635653,True
+Hello fellow white people. Lets try to show as much outrage for Ferguson as we did for Facebook messenger.,not_rumour,0,0,not_rumour,0.9810401,0.018959865,True
+"The courage it takes to to write these words down, much less display them to the world Ferguson MikeBrown",not_rumour,0,0,not_rumour,0.97601515,0.023984876,True
+IF YOU DONT STAND FOR SOMETHING YOULL FALL FOR ANYTHING RipMikeBrown Ferguson,not_rumour,0,0,not_rumour,0.96792966,0.03207038,True
+"Ferguson, Missouri Community Furious After Teen Shot Dead By Police FergusonShooting",not_rumour,0,0,not_rumour,0.5111523,0.48884767,True
+"Image of Ferguson protester throwing tear gas back at police, wearing the American flag, is amazing.",not_rumour,0,0,not_rumour,0.98159516,0.018404892,True
+Unarmed teenage black boy MikeBrown was shot ten times by a Ferguson police officer for accusation of shoplifting,rumour,1,1,rumour,0.056444023,0.94355595,True
+Crazy RT Someone please remind me what year it is again? ferguson,not_rumour,0,0,not_rumour,0.98178816,0.018211821,True
+"In case YouTube vid disappears, here's childhood friend on tonight's Ferguson ""drive by"" Bullshit OpFerguson",rumour,1,0,not_rumour,0.9790758,0.020924192,False
+A witness describes the use of tear gas tonight. Ferguson,not_rumour,0,0,not_rumour,0.98125684,0.018743115,True
+When Parenting Feels Like a Fool's Errand On the Death of Michael Brown MikeBrown Ferguson,not_rumour,0,0,not_rumour,0.9763331,0.023666894,True
+"I don't want another bigot getting in my TL saying it's not abt race, when's the last time a white kid has been MURDERED by police Ferguson",not_rumour,0,0,not_rumour,0.94639885,0.05360114,True
+Shot ten times. Unarmed. What else is there to talk about? StopTheSmear Ferguson,rumour,1,0,not_rumour,0.9480585,0.051941566,False
+Those people in Ferguson must think they have some kind of constitutional right to protest or something.,not_rumour,0,0,not_rumour,0.9791955,0.020804489,True
+"Favorite this now In the next week, we will hear about EVERY transgression MikeBrown has ever had since soiling his diapers. Ferguson",not_rumour,0,0,not_rumour,0.9501803,0.049819656,True
+Police pull up to Ferguson in MRAPs amp point sniper rifles at unarmed protestors LIVE 11am-2pm CST,not_rumour,0,0,not_rumour,0.9812749,0.018725164,True
+this is america? what the fuck is wrong with us? Ferguson,not_rumour,0,0,not_rumour,0.97624266,0.023757324,True
+When I was in Iraq we had a couple of demonstrations in front of our base. We took a less menacing posture there than cops in Ferguson now,not_rumour,0,0,not_rumour,0.9814,0.018599967,True
+hey shoot me a dm when you get a chance. I've got something you may want to see ferguson,not_rumour,0,0,not_rumour,0.9635748,0.03642515,True
+"""...they acting good now because y'all are here. But what you think's gonna happen when y'all leave? Tell that story."" Ferguson",not_rumour,0,0,not_rumour,0.97520185,0.02479816,True
+Ferguson police are embarking on what can only be described as an elaborate smear campaign of Michael Brown,rumour,1,1,rumour,0.23326942,0.7667306,True
+"This is what they call ""justice"" in Ferguson",not_rumour,0,0,not_rumour,0.98020524,0.019794779,True
+Arrest being made. Chambers and W. Florissant right now. Ferguson,not_rumour,0,0,not_rumour,0.9815244,0.018475594,True
+These pictures coming out of Ferguson with what looks like military equipment on American streets should sober everyone up...,not_rumour,0,0,not_rumour,0.9809856,0.019014435,True
+BREAKING - Ferguson's police chief has announced Darren Wilson as the cop who shot and killed MikeBrown.,not_rumour,0,1,rumour,0.06766981,0.9323302,False
+You're either furious about this or protecting your entitlement. I believe it to be this simple Ferguson Trayvon,not_rumour,0,0,not_rumour,0.97962874,0.020371296,True
+"When you are black amp the victim of a crime, people will dig up something you did in kindergarten to justify what happened to you. Ferguson",not_rumour,0,1,rumour,0.15662017,0.8433798,False
+Welcome to Ferguson where Americans started waking up to the militarization of their police force,not_rumour,0,0,not_rumour,0.9805993,0.019400762,True
+RT The oppressed stands with the oppressed. Palestine stands with Ferguson.,not_rumour,0,0,not_rumour,0.9801483,0.019851703,True
+Awful. RT Ferguson Police have dogs and shotguns. The unarmed crowd is raising their hands.,not_rumour,0,0,not_rumour,0.98141783,0.018582148,True
+New link Ferguson police release video they say shows a robbery involving MichaelBrown,rumour,1,1,rumour,0.056029387,0.9439706,True
+The name of the Ferguson police officer who killed MikeBrown is Darren Wilson. He has been on the police force for 6 years.,not_rumour,0,1,rumour,0.19985402,0.800146,False
+A line of tanks and military cops facing Ferguson protesters after an extrajudicial execution. Not a lot of moral high ground for America.,not_rumour,0,0,not_rumour,0.98178816,0.018211821,True
+Press conference is over. Important to note NO mention of MikeBrown stealing ANYTHING from ANY store. Ferguson,not_rumour,0,1,rumour,0.20513691,0.79486305,False
+BREAKING Darren Wilson named as officer who fatally shot MichaelBrown in Ferguson,rumour,1,1,rumour,0.092687786,0.9073123,True
+Line of police cars with high beams on greets anyone trying to enter Ferguson. It's shut down. No media allowed.,rumour,1,0,not_rumour,0.9806364,0.01936364,False
+"Thought I was looking at a pix from Birmingham, Alabama in 1963 but nope I was looking at Ferguson Missouri 2014 smh",not_rumour,0,0,not_rumour,0.94994867,0.050051305,True
+The reports on Ferguson -,not_rumour,0,0,not_rumour,0.97794676,0.022053316,True
+A young woman right before she was arrested because she wouldn't move... Ferguson,not_rumour,0,1,rumour,0.1805397,0.81946033,False
+"""FERGUSON Dispatch 3 MikeBrown Was Murdered and We Want Justice"" TWIBnation",not_rumour,0,0,not_rumour,0.9267028,0.07329728,True
+"Captain Johnson ""What happened last night is what's going to happen here forward."" Ferguson",not_rumour,0,0,not_rumour,0.97949183,0.020508163,True
+Destruction of property and destruction of life are false equivalents. MikeBrown Ferguson,not_rumour,0,0,not_rumour,0.9507779,0.04922211,True
+"It's incredibly upsetting hearing about the execution of children by the authorities in Iraq, Gaza, and Missouri. MikeBrown Ferguson",not_rumour,0,0,not_rumour,0.9781772,0.021822825,True
+Hard to believe this guy assaulted a cop. Ferguson,rumour,1,1,rumour,0.07323097,0.926769,True
+"Because, of course, when someone commits a robbery they stroll down the middle of the street where everyone can see them. Ferguson",rumour,1,0,not_rumour,0.50895596,0.49104404,False
+"Ferguson WeArePeace Met a young man who told me, ""We aren't here for colors. Black isn't a color, We are all Equal",not_rumour,0,0,not_rumour,0.9791357,0.020864256,True
+"Notice it's ""involved in the shooting"" not ""killed a child."" Notice it's ""paid administrative leave"" not ""has been arrested"" Ferguson",not_rumour,0,1,rumour,0.08404061,0.9159594,False
+Wonder how many breaking news reports there would be on national networks if a white unarmed teenager was shot killed by police? Ferguson,not_rumour,0,0,not_rumour,0.812198,0.18780209,True
+Ferguson police chief says officer Darren Wilson didn't know MikeBrown was a robbery suspect,rumour,1,1,rumour,0.051272422,0.9487276,True
+A few feet from where MichaelBrown was killed Ferguson,not_rumour,0,0,not_rumour,0.9675024,0.032497503,True
+Ferguson chief said the officer was unaware of any robbery amp stopped MikeBrown for jay walking. TheJig,rumour,1,1,rumour,0.05056453,0.9494355,True
+"Cops warn the crowd. The photog's gas mask comes out. Someone is chanting ""Gaza Strip."" Ferguson",not_rumour,0,0,not_rumour,0.9807473,0.01925269,True
+"The sights and sounds from Ferguson, Missouri are unbelievable",not_rumour,0,0,not_rumour,0.9798227,0.02017732,True
+Wow...A man picks up burning tear gas can and throws it back at police. ferguson pic by,not_rumour,0,0,not_rumour,0.9806919,0.019308086,True
+""" ""You can't jump over a murder amp talk to me about some cigars"" Ferguson"" KeepingItRealRadio",rumour,1,0,not_rumour,0.8130901,0.18690997,False
+Because the news outlets are blatantly LYING about MikeBrown murder and ignoring the clear coverup and militarization of Ferguson,not_rumour,0,1,rumour,0.1265691,0.8734309,False
+More police cars heading into Ferguson,not_rumour,0,0,not_rumour,0.97819793,0.021801986,True
+Students at Howard University show solidarity w Michael Brown and protestors in Ferguson,not_rumour,0,0,not_rumour,0.9809856,0.019014435,True
+Protest in Ferguson. The police dogs are visible again.,not_rumour,0,0,not_rumour,0.98154205,0.018457891,True
+"Right now the United States has a stronger militarized force in Ferguson, Missouri than it does in Baghdad.",not_rumour,0,0,not_rumour,0.98083925,0.019160707,True
+JUST IN has confirmed MikeBrown did not have have a criminal record. Ferguson,not_rumour,0,1,rumour,0.062731765,0.93726826,False
+"Murder math, Ferguson edition. Via ... I think.",not_rumour,0,0,not_rumour,0.97999567,0.020004287,True
+Nothing has changed. The ONLY difference? The pictures are in color. Ferguson FergusonShooting,not_rumour,0,0,not_rumour,0.96069443,0.039305616,True
+"WOW! Ferguson police tell a resident a girl was shot in the head, she asks by who, partner of the cop silences him",not_rumour,0,1,rumour,0.06935242,0.9306476,False
+"As all eyes r on the police murder of MikeBrown in Ferguson, 3 more unarmed Americans killed by police in LA, Dallas amp Tulsa in past week.",not_rumour,0,0,not_rumour,0.980053,0.019946933,True
+wakeup MarshallLaw Ferguson - America - how's that land of the free working out?,not_rumour,0,0,not_rumour,0.9802997,0.01970026,True
+"World of difference police walking with protesters, wearing normal uniforms, state Highway Patrol chief hugging it out. Ferguson",not_rumour,0,0,not_rumour,0.9814,0.018599967,True
+More coverage from Europe - Ferguson MikeBrown,not_rumour,0,0,not_rumour,0.9803186,0.019681409,True
+Ron Johnson says he would have liked to been consulted by ferguson chief Jackson about today's release of info.,not_rumour,0,0,not_rumour,0.84504944,0.15495056,True
+"Witness ""He threw his hands up and they shot him. The boy fell and they shot him some more."" Ferguson",not_rumour,0,0,not_rumour,0.9727791,0.027220903,True
+"Another day, another shooting of an unarmed black teenager in America by authority figures. STL Ferguson",not_rumour,0,0,not_rumour,0.9778412,0.02215887,True
+"BREAKING Instead of dispersing, protesters got on their knees with their hands up. Ferguson",not_rumour,0,0,not_rumour,0.98089427,0.019105725,True
+The streets of Times Square have been taken over. Literally. NMOS14 ferguson,not_rumour,0,0,not_rumour,0.98175323,0.018246775,True
+Every Black person should drill this in their heads we are in Jim Crow 2.0..and the new lynch mobs and KKK members ARE THE POLICE Ferguson,not_rumour,0,0,not_rumour,0.97889495,0.021105006,True
+ferguson has had ZERO homicides in the last year. 'Black on black crime is our real problem' folks where y'all at?,rumour,1,0,not_rumour,0.9730621,0.026937889,False
+"Ferguson, MO is in protest after a cop kills an unarmed black teen",not_rumour,0,0,not_rumour,0.9803186,0.019681409,True
+"Iconic USA shirt, bag of chips in one hand, other throws back tear gas cannister at police by Ferguson",not_rumour,0,0,not_rumour,0.9819447,0.018055337,True
+"""Your right to assembly is not being denied."" Ferguson",not_rumour,0,0,not_rumour,0.9816304,0.018369637,True
+"disarm the police RT ppl dont want ur ""protection"" anymore! Ferguson PoliceBrutality",not_rumour,0,0,not_rumour,0.9756467,0.024353385,True
+"""They say we destroying our own neighborhood. We don't own nothing out here."" Ferguson",not_rumour,0,0,not_rumour,0.9810946,0.018905448,True
+Officer in shooting death of MIchael Brown was unaware he was a suspect Ferguson police,rumour,1,1,rumour,0.05340333,0.9465967,True
+"Ferguson protesters march peacefully, militarized police aim guns at them pic",not_rumour,0,0,not_rumour,0.9813286,0.018671406,True
+"the police version is also that MikeBrown approached the officer. But if he had JUST robbed a store, why approach police?? Ferguson",rumour,1,1,rumour,0.051558185,0.94844174,True
+Lets bomb nurseries w White Babies!? FBI NBP leader inciting violence in Ferguson tcot,rumour,1,0,not_rumour,0.9821854,0.01781453,False
+today MichaelBrown would've completed his 1st week of college amp Ferguson police chief spent most time suggesting he's the criminal,rumour,1,1,rumour,0.08929565,0.9107044,True
+"5 if Ferguson PD were already put on notice about a Quick-Mart robbery, why was that NEVER part of the narrative till now?",not_rumour,0,1,rumour,0.05061143,0.9493885,False
+"St. Louis County police tell me woman shot in the head and that a Lt. on scene said she's ""alert and gonna live."" Ferguson",not_rumour,0,1,rumour,0.071332,0.928668,False
+to be clear an unarmed teenager POSSIBLY stealing a box of cigars does not warrant being shot to death by the police. Ferguson,rumour,1,1,rumour,0.06047388,0.93952614,True
+MikeBrown wanted to walk down the street. And he is dead. And the Ferguson PD is using his silence in death to make him a criminal.,rumour,1,1,rumour,0.12173796,0.8782621,True
+Community organizations on-site in Ferguson,not_rumour,0,0,not_rumour,0.979784,0.020215968,True
+88-year-old Creola Mccalister has joined the youth in Ferguson,not_rumour,0,0,not_rumour,0.97691274,0.023087243,True
+The streets of Ferguson look a little different tonight. AP Photo,not_rumour,0,0,not_rumour,0.98157746,0.018422542,True
+"Wow. Ferguson Police Chief struggles to remember MikeBrown's name but laments the murdering cop's ""injuries."" Pretty telling.",not_rumour,0,1,rumour,0.36319503,0.636805,False
+St. Louis Unarmed teenager MikeBrown was shot ten times by a Ferguson police officer for accusation of shoplifting,rumour,1,1,rumour,0.054148693,0.9458513,True
+Chief seems to make it very clear that shooter did NOT write an incident report. 5th Amendment. Ferguson,rumour,1,1,rumour,0.057176594,0.9428234,True
+Mother Daughter team in Ferguson. Daughter just took bar. Will be civil rights Atty,not_rumour,0,0,not_rumour,0.98159516,0.018404892,True
+Is the Police Chief in Ferguson changing the story?,rumour,1,0,not_rumour,0.98007214,0.019927852,False
+Ferguson PD is putting on a show for the world. Forgetting the world is now watching Twitter.,not_rumour,0,0,not_rumour,0.9778412,0.02215887,True
+Marine Vet Speaks Out Against Police State - Ferguson,not_rumour,0,0,not_rumour,0.9804874,0.019512545,True
+Last night in Ferguson started with joyous hymns amp calls for peace. It ended with another police shooting. My latest,not_rumour,0,0,not_rumour,0.9806919,0.019308086,True
+USA doesn't comply with law that requires reporting on police use of deadly force Ferguson,not_rumour,0,1,rumour,0.10379404,0.89620596,False
+"""Hands up! Don't shoot!"" ferguson",not_rumour,0,0,not_rumour,0.9813643,0.018635653,True
+I'll be on with in about 15 mins discussing Ferguson JusticeForMikeBrown and PeaceInFerguson. Tune in.,not_rumour,0,0,not_rumour,0.9789554,0.021044565,True
+"This guy shot 11 people, including a Congresswoman and a judge. He was apprehended alive. Ferguson MikeBrown",not_rumour,0,1,rumour,0.09730459,0.9026955,False
+Dear mainstream media The story is not the protest. The story is the police shooting of an unarmed black teenager. Ferguson,not_rumour,0,0,not_rumour,0.9527942,0.04720577,True
+I grew up 10 minutes from Ferguson - Praying for Peace and Justice.,not_rumour,0,0,not_rumour,0.9787533,0.0212467,True
+"Police now on the move, advancing on the crowd. MikeBrown Ferguson",not_rumour,0,0,not_rumour,0.98096734,0.019032659,True
+So lets recap. No dashboard cam of the incident. But definitely photos of Michael Brown in a store. Funny how that happens NMOS14 Ferguson,rumour,1,1,rumour,0.106458135,0.8935419,True
+Harvard students stand in solidarity with MikeBrown amp the Ferguson community. HandsUpDontShoot HBLSA,not_rumour,0,0,not_rumour,0.98155975,0.01844021,True
+"Oh, this new is very emotional, I suggest you take a listen. Ferguson",not_rumour,0,0,not_rumour,0.9761746,0.023825366,True
+"The presence of police dogs in Ferguson is, at the very least, culturally and historically insensitive.",not_rumour,0,0,not_rumour,0.9781146,0.021885453,True
+Situation in Ferguson getting very tense after police killed unarmed teenager Mike Brown photo,not_rumour,0,0,not_rumour,0.9809491,0.0190509,True
+Times Square right now for Ferguson MichaelBrown,not_rumour,0,0,not_rumour,0.9792947,0.020705251,True
+Look at his arrive time on the report. This man was still in the store. Exlplain this. Ferguson FergusonShooting,rumour,1,1,rumour,0.062731765,0.93726826,True
+And how are some of y'all so quick to believe the same police dept. that threw tear gas at folks in their gatdamb front yards. Ferguson,not_rumour,0,1,rumour,0.15784955,0.8421505,False
+"On local tv now, reports shooting victim last night in Ferguson was 19-year-old male, shot multiple times by county police",not_rumour,0,1,rumour,0.08404061,0.9159594,False
+The name of the officer who fatally shot teenager MichaelBrown will be released shortly. Watch CNN Ferguson,rumour,1,1,rumour,0.06705628,0.9329437,True
+When's the last time a white kid was unjustly killed by law enforcement? Just spread the word MikeBrown Ferguson,not_rumour,0,0,not_rumour,0.9680205,0.03197956,True
+Follow NOW if you want to follow the story about the unarmed teenager who was killed by the Ferguson police.,not_rumour,0,0,not_rumour,0.9781563,0.021843683,True
+Ferguson police have brought dogs into neighborhood. Residents protest with hands in the air. Tension is growing...,not_rumour,0,0,not_rumour,0.9812749,0.018725164,True
+call weeping neighbors a mob -- gt paint a picture of a violent community MikeBrown came from -- gt justify his execution Ferguson,not_rumour,0,0,not_rumour,0.9773276,0.022672439,True
+Wow RT State Senator asks the Ferguson police chief if she's going to be gassed again.,not_rumour,0,0,not_rumour,0.9810946,0.018905448,True
+Wow! What was the point of bring out the robbery footage today if it had nothing to do with Michael Brown being stopped? Ferguson,rumour,1,1,rumour,0.05227922,0.94772077,True
+That crowd behind the cops? MORE cops. ferguson,not_rumour,0,0,not_rumour,0.9805248,0.019475214,True
+What year are we in again? This is looking like the 50s Ferguson,not_rumour,0,0,not_rumour,0.97800976,0.021990221,True
+"Oh. So NOW the Ferguson police chief says the cop didn't know about the robbery when he stopped MikeBrown. The kid was ""jaywalking""? BS!",rumour,1,1,rumour,0.050237365,0.9497627,True
+Update Ferguson police release stills from convenience store footage showing robbery,rumour,1,1,rumour,0.055668928,0.94433105,True
+church fan RT Where's the NRA's call for blacks to arm themselves against the police? MikeBrown Ferguson,not_rumour,0,0,not_rumour,0.98056203,0.019437954,True
+This Cartoon Says It All via via Chattanooga Times Free Press Ferguson UniteBlue libcrib KY,not_rumour,0,0,not_rumour,0.98076576,0.019234259,True
+"Crowd near site of shooting chants ""hands up, don't shoot."" Ferguson",not_rumour,0,0,not_rumour,0.98122096,0.01877907,True
+"Journalists being arrested in Ferguson. This aggression will not stand, man RT Just saw two reporters in ferguson cuffed",not_rumour,0,0,not_rumour,0.98187524,0.01812472,True
+UNEASY NIGHT St. Louis Post Dispatch's reporting on last night's clashes in Ferguson,not_rumour,0,0,not_rumour,0.9815067,0.018493311,True
+I can't help but notice that no one with the NRA or tcot has suggested the Ferguson protesters should carry assault rifles. Weird.,not_rumour,0,0,not_rumour,0.97769254,0.022307476,True
+An 88-year-old woman has joined the youth in Ferguson,not_rumour,0,0,not_rumour,0.98122096,0.01877907,True
+"If Michael Brown had been carrying a gun, would Republicans still say he had a right to bear arms? Or is that only for white men? ferguson",not_rumour,0,0,not_rumour,0.84834504,0.15165493,True
+"I don't know how this is going to end. But man, it doesn't feel good right now. ferguson",not_rumour,0,0,not_rumour,0.9791357,0.020864256,True
+Report Ferguson Cop ID'd As Unarmed Teen's Killer Left The Area Days Ago,rumour,1,1,rumour,0.056288198,0.9437118,True
+"Witness to Ferguson shooting atty confirms Brown took cigars from store. Client told FBI he ""did take cigarillos""",rumour,1,1,rumour,0.05613278,0.94386727,True
+This Ferguson PD chief press conference is AMAZING... he just ADMITTED Darren Wilson stopped him bc of the jaywalking.,rumour,1,1,rumour,0.07323097,0.926769,True
+"""The fatal shooting of an unarmed teenager deserves a full review."" AG Eric Holder MikeBrown Ferguson",not_rumour,0,0,not_rumour,0.6459579,0.35404217,True
+2nd Video footage proving Ferguson PD Chief lied on RT After moments of MikeBrown death.,rumour,1,1,rumour,0.062216982,0.937783,True
+"BREAKING Ferguson police chief just announced that officer Darren Wilson shot the unarmed teen, Michael Brown.",rumour,1,1,rumour,0.0946777,0.9053223,True

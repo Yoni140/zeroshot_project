@@ -1,0 +1,2 @@
+dataset,model,model_key,cv_f1_macro_mean,cv_f1_macro_std,test_accuracy,test_f1_macro,test_f1_weighted,test_precision,test_recall,test_f1_misinformation
+monkeypox,answerdotai/ModernBERT-base,modernbert,0.832048,0.009959,0.822076,0.815534,0.822059,0.81696,0.814334,0.757282

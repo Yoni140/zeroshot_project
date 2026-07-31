@@ -1,0 +1,2 @@
+dataset,model,model_key,cv_f1_macro_mean,cv_f1_macro_std,test_accuracy,test_f1_macro,test_f1_weighted,test_precision,test_recall,test_f1_rumour
+sydneysiege,answerdotai/ModernBERT-base,modernbert,0.807115,0.024543,0.787709,0.778234,0.785149,0.787745,0.774144,0.732394

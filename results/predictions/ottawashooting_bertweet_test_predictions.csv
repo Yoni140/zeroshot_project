@@ -1,0 +1,131 @@
+cleaned_tweet,label,true_label_int,pred_label_int,pred_label,prob_not_rumour,prob_rumour,correct
+White House Obama awaiting chance to speak with Harper about Ottawa shooting,rumour,1,0,not_rumour,0.90235174,0.09764824,False
+BREAKING Canada police investigating Michael Zehaf-Bibeau as possible suspect in Ottawa shooting source familiar with matter,rumour,1,1,rumour,0.030415535,0.96958447,True
+More than a half-dozen witnesses have provided testimony that supports officer's account of Michael Brown shooting,not_rumour,0,1,rumour,0.10275401,0.89724606,False
+"The violence of OttawaShooting has left a city on edge. After the chaos, here's what we know",not_rumour,0,0,not_rumour,0.94509614,0.054903854,True
+Harper cancels Malala citizenship event in wake of Ottawa shootings OttawaShooting,rumour,1,0,not_rumour,0.67848676,0.32151327,False
+Canadian soldier shot in Ottawa a reservist from Hamilton HamOnt Canpoli ottawashooting,rumour,1,1,rumour,0.026205413,0.9737945,True
+White House says US ready to offer Canada any necessary assistance after shootings in Ottawa. BarackObama to speak with PM Harper today.,rumour,1,0,not_rumour,0.87557435,0.124425635,False
+"When you kill because your ideology calls you to do so, you r a terrorist. No euphemism can change that. Terrorism is terrorism. Ottawa",not_rumour,0,0,not_rumour,0.95626813,0.043731883,True
+"Police say they have located car belonging to suspect in Ottawa shooting. Uniformed soldier shot at War Memorial, condition unknown.",rumour,1,1,rumour,0.025932675,0.9740673,True
+BREAKING NEWS Soldier shot at National War Memorial in Ottawa,rumour,1,1,rumour,0.02732453,0.97267544,True
+"UPDATED Shots fired on Parliament Hill, soldier injured at National War Memorial",rumour,1,1,rumour,0.024007747,0.9759923,True
+"Ok so we were on a tour at that war monument in Ottawa a few minutes ago, a few seconds later there was a shooting..",not_rumour,0,0,not_rumour,0.8278978,0.17210227,True
+Canada's parliament in lockdown after shooting - follow our live coverage here,rumour,1,0,not_rumour,0.8716389,0.12836117,False
+"BREAKING Soldier shot at the National War Memorial has died, CTV has confirmed",rumour,1,1,rumour,0.023375314,0.97662467,True
+"Photos of the scene in Ottawa, where police confirm 'several' shootings",rumour,1,1,rumour,0.058078147,0.94192183,True
+Our thoughts are with everyone in Ottawa today. Stay safe.,not_rumour,0,0,not_rumour,0.9680205,0.03197956,True
+"Easty for me to say from where I am, but what should happen, tomorrow or when this is over, is for people to assemble on Parliament HIll",not_rumour,0,0,not_rumour,0.9694401,0.030559864,True
+"No matter where you are in Ottawa, there's a 100 chance your Mom is worried. Text email call your family.",not_rumour,0,0,not_rumour,0.96741027,0.032589745,True
+Please DO NOT tweet locations of officers in Ottawa in light of what has just occured! Safety,not_rumour,0,0,not_rumour,0.96929514,0.030704854,True
+"Here are my thoughts as we face tragic events in Ottawa, our nations capital.",not_rumour,0,0,not_rumour,0.9701269,0.029873094,True
+UPDATE Reports of gunfire inside the halls of the Canadian Parliament building in Ottawa,rumour,1,1,rumour,0.032100707,0.9678993,True
+Shooting also come after Canadian ISIS fanboy Abu Turaab acct suspended now tweeted about pending attack in Canada 2,not_rumour,0,1,rumour,0.040426936,0.9595731,False
+BREAKING NEWS At least 3 shots fired at Ottawa War Memorial. One soldier confirmed shot -,rumour,1,1,rumour,0.023916388,0.97608364,True
+We'll never forget today amp the brave men and women working hard to protect our capital! Thank you from Ottawa,not_rumour,0,0,not_rumour,0.9651191,0.034880888,True
+"I'm like a shooting star, I've come so far. I can't go back to where I used to be. Jasmine Aladdin",not_rumour,0,0,not_rumour,0.9519527,0.04804736,True
+BREAKING Police asking media to RUN and get away. This is still active shooting. Reports of police with guns drawn ottnews,not_rumour,0,1,rumour,0.23449428,0.76550573,False
+"BREAKING Michael Zehaf-Bebeau had been designated ""high-risk traveller"" by CDN govt, which confiscated his passport",rumour,1,1,rumour,0.053948976,0.946051,True
+Shooting soldiers guarding the war memorial....terrorism really doesn't get much more cowardly than that. Bastards.,rumour,1,0,not_rumour,0.88671505,0.11328497,False
+Updated Canadian soldier killed in attack at Parliament Hill in Ottawa,rumour,1,1,rumour,0.025492331,0.9745077,True
+canada unreal. -- gt Footage from Globe reporter captures exchange of gun fire in Parliament Hill building,rumour,1,1,rumour,0.05170164,0.94829834,True
+Our thoughts are with Ottawa this morning. Stay safe.,not_rumour,0,0,not_rumour,0.9679902,0.032009806,True
+"Hero. Kevin Vickers, head of security in parliament, being credited for taking down shooter Ottawa",rumour,1,1,rumour,0.02878888,0.97121114,True
+ICYMI Sergeant-at-Arms Kevin Vickers hailed as hero for stopping shooter on Parliament Hill,rumour,1,1,rumour,0.028355205,0.9716448,True
+OttawaShooting situation is fluid and ongoing. Remain vigilant and aware. Tip line 613-236-1222 x5493 c JT,not_rumour,0,0,not_rumour,0.9643886,0.035611413,True
+Thoughts and prayers for everyone in Ottawa staystrong PrayForOttawa,not_rumour,0,0,not_rumour,0.9678689,0.03213106,True
+DEVELOPING NEWS Soldier shot at War Memorial. Watch CBC NN for coverage. Or follow online,rumour,1,1,rumour,0.027428543,0.9725715,True
+Terrible news in Ottawa today. Thoughts and prayers to everyone involved OttawaStrong,not_rumour,0,0,not_rumour,0.947186,0.05281402,True
+Ottawa police confirm 1 male shooting suspect died no one in custody -,rumour,1,1,rumour,0.025371313,0.97462875,True
+"BC stands with all of Canada against the violence in Ottawa, and with the brave men and women keeping our capital safe.",not_rumour,0,0,not_rumour,0.9670699,0.03293013,True
+Police in pursuit of multiple shooters in Ottawa PM safe downtown buildings in lockdown,rumour,1,1,rumour,0.03527755,0.96472245,True
+We r being told it's still not safe outside downtown. Shooter on the loose. University of Ottawa shut down.,rumour,1,1,rumour,0.050988145,0.94901186,True
+"BREAKING Reports that the dead shooting suspect is Michael Zehaf-Bibeau, born 1982. He is reportedly Canadian-born. OttawaShooting",rumour,1,1,rumour,0.025443858,0.97455615,True
+To those asking - yes I'm OK. Awful events here in Ottawa.,not_rumour,0,0,not_rumour,0.96267307,0.037326884,True
+"To all in Ottawa, stay safe amp strong. Thank God for Sgt at Arms Kevin Vickers amp our Cdn security forces. True heroes cndpoli",not_rumour,0,0,not_rumour,0.8366881,0.16331196,True
+EXTENDED VIDEO Numerous gunshots heard inside Centre Block on Parliament Hill,rumour,1,1,rumour,0.029284457,0.9707155,True
+CANADIAN OFFICIALS NOW CALLING TODAY'S PARLIAMENT SHOOTING A TERRORIST ATTACK -,rumour,1,1,rumour,0.03850233,0.9614977,True
+The University of Ottawa is no longer in lockdown. cbcOTT OTTnews,rumour,1,1,rumour,0.24926445,0.7507356,True
+Ottawa Police spokesman tells News that 3 suspects are being sought following shootings in Canadian capital -,rumour,1,1,rumour,0.028598359,0.97140163,True
+BREAKING Police source has told The Globe that a second shooter has been shot. OttawaShooting,rumour,1,1,rumour,0.025468081,0.9745319,True
+"Ottawa hospital says it's treating three patients, two in stable condition, after shooting incident.",rumour,1,1,rumour,0.032313783,0.96768624,True
+"NO, Michael Zehaf-Bibeau was NOT wearing a GamerGate t-shirt during the Ottawa Shooting. The people spreading this are freaking sick.",rumour,1,0,not_rumour,0.8325772,0.16742276,False
+Video Reporter captures shoot-out in Ottawa's Parliament Hill building. Watch,rumour,1,1,rumour,0.03739713,0.9626028,True
+RCMP asking for assistance if you have any photos or videos from ottawa shooting please send to NatDiv Media DivNat-grc.gc.ca,not_rumour,0,0,not_rumour,0.9644556,0.0355444,True
+Let NathanCirillo be remembered like this.The part time soldier doing his job amp bringing a little happiness Ottawa,rumour,1,0,not_rumour,0.90590656,0.09409339,False
+Sending love to the people of Ottawa. Be safe everyone. xoxoxo,not_rumour,0,0,not_rumour,0.9683812,0.031618766,True
+. and I have been speaking to some of our allies around the world. The PM will address the nation this evening. OttawaShooting,rumour,1,0,not_rumour,0.93622667,0.063773274,False
+"OTTAWA SHOOTING - Soldier shot at memorial - Gunfire in Parliament - PM safe, will speak later today",rumour,1,1,rumour,0.025202822,0.9747971,True
+Stay away from the downtown area while the operation continues. ottnews ottawa ottcity,not_rumour,0,0,not_rumour,0.9653485,0.03465149,True
+Only photo I will tweet. CPR being performed on the soldier now. I heard four shots. ottawa,rumour,1,1,rumour,0.07999737,0.92000264,True
+OTTAWA police are asking Facebook and twitter users to stop reporting police locations,not_rumour,0,0,not_rumour,0.96210754,0.037892424,True
+All 3 patients injured in OttawaShooting released from hospital Ottawa Hospital spokesperson. cdnpoli,rumour,1,1,rumour,0.03085051,0.9691495,True
+JUST IN US Embassy in Ottawa on lockdown following shooting incidents at and near Canadian Parliament -,not_rumour,0,1,rumour,0.23087642,0.7691236,False
+Ottawa don't tweet your location. Don't tweet the location of police units. Resist urge to look at what's happening,not_rumour,0,0,not_rumour,0.97023994,0.029760094,True
+Prayers for the shot soldier in Ottawa. God bless the Canadian army. Canada,rumour,1,1,rumour,0.05276519,0.9472348,True
+Please DO NOT tweet photos or locations of police in ottawa at the Parliament Buildings!,not_rumour,0,0,not_rumour,0.9670699,0.03293013,True
+RCMP news conference on Ottawa shootings expected to begin momentarily. Watch live,rumour,1,1,rumour,0.04189131,0.9581087,True
+My thoughts amp prayers are with the family amp friends of the soldier killed today in the line of duty in Ottawa. Our nation mourns your loss.,rumour,1,1,rumour,0.03138043,0.9686196,True
+AFP an official says a Canadian soldier has died after being shot in OttawaShooting,rumour,1,1,rumour,0.023962023,0.976038,True
+The important name right now is Cpl. Nathan Cirillo. ottawa,rumour,1,1,rumour,0.025809621,0.97419035,True
+"Gunman killed in Parliament attack named as Michael Zehaf-Bibeau, a Canadian born in 1982, American media report claims. cdnpoli Ottawa",rumour,1,1,rumour,0.02446967,0.9755304,True
+Thoughts and prayers out to Ottawa and all affected today.,not_rumour,0,0,not_rumour,0.96609205,0.033907957,True
+Our thoughts are with our friends in Ottawa today at this difficult time. StaySafeOttawa,not_rumour,0,0,not_rumour,0.9687085,0.031291503,True
+Ottawa youth If you need to talk 24 7 Crisis Line 613-260-2360 or 1-877-377-7775 toll free for Eastern Ontario crisis.on.ca,not_rumour,0,0,not_rumour,0.95561,0.04438999,True
+Canadian soldier fatally shot identified as Nathan Cirillo. OttawaShooting HamOnt RIP,rumour,1,1,rumour,0.023825366,0.9761746,True
+"Parliament Hill in lockdown after soldier shot at Ottawa's War Memorial, just south of East Block.",rumour,1,1,rumour,0.025613915,0.9743861,True
+Watch Live Manhunt for Canadian Parliament shooting suspect via,rumour,1,1,rumour,0.037999377,0.9620006,True
+"If you're in Ottawa and upset, scared, anxious about today's events, don't hesitate to call 613-238-3311 OttawaShooting",not_rumour,0,0,not_rumour,0.969985,0.030014923,True
+The sad poignant irony of a soldier felled at the foot of the Cenotaph. It is to weep. Remembrance Day will feel different. OttawaShooting,not_rumour,0,1,rumour,0.05449988,0.9455002,False
+My heart goes out to Ottawa and all those who have had violence and sickness force it's way into their lives. LoveForCanada LiveInLove,not_rumour,0,0,not_rumour,0.96888566,0.031114379,True
+Parliament Hill is never going to be the same.,not_rumour,0,0,not_rumour,0.9161846,0.083815366,True
+"Updated Full story on Nathan Cirillo, the soldier killed in Ottawashooting",rumour,1,1,rumour,0.025202822,0.9747971,True
+Police with guns drawn at seen of war memorial shooting.,not_rumour,0,1,rumour,0.08404061,0.9159594,False
+"BREAKING A spokesperson for The Ottawa Hospital confirms that it has received three patients, two of which are in stable condition.",rumour,1,1,rumour,0.030329255,0.9696707,True
+Sending thoughts and prayers to everybody in Ottawa. OttawaStrong CanadaStrong,not_rumour,0,0,not_rumour,0.9653485,0.03465149,True
+OttawaShooting press conference will be held at 2 pm today,rumour,1,1,rumour,0.15437602,0.845624,True
+BREAKING Ottawa Civic Hosp official says TWO NEW PATIENTS are enroute to hospital. 1 w gunshot wounds. Both stable. ottnews,rumour,1,1,rumour,0.026480937,0.973519,True
+We are continually assessing monitoring situation to ensure we can do our jobs in keeping Canadians safe. Ottawashooting,not_rumour,0,0,not_rumour,0.96528316,0.034716886,True
+BREAKING Peter Mansbridge now reporting one suspect shot dead inside Parliament Hill,rumour,1,1,rumour,0.02774289,0.9722571,True
+Canadian media Gunman shot soldier at war memorial.,rumour,1,1,rumour,0.025932675,0.9740673,True
+Thinking of everyone in Ottawa this morning. Thoughts and prayers are with the solider and their family. Canada,not_rumour,0,0,not_rumour,0.9636776,0.036322467,True
+LIVE STREAM CBC News coverage of the OttawaShooting Mobile CBCNN,not_rumour,0,0,not_rumour,0.8843892,0.115610786,True
+The RCMP are asking anyone with pictures or videos of today's events in Ottawa to submit them at the following link,not_rumour,0,0,not_rumour,0.95869267,0.041307304,True
+"""I saw one of the soldiers laying on the ground."" Witnesses depict chaos in OttawaShooting",rumour,1,1,rumour,0.04913079,0.9508692,True
+The soldier killed in Ottawa today is being named as 24-year-old Nathan Cirillo. Latest here,rumour,1,1,rumour,0.024030639,0.9759694,True
+Parliament was stormed by at least one gunman who shot a soldier standing guard at Canada's war memorial. cbcOTT OTTnews,rumour,1,1,rumour,0.024821788,0.97517824,True
+"Cops are running with guns drawn, they're clearing streets in downtown Ottawa, and there are snipers on the rooftops.",not_rumour,0,1,rumour,0.048405956,0.95159405,False
+Ottawa MP Gerry Byrne inside building on lockdown. Says this is tactical team. Live coverage,rumour,1,0,not_rumour,0.89302987,0.10697014,False
+"shooting someone is already bad enough, shooting a soldier guarding a war memorial is just disgusting PrayForOttawa",rumour,1,1,rumour,0.2554365,0.74456346,True
+"If your first response to the ottawashooting is to make a political point, your humanity is sadly and sorely lacking.",not_rumour,0,0,not_rumour,0.96829146,0.031708598,True
+My heart aches for the family of the Canadian Soldier murdered this morning in Ottawa. RIP,rumour,1,1,rumour,0.026556572,0.97344345,True
+IMPORTANT Ottawa police are urging people NOT to tweet the location of police activity in the field. Shooting scene remains active.,not_rumour,0,0,not_rumour,0.9455002,0.05449988,True
+". confirms there were 3 separate shootings. One on Parliament Hill, one at National War Memorial, one at Rideau Centre",rumour,1,1,rumour,0.025035424,0.9749646,True
+"University of Ottawa is in lockdown, classes are cancelled",rumour,1,0,not_rumour,0.6688803,0.33111975,False
+"Police are now investigating three shooting incidents in Ottawa at Parliament, shopping mall and War Memorial.",rumour,1,1,rumour,0.028898302,0.97110176,True
+Sorry you don't understand that is a knock at america and our issues with gun control. No one is minimizing the Ottawa shooting.,not_rumour,0,0,not_rumour,0.9675024,0.032497503,True
+BREAKING NEWS Ottawa police confirm at least 3 separate shooting sites and multiple suspects -,rumour,1,1,rumour,0.028843539,0.9711565,True
+"The game between the Toronto Maple Leafs and Ottawa Senators scheduled for tonight in Ottawa has been postponed, the NHL says.",rumour,1,1,rumour,0.06554499,0.934455,True
+BREAKING 3rd shooting incident reported in ottawa at Rideau Centre Mall,rumour,1,1,rumour,0.036942795,0.9630572,True
+"From Ottawa police, a map of the downtown Ottawa safety perimeter. cbcOTT OTTnews",not_rumour,0,0,not_rumour,0.94407386,0.055926174,True
+Ottawa police correct their info. No shooting at the Rideau shopping centre. Everything now points to one gunman in two locations.,rumour,1,1,rumour,0.026330305,0.97366965,True
+"There is something profoundly sinister about a shooting on Parliament Hill. It is a sacred space, where we use words, not weapons.",rumour,1,0,not_rumour,0.9623913,0.037608635,False
+"Asked police if there is still gunman on loose. Officer ""This is not a safe environment. Everyone should go home. Hug your family."" ottawa",not_rumour,0,1,rumour,0.06966823,0.93033177,False
+"Events like today's in Ottawa are rare, but have an impact on all of us. Here are tips to help you support children",not_rumour,0,0,not_rumour,0.9678993,0.032100707,True
+"MORE Canadian soldier shot at war memorial has died one of three suspected gunmen also dead, police say",rumour,1,1,rumour,0.023916388,0.97608364,True
+just met with cabinet ministers to discuss the shootings in Ottawa today.,not_rumour,0,0,not_rumour,0.89552265,0.10447732,True
+"Ottawa Police Service There were ""numerous gunmen"" at the Canada War Memorial shooting. One person was shot.",rumour,1,1,rumour,0.026657738,0.97334224,True
+I applaud for not speculating and only reporting what is known. American media could use some of this restraint. OttawaShooting,not_rumour,0,0,not_rumour,0.9683214,0.031678624,True
+"Ottawa Mayor Jim Watson says ""it is a sad and tragic day for our city and our country.""",not_rumour,0,0,not_rumour,0.9219218,0.078078166,True
+Our thoughts are with our friends in Ottawa. Stay safe everyone.,not_rumour,0,0,not_rumour,0.9675945,0.032405518,True
+"Please, no partisan commentary about whats happening in Ottawa. Leave the damned politics for another day.",not_rumour,0,0,not_rumour,0.9676251,0.03237491,True
+. tells us what we know right now on the OttawaShooting,not_rumour,0,0,not_rumour,0.947186,0.05281402,True
+CTV News has confirmed the name Canadian authorities provided to U.S. authorities is Michael Zehaf-Bibeau. OttawaShooting,rumour,1,1,rumour,0.030329255,0.9696707,True
+The TTC says it has implemented heightened security across the entire transit system in light of the shootings in Ottawa.,not_rumour,0,0,not_rumour,0.8707622,0.1292378,True
+"List of reporters, MPs, police etc. actively tweeting about the shooting in Ottawa.",not_rumour,0,0,not_rumour,0.96814114,0.031858858,True
+Our thoughts are with all those affected by today's events in Ottawa.,not_rumour,0,0,not_rumour,0.9666631,0.033336822,True
+Frightening events here in Ottawa. Game has yet to be postponed but betting it will be. Schools and malls have been closed,not_rumour,0,1,rumour,0.35239676,0.6476032,False
+OttawaShooting is NOT Canada's 9 11. Let the damn officials figure out what's going on before the American media starts fear-mongering.,not_rumour,0,0,not_rumour,0.9667888,0.033211175,True
+Updated The shooting incident in Ottawa had the appearance of a coordinated attack,rumour,1,0,not_rumour,0.6725468,0.3274532,False
+Our thoughts are with everyone in Ottawa and those affected by today's events. OttawaStrong,not_rumour,0,0,not_rumour,0.96765566,0.032344334,True
+Canadian police warn people in Ottawa to stay away from windows and roofs due to ongoing shooter incident -,not_rumour,0,0,not_rumour,0.95447797,0.045522,True

@@ -5,6 +5,8 @@ matplotlib
 seaborn
 scikit-learn
 transformers
+# For RTX 50-series (sm_120): install torch from cu128 wheels, e.g.
+#   pip install --upgrade torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu128
 torch
 datasets
 openai

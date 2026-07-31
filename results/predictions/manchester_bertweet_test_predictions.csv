@@ -1,0 +1,516 @@
+cleaned_tweet,label,true_label_int,pred_label_int,pred_label,prob_reliable,prob_misinformation,prob_unrelated,correct
+Last week saw the third anniversary of the Manchester Arena attack. The XS Manchester team recognised the day in a poignant poem recital with Ryan Williams,reliable,0,0,reliable,0.99555343,0.0027102714,0.0017362651,True
+"I'm sure the Brits love the US right now, as their evidence and intel keeps showing up in US news outlets.",unrelated,2,2,unrelated,0.0017039394,0.0020077312,0.9962883,True
+Prince William and Theresa May to attend Arena attack memorial service,reliable,0,0,reliable,0.995507,0.0026267627,0.0018662952,True
+A report into the Manchester Arena attack is now calling on the Government to review security measures at all major venues and events across the Country. It comes as the mother of Martyn Hett campaigns in his memory. 4 people from the North East were killed in the attack,reliable,0,0,reliable,0.9953441,0.002878834,0.0017770657,True
+"COME ON EVERYBODY,,,,,,PLEASE KEEP SHAREING.....THIS THING IS PURE EVIL GET HIM CAUGHT amp LOCKED UP BEFORE ANYONE...",unrelated,2,2,unrelated,0.0017853953,0.0021037096,0.99611086,True
+Take That have cancelled tonight's gig,unrelated,2,2,unrelated,0.0041558123,0.0015363211,0.99430794,True
+OneLoveManchester It's been two years since the Manchester Arena attack killed 22 people,reliable,0,0,reliable,0.99540895,0.00284826,0.0017428077,True
+Manchester Arena 22 killed in terror attack at Ariana Grande concert. People should be able to be safe at a...,reliable,0,0,reliable,0.9943393,0.0044805007,0.0011802784,True
+The festival took place two months after 22 people were killed in a terror attack during a concert at Manchester Arena.,reliable,0,0,reliable,0.9953426,0.0029847522,0.0016726599,True
+Manchester Arena bomber filmed scoping out venue in days before terror attack IslamicTerrorism,reliable,0,0,reliable,0.9945913,0.004197791,0.0012109369,True
+"Why more immigrants? London bombs 7-7-2005 MI5 UK Govt., Manchester arena psyop,no bomb,no dead. Sergei Skripal no novichok, psyop. Spy in a suitcase MI5, amp many more. Royals media complicit. I'm serious as hell. Can send links to anyone. Proof is all out there.",misinformation,1,1,misinformation,0.005534054,0.9897417,0.0047242907,True
+Very sad news to have to confirm. RIP Georgina.,unrelated,2,2,unrelated,0.0020314234,0.0016677427,0.9963008,True
+Praying for everyone in Manchester arena right now! Praying it's not a terrorist attack! manchesterarena,reliable,0,0,reliable,0.99537635,0.0030796027,0.0015439915,True
+"""You unbelievers, you see the day you pay the tribute to the Islamic state away and see it soon, God willing.""",unrelated,2,2,unrelated,0.0023671207,0.0017133185,0.9959196,True
+"More blood on your hands, imho.",unrelated,2,2,unrelated,0.0018352245,0.001871421,0.99629337,True
+Suicide Bomb Attack at Manchester Arena 22 Dead and 59Injured,reliable,0,0,reliable,0.9954698,0.002854003,0.0016761443,True
+'Never forget' Kate and William join bereaved families at Manchester terror attack site,reliable,0,0,reliable,0.9954136,0.0027741538,0.0018122416,True
+"Last night's atrocity at 's Manchester concert was an attack on a generation, writes",reliable,0,0,reliable,0.995478,0.0027446905,0.0017773047,True
+"help share, we are still missing one of our students",unrelated,2,2,unrelated,0.002087585,0.0016839869,0.99622846,True
+For some reason the previous 'sources' links didn't work so here they are again p. 86,unrelated,2,2,unrelated,0.0019842526,0.0017717382,0.9962441,True
+"Islam does not seek to co-exist, Islam seeks to dominate, enslave amp eradicate",unrelated,2,2,unrelated,0.0023579455,0.0017000237,0.99594206,True
+"Thank you for the kind words but until you stop the invasion on our southern border, then i can only see a situation where we have more attacks like the Manchester arena attack.",misinformation,1,1,misinformation,0.005816295,0.98968047,0.0045032706,True
+tried to explain to my 17 amp 14 yr old girls what's going on in UK politics as they v angry with Bojo suicide vest comment given local Manchester arena bomb. All I cud really say was GUBU!,reliable,0,0,reliable,0.99516284,0.0033291304,0.0015079015,True
+Complicit Tory Govt - time to boot them out! May -Rudd's are threat to our safety amp security. GE2017,unrelated,2,2,unrelated,0.0018136702,0.0019880405,0.99619824,True
+"THIS is what has told us we must all ""get used to."" Do we agree with this monster? tcot",unrelated,2,2,unrelated,0.0017684348,0.0019009627,0.9963307,True
+Roger Franklin says Manchester Arena bomb should have hit ABC studio via,reliable,0,0,reliable,0.9954331,0.0030468716,0.0015201407,True
+"Bomb reports in Manchester arena Though, I've watched countless videos of the ""explosion"" but I'm hearing what sounds like a baloon popping",reliable,0,0,reliable,0.99518967,0.0033487843,0.0014615476,True
+US media shows evidence from ongoing UK investigation into ManchesterBombing so much for the special relationship,reliable,0,0,reliable,0.994989,0.0035779928,0.0014329896,True
+Reports The Islamic State group says one of its members carried out last night's terror attack at the Manchester Arena.,reliable,0,0,reliable,0.9953761,0.0029674142,0.0016564607,True
+Discussing the Manchester Arena attack is Dr Susan Beards RSMrapidact,reliable,0,0,reliable,0.99552035,0.0026707707,0.0018088996,True
+"For anyone who can breach the Telegraph paywall, this is a good long read ...",unrelated,2,2,unrelated,0.002047256,0.0017005531,0.99625224,True
+Queues forming outside city centre blood donor centre - great to see residents rallying 4 MCR image Steve Holden,unrelated,2,2,unrelated,0.0035156044,0.0015076194,0.9949767,True
+tERROR IN UK Moments inside Manchester Arena right after the explosion on Ariana Grande's concert,reliable,0,0,reliable,0.99487865,0.0038494614,0.0012718993,True
+Teenage girls visibly in tears after hearing the tragic news,unrelated,2,2,unrelated,0.0026688124,0.0015689139,0.9957623,True
+Government 'must review security at UK entertainment venues' after Manchester arena attack,reliable,0,0,reliable,0.99523157,0.0033293602,0.001438949,True
+"She said the attack at Manchester Arena was justified. She isn't meant to be a mother, those who contribute to murder don't deserve life.",reliable,0,0,reliable,0.99544215,0.0029647145,0.0015931083,True
+"The high-security Frankland Prison is one of three in the country with separation centres, dubbed 'jails within jails'.",unrelated,2,2,unrelated,0.0020492687,0.0026649316,0.9952858,True
+Terrorist attack? Like the one that blew up the Manchester Arena killing 22 and maiming countless others - carried out by a refugee? You have blood on your hands you disgusting NIMBY. Any time these invaders commits a crime - its on you.,misinformation,1,1,misinformation,0.0055842083,0.98997235,0.0044434317,True
+"Massive Attack - Risingson Live Manchester Arena, Tuesday 29th January, 2019 via",reliable,0,0,reliable,0.9954692,0.002956122,0.0015745908,True
+Crowdfunding to support families of those killed and injured in the Manchester Arena attack-,reliable,0,0,reliable,0.9954631,0.0025658004,0.0019711135,True
+"How naive stupid are you ?!? She knew exactly what she was doing, she was not trafficked she went of her own free will- and then to top it all shes since said that the Manchester Arena attack was justified ! She can rot in Syria for good for all anyone cares!!",reliable,0,0,reliable,0.98483825,0.014220498,0.0009411549,True
+"Manchester arena UK, Bomb at concert bomb in ticket office.",reliable,0,0,reliable,0.98489445,0.0141382255,0.00096729986,True
+"Lancaster University researcher is leading work designed by amp for young survivors of the Manchester Arena attack. , herself a survivor of the Arena bombings, is working in collaboration with the National Emergencies Trust on Bee The Difference",reliable,0,0,reliable,0.99550617,0.002859687,0.0016341814,True
+"An inquest into the 2017 Manchester Arena terror attack found that MI5 knew that jihadist Salman Abedi, the son of Libyan refugees, had visited an Islamist extremist in prison twice, but did not reopen their investigation into him.",misinformation,1,1,misinformation,0.006191437,0.9896842,0.004124386,True
+Why has terror threat been increased to 'critical' and what is Operation Temperer?,reliable,0,0,reliable,0.99490416,0.0032702715,0.0018255205,True
+"Are you listening America. The Royal Navy ""rescued"" a migrant called Salman Abedi, brought him to Britain. How did he repay us. He carried out the Manchester Arena bomb attack. Killing 22 injuring 800 mostly children. That's gratitude for you.",misinformation,1,1,misinformation,0.005666486,0.98995066,0.004382999,True
+Rob King was inspired by friend Martyn Hett BGT,unrelated,2,2,unrelated,0.0028459313,0.0015870961,0.9955669,True
+Shocking leak of British intelligence passed to Americans in US media - Amber Rudd said this would stop,unrelated,2,2,unrelated,0.0017716476,0.002035175,0.9961932,True
+"That's the crux of it ""rules of engagement"" they are not refugees It is an invitation of 90 fighting age men We are under attack Sink the dinghies amp you watch them stop coming Or do we just wait for the next Manchester arena or London bombings",misinformation,1,1,misinformation,0.0056334944,0.9899706,0.0043959473,True
+"Im pretty sure 99.9 of the people in the uk praised the police for their response in dealing with knife and terror attacks, like the ones at London Bridge and the Manchester arena. What a short memory some people have ....",reliable,0,0,reliable,0.9945498,0.004205822,0.0012444534,True
+"A perplexing night as MassiveAttack bring Mezzanine to , doesn't quite get what he bargained for",unrelated,2,0,reliable,0.9932173,0.002969666,0.0038131264,False
+22 children blown up by a bomb detonated by a refugee rescued from the channel. Manchester Arena.,misinformation,1,1,misinformation,0.005627191,0.9898291,0.0045437077,True
+"Yaya Tour and his agent Dimitri Seluk will donate 100,000 to help the victims of the Manchester Arena attack. NaijaBet",reliable,0,0,reliable,0.9955445,0.002739518,0.0017160216,True
+Man left paralysed by Manchester Arena bomb conquers MountKilimanjaro,reliable,0,0,reliable,0.9950991,0.002998628,0.0019023248,True
+Lack of resources seem to be a significant factor here. Worrying,unrelated,2,2,unrelated,0.0019843937,0.0017006602,0.99631494,True
+"This 10-year-old survivors letter to is beyond beautiful ""I really hope you're not too scared""",unrelated,2,2,unrelated,0.0023489345,0.0016318333,0.9960192,True
+"Security teams at Britain's Manchester Arena 'should have prevented or minimised' the impact of the 2017 bombing attack at an Ariana Grande concert that killed 22 people, a public inquiry has found.",reliable,0,0,reliable,0.9951662,0.003287144,0.0015466833,True
+Dublin stars pay tribute to victims of Manchester terror attack,reliable,0,0,reliable,0.9954732,0.0027770307,0.0017497417,True
+Update! Manchester Arena Attack Death toll rises to 22. Manchester,reliable,0,0,reliable,0.99548584,0.0028989937,0.0016151095,True
+Police say at least 22 people have been killed and another 59 injured in a bomb attack at the Manchester Arena in...,reliable,0,0,reliable,0.9954276,0.0027741927,0.001798164,True
+Vigil for victims of the Manchester Arena attack to be held this evening on College Green,reliable,0,0,reliable,0.9955237,0.0026603674,0.0018159855,True
+"Mostly because they through it away before they arrive. To right she has, last week an illegal migrant exploded a bomb outside an hospital a few weeks before a British Somalian stabbed to death a member of parliament. Another blew up the Manchester arena etc etc etc",misinformation,1,1,misinformation,0.0056660697,0.98987794,0.0044560437,True
+"Held her in his arms, the tragic fight to save Saffie via",unrelated,2,2,unrelated,0.0023650087,0.0016318071,0.9960032,True
+"The depth and beauty of our language, the vast range of human emotion, and the best Trump can do is ""evil losers.""",unrelated,2,2,unrelated,0.0017308265,0.0019498252,0.9963193,True
+Once again reckless media publishing unnecessary details. Still a live investigation. Who leaked the photos?,unrelated,2,2,unrelated,0.0018860709,0.0018351974,0.9962787,True
+Update! 19 people confirmed dead in Horrific attack in Manchester Arena death expected to go up. ManchesterArena ManchesterAttack,reliable,0,0,reliable,0.9954039,0.0029936936,0.0016024087,True
+"Such sad news Ratna Lachman, a tireless amp inspiring campaigner",unrelated,2,2,unrelated,0.0022242328,0.0016193572,0.9961564,True
+"If this is an active policing investigation then it raises questions as to whether the inquiry inquest can continue, to avoid prejudicing a fair trial. We need to hear from",unrelated,2,2,unrelated,0.0021535424,0.0017611064,0.9960853,True
+"NYT photos from crime scene another major leak by US officials of UK intel, despite Home Sec asking for it to stop.",unrelated,2,2,unrelated,0.0017231192,0.002512025,0.99576485,True
+Why is not offering her resignation?,unrelated,2,2,unrelated,0.0021409136,0.0017958015,0.9960633,True
+I just have to share this it makes my heart sing proving that kindness is always repaid somehow...,unrelated,2,2,unrelated,0.0019271657,0.0017241293,0.9963486,True
+Thousands flee in terror after loud bangs at Ariana Grande concert... Developing... RT via news,reliable,0,0,reliable,0.9952786,0.0031034516,0.0016179302,True
+The kind of day where I can't handle twitter but also can't stop scrolling. Recaps help me the most,unrelated,2,2,unrelated,0.002235046,0.0016415945,0.9961234,True
+"A report has revealed that the Manchester Arena Explosion at the Ariana Grande concert COULD'VE been prevented by MI5. I dont want this to be a race religion related tweet, but if youre on a Terror Watch List, why the hell are you still in the UK? Youre on the list for a reason!",reliable,0,0,reliable,0.98803514,0.011029804,0.000935034,True
+A public inquiry is about to decide whether the security services dropped the ball and should have prevented the atrocity that claimed 22 lives,unrelated,2,2,unrelated,0.0032266702,0.001620888,0.9951525,True
+Ariana Grande EMOTIONALLY speaks out about being made an honorary citizen of Manchester following the horrific,reliable,0,0,reliable,0.9951491,0.0033193454,0.0015316262,True
+Jihadi threatened Manchester Arena terror attack HOUR BEFORE explosion Terrorism,reliable,0,0,reliable,0.9897905,0.009336384,0.00087309594,True
+Hero cop alerted to terrorist 'praying' 32 minutes before Manchester Arena bomb detonated killing 22. A Middle Eastern guy with a rucksack praying at a pop concert didnt ring any alarm bells,reliable,0,0,reliable,0.99378705,0.0051090587,0.0011038329,True
+How utterly devastating for Saffies family,unrelated,2,2,unrelated,0.0028184392,0.00155649,0.9956251,True
+still missing people from Manchester Arena attack they are all in my prayers love ya guys xx,reliable,0,0,reliable,0.9954354,0.0025308896,0.002033627,True
+I also believe one of those killed was one of those gay fans amp it seems a fitting way to remember him. RIP Martyn Hett amp the 21 others so wrongly killed,unrelated,2,2,unrelated,0.0023719461,0.0016254443,0.9960026,True
+Your mate Merkel is letting thousands more into Europe. So yeah - dread it pal.,unrelated,2,2,unrelated,0.0015221669,0.0133305285,0.9851473,True
+"I mean, this story makes it sound as if the NYT just stumbled on the photos",unrelated,2,2,unrelated,0.0018642114,0.0017962996,0.99633956,True
+Warrington's has help to facilitate messages of hope and kindness,unrelated,2,2,unrelated,0.0027883921,0.0015626195,0.99564904,True
+The fake news is in the fact that someone claimed there was a gunman there when there wasnt. Council confirmed gt,unrelated,2,1,misinformation,0.008167364,0.9864291,0.0054035718,False
+'The 14 missing from the Manchester Arena terror attack' MissingInManchester Hoping they're found safe and well,reliable,0,0,reliable,0.9954917,0.0026602817,0.0018481299,True
+President of Turkmenistan extends condolences to UK Government over Manchester Arena attack,reliable,0,0,reliable,0.9954958,0.002834634,0.0016696531,True
+You only get infamy if you bomb places like Manchester arena or carry out attacks on London bridge,reliable,0,0,reliable,0.9933077,0.005553993,0.001138323,True
+"And the Libyan who bombed Manchester arena in 2017 was known to them as well, and his father veteran terrorist was granted asylum 25 yrs ago with his connection to Turkey amp Qatar ..",misinformation,1,1,misinformation,0.0052764723,0.98992854,0.004794908,True
+There are some serious red flags in this report.,unrelated,2,2,unrelated,0.0020233437,0.0017544815,0.99622214,True
+Theresa May Threat level remains at severe,unrelated,2,2,unrelated,0.0027883404,0.00158101,0.9956306,True
+"There is a faction on the left powerful in student politics that does everything it can to identify any counter terror activity, such as Prevent, with racism. Isnt this why the guards at Manchester Arena were scared to approach a clearly threatening man outside a pop concert?",reliable,0,0,reliable,0.9940142,0.0047493204,0.0012365167,True
+It's a common misconception that Abedi was a refugee. He was evacuated from Tripoli along with 'other British citizens'.,misinformation,1,1,misinformation,0.0053277267,0.9898308,0.004841485,True
+"Our thoughts are with the victims family, friends and those affected by the Manchester Arena attack last year. We're proud to be part of a city that came together to show love and strength in the face of such tragedy ManchesterTogether OneLove",reliable,0,0,reliable,0.99535793,0.002878874,0.0017632609,True
+"RIP to the people who were suppose to have a great night, turned into a tragedy prayformanchester",reliable,0,0,reliable,0.9952135,0.002575197,0.002211304,True
+They have them in police army intel everywhere yet more immigrants. Importing amp living on welfare. This is sick.,misinformation,1,1,misinformation,0.0047125528,0.98921275,0.0060747205,True
+Celebrating my birthday in Manchester as news of the Manchester Arena bomb broke.,reliable,0,0,reliable,0.9954958,0.00272338,0.0017808112,True
+I was asked to present Radio 4's Thought for the Day on the morning after the Manchester Arena bomb. I still stand by what I said.,reliable,0,0,reliable,0.9955201,0.0026603579,0.0018195293,True
+Boxer Amir Khan is slammed for GMB appearance,unrelated,2,2,unrelated,0.0033912065,0.001525554,0.9950832,True
+Latest News Manchester Arena attack Anniversary to be marked in city,reliable,0,0,reliable,0.9955843,0.002665731,0.0017499371,True
+Fraudster faked Manchester arena attack daughter to make insurance claim - Sky News,reliable,0,0,reliable,0.99526113,0.003161517,0.0015773394,True
+Latest on the barbaric attack which left 22 dead and 60 walking wounded WeStandTogether,reliable,0,0,reliable,0.99474925,0.0023482319,0.0029025122,True
+Strong and stable leaking ship.,unrelated,2,2,unrelated,0.0020631042,0.001785468,0.9961514,True
+"cant believe its been 2 years since the manchester arena attack. thinking of the 22 angels that lost their life that night. you will never be forgotten. sending my love to everyone affected, to everyone that lost a loved one that night and to",reliable,0,0,reliable,0.9953644,0.0027659016,0.001869676,True
+"After raising 40,000 in 2018, the teenager was awarded the NHS' Young Fundraiser Award from Louis Tomlinson.",unrelated,2,2,unrelated,0.0037086522,0.0015672782,0.9947241,True
+"The Manchester Arena bomber's brother, Ismail Abedi, was due to give evidence to an inquiry on Thursday but has now left the country. presents some of the unanswered questions about the terror attack that shook the UK.",reliable,0,0,reliable,0.9954314,0.0028427667,0.0017259099,True
+"Stephen Crocker, the CEO at the Norwich Theatre Royal. Picture DENISE BRADLEY ncfc norwich",unrelated,2,2,unrelated,0.0037891036,0.0015101479,0.9947008,True
+Why are we still talking about this. I do believe at 15 you might not know your mind fully however she has no remorse and thinks the Manchester arena attack was justified and wasnt fazed with seeing heads in bin. Of course shes wanting to return to cushy UK,reliable,0,0,reliable,0.9944648,0.004343198,0.0011920115,True
+Never Forget The Manchester Arena Terror Attack 4yrs On Yesterday,reliable,0,0,reliable,0.9954537,0.0028960707,0.0016501313,True
+Wow US Intel depts leak worse than the titanic. Or did we tell Donald,unrelated,2,2,unrelated,0.0019491374,0.0020829665,0.99596786,True
+Read...and read again. Katie Hopkins Our society is sick - and I fear it's terminal,unrelated,2,2,unrelated,0.0019766262,0.0017240441,0.9962993,True
+"vrai777 mashable No, this is not a picture of Ariana Grande after Manchester Arena attack",reliable,0,0,reliable,0.99528474,0.0033068552,0.001408439,True
+Ariana pays tribute to ManchesterArena attack victims,reliable,0,0,reliable,0.9954573,0.0029245014,0.0016182207,True
+So as well as being ashamed we are also racist?? I do hope the victims of the Manchester Arena attack arent reading your tweets. Disgraceful!,reliable,0,0,reliable,0.9954875,0.0029561764,0.0015562748,True
+Difficult times... If your business is in a high risk area our advice is to check your insurance policy to see...,unrelated,2,2,unrelated,0.0022525506,0.0016351764,0.9961123,True
+Dreadful piece in by These are signs of being a moody teenager not an extremist lol,unrelated,2,2,unrelated,0.0019158632,0.0017580949,0.996326,True
+"Following last months devastating attack on the city, we are now working towards re-opening in early September.",reliable,0,0,reliable,0.9952106,0.0028756382,0.0019137183,True
+"""A 22-year-old British man whose parents had emigrated from Libya was identified by the police on Tuesday as the...",unrelated,2,2,unrelated,0.0029522092,0.001924795,0.99512297,True
+GCHQ needs to get its priorities right we know who our enemies really are - DO THEY?,unrelated,2,2,unrelated,0.0019193558,0.001885912,0.9961947,True
+Sir Paul McCartney's gift to Manchester Arena bomb family,reliable,0,0,reliable,0.9955117,0.0026864426,0.0018018318,True
+Pep Guardiola rushed to Manchester Arena to find family after terror attack,reliable,0,0,reliable,0.9954384,0.0028289398,0.001732677,True
+PM to Nato meeting today. She'll confront Trump over US security leaks.,unrelated,2,2,unrelated,0.0019569756,0.0019684758,0.99607456,True
+"The cost of legal aid for their appeals when they are refused asylum. 3 Oct 2020 Manchester Arena terror attack families' fury at 350,000 legal aid for terror plotter Hashem Abedi. Thats just one research others",misinformation,1,1,misinformation,0.005464948,0.9898698,0.004665297,True
+"TheSun ""RT DefenceHQ The Millies nominees visited Number10gov this morning ahead of the awards ceremony tonight. Winners will be announced here from 7.30pm, learn about those nominated",unrelated,2,2,unrelated,0.0048501045,0.001618248,0.99353164,True
+ISIS take for huge in ! The left for,unrelated,2,2,unrelated,0.0022854805,0.0017370048,0.9959776,True
+"Here's a real charmer of a ""refugee""",misinformation,1,1,misinformation,0.0049933703,0.9894741,0.0055325576,True
+Katie Hopkins Our society is sick - and I fear it's terminal via right again Katie,unrelated,2,2,unrelated,0.0020835064,0.0016905735,0.99622595,True
+"Thursday's report, the third volume of the inquiry's findings, consists of an open document and a closed document containing material which ""would be damaging to national security if it were to become public""",unrelated,2,2,unrelated,0.0025365283,0.0017570017,0.9957065,True
+"""She's gone isn't she"" In what warped fucking mentality is this is any way right or justified. Bastard!",unrelated,2,2,unrelated,0.001771899,0.0018935589,0.99633455,True
+You're a virtue signalling cuck. Stand down you are destroying this nation for our children you fat bitch.,unrelated,2,2,unrelated,0.0015543422,0.002250539,0.9961951,True
+"22 dead, 120 injured in suicide bomber attack at Manchester Arena and three victims named - live...",reliable,0,0,reliable,0.99540097,0.0027072113,0.0018917846,True
+Islam is a religion of peace and of beauty that teaches followers to be good to all people of any faith or none.,unrelated,2,2,unrelated,0.0025589408,0.0017264008,0.9957146,True
+"I like to think Ive come far since the Manchester Arena Attack. Jumping at every noise, overwhelming anxiety at new attacks, crying with fear each time the threat level changed. Gosh at one point I remember saying theyre coming for me. I hated large crowds....",reliable,0,0,reliable,0.9949055,0.0037057078,0.0013887846,True
+"Twas a concert taking place at the Manchester arena where 22 innocent people lost their lives, because Salman Abedi planted a bomb there he was a asylum seeker rescued by the British Army, Gary should think it could have been one of he's family members at the concert god forbid",misinformation,1,1,misinformation,0.005578545,0.9899346,0.0044868663,True
+Enquire into the Manchester Arena attack focuses on MI5 No questions asked about UK policy of bring in religious fundamentalist 'refugees' from dangerous countries? I wonder why?,misinformation,1,1,misinformation,0.005573155,0.98994434,0.0044825305,True
+Manchester Arena Inquiry Police chief admits bomb response failings - British Transport Polices gold commander tells the Manchester Arena Inquiry his force made mistakes. BBC News NewsATW,reliable,0,0,reliable,0.99542445,0.0029762653,0.0015993151,True
+"22 children blown up and murdered by a bomb detonated by a migrant rescued from the channel. Their blood on the Care4Calais hands. Never forget, never forgive. Manchester Arena.",misinformation,1,1,misinformation,0.0054121516,0.98992693,0.0046610124,True
+Thank You Shiraz and Aaliyah from who brought these lovely cakes for the ward staff after last nights Iftar where they fed 50 staff and patients such a lovely gesture to commemorate the Manchester Arena attack Ramadan Community LoveManchester,reliable,0,0,reliable,0.9954052,0.0029415337,0.0016532768,True
+ManchesterBombing Random Acts of Kindness Follow Attack ...,reliable,0,0,reliable,0.995376,0.0030526535,0.0015713712,True
+Manchester Arena attack Relatives hunt for missing loved ones TopStories,reliable,0,0,reliable,0.99551046,0.0026012445,0.0018883011,True
+22 children blown up by a migrants bomb in Manchester arena.,misinformation,1,1,misinformation,0.005512572,0.9897585,0.004728987,True
+tMancheser has a sense of identity ahtt you dont find elsewhere. Its a city that takes you in,unrelated,2,2,unrelated,0.0020713178,0.001710488,0.99621814,True
+Tomorrow at 10am on sale !!!,unrelated,2,2,unrelated,0.0021704482,0.0017372051,0.9960924,True
+Martyn in the park Martyn Hett ........ Image Dan Hett,unrelated,2,2,unrelated,0.002524656,0.0015783473,0.99589705,True
+"UPDATE Police in England confirm 19 fatalities, 50 wounded in possible terrorist attack at Manchester Arena.",reliable,0,0,reliable,0.9954554,0.002884785,0.0016598313,True
+Manchester Arena 'terror attack' on concert goers an easy target,reliable,0,0,reliable,0.99525166,0.003281012,0.0014673593,True
+Hashem Abedi - the brother of the man who blew himself up in the Manchester Arena terror attack killing 22 people including five from the North East - has been jailed for life with a minimum of 55 years. HeartNews,reliable,0,0,reliable,0.9952734,0.0031400176,0.0015866283,True
+The Speaker has granted a UQ to on the Kerslake review of the Manchester Arena attack.,reliable,0,0,reliable,0.99553066,0.002812673,0.0016567179,True
+"1 we r full 2 which councils do not have a social housing waiting list. 3 our experience with immigrants not integrating, 4 Ask the dead of ..Bridges of London, Westminster Bridge , Manchester arena, Parson Green, 7 7, Lee Rigby, PC Palmer For God sake stop importing terror.",misinformation,1,1,misinformation,0.006035543,0.9895746,0.0043899,True
+Man arrested in connection with terror attack Sent via bring back the death penalty,reliable,0,0,reliable,0.9951792,0.0023492468,0.002471625,True
+Uttalande av Inter Faith Network i Storbritannien interfaith manchesterattack,reliable,0,0,reliable,0.9954216,0.0028151127,0.0017633737,True
+"Most accurate thing I've read all day, perfectly sums up my feelings",unrelated,2,2,unrelated,0.0020873654,0.0017889088,0.99612373,True
+"""Those that spread winds collect storms""",unrelated,2,2,unrelated,0.0024732503,0.0016932114,0.9958335,True
+BBC News - Manchester Arena Inquiry Police chief admits bomb response failings.,reliable,0,0,reliable,0.9954788,0.0029619297,0.0015593038,True
+"It was a pleasure to film an interview with Millies nominee ex-Royal Marines Commando who survived Afghanistan only to lose his leg to flying debris on a UK motorway after he stopped to help a stranger who had crashed. His story, here",unrelated,2,0,reliable,0.98896027,0.0042646714,0.0067751105,False
+Shocking. Who had access? Who leaked this to NYTimes?,unrelated,2,2,unrelated,0.0017892827,0.001878818,0.9963319,True
+Five people from the North East were among those who died,unrelated,2,2,unrelated,0.0028766505,0.001562481,0.9955609,True
+Just in case u are being told it's breaking news it ain't,unrelated,2,2,unrelated,0.0020834438,0.0017205017,0.99619603,True
+The Sun Coronation Street and Emmerdale stars pay tribute to victims of Manchester attack five years on CORONATION Street and Emmerdale stars have paid tribute to the victims of the Manchester Arena bombing five years on. ..,reliable,0,0,reliable,0.99544334,0.0028069387,0.0017496892,True
+All the latest on the devastating 'terror attack' at Manchester Arena which has killed at least 19 people,reliable,0,0,reliable,0.9954325,0.002733865,0.0018336386,True
+"Wayne Rooney, Rio Ferdinand lead",unrelated,2,2,unrelated,0.003781464,0.0015825183,0.994636,True
+A mayor from across the pond to run marathon in memory of Manchester Arena attack victims via,reliable,0,0,reliable,0.99547297,0.0028735886,0.0016533893,True
+"""c ya laterrrr I made a hypertext game about losing my brother in the Manchester Arena terror attacks six months ago.""",reliable,0,0,reliable,0.99553573,0.0027075778,0.0017567003,True
+Check out the Manchester Arena bomb people queued up to have the worker bee tattooed,reliable,0,0,reliable,0.9955349,0.0027288115,0.0017362328,True
+Thoughts are with everyone affected in the Manchester Arena MEN Arena terrorist attack. Stay strong Manchester PrayforManchester,reliable,0,0,reliable,0.9953614,0.0030855772,0.0015530414,True
+"is very Fake News Media, it says Sikh drivers are Muslim drivers.",unrelated,2,2,unrelated,0.0018747346,0.0020152286,0.99611,True
+"Contempt. That is what is shown to the British people and I mean English, Welsh, Irish amp wayward Scottish. NOT fake 'citizens' nor blagger interloper 'Brits'. Godbless the decent among you .",unrelated,2,2,unrelated,0.002940489,0.12405976,0.8729997,True
+Fantastic to have DNRC ambassadors and nominated for the Overcoming Adversity category at tonights Millies awards for their achievement in completing the challenge for the DNRC. Best of luck tonight!,unrelated,2,2,unrelated,0.003296512,0.0016207744,0.99508274,True
+"In lt 3 days, USG has major damage to 2 of its closest intelligence partners, Israel amp UK.",unrelated,2,2,unrelated,0.0020150477,0.0019645283,0.9960205,True
+Extraordinary access and reportage by and,unrelated,2,2,unrelated,0.0025170492,0.0016734446,0.99580956,True
+She's right. Another sick Jihadist murders innocents in the country that has given him everything and what do we...,unrelated,2,2,unrelated,0.0015479196,0.0024905356,0.9959616,True
+Manchester LOCKDOWN ISIS claim Ariana Grande terror attack amid 2 new threats across city DEAL WITH THIS SCUM GOVT?,reliable,0,1,misinformation,0.014535141,0.98235047,0.003114417,False
+"American pro-gun commentator uses the Manchester Arena attack as an argument in favour of guns, because one stopped the killers. The attack was perpetrated by a suicide bomber. We should all be thankful they didnt have ready access to firearms.",reliable,0,1,misinformation,0.17172714,0.8260932,0.0021797444,False
+"The Grandparents of teenager Olivia Campbell Hardy, who died in the Manchester Arena attack, say today is justice for Manchester and justice for the survivors. The bombers brother Hashem Abedi has been sentenced to a minimum of 55 years for his involvement HeartNews",reliable,0,0,reliable,0.9953461,0.003019946,0.0016339186,True
+"This reminds me of the 7 7 attacks,there were people,who came out and justified the murders, because the West had ""insulted Islam"" the same with Lee Rigbys murder,and then the Manchester Arena attack happened, because the security services were too scared to stop the bomber .",misinformation,1,0,reliable,0.99115926,0.007919162,0.0009216465,False
+"Watched the last 15 minutes of FourDaysThatShookBritain and honestly it still doesnt seem real that I was there for the Manchester arena attack... my heart will forever be with everyone affected if anyone needs a chat, my dms are open",reliable,0,0,reliable,0.9954087,0.002793169,0.0017981299,True
+"Our very own Hollie Booth - Still fighting, Still making people proud amp still doing it for Kelly. So much love to all of you xx",unrelated,2,2,unrelated,0.0022902372,0.0016066692,0.99610305,True
+Saffie's Rose NOW AVALIABLE TO BUY. Deliveries are from Dec-Mar2019 Nearing 1Third of the 'limited'2000 already sold. It is expected to be hugely popular Anniversary2019 so early purchase advised are the beneficiaries who support many families,unrelated,2,2,unrelated,0.002834387,0.0017564769,0.9954091,True
+"Love him or hate him, he's ALWAYS in the news Get more articles like this at",unrelated,2,2,unrelated,0.0020077112,0.0017139358,0.99627835,True
+"Manchester Arena bomber Salman Abedi's brother was found with ISIS propaganda and extremist images almost two years before attack, inquiry hears via",reliable,0,0,reliable,0.99476624,0.00395959,0.0012742421,True
+"The right wing, who have yet to plant a bomb, are only growing because you and your government have failed to stop illegal immigrants. It is costing this country billions a year just on accommodation. That is before they get legal aid or commit crimes such as the Manchester arena",misinformation,1,1,misinformation,0.0055891685,0.9898846,0.004526247,True
+"Arena attack Some UK shows cancelled, others defiant, as insurance premiums set to rise",reliable,0,0,reliable,0.9953904,0.0028150245,0.0017945883,True
+Manchester Arena attack Archive of tributes 'amazing to see',reliable,0,0,reliable,0.9955413,0.0026319886,0.0018266896,True
+Terrible news! Manchester Arena attack 22 dead and 59 hurt -,reliable,0,0,reliable,0.9955586,0.002603912,0.0018374562,True
+auspol altright Manchester's Arndale shopping centre 'evacuated' as shoppers flee in panic My God this is awful!,reliable,0,0,reliable,0.9944494,0.003836544,0.0017141339,True
+"We spoke about the Manchester Arena Attack Report, singing in churches, the campaign and how congregations have remained faithful through Covid.",reliable,0,0,reliable,0.99540305,0.0027125098,0.0018844133,True
+"""I will call them, from now on, losers because that's what they are losers.""Trump's got this one right.",unrelated,2,2,unrelated,0.0018173684,0.0019008694,0.9962818,True
+Was it any of them?,unrelated,2,2,unrelated,0.002265433,0.0017781588,0.99595636,True
+'s account is temporarily unavailable because it violates the Twitter Media Policy. Learn more.,unrelated,2,2,unrelated,0.0026687712,0.0015842859,0.9957469,True
+Image copyright PA Image caption The public response was praised in a report into the Manchester Arena attack Charities have called for compulsory first aid training in schools...,reliable,0,0,reliable,0.99551165,0.002675969,0.0018124202,True
+The amazing work of the wonderful captured here Child survivors of Manchester Arena attack re-traumatised by poor support,reliable,0,0,reliable,0.99551755,0.002739444,0.0017429979,True
+Prince Charles and Camilla Stand in Exact Spot Where Suicide Bomb Was Detonated at Manchester Arena celebrity go,reliable,0,0,reliable,0.9953543,0.003146412,0.0014993802,True
+"In what way did it make the U.K. safer, there were no suicide bombers in the U.K. before the war on terror, 7 7, Manchester arena etc etc all have root cause in U.K.military occupying other countries",reliable,0,1,misinformation,0.0092809405,0.9872814,0.003437687,False
+"22 dead, 59 injured in suicide bomber attack at Manchester Arena and now Arndale evacuated -",reliable,0,0,reliable,0.99538726,0.0028426405,0.0017702143,True
+Help thise you love affected by traumatic events. ptsd,unrelated,2,2,unrelated,0.0036838925,0.0014553682,0.9948607,True
+"For all people may think of the PM I think this is a great, dignified, informed response. Well done",unrelated,2,2,unrelated,0.0018972341,0.0017822866,0.9963205,True
+"The blood, the sound, the body partsit will never leave my mind Witnesses tell of horrific scenes, shrapnel...",unrelated,2,2,unrelated,0.0022969483,0.0016035285,0.9960995,True
+"Points to a massive failure to do their job amp keep public safe. Those responsible should be sacked, no compensation, no pension.",unrelated,2,2,unrelated,0.0018388458,0.0018496518,0.9963115,True
+Holiday Inn Express say no unaccompanied children were taken to hotel,misinformation,1,1,misinformation,0.0051583145,0.98974353,0.0050982186,True
+"TarekFatah - BREAKING Hashem Abedi, brother of Manchester arena terror bombing suspect Salman, pleads not guilty to 22 counts of murder. 22 people were killed in May 2017 at an Ariana Grande concert. Background Threa",reliable,0,0,reliable,0.9948384,0.0037454772,0.0014160805,True
+"I see anything about the Manchester Arena attack and just uncontrollably cry, and its been nearly 5 years.",reliable,0,0,reliable,0.9955129,0.0025987118,0.0018883056,True
+The MOD will support Kent officers from today,unrelated,2,2,unrelated,0.0031614483,0.001599018,0.9952395,True
+The ex-head of Manchester's fire service says police are to blame for the two-hour delay in firefighters attending the scene of the city's arena terror attack,reliable,0,0,reliable,0.99532014,0.0030554645,0.0016243304,True
+the bomb explode in the. Ariana grande show in Manchester arena,reliable,0,0,reliable,0.99354184,0.0053843833,0.0010737939,True
+"The memorial titled the Glade of Light is a white marble halo, which holds the names of the 22 who were killed",unrelated,2,2,unrelated,0.0040049283,0.0015607132,0.9944344,True
+Manchester Arena terror attack Report rules 'oversights' and poor communications sparked confusion and delays via,reliable,0,0,reliable,0.99548066,0.002793371,0.0017259952,True
+"Manchester Arena has now reopened. Support is still available for all those affected by the attack in May, visit",reliable,0,0,reliable,0.99553776,0.002660405,0.0018018789,True
+"Lighten up, Morrissey. Bullet-proof politicians need to speak truth",unrelated,2,2,unrelated,0.0019233803,0.0017410264,0.9963356,True
+My mate helped saved his life about 20 years ago. Meat was touring amp had a heart attack at Manchester Arena. Buddy was deputy GM at time came to rescue with combination CPR amp swift 999 response.,reliable,0,0,reliable,0.9954045,0.0029129456,0.0016825941,True
+Two Hull women who were at Manchester Arena during the explosion have described the terrifying aftermath,reliable,0,0,reliable,0.9955031,0.0028401965,0.001656672,True
+"Still now, the response to the worst of humanity reveals the best of humanity.",unrelated,2,2,unrelated,0.0021621133,0.0016871474,0.99615073,True
+Manchester bombing latest Five terror attacks foiled in last 10 weeks as security services,reliable,0,0,reliable,0.98824304,0.010496132,0.0012609509,True
+The sad news goes on.... The boyfriend of Martyn Hett has confirmed he died in the Manchester Arena attack,reliable,0,0,reliable,0.9955018,0.0025384845,0.001959674,True
+Manchester attack latest Fears of second plot with soldiers to guard Buckingham Palace and Downing Street -...,reliable,0,0,reliable,0.9952533,0.0027253767,0.002021376,True
+Manchester Arena Concert Explosion Attack Exposed False Flag made before... via,reliable,0,0,reliable,0.99480337,0.0038793597,0.0013173103,True
+"Let me remind you that the Manchester arena bomber was an asylum-seeker from Libya, And you can pretty much guarantee that in the next few years there will be another terrorist attack and it will turn out that those who committed the attack came here via France in a dinghy.",misinformation,1,1,misinformation,0.0058170008,0.98980063,0.004382335,True
+Hmmm same town in England,unrelated,2,2,unrelated,0.0026502793,0.0017195246,0.99563026,True
+Ariana Grande pays tribute to ManchesterArena attack victims on third anniversary of bombing,reliable,0,0,reliable,0.99526864,0.0032144655,0.001516924,True
+Our hearts go out to those affected by the attack at Manchester Arena last night,reliable,0,0,reliable,0.9954554,0.002678432,0.0018661985,True
+This is the sixth time the government was warned about this person.,unrelated,2,2,unrelated,0.002217641,0.0016641836,0.9961182,True
+RIP DC McIver and all victims of the Manchester Arena terrorist bomb. God bless.,reliable,0,0,reliable,0.99551964,0.0028236504,0.0016566995,True
+"Leaders of the World, do something!",unrelated,2,2,unrelated,0.002196043,0.0017069429,0.996097,True
+"BBC NEWS UK "" Manchester Arena attack Senior officers 'may not have read new terror plan' """,reliable,0,0,reliable,0.99552804,0.0027826133,0.0016893892,True
+So many children. So many tears.,unrelated,2,2,unrelated,0.0018067432,0.00191577,0.9962775,True
+- Manchester Arena bomb family 'living the best lives they can' or,reliable,0,0,reliable,0.99551964,0.0027609353,0.0017193336,True
+I mean!!! Well done boys. Now what's your 19 gonna be? ....,unrelated,2,2,unrelated,0.0019382811,0.0018208467,0.99624085,True
+If you're in the UK worry about your own problems.,unrelated,2,2,unrelated,0.002047256,0.0017005531,0.99625224,True
+"Like after the Manchester Arena Bombing where Abedi blew up 22 White girls.What's the Woke response .love not hate ? Oh people are worried about the rise in Islamophobia? Really, how about be worried about another attack on children. How about we shut the borders 4 protection",misinformation,1,1,misinformation,0.0061426945,0.989594,0.004263239,True
+WATCH LIVE Officials provide update on victims of Manchester Arena attack,reliable,0,0,reliable,0.9955415,0.0027690968,0.001689412,True
+"Manchester is full of nothing but love today. At 2.30pm, well be joining our city and the nation with a minute's silence to remember all those affected by the Manchester Arena attackWeLoveMCR",reliable,0,0,reliable,0.9954354,0.0028819111,0.0016826463,True
+via Twitter Jihadi threatened Manchester Arena terror attack HOUR BEFORE explosion,reliable,0,0,reliable,0.9915605,0.0075264284,0.0009130594,True
+sad...! May Allah protect everyone...!,unrelated,2,2,unrelated,0.0020997643,0.0017137777,0.99618644,True
+Memorial to victims of Manchester Arena attack officially opens topublic,reliable,0,0,reliable,0.99554247,0.0027448682,0.0017126697,True
+Its been a privilege to witness the enduring courage and love of the families despite unimaginable loss,unrelated,2,2,unrelated,0.0022547247,0.0016447661,0.99610054,True
+Yeah let's keep letting unvetted refugees into the country so this can happen more often here! Where are the so-called moderate Muslims in Outrage over this? BBC News - Manchester Arena attack 'could have been stopped',misinformation,1,1,misinformation,0.0055298298,0.9899525,0.0045177247,True
+FRENCH President Emmanuel Macron said he was dismayed over the shocking news 22 people had been killed and sco...,unrelated,2,2,unrelated,0.0035086013,0.0015554127,0.994936,True
+Aaron will be doing the 10k at Stanley Park in memory of Jane Tweddle,unrelated,2,2,unrelated,0.002684519,0.0015446034,0.9957709,True
+Why on earth are they not guarding London better? I thought lots of military were placed on UK streets after the Manchester Arena attack,reliable,0,0,reliable,0.99478865,0.0039519533,0.001259425,True
+A 24 yo man's been arrested by police investigating the Manchester Arena terror attack. HeartNews,reliable,0,0,reliable,0.99547005,0.0029676943,0.0015623386,True
+Part of it had to with the obligation to take in refugees without being able to vet them to their satisfaction. There have a number of violent attacks propagated by Islamic terrorists. Remember? The knife and vehicle attacks too?,misinformation,1,1,misinformation,0.005644006,0.9898825,0.0044735046,True
+Location of the Manchester Arena attack breakingnews news,reliable,0,0,reliable,0.995535,0.002704933,0.0017601335,True
+This is a new low,unrelated,2,2,unrelated,0.0023623842,0.001767617,0.99586993,True
+Thorough run-down of response to the Manchester arena attack. Some valuable lessons to be learned here.. Firefighters were held back for two hours following Arena attack,reliable,0,0,reliable,0.995465,0.0028848127,0.00165015,True
+Why would US leak all of this to the press now against the wishes of UK security forces who say it harms operation?,unrelated,2,2,unrelated,0.0018422706,0.0019382396,0.99621946,True
+History of terror UK is no stranger to attacks The death toll in the Manchester Arena attack BCSIN BajaSur,reliable,0,0,reliable,0.99543494,0.0028790967,0.0016859351,True
+Government 'must review security at UK entertainment venues' after Manchester arena attack news,reliable,0,0,reliable,0.99528044,0.0032492208,0.0014702706,True
+Clocking in late with the news from 2017. Devastated. An American candle for Ariana Grande the the victims of the Manchester Arena Attack.,reliable,0,0,reliable,0.99539727,0.0030736583,0.0015290189,True
+Manchester Arena attack First plant identified as 18-year-old college student worldnews,reliable,0,0,reliable,0.9953133,0.003046505,0.0016402595,True
+"No, this isn't fake news",unrelated,2,2,unrelated,0.0017996024,0.0019764767,0.9962239,True
+"now have ""waded in"" re ""intelligence, law enforcement and security partners"" ""trust is breached""",unrelated,2,2,unrelated,0.0021037536,0.0017646316,0.99613166,True
+"Brexit talks to begin week of June 19, says EUs chief Brexit negotiator",unrelated,2,2,unrelated,0.00491665,0.0015962025,0.9934871,True
+. 1 2 We sing in the shelters b c the shelters are really boring,unrelated,2,2,unrelated,0.0021790052,0.0017003284,0.99612063,True
+There is also nothing Liberal about beheading people Choseing to join a group that kills innocent people I had a freind and cousin at the Manchester arena attack no terrorist deserves the same rights as law abiding citizens,reliable,0,1,misinformation,0.014003552,0.9831639,0.0028325191,False
+"Britain's threat level has been raised to its highest level, indicating another Iraqi War may be imminent",unrelated,2,2,unrelated,0.0023083282,0.0025056663,0.99518603,True
+"BREAKING NEWS A man who survived the July 7 terror attacks took his life in the wake of the Manchester Arena bombings, a friend has said.",reliable,0,0,reliable,0.9954462,0.0027661289,0.0017876921,True
+NEW YORK TIMES Horrible morning of death....it happened at night,unrelated,2,2,unrelated,0.002488019,0.0015845731,0.9959274,True
+So much human goodness compensates for the inevitable racist blabbing in the right-wing press.,unrelated,2,2,unrelated,0.0018139867,0.0018139867,0.9963721,True
+check the video inside this article....,unrelated,2,2,unrelated,0.0021832848,0.0016871117,0.99612963,True
+There are no words once again for this horrific cowardice and senseless tragedy! My thoughts and prayers are...,unrelated,2,2,unrelated,0.0020794286,0.0017004982,0.99622005,True
+Great peice by but how do we beating these animals? When you don't know who they are before its to late!,unrelated,2,2,unrelated,0.001771899,0.0018935589,0.99633455,True
+On the anniversary of the Manchester arena attack,reliable,0,0,reliable,0.995507,0.002777125,0.0017159568,True
+Blackpool Gazette did a story on the Tony Walsh gig at Bootleg Social Thank you Lucinda Herbert blackpool Tickets available from Skiddle,unrelated,2,2,unrelated,0.0029937772,0.0015745314,0.99543166,True
+Libyan asylum seeker. You think our Government would have learnt its lesson after the Manchester Arena terrorist attack.,misinformation,1,1,misinformation,0.0056059416,0.9899507,0.0044433344,True
+"The Guardian, CNN, Telegraph, amp others all reported the same thing.",unrelated,2,2,unrelated,0.0020115743,0.0017408725,0.9962476,True
+Its a leak that has British officials furious at their American counterparts.,unrelated,2,2,unrelated,0.001919628,0.0017444307,0.996336,True
+"I'm shocked! How soon can we get more refugees ""children and grandmothers"" according to obummer here?",misinformation,1,1,misinformation,0.0050936234,0.9898177,0.005088652,True
+Today our thoughts are with all those affected by the Manchester Arena attack 3 years ago. Love and strength to families and friends who lost their loved ones. Love and care to everyone impacted. Never forgotten ChooseLove OneLove WeStandTogether,reliable,0,0,reliable,0.99540114,0.0026162434,0.0019825737,True
+66.2 miles 1 day - Thurs 14 May Three years ago Martin was paralysed during the Manchester Arena attack. Martin Gary are virtually handcycling across Italy to keep other spinal cord injured people safe during this time. Join the team garyandmartin,reliable,0,0,reliable,0.995404,0.0027660117,0.0018300085,True
+"The blood, the sound, the body partsit will never leave my mind via",unrelated,2,2,unrelated,0.0022328333,0.0016576812,0.99610955,True
+"The Islamist rats who attacked the Manchester arena killing scores of children and the reading terror attack, that butchered 3 gay men were all done by asylum seekers, you utter moron. Along with many others here and in Europe.",misinformation,1,1,misinformation,0.00564971,0.9899158,0.0044345083,True
+Industry organisations respond to manchesterattack with statement eventsprofs,reliable,0,0,reliable,0.9953408,0.0026650787,0.0019941034,True
+"No, Mr. Trump, they are muslims who follow what the Koran says.",unrelated,2,2,unrelated,0.001733937,0.0021038183,0.9961623,True
+Get World Newspapers for free -,unrelated,2,2,unrelated,0.0028843756,0.0018014741,0.9953141,True
+This is why have produced materials 2 teach children about Islamophobia in schools childline,unrelated,2,2,unrelated,0.0057826457,0.0015762626,0.99264103,True
+Is two years an appropriate sentence?. Probably not but sentencing these days rarely seems to fit the crime.,unrelated,2,2,unrelated,0.0019233341,0.0017649506,0.9963117,True
+STRONG LEADSHIP required UK Terror tsar blasted for offering jihadis a hug instead of tackling extremist threat,reliable,0,0,reliable,0.99388254,0.004482818,0.0016347057,True
+Man charged over rape of 14-year-old girl at a station in Birmingham - charged over rape of 14-year-old girl a...,unrelated,2,2,unrelated,0.018774481,0.002158498,0.979067,True
+Christmas Eve fundraiser in memory of Nell Jones sells out A CHRISTMAS Eve event which will be held to raise funds in memory of Manchester Arena attack victim Nell Jones has sold out.,reliable,0,0,reliable,0.99540883,0.002699313,0.0018917995,True
+As logic as Makes perfect sense.,unrelated,2,2,unrelated,0.0020152803,0.0018493251,0.9961355,True
+"One Muslim man stabbing another Muslim man over a dispute Calling that Terror is an insult to victims that have died in real ""Terror Attacks"" 22 lives taken in Manchester Arena Bombing 7 lives taken in London Bridge Attack 84 lives in Nice Lorry Attack...shall I go on",reliable,0,0,reliable,0.9951622,0.0033848581,0.0014529687,True
+"...and we cannot wage war on them. Neighbors, who know who they are, must start revealing them. Awful situation.",unrelated,2,2,unrelated,0.0019083687,0.0017787952,0.9963128,True
+This is the moment Manchester Arena bomb survivors broke into song in St Ann's Square,reliable,0,0,reliable,0.9955094,0.002788001,0.0017026073,True
+"Detractors of the Travel Ban should note that if we in the UK had instigated such a ban, the Manchester Arena bombing may have been prevented. The perpetrator moved freely in and out of Libya just before the attack.LIBYA is one of the countries listed. Enough said!!",misinformation,1,1,misinformation,0.0062509724,0.98949045,0.0042586317,True
+remember when you said when Muslims do any good nobody mentions their religion...?,unrelated,2,2,unrelated,0.002091595,0.0017137916,0.9961946,True
+Manchester Arena re-opening Parents of terror victim in emotional return for gig,reliable,0,0,reliable,0.9954921,0.0028990118,0.001608823,True
+Many privileged like to look their noses down on the less fortunate. This homeless person is a hero.,unrelated,2,2,unrelated,0.0019270199,0.0017996916,0.9962733,True
+The publics safety remains our top priority and we have increased patrols across West Yorkshire,unrelated,2,2,unrelated,0.0029762278,0.0016118385,0.99541193,True
+There is incredulity amp immense frustration in UK that this is leaking to the US media presumably via US officials.,unrelated,2,2,unrelated,0.0017580419,0.001945975,0.996296,True
+Terror attack have you had a lobotomy Gordon Stainedmattress Forgotten the Manchester arena bombing all them young lives lost yes killed by a asylum seeker seeker hang your head in shame you,misinformation,1,1,misinformation,0.005492169,0.9899547,0.004553168,True
+"""Proper writers should take responsibility for the pictures their words suggest."" But Clive isn't taking comments.",unrelated,2,2,unrelated,0.0020553335,0.001661212,0.9962835,True
+"You'd offer someone who actively searched ISIS propaganda online, willingly was trafficked across borders, and witnessed murders, a role in any public service?!? Jesus, based on her comments on the manchester arena attack, why don't you give her a lift to the next one!!",reliable,0,1,misinformation,0.0068951664,0.98894715,0.004157697,False
+"How amazing the human race at its best, I dont have much to give but i am going to donate, all he had was his...",unrelated,2,2,unrelated,0.0018353171,0.0018210346,0.9963437,True
+So you wouldn't like to have stopped the Manchester Arena attack? A travel ban would have prevented it... typicalregressiveleft,misinformation,1,1,misinformation,0.0061305263,0.98956454,0.004304948,True
+"When I was a boy and I would see scary things in the news, my mother would say to me, ""Look for the helpers. You...",unrelated,2,2,unrelated,0.0025567333,0.001615664,0.9958276,True
+Jason Manford sobs as he takes in the horrific Manchester Arena terrorist attack which left 19 dead and scores,reliable,0,0,reliable,0.99554306,0.0026760534,0.0017808959,True
+Rest in Peace Olivia. God bless your soul!,unrelated,2,2,unrelated,0.0025818318,0.0015875167,0.9958307,True
+"Yawwwwn What you don't know Comrade is that more people have come to settle in Britain in the last 24 years than did in the previous 2000 combined! Here are another few issues we have - Manchester Arena, 7 7, London Bridge, Reading amp 36k Muslims on the terror watch list Idiot!",reliable,0,0,reliable,0.96490675,0.034070574,0.0010226754,True
+Where is the proof they claimed responsibility for Manchester arena attack,reliable,0,0,reliable,0.99548846,0.0029764567,0.0015351439,True
+Fashion Ariana Grande left broken after Manchester Arena attack,reliable,0,0,reliable,0.9951847,0.0034015032,0.0014138094,True
+. News Reaction to Manchester Arena attack,reliable,0,0,reliable,0.99550724,0.0027934457,0.0016992814,True
+What the hell is going on? Why is American media not even mentioning this thing that's happening NOW?...,unrelated,2,2,unrelated,0.0017580817,0.0019233474,0.9963186,True
+The footage from the Manchester Arena attack still makes me cry. I cant even imagine,reliable,0,0,reliable,0.9955272,0.0026603767,0.0018124485,True
+A scene of child happiness turned into carnage via,unrelated,2,2,unrelated,0.002342094,0.0016254928,0.9960324,True
+Evil Losers? Is he 8? The MoronInChief has spoken...DUH TheResistance Dumbass TrumpLeaks,unrelated,2,2,unrelated,0.002278505,0.0018705899,0.9958509,True
+"Try asking the families af these youngsters how they feel all Murdered by illegal migrants. Britain rescued Salman Abedi as a refugee from Libya, to show his gratitude he blew up the Manchester arena killing 23 and injuring 1,017, many of them children.",misinformation,1,1,misinformation,0.0056604217,0.98985744,0.004482137,True
+No protection for Brits at all.,unrelated,2,2,unrelated,0.0017511732,0.0019612208,0.9962876,True
+America can't be trusted to keep a secret - immediately leaks to the press,unrelated,2,2,unrelated,0.0017071769,0.0020592485,0.9962335,True
+"Its not just the numbers Manchester arena bomber refugee, guy that stabbed an MP 2gen, London Bridge attack again the religion of peace. We need to be safe.",misinformation,1,1,misinformation,0.0056169857,0.98996556,0.0044174423,True
+Heroic woman cared for over 50 children at a hotel after Manchester Arena attack BreakingNews.ie,misinformation,1,1,misinformation,0.005063559,0.9897578,0.005178578,True
+An eight-year-old girl has been revealed as the second victim of the Manchester Arena terror attack.,reliable,0,0,reliable,0.9954723,0.0027047626,0.001822999,True
+Charity champion to walk a mile for each person killed in Manchester Arena terror for Chloe and Liam Trust,reliable,0,0,reliable,0.99556017,0.0026166616,0.00182316,True
+In the city where today the inquiry into the Manchester arena atrocity is taking place are trying to peddle the plight of refugees! Highly offensive as the scumbag that did it was welcomed here and did what he did!! Victims of Islamic Terror! How many more!,misinformation,1,1,misinformation,0.00567199,0.989945,0.004382974,True
+"Australia's security forces are preparing for a string of stadium events, including Origin and GC18. 9News",unrelated,2,0,reliable,0.9297705,0.0052038096,0.065025635,False
+Liberal Democrats join other parties in suspending their general election campaign.,unrelated,2,2,unrelated,0.0027319698,0.0015535922,0.99571437,True
+"Am I the only one sick of this story , she should be brought back , driven to the white cliffs of Dover the symbol of Britain for the returning pilots during the war, for people who gave their lives for Britain, she should be told...",unrelated,2,2,unrelated,0.0076811914,0.0028451353,0.98947364,True
+Sad and disgusting! God will not let them rest in peace! The evil Ines that have done this!! This just shows us...,unrelated,2,2,unrelated,0.0018641051,0.0018532145,0.99628276,True
+FBI 'warned MI5 in January that Salman Abedi was planning terror attack in UK' Okay.,reliable,0,0,reliable,0.9797649,0.01922871,0.0010064741,True
+This is the inspirational speech from a woman who went to the same mosque as the Manchester suicide bomber,reliable,0,0,reliable,0.9952917,0.0031370104,0.0015712382,True
+"Police have confirmed that children are among the 22 killed in the Manchester Arena UK suicide bomb attack, with...",reliable,0,0,reliable,0.99549943,0.0027474314,0.0017532087,True
+2 years since the horrendous terror attack at the Manchester Arena. An event that will never be forgotten and those that were tragically lost should never be either. Manchester will never be beaten. ManchesterRemembers,reliable,0,0,reliable,0.9953629,0.003034779,0.0016023427,True
+Loved this bit from Marcus Rashford yesterday.,unrelated,2,2,unrelated,0.002381208,0.0016254291,0.9959934,True
+Manchester Arena attack Memorial feature opens to public,reliable,0,0,reliable,0.99550724,0.002845761,0.0016470001,True
+"obviously, he was a low threat to MI5.",unrelated,2,2,unrelated,0.0017072784,0.001999913,0.99629277,True
+NEWS Manchester Arena will open for the first time later since 22 people were killed in a terror attack in May.,reliable,0,0,reliable,0.9954906,0.0027527784,0.0017566207,True
+"Loads of photos here, but how did they get them? Have these been leaked?",unrelated,2,2,unrelated,0.0018787384,0.0018316366,0.9962896,True
+"So we should keep paying 600 per night per migrant for all 40,000 migrants?? Will he pay that bill? We are sick of the woke left, they are putting us at risk of the next Manchester arena attack or London Bridge attack..",misinformation,1,1,misinformation,0.0056831134,0.98995095,0.0043659126,True
+Thousands are expected to attend the funeral of 8 year old Manchester Arena bomb victim Saffie Rose Roussos today,reliable,0,0,reliable,0.9954788,0.0025384258,0.0019827285,True
+There is more information coming from NYT than Amber Rudd...??,unrelated,2,2,unrelated,0.0017928137,0.0018569634,0.99635017,True
+Jill Dobson Joanne Pratt Craig Pratt,unrelated,2,2,unrelated,0.0043997327,0.0018702555,0.99373007,True
+Tributes to be made to Manchester Arena bombing victims one year on from terror attack,reliable,0,0,reliable,0.99549246,0.0026916426,0.0018159286,True
+Are Ariana Grande and Drew Butera Related? A TWINKIE TOWN INVESTIGATION UPDATED ArianaGrande ArianaGrande,reliable,0,0,reliable,0.9937137,0.004980602,0.001305627,True
+stop sharing real time info with the yanks if they cannot be trusted with it A Detonator and a Battery,unrelated,2,2,unrelated,0.0019688683,0.0017580016,0.99627316,True
+'We show how strong we are' - Manchester Arena reopens after terror attack,reliable,0,0,reliable,0.99550027,0.0027635791,0.0017361724,True
+A woman at the Manchester Arena bombing says she is 'angry and upset' that it took so long for paramedics to reach the victims,reliable,0,0,reliable,0.9955148,0.0027825763,0.0017026166,True
+BREAKING Manchester Arena attack report finds 'serious shortcomings insecurity',reliable,0,0,reliable,0.9955148,0.0027825763,0.0017026166,True
+quite a different view of him presented here..,unrelated,2,2,unrelated,0.0019843872,0.0017039793,0.9963116,True
+Manchester Arena reveals new foyer with heightened Security! Read the full story WeAreManchester,reliable,0,0,reliable,0.99541426,0.0029675278,0.0016181507,True
+Do the US officials leaking this information not understand how police investigations work?,unrelated,2,2,unrelated,0.0018279533,0.0019420492,0.99622995,True
+"""Refugees of Hate may be Hateful"" You do nothing to save lives The beautiful lives of 22 taken in Manchester Arena Bombing The hopes dreams of 7 taken in London Bridge Attack The lives and loves of 84 taken in Nice Lorry Attack You need to address Muslims Preaching Enacting Hate",misinformation,1,1,misinformation,0.0058858874,0.98985404,0.0042601964,True
+"Let's not share hate fuelled statuses about this heinous crime, let's start to remember these people who lost...",unrelated,2,2,unrelated,0.00229479,0.0015695023,0.9961357,True
+Police staff acting casually works so well for the people they serve.,unrelated,2,2,unrelated,0.0021453728,0.001664304,0.9961903,True
+Time to feed him links. 8D,unrelated,2,2,unrelated,0.0020154784,0.001751078,0.9962334,True
+Is this hate? LondonAttacks Hundreds of Muslims march to Manchester Arena to hold vigil for attack victims,reliable,0,0,reliable,0.9954905,0.0029561853,0.0015532428,True
+I don't feel that the government and the intelligence services are able to keep us safe.,unrelated,2,2,unrelated,0.0017305737,0.0020956404,0.9961738,True
+At the second day of the Manchester Arena Inquiry. A police officers plea 24 minutes after the bombing Where are the ambulances?,reliable,0,0,reliable,0.9953434,0.003214707,0.001441924,True
+Heartbroken... Heart amp Prayers to all concerned.... lt 3 x,unrelated,2,2,unrelated,0.0021579808,0.001651353,0.99619067,True
+"""EvilLosers"" is ineloquent, but it's an improvement. Shows Trump realizes it's everyone v. ISIS, not West v. Islam.",unrelated,2,2,unrelated,0.0020586138,0.0020148575,0.9959265,True
+joshdcaplan Bone chilling shrieks seconds after alleged nail bomb attack in Manchester Arena Retweet MAGA,reliable,0,0,reliable,0.99545324,0.003002626,0.0015441107,True
+it was true 50 children had been taken to a hotel to be kept safe after Manchester arena attack xx,misinformation,1,1,misinformation,0.0054319515,0.989675,0.0048930035,True
+Tonight - A report on the Manchester Arena attack highlights a series of missed opportunities to stop the bomber. BBCNewsTen,reliable,0,0,reliable,0.99551755,0.002739444,0.0017429979,True
+"Today we come together to remember 22 people who lost their lives in the Manchester Arena attack one year ago. My thoughts are with their families and friends, anyone who was injured and all of the emergency services who help on that sad night",reliable,0,0,reliable,0.9953648,0.0026135945,0.0020216024,True
+The fact they even had the inspiration to do this show reflects what a person and personality we have lost. BeMoreMartyn,unrelated,2,2,unrelated,0.0022879345,0.0016383097,0.9960737,True
+"Idiot! It was the offspring of a refugee who blew up the Manchester Arena, a refugee who slit a girls throat in a park, another refugee who murdered three men, again in a park. Thousands of refugees are on the terror watch list. Ignoring this is a danger to us all.",misinformation,1,1,misinformation,0.005693868,0.9898891,0.004417101,True
+"I assume u are happy with over 1,000pw undocumented immigrants to come here. How do we know who they are ex Isis fighters?Criminals? When will the next terrorist attack take place-perhaps another manchester arena, will you be praising that as he was only a poor asylum seeker!",misinformation,1,1,misinformation,0.005627489,0.9898816,0.0044910097,True
+CyberSecurity Cyber Online Security. 'We aren't scared and no one is going to beat us' Heartbroken parents of,unrelated,2,2,unrelated,0.002723718,0.0016568655,0.99561936,True
+you never think it will happen in your city and in your home. My heart breaks for my city,unrelated,2,2,unrelated,0.0021328588,0.0016675732,0.99619955,True
+"Don't talk rubbish, it was the offspring of a refugee who blew up the Manchester Arena, a refugee who slit a girls throat in a park, another refugee who murdered three men, again in a park. Thousands of refugees are on the terror watch list. Ignoring this is a danger to us all.",misinformation,1,1,misinformation,0.0056495876,0.98989433,0.0044561173,True
+Thoughts amp prayers with the victims amp injured of the Manchester Arena bomb attack. Devastating. At end of happy evening for concert-goers.,reliable,0,0,reliable,0.9954573,0.0027126574,0.0018301064,True
+Today our thoughts are with all those affected by the Manchester Arena attack on 22 May 2017. rememberingtogether OneLoveManchester LoveLiveWire,reliable,0,0,reliable,0.99541736,0.0027525758,0.001830033,True
+Manchester Arena attack 22 killed at Ariana Grande gig by bomber named as Salman Abedi Manchester,reliable,0,0,reliable,0.99321634,0.005701859,0.0010818612,True
+"KICK-OFF We're underway in Stockholm, follow it all here",unrelated,2,2,unrelated,0.0056710234,0.001648751,0.9926803,True
+"Today we remember the 22 lives that were tragically lost in the Manchester Arena attack, and all those that were affected. OneLoveManchester",reliable,0,0,reliable,0.9954098,0.0026835455,0.001906639,True
+This Woman Cared for 50 Children at a Hotel Following the Manchester Attack,misinformation,1,1,misinformation,0.0053222757,0.9897842,0.004893543,True
+"WHAT? Failing to get MI5s IT to work contributed to the Manchester Arena terrorist bomb attack, 22 deaths and 100s injured. Guardian 16 Feb",reliable,0,0,reliable,0.9955051,0.0029047176,0.0015901003,True
+Why did US officials release name to media against wishes of UK police?,unrelated,2,2,unrelated,0.0017924579,0.0020550631,0.99615246,True
+is willing to strain US relationships and jeopardize UK's investigation just to try and smear Trump. SMH,unrelated,2,2,unrelated,0.0019842386,0.0017786599,0.99623704,True
+BREAKING 'Gunman' outside Oldham hospital just moments after Manchester concert 'blast',misinformation,1,1,misinformation,0.005400798,0.9897815,0.0048176623,True
+"In the same week we learned that SalmanAbedi had been rescued from Libya by the Royal Navy only to later bomb the Manchester Arena Concert, we heard too that an Iranian Kurdish refugee, Cambridge Prof Caucher Bircar won the Fields Medal for Mathematics, one of 4 winners",misinformation,1,1,misinformation,0.005845754,0.9898481,0.0043061813,True
+I've justdonated to support families of those killed and injured in the Manchester Arena attack. Donate on n help raise 500000,reliable,0,0,reliable,0.99549353,0.0025236332,0.0019827578,True
+Does it matter that the Saudis Sponsored 9 11 and fund ISIS? You're prepared to sell the club to the same people behind this?,unrelated,2,2,unrelated,0.002074677,0.0020385266,0.99588674,True
+Well I can't find your cops dieing in line of duty maybe cause they don't fight criminals,unrelated,2,2,unrelated,0.0018495163,0.0019119569,0.99623847,True
+"Greece Ahmadiyya Interfaith Conference Declares ""Manchester Arena Attack -- an Attack on Humanity""",reliable,0,0,reliable,0.9953371,0.003121873,0.001540918,True
+Manchester Arena Attack Concert-goers Slam 'lax' Security,reliable,0,0,reliable,0.9952524,0.0033391982,0.0014083931,True
+"So it shouldn't surprise you to know that the Head of Scotland yard police,MI6,Special branch etc all knew that the terrorist Salman Abedi seen on CCTV carrying his bomb was already on the watch list of terrorists.CCTV watched 24 7 by many trained police",misinformation,1,0,reliable,0.8722575,0.12652254,0.0012199612,False
+Bomb attacks in Manchester Arena Grande concert.. 22killed..,reliable,0,0,reliable,0.99526155,0.0033327134,0.0014056581,True
+Ariana Grande's tour bus arrives back at Lowry hotel after horrific terror attack at Manchester Arena 3am,reliable,0,0,reliable,0.99006265,0.008959282,0.00097809,True
+"Martin Hibbert was paralysed after he was seriously injured in the Manchester Arena attack in 2017. Hes told BBCBreakfast hes taking on a huge challenge to support others living with spinal injuries, alongside those who helped him survive.",reliable,0,0,reliable,0.99545175,0.002518603,0.0020296923,True
+Some of the US government illegally discloses information leaks. Go to jail,unrelated,2,2,unrelated,0.0016904405,0.0021621063,0.9961475,True
+good that organisations are deliberately trying to not overstretch the police,unrelated,2,2,unrelated,0.00249014,0.0017064398,0.9958034,True
+BBC News - Manchester Arena attacker told teen 'study chemistry to build a bomb',reliable,0,0,reliable,0.9953472,0.0031679722,0.0014847985,True
+BREAKING Knifeman arrested outside Buckingham Palace SECONDS before Queen passes,unrelated,2,2,unrelated,0.00557318,0.0015735234,0.99285334,True
+They ALL could have survived if we didn't let asylum seekers back from holiday in the country they are supposed to have fled from! BBC News - Manchester Arena victim John Atkinson could have survived attack,misinformation,1,1,misinformation,0.0055348086,0.9898767,0.0045885174,True
+Trudeau seeks increased spending to boost Canadian economy BBC BBC,unrelated,2,2,unrelated,0.0030051442,0.0016791611,0.9953157,True
+"Send us your psych-themed Christmas pics! Also, revisit this fascinating interview with Alistair",unrelated,2,2,unrelated,0.002702924,0.0015295875,0.9957675,True
+Manchester Arena Inquiry Day 22. Today we are expecting to hear from a man who approached the bomber and asked him what he had in his rucksack in the minutes before the suicide attack.,reliable,0,0,reliable,0.99550074,0.0028263554,0.0016729257,True
+I do not buy Anything Turkish.... But i do buy kurdish goods and support PKK boycottturkey,unrelated,2,2,unrelated,0.040709138,0.019541996,0.9397489,True
+Islams War on GIRLS Eight-year-old among the dead,unrelated,2,2,unrelated,0.0024233172,0.0016317115,0.9959449,True
+Do you agree with this?,unrelated,2,2,unrelated,0.002599151,0.0017196125,0.99568117,True
+The fire service commanders decisions were NOT decisions made with best intent! They were abject failure! Heading towards misconduct in public office! Have a read here,unrelated,2,2,unrelated,0.0020957105,0.0016971582,0.9962071,True
+Mums selfie with daughters at Manchester Arena before Salman Abedi suicide bomb attack GrimsbyTelegraph,reliable,0,0,reliable,0.99515104,0.0034213767,0.0014276353,True
+"To mark 2 years since the Manchester Arena attack, our Manchester office will observe a minute silence at 2.30pm today. Also, at 10.31pm tonight, bells will ring from Manchester Town Hall, The Cathedral, The Hidden Gem Church amp St Anns Church for 1 minute WeStandTogether",reliable,0,0,reliable,0.9954489,0.0026994215,0.0018516635,True
+My heart...don't want to imagine the pain she must feel when she wakes up and finds out about her baby girl's death,unrelated,2,2,unrelated,0.002702717,0.0016060049,0.99569124,True
+Pep Guardiola's wife and daughters luckily escape from Manchester Arena attack. pep mancity,reliable,0,0,reliable,0.99532014,0.0025982086,0.002081612,True
+"""My Mosque does not stand 4this. If we see these people we will be the first to turn them over to the authorities.""",unrelated,2,2,unrelated,0.0019008492,0.0018280288,0.99627113,True
+Britain shares details of investigation with America. America just straight up passes it to the press. Weird,unrelated,2,2,unrelated,0.0018785733,0.00191937,0.99620205,True
+"Manchester Arena Inquiry Any mistakes will not be covered up, families told - Families of the Manchester attack victims are told any security errors will not be kept secret. BBC News NewsATW",reliable,0,0,reliable,0.9951586,0.0032235405,0.0016177353,True
+"ManchesterArena bombing was result of unacceptable and unjustifiable failures at venue, inquiry hears standards.",reliable,0,0,reliable,0.9954448,0.0030231962,0.0015320814,True
+My heart is broken this morning Please RT,unrelated,2,2,unrelated,0.0022701262,0.0016576191,0.9960723,True
+BREAKING This is so sad - police have confirmed there a number of fatalities. Our thoughts are with everyone...,unrelated,2,2,unrelated,0.0022219599,0.0016674245,0.9961106,True
+Investigation photos leaked to the come from the NYC FBI office and NOT the r4today imo,unrelated,2,2,unrelated,0.0016972339,0.002051257,0.9962515,True
+Martyn Hett's Partner Celebrates His Life In The Best Possible Way,unrelated,2,2,unrelated,0.002953326,0.0015472012,0.99549943,True
+With the enormous false flag in DC. Will Brits finally get a grip that FALSE FLAGS happen in the UK ? See Manchester Arena Fake Bomb. See MI5 amp MOSSAD bombing London tubes in 2005. Yes the royals are in on it. Wake the F up.,misinformation,1,1,misinformation,0.0071313544,0.9884537,0.004415005,True
+"Dear God, I hope this is not true!",unrelated,2,2,unrelated,0.0020272848,0.0017578987,0.9962148,True
+"Ariana Grande has sent gifts to children and teenagers who spent Christmas in Manchesters paediatric hospitals for the fifth year in a row, following the Manchester Arena Attack. ariangrande thearianahub news celebnews uk",reliable,0,0,reliable,0.9946407,0.0040292996,0.00133002,True
+Police to bolster venue security nationwide after Manchester attack UK news,reliable,0,0,reliable,0.9953643,0.0030886007,0.0015469912,True
+If you're gonna go blow something you might aswell do it in fashion apparently.,unrelated,2,2,unrelated,0.0021536304,0.0017203807,0.996126,True
+That's wrong Chris. or how about after Westminster?,unrelated,2,2,unrelated,0.0020916576,0.00168398,0.9962244,True
+MI5 has admitted that it made a mistake in failing to track the terrorist behind the Manchester Arena bombing,reliable,0,0,reliable,0.99540436,0.0031251342,0.0014704536,True
+"I am imagining the scenes at GCHQ as they slash cables, disable dishes, and burn NSA servers. Or this is just a lie",unrelated,2,2,unrelated,0.0019268034,0.0019118089,0.99616134,True
+Keep up with breaking headlines...at,unrelated,2,2,unrelated,0.0023419578,0.0016835575,0.9959745,True
+Thank you for your concern following the Manchester Arena attack. It is people like you that make this world a better place. Hope you are recovering too very brave lady. With love xxx,reliable,0,0,reliable,0.9954556,0.0025808592,0.0019634143,True
+"At this time, soon after midnight I hear about Three concert goer's have been killed at Manchester Arena bomb explosion.Looks like terrorism",reliable,0,0,reliable,0.9950169,0.0036629452,0.001320169,True
+NEWS Hashem Abedi has been found guilty of 22 counts of murder following his brother Salman's attack on Manchester Arena in May 2017. ManchesterBombing,reliable,0,0,reliable,0.9952767,0.0032843002,0.0014390142,True
+your Tweet was quoted in a story by,unrelated,2,2,unrelated,0.0026399472,0.0017296297,0.9956304,True
+"if you're going to call out racists, do it at scale I guess...",unrelated,2,2,unrelated,0.0020511465,0.0017510153,0.99619776,True
+"But hey, London police will ""closely monitor"" them like always... Remember the Manchester arena bombers? They were ""closely monitored"" by the British police before the attack.",misinformation,1,0,reliable,0.91225106,0.08669529,0.0010536321,False
+They and about 5 separate people from the Muslim community. Outrageous. Under May's watch.,unrelated,2,2,unrelated,0.0017719383,0.0018715397,0.9963566,True
+From CNN Ariana Grande concert attack Live updates -,reliable,0,0,reliable,0.995312,0.0030316617,0.0016563539,True
+Only three paramedics 'were allowed to treat victims' at Manchester Arena attack,reliable,0,0,reliable,0.9954359,0.0030350017,0.0015290782,True
+Oh yeah. Three examples of how you're right.,unrelated,2,2,unrelated,0.0019346082,0.001768375,0.99629706,True
+shared - How the world's cartoonists reacted to the Manchester attack,reliable,0,0,reliable,0.995492,0.0026011963,0.0019067965,True
+"""Such fundamental errors at an institutional level should not have occurred""",unrelated,2,2,unrelated,0.0021664158,0.0016481222,0.9961855,True
+Police Knew of Manchester Arena Bombers Terror Connections Three Years Before Attack,misinformation,1,1,misinformation,0.012531738,0.98440164,0.0030665393,True
+justdonated to support families of Manchester Arena attack victims. Donate on and help raise 2000000,reliable,0,0,reliable,0.9955569,0.0026760905,0.0017670613,True
+Security is a compromise dictated by money and party politics. Either will influence any risk mitigation practises and knock on effects are to be expected.,unrelated,2,2,unrelated,0.001984225,0.0017856092,0.9962302,True
+"The headteacher, Kate Parker-Randall, said Firstly I would like to apologise for any upset that this piece of work may have caused. The essay was set as part of a personal, social, health and economic education lesson which was considering the conse",unrelated,2,2,unrelated,0.0027745136,0.0016828277,0.9955427,True
+"""I can't imagine how tough this is for them. I'm sure there are sights that would haunt me.""",unrelated,2,2,unrelated,0.0020794563,0.0016872872,0.9962333,True
+"So right wingers caused a murder and a terrorist attack, I drove pass the Manchester Arena today where young children were murdered last year by a refugee, lets discuss who caused that attack? And all the other terrorist attacks we had last year. Who caused those?",misinformation,1,1,misinformation,0.0059320945,0.98986137,0.004206485,True
+"From the Manchester Arena bomber to the Borough Market slasher gang, how many terror attacks have been carried out by people granted asylum?",misinformation,1,1,misinformation,0.0055888705,0.9898318,0.0045793564,True
+Mmaybe if he dosent like his stay in British prison we should treat him like middle eastern countries treat there murders.....hang them or shoot them .,unrelated,2,2,unrelated,0.0015538534,0.0025643744,0.9958818,True
+"Fighting Stigma UK police investigating 2017 Manchester attack arrest a man Yahoo News British police investigating the 2017 Manchester Arena suicide bombing ... Twenty-two people, including seven children, died in the attack on...",reliable,0,0,reliable,0.9953849,0.0029907143,0.0016244361,True
+She died I can't bear it.,unrelated,2,2,unrelated,0.0023170381,0.0016640178,0.99601895,True
+Giving an insignificant thing your attention is a form of self-disrespect.,unrelated,2,2,unrelated,0.002132824,0.0016839104,0.9961832,True
+"The family of Olivia Campbell-Hardy have paid tribute to her, saying she was 'a beautiful young girl who packed so much in her 15 years' - live updates",unrelated,2,2,unrelated,0.0040483195,0.0014834873,0.9944682,True
+"She also said the Manchester Arena attack was ""justified"" when she was a 19 year old adult.",reliable,0,0,reliable,0.9955178,0.002876526,0.0016057251,True
+- New Top Post in Manchester Arena attack Isis claims responsibility for suicide bo,reliable,0,0,reliable,0.9955318,0.0027555819,0.0017126515,True
+Police confirm premises is clear after reports of gunman outside Royal Oldham hospital following Manchester blast,misinformation,1,1,misinformation,0.00629199,0.98919815,0.004509876,True
+Could you guys please retweet this .Aarron is running 22 races to raise money for the victims amp families of the Manchester Arena attack .,reliable,0,0,reliable,0.9955272,0.0026603767,0.0018124485,True
+The Kashmiri boy who refused to leave police custody BBC BBC BBC,unrelated,2,2,unrelated,0.0017768363,0.010752384,0.9874708,True
+Why? Do we want to prosecute him or reward him with a council house?,unrelated,2,2,unrelated,0.0018935655,0.0017684478,0.996338,True
+"Day two of the trial of Hashem Abedi now underway at the Old Bailey. He denies 22 charges of murder, attempted murder and conspiracy to cause explosions in relation to the Manchester Arena attack in 2017.",reliable,0,0,reliable,0.9952744,0.003214484,0.0015110188,True
+"No mention about how one new song makes Jokes about the Manchester Arena bombing? He's making ""jokes"" about Terrorist Attack, in which Innocent people were Murdered, including Children, some as young as 8 years-old! He's Way past his prime, amp now he'll do Anything for attention",reliable,0,0,reliable,0.9939421,0.004871099,0.0011867401,True
+Just so sad and sick any human could do this at a child's concert rip,reliable,0,2,unrelated,0.0021874341,0.0017371753,0.99607533,False
+He also name drops Justin Bieber,unrelated,2,2,unrelated,0.0024157376,0.0018413892,0.99574286,True
+Powerful amp clever stuff from,unrelated,2,2,unrelated,0.0022214171,0.0019112447,0.9958674,True
+If anybody is up late Ill be on with around midnight talking about my life amp after being injured in the Manchester Arena attack. Hope you can listen in.,reliable,0,0,reliable,0.99550337,0.0025936165,0.0019030976,True
+The Green Party joins other parties in suspending it's general election campaign.,unrelated,2,2,unrelated,0.0027533046,0.0015657246,0.9956809,True
+"Skipinnish will headline the Hebridean Celtic festivals opening evening on Thursday 19 July. The band will play Wishing Well, a song paying tribute to Barra teenager Eilidh MacLeod who died in the Manchester Arena attack last year.",reliable,0,0,reliable,0.9953461,0.002608446,0.0020453942,True
+Meghan Markle and Prince Harry have postponed their honeymoon for a very important reason royalwedding RoyalWedding2018,unrelated,2,2,unrelated,0.0036938975,0.0016617214,0.9946444,True
+"MANCHESTER PEOPLE 1 spare ticket to Massive Attack tomorrow night in the Manchester Arena, 30, meet at venue. DM for more info",reliable,0,0,reliable,0.99536836,0.003152608,0.0014790413,True
+Manchester Arena attack Pontypridd councillor apologises for 'angry' Facebook post,reliable,0,0,reliable,0.9955129,0.0027744304,0.001712619,True
+I cant believe Its been a year since the Manchester arena attack WeStandWithManchester,reliable,0,0,reliable,0.9954223,0.0028818732,0.0016958212,True
+"And what a fucking bellend you proved to be when you slagged of Ariana Grande after the Manchester Arena bomb. Youre a twat , nothing more nothing less.",reliable,0,0,reliable,0.9951807,0.003438226,0.0013810529,True
+"The suspect for the Reading terrorist attack, is thought to be a 25-year-old Libyan asylum seeker. Strikes some parallels with Salman Abedi born Dec 1994 who carried out the 2017 Manchester Arena terrorist attacks. Abedi was born to Libyan-born refugees who resettled in UK.",misinformation,1,1,misinformation,0.0059259464,0.9898016,0.00427247,True
+"READ MORE Emotional tributes to the 22 victims of the Manchester Arena bombing begin, in the latest from the public inquiry into the attack.",reliable,0,0,reliable,0.99548364,0.002696881,0.0018194626,True
+A Dark Network of Libyans and drugs behind terror.,reliable,0,1,misinformation,0.021394609,0.9755127,0.0030927386,False
+"Health amp Safety, our next challenger as event organizer gt",unrelated,2,2,unrelated,0.0020633477,0.0016676895,0.996269,True
+The ISIS funding award goes to.. Mr. Putin Ar ehole,unrelated,2,2,unrelated,0.0022346298,0.0018274174,0.99593794,True
+Manchester Arena Inquiry Attack on crowds leaving 'not on our radar',reliable,0,0,reliable,0.9953941,0.0030467524,0.0015591711,True
+The beauty of Islam ...,unrelated,2,2,unrelated,0.0023832787,0.0017300749,0.9958866,True
+"""""None of the bereaved families were in court, but the coroner praised them for their unbelievable dignity """"",unrelated,2,2,unrelated,0.0035624618,0.0018901624,0.99454737,True
+Shocking crime scene pix leaked straight to New York Times,unrelated,2,2,unrelated,0.0023239173,0.0016223559,0.9960537,True
+the Spanish government urges better intelligence sharing and increased trust across the EU,unrelated,2,2,unrelated,0.0024685015,0.0016670125,0.9958645,True
+MI5 amp UK police assets resources could be better spent on these things rather than 24 7 watch on,unrelated,2,2,unrelated,0.0018785733,0.00191937,0.99620205,True
+Same with Libya and other countries .The terrorist amp his family who blew up people at Manchester arena were asylum seekers but still found it safe to go back amp forwards there ! Mum amp Dad had returned completely so kids kept parents house amp their benefits which paid for bomb !,misinformation,1,1,misinformation,0.005475524,0.98985016,0.004674325,True
+"Manchester Arena bomb plotter calls prison guard filthy pig, court hears",reliable,0,0,reliable,0.99489564,0.0037713856,0.001332962,True
+Personally i blame the far left who'd squeal about a travel ban from Libya where the piece of shit came from Manchester Arena bomb Fire chief blames police for delay -,misinformation,1,1,misinformation,0.005209362,0.9898246,0.0049659563,True
+The brother of the man who killed 22 people in the Manchester Arena terror attack will go on trial for murder next month. Hashem Abedi is also accused of the attempted murder of more than 260 people injured at the Ariana Grande concert in May 2017 HeartNews,reliable,0,0,reliable,0.9951415,0.0031828205,0.0016755915,True
+"very very sad .....Manchester Arena survivor, 20, is found dead in her bedroom amid PTSD",reliable,0,0,reliable,0.9954391,0.0025782974,0.0019826493,True
+22 children blown up by a bomb detonated by a migrant rescued from the channel. Their blood on your hands. Manchester Arena. Never forget. Never forgive.,misinformation,1,1,misinformation,0.0054383734,0.98987794,0.004683595,True
+Spot on the UK has become a fucking cess pit of scum and illegal immigrants who want to blow our kids up cant believe we didnt have riots after the Manchester arena bomb if the papers had shown the pictures of kids with nuts n bolts in them im sure riots would of happened..,misinformation,1,1,misinformation,0.005611094,0.9898934,0.0044954508,True
+"""He has today been successfully extradited, for offences relating to the Manchester Arena attack,"" Greater Manchester Police Chief... news breakingnews worldnews",reliable,0,0,reliable,0.99544525,0.002904543,0.0016501173,True
+"Our work links to Jo Cox, the Manchester arena attack and the Huddersfield school attack of refugee children. Can we come and tell you about it?",misinformation,1,1,misinformation,0.0057832133,0.9898343,0.004382484,True
+Ariana Grande opens up about Manchester bombing post-traumatic stress Ariana Grande says she has been struggling with some symptoms of post-traumatic stress disorder following last years suicide bomb attack at the end of her concert at Manchester Arena,reliable,0,0,reliable,0.99520856,0.003192374,0.0015989683,True
+"""Force cannot be used"" the state of the UK 2020 - No crime heinous enough to warrant hurting the feelings of a mass murderer that after 10 years in power you have failed to undo the damage done by Blair's Labour amp ECHR.",unrelated,2,2,unrelated,0.4757227,0.019847484,0.5044299,True
+"Thinking of the people involved in the manchester arena attack, cant believe its a year ago",reliable,0,0,reliable,0.99542713,0.002739195,0.0018336287,True
+Chelsea cancel Premier League title victory parade in the wake of Manchester Arena attack.,reliable,0,0,reliable,0.9954898,0.0027260242,0.001784282,True
+"UK Intel Splendid deed, old chap. Translate We will soon intercept a telegram from Mr Zimmrovskij.",unrelated,2,2,unrelated,0.0022723686,0.001644737,0.9960829,True
+BREAKING Manchester Arena bomber IDENTIFIED as Salman Abedi,reliable,0,1,misinformation,0.03468073,0.962749,0.0025702713,False
+"Several shows have been cancelled, moved or rescheduled - but the is planning its reopening",unrelated,2,2,unrelated,0.0024782107,0.0016379972,0.99588376,True
+breaking my heart at this article,unrelated,2,2,unrelated,0.0022348396,0.0017337092,0.99603146,True
+Latest from ongoing terror operation as police release CCTV stills of bomber from night of his attack.,reliable,0,0,reliable,0.9953778,0.0030229928,0.0015992401,True
+"THE NEW YORK TIMES A detonator, shrapnel and a battery The Times got access to photos of materials found at the",unrelated,2,2,unrelated,0.0024327787,0.0016316962,0.99593556,True
+If you need solicitors in North West you might want to remember name Dickinson Parker Hill amp cross it off the list,unrelated,2,2,unrelated,0.0022220456,0.0016288614,0.99614906,True
+latest world Manchester Arena attack Scots girl still missing news trending latest world news,reliable,0,0,reliable,0.99551207,0.0025434734,0.0019444439,True
+New top story from Time,unrelated,2,2,unrelated,0.0028675827,0.0017979956,0.99533445,True
+Would that explain this then....,unrelated,2,2,unrelated,0.002200268,0.0017337694,0.99606603,True
+"Any tweeting about the 'alleged gunman' at Oldham Hospital, it's not true.",misinformation,1,1,misinformation,0.007050829,0.9888123,0.0041368804,True
+It's to mark the fifth anniversary of the devastating event that shocked the nation to its core.,unrelated,2,2,unrelated,0.003371431,0.0015345357,0.99509406,True
+"How old is Ariana Grande, what happened in the Manchester bombing and what did she sing at the Billboards 2018?",reliable,0,0,reliable,0.9952341,0.0032490694,0.0015168713,True
+"Manchester Arena suicide bomber Salman Abedi should have been identified as a threat on the night of the attack by those in charge of security, according to public inquiry.",reliable,0,0,reliable,0.9921779,0.0067114076,0.001110689,True
+Police Knew Manchester Bombers Terror Ties Three Years Befrore Attack via,misinformation,1,1,misinformation,0.033475567,0.9640733,0.0024511516,True
+RT At 2pm today I'll be joining the rest of the country in a minute's silence to remember those who tragically lost their lives in the Manchester Arena attack. We will never forget those we tragically lost. We will never let terrorism divide us.,reliable,0,0,reliable,0.995436,0.0027338746,0.0018300673,True
+"British-born 'ISIS' bomber Salman Abedi, 22, was a Man United fan and son of Libyan refugees -",misinformation,1,1,misinformation,0.0058517014,0.989888,0.0042603426,True
+She was not a child when she justified the Manchester arena terror attack though was she?,reliable,0,0,reliable,0.99527067,0.003358883,0.0013704293,True
+Child survivors of Manchester Arena attack re-traumatised by poor support via ManchesterArenabombing mentalhealth,reliable,0,0,reliable,0.9955022,0.002834652,0.0016631545,True
+"City, who are understood to have provided support to the victim, have been assured that their staff are not being maliciously targeted nor that the woman was attacked because she was wearing City colours. The attack happened close to the Manchester Arena. Daily Mail",reliable,0,0,reliable,0.99530584,0.0030051144,0.0016890122,True
+So Express News UK publishes this stupidity based on a screen cap from America amp doesn't account for time diff,unrelated,2,2,unrelated,0.0018605607,0.001806843,0.9963325,True
+"Manchester Arena bombing Hundreds of victims were injured and 22 bystanders killed , including children as young as eight . London Bridge attack Best false flag picture bus runs over body . Our honest Government wouldn't fake attacks or Corona to take away our rights .",misinformation,1,1,misinformation,0.014990791,0.9819741,0.003035172,True
+"Ask her what part she had in the staging of the car attack on skull and bones day 322 London bridge and what she new about the staged bombing at the Manchester Arena where there was zero evidence of any bomb going off and all their crises actors as usual give the whole game away,",misinformation,1,1,misinformation,0.0742392,0.92315775,0.0026031088,True
+'It hits a nerve for us all TheUPSStore65,unrelated,2,2,unrelated,0.00205534,0.0016579758,0.99628663,True
+wondering if they arrested the woman she saw,unrelated,2,2,unrelated,0.0023649172,0.0016704395,0.99596465,True
+"The most beautiful soul, RIP Eve",unrelated,2,2,unrelated,0.0028156096,0.0015871447,0.9955973,True
+A senior coroner the event was unfortunate but we're fortunate it wasn't worse,unrelated,2,2,unrelated,0.0021039236,0.0016839593,0.9962121,True
+"'Isis don't scare us, we're Manc!' The very Mancunian tributes",unrelated,2,2,unrelated,0.0024090768,0.0016801651,0.99591076,True
+"Good luck to , Marc and Tony raising money for The Chloe and Liam Together Forever Foundation - their friends Chloe and Liam who tragically passed away in the Manchester Arena attack last year.",reliable,0,0,reliable,0.9954346,0.0024916497,0.002073735,True
+Just like this was an isolated incident.,unrelated,2,2,unrelated,0.002023231,0.0018100739,0.99616665,True
+Man held by police outside Parliament - held by police outside Parliament,unrelated,2,2,unrelated,0.0024020541,0.001676904,0.995921,True
+What are you talking about!!!!!!!,unrelated,2,2,unrelated,0.002007439,0.0018493396,0.9961433,True
+That's just stating a fact. 1 million migrants from Syria to Germany. Without any checks. And to the EU. Without consulting any other nation. Who are they? ISIS? Utter madness. We brought in Libyans amp got the Manchester Arena bomb as thanks.,misinformation,1,1,misinformation,0.005611094,0.9898934,0.0044954508,True
+If I ever truly hated anything it's Isis,unrelated,2,2,unrelated,0.002514532,0.0016997567,0.99578565,True
+"I'm afraid they're confirmed to have died, Debbie. So awful",unrelated,2,2,unrelated,0.0020195062,0.0017039194,0.99627656,True
+"arena Security Please can you help me with this bomb in Plain sight security was""nt Lax there was none after Muslims run wildSTP",reliable,0,0,reliable,0.9920168,0.00606819,0.001915043,True
+"Thoughts and prayers to everyone affected by the attack at Manchester arena last night. Just so, so sad.",reliable,0,0,reliable,0.99545187,0.0027499842,0.0017982078,True
+"""It was absolute carnage. When I got up I saw bodies lying on the ground.""",unrelated,2,2,unrelated,0.002642805,0.0016218373,0.9957353,True

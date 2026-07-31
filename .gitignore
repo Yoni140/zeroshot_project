@@ -50,3 +50,8 @@ desktop.ini
 *.env
 secrets.py
 config_local.py
+
+# Local training resume logs
+results/train_*.log
+results/train_resume_*.log
+

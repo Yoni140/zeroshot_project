@@ -76,6 +76,42 @@ DATASET_CONFIG = {
     },
 }
 
+# PHEME event datasets (2-class). Skip ebola-essien (empty test / single-class).
+_EVENT_META = {
+    'pheme_all_events':  'breaking news events in the PHEME rumour corpus (multiple crises)',
+    'gurlitt':           'the Cornelius Gurlitt Nazi-looted art / museum bequest case',
+    'germanwings-crash': 'the 2015 Germanwings Flight 9525 crash',
+    'charliehebdo':      'the 2015 Charlie Hebdo attack in Paris',
+    'ferguson':          'the 2014 Ferguson unrest after the shooting of Michael Brown',
+    'ottawashooting':    'the 2014 Ottawa Parliament Hill / War Memorial shooting',
+    'prince-toronto':    'rumours of a secret Prince concert in Toronto',
+    'putinmissing':      'rumours that Vladimir Putin was missing, ill, or dead',
+    'sydneysiege':       'the 2014 Sydney Lindt café siege in Martin Place',
+}
+
+for _key, _topic in _EVENT_META.items():
+    DATASET_CONFIG[_key] = {
+        'test':        ROOT / f'data/gold_standard/{_key}_test.csv',
+        'text_col':    'cleaned_tweet',
+        'label_col':   'label',
+        'label_map':   {'not_rumour': 0, 'rumour': 1},
+        'label_names': ['not_rumour', 'rumour'],
+        'pos_label':   'rumour',
+        'topic':       _topic,
+        'classes': {
+            'not_rumour': (
+                f'verified news, factual reporting, or confirmed information about {_topic}'
+            ),
+            'rumour': (
+                f'unverified claims, speculation, or information about {_topic} '
+                f'that has not been confirmed by credible sources'
+            ),
+        },
+    }
+
+EVENT_DATASETS = list(_EVENT_META.keys())
+
+
 # ── Provider configs ──────────────────────────────────────────────────────────
 PROVIDER_CONFIG = {
     'groq': {
@@ -398,10 +434,22 @@ def main():
     parser = argparse.ArgumentParser()
     parser.add_argument('--dataset', choices=list(DATASET_CONFIG), default=None)
     parser.add_argument('--model',   choices=list(MODEL_CONFIG),   default=None)
+    parser.add_argument('--events-only', action='store_true',
+                        help='Only PHEME event datasets (skip manchester/monkeypox/pheme)')
+    parser.add_argument('--datasets', nargs='+', default=None,
+                        help='Explicit dataset list (overrides --dataset / --events-only)')
     args = parser.parse_args()
 
     # Build combo list: filter by --dataset and/or --model if provided
-    all_datasets = list(DATASET_CONFIG.keys())
+    if args.datasets:
+        all_datasets = args.datasets
+        unknown = [d for d in all_datasets if d not in DATASET_CONFIG]
+        if unknown:
+            sys.exit(f'Unknown datasets: {unknown}. Known: {list(DATASET_CONFIG)}')
+    elif args.events_only:
+        all_datasets = EVENT_DATASETS
+    else:
+        all_datasets = list(DATASET_CONFIG.keys())
     all_models   = list(MODEL_CONFIG.keys())
     datasets     = [args.dataset] if args.dataset else all_datasets
     models       = [args.model]   if args.model   else all_models
@@ -443,6 +491,12 @@ def main():
             all_metrics.append(existing)
             continue
 
+        # Skip empty test sets
+        test_path = DATASET_CONFIG[ds]['test']
+        if not test_path.exists() or len(pd.read_csv(test_path)) == 0:
+            print(f'  Skipping {ds}+{m} — empty / missing test file', flush=True)
+            continue
+
         try:
             m_result = run_inference(ds, m, clients[provider])
             all_metrics.append(m_result)
@@ -475,7 +529,7 @@ def main():
         print(f'{ds:<14} {mdl:<12} {f1:>10.4f} {acc:>10.4f}', flush=True)
 
     print(f'\nOutput files in: {PREDS_DIR}', flush=True)
-    print('Next step: run notebooks/comparison/09_Comparison.ipynb', flush=True)
+    print('Next step: python scripts/compare_all_models.py', flush=True)
 
 
 if __name__ == '__main__':

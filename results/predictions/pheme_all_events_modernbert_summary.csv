@@ -1,0 +1,2 @@
+dataset,model,model_key,cv_f1_macro_mean,cv_f1_macro_std,test_accuracy,test_f1_macro,test_f1_weighted,test_precision,test_recall,test_f1_rumour
+pheme_all_events,answerdotai/ModernBERT-base,modernbert,0.833889,0.018555,0.833333,0.833095,0.833095,0.835247,0.833333,0.8394

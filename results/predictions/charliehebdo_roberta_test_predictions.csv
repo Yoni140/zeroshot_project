@@ -1,0 +1,293 @@
+cleaned_tweet,label,true_label_int,pred_label_int,pred_label,prob_not_rumour,prob_rumour,correct
+The car used by armed gunmen who stormed the Paris offices of satirical newspaper CharlieHebdo Photo D. Faget AFP,not_rumour,0,1,rumour,0.26038948,0.73961055,False
+Update - PA gunman holding hostages in Paris grocery has been killed,rumour,1,1,rumour,0.0036146443,0.99638534,True
+Pictures From CharlieHebdo Solidarity Vigils Across The Globe,not_rumour,0,0,not_rumour,0.9991491,0.0008509045,True
+Charlie Hebdo. It was press day at the magazine so all important staff were there. Now 10 assassinated along with 2 police officers.,rumour,1,0,not_rumour,0.6924341,0.307566,False
+JUST IN Police tell it's probable gunman in second Paris hostage situation is man who killed a policewoman yesterday -,rumour,1,1,rumour,0.07730842,0.9226916,True
+My heart is with Paris amp all affected by this tragedy. CharlieHebdo JesuisCharlie freedom Image,not_rumour,0,0,not_rumour,0.9991573,0.00084264233,True
+"Thoughts with those affected by CharlieHebdo attack, particularly those brave police colleagues killed in the line of duty. policefamily",not_rumour,0,0,not_rumour,0.9990527,0.00094730896,True
+"You're not Charlie Hebdo unless you are prepared to retweet its most ""offensive"" cartoons iamcharlie",not_rumour,0,0,not_rumour,0.9993773,0.00062267727,True
+French police set up checkpoints 12 miles from a gas station where CharlieHebdo suspects were reported seen,not_rumour,0,0,not_rumour,0.80980295,0.19019702,True
+"Even for a hardened news man, today's mass shooting at CharlieHebdo is ferociously shocking - writes",not_rumour,0,0,not_rumour,0.99932015,0.0006798429,True
+"BREAKING CharlieHebdo Hebdo to be published next week in defiance of attack, with contributions from cartoonists from around the world.",not_rumour,0,0,not_rumour,0.9988949,0.0011051808,True
+Reports in French media of hostage situation as manhunt for CharlieHebdo suspects centres on DammartinEnGoele,rumour,1,1,rumour,0.08108211,0.91891783,True
+I see this cartoon by is doing the rounds. And rightly so. JeSuisCharlie,not_rumour,0,0,not_rumour,0.9990638,0.0009362829,True
+"The instrumentalization of Charlie Hebdo Some defend freedom of speech all the time. Others only when they can use it to spy, drone, more.",not_rumour,0,0,not_rumour,0.9994035,0.00059650384,True
+"""We are all Charlie European newspapers show solidarity with Charlie Hebdo after attack",not_rumour,0,0,not_rumour,0.9992931,0.0007069056,True
+Convoy of police cars rushing toward town northeast of Paris amid reports of hostages taken - broadcast,rumour,1,1,rumour,0.460251,0.539749,True
+Muslims are not terrorists prisedotage Dammartin ContreLesTerroristes AtentadoParisEP JeSuisCharlieARV,not_rumour,0,0,not_rumour,0.99910307,0.00089693937,True
+"Cartoon by Australian artist - ""can't sleep, thoughts with my French cartooning colleagues"" CharlieHebdo",not_rumour,0,0,not_rumour,0.9981969,0.0018031665,True
+"The Paris killers are dead. Stuff them, posed as a Charlie Hebdo cover, and put 'em on display at the Louvre.",not_rumour,0,0,not_rumour,0.9851718,0.014828144,True
+"BREAKING French authorities say the two CharlieHebdo terrorists are still ""armed and extremely dangerous.""",rumour,1,1,rumour,0.10753115,0.8924688,True
+. gave a masterclass in dealing with people who demand an apology from Muslims for CharlieHebdo attack,not_rumour,0,0,not_rumour,0.99935,0.00064999826,True
+RIP CharlieHebdo staff who paid w their lives for defending freedom of the press we all benefit from. True heroes.,not_rumour,0,0,not_rumour,0.999213,0.0007870084,True
+Second hostage situation unfolding at Paris grocery store,not_rumour,0,0,not_rumour,0.9946359,0.005364056,True
+"Charlie Hebdo, we love you",not_rumour,0,0,not_rumour,0.99918324,0.00081673806,True
+Muslim leaders worldwide have condemned the Charlie Hebdo attacks. But you won't learn that by watching .,not_rumour,0,0,not_rumour,0.99935,0.00064999826,True
+JeSuisCharlie - a brilliant image by . Let's all stick our pencils up in defiance.,not_rumour,0,0,not_rumour,0.99903595,0.0009640919,True
+Every newspaper in Europe should publish those cartoons from Charlie Hebdo tomorrow. Every single one.,not_rumour,0,0,not_rumour,0.9991491,0.0008509045,True
+World pays tribute to victims of CharlieHebdo massacre,not_rumour,0,0,not_rumour,0.99938214,0.0006178345,True
+"""NOT AFRAID"" - Thousands in France gather to a send message after Charlie Hebdo attack.",not_rumour,0,0,not_rumour,0.9991704,0.0008295892,True
+"Video showing CharlieHebdo attack. ""Allahu akbar"" shouts",rumour,1,0,not_rumour,0.990732,0.009268014,False
+Hypocrites like in one screen shot. CharlieHebdo PK,not_rumour,0,0,not_rumour,0.9990508,0.0009491592,True
+BREAKING - FRANCE Hostages taken at company North-East of Paris CharlieHebdo,rumour,1,1,rumour,0.0033309148,0.9966691,True
+"Anybody who wants to talk about what Charlie Hebdo might have done to ""provoke"" this should probably shut up, forever.",not_rumour,0,0,not_rumour,0.99929726,0.00070277863,True
+Washington USA Seattle CharlieHebdo 666 Satirical Newspaper Charlie Hebdo Braved Earlier Attack And Threats Befor,not_rumour,0,0,not_rumour,0.9992693,0.0007307537,True
+"""You tell the media it was al-Qaeda in Yemen"" - reported words of CharlieHebdo attackers. Read more c4news",rumour,1,0,not_rumour,0.99549675,0.0045032725,False
+Web strongly condemn this terrorist attack on the Charlie Hebdo,not_rumour,0,0,not_rumour,0.9991374,0.0008626078,True
+BREAKING Astonishing video of the Paris terror attack as it was happening gt via CharlieHebdo,not_rumour,0,0,not_rumour,0.995142,0.0048579657,True
+"MT The sort of free expression all authoritarians tolerate, from Syrian artist Ali Farzat. JeSuisCharlie",not_rumour,0,0,not_rumour,0.9993228,0.0006771942,True
+They should stop making attacks they are giving a bad image to Islam CharlieHebdo,not_rumour,0,0,not_rumour,0.99945253,0.00054740964,True
+From 2011 France's Charlie Hebdo newspaper has long reveled in the art of provocation,not_rumour,0,0,not_rumour,0.9990582,0.0009417797,True
+"If you tweeted JeSuisCharlie but won't tweet JeSuisJuif today, I think we can all figure out the reason.",not_rumour,0,0,not_rumour,0.99929583,0.0007041515,True
+"CharlieHebdos most controversial religious covers, explained--PHOTOS",not_rumour,0,0,not_rumour,0.99930406,0.00069595367,True
+"Man compares the Prophet to a dog! He prays for his forgiveness has him buried in his own cloak, and prays upon his funeral. CharlieHebdo",not_rumour,0,0,not_rumour,0.9993724,0.00062755786,True
+"Been watching UK news all morning, seen no mention of multiple attacks on mosques in France after yesterday",not_rumour,0,0,not_rumour,0.9981969,0.0018031665,True
+BREAKING Smoke coming from building where Charlie Hebdo attack suspects located Reuters reporter,not_rumour,0,0,not_rumour,0.9987453,0.0012545943,True
+"Yes, they drew first. Don't ever be silent, don't ever be ignorant. We stand with you! JeSuisCharlie Everyone RT!",not_rumour,0,0,not_rumour,0.9993749,0.00062511285,True
+"We can never defeat terrorism if we have allies like Saudi Arabia who behead religious, political or sexual dissenters JeSuisCharlie",not_rumour,0,0,not_rumour,0.9993773,0.00062267727,True
+unprecedented Paris ring road empty at Porte de Vincennes 100m fr hostage taking. Armed police everywhere,not_rumour,0,0,not_rumour,0.88252914,0.11747085,True
+"Surviving Charlie Hebdo staff say they'll publish next week, with 1m print run",not_rumour,0,0,not_rumour,0.9983026,0.0016974094,True
+"I don't support the cartoons or language published by publishers BUT CharlieHebdo attack is indeed ""sickening"". 11 dead in terrorattack",not_rumour,0,0,not_rumour,0.9993893,0.00061064085,True
+Minute's silence at Guardian office for CharlieHebdo,not_rumour,0,0,not_rumour,0.99925774,0.0007422528,True
+The reason to have a JeNeSuisPasCharlie convo now is precisely because JeSuisCharlie is using the tragedy to elevate them above criticism,not_rumour,0,0,not_rumour,0.99936134,0.0006386796,True
+"""This is not a religion"" Important to remember in times like this. CharlieHebdo",not_rumour,0,0,not_rumour,0.99926645,0.0007336117,True
+"Chapeau, George Packer and , for telling it exactly as it is. JeSuisCharlie",not_rumour,0,0,not_rumour,0.9989287,0.0010712142,True
+"2nd hostage situation unfolding in France as SWAT teams respond to situation at grocery in Paris neighborhood - ,",not_rumour,0,0,not_rumour,0.9925538,0.007446194,True
+PARIS HOSTAGE SITUATIONS -At printing house -Holding 1 hostage -At kosher supermarket -Holding 6 hostages Stay with for the latest,not_rumour,0,1,rumour,0.02023532,0.9797647,False
+The unarmed policeman executed by the Charlie Hebdo terrorists was a Muslim,not_rumour,0,0,not_rumour,0.9968702,0.0031297363,True
+CharlieHebdo massacre 'Attack will heighten anti-Islamic tensions across Europe',not_rumour,0,0,not_rumour,0.9993687,0.00063124346,True
+"JUST IN Series of explosions, rapid gunfire in eastern Paris near site of second hostage standoff WATCH LIVE",not_rumour,0,0,not_rumour,0.99807703,0.0019229825,True
+"World sends messages of condolence, outrage, defiance via JeSuisCharlie after Paris attack",not_rumour,0,0,not_rumour,0.99922824,0.000771798,True
+Do not share the video of masked gunmen at CharlieHebdo offices executing a police officer. It is barbaric amp his life should be respected.,not_rumour,0,0,not_rumour,0.9991474,0.0008525667,True
+"UK's security committee Cobra to meet later, following CharlieHebdo attack",not_rumour,0,0,not_rumour,0.99895155,0.0010484692,True
+Rural region of northern France searched in hunt for CharlieHebdo gunmen - latest updates,rumour,1,0,not_rumour,0.5543951,0.44560492,False
+The world must know his name. FreeRaif RaifBadawi JeSuisCharlie JeSuisRaif READ Pls RT,not_rumour,0,0,not_rumour,0.9992099,0.00079008617,True
+Charlie Hebdo attack Hunt for killers focuses on northern France CharlieHebdo 485,rumour,1,0,not_rumour,0.9991221,0.00087789143,False
+Cartoon by sums up today's grim events JeSuisCharlie,not_rumour,0,0,not_rumour,0.99887305,0.0011269539,True
+Picture of explosion in Dammartin-en-Goele.t all happened suddenly.,not_rumour,0,0,not_rumour,0.9960699,0.0039300853,True
+CharlieHebdo attack terrified witness films masked gunmen shooting man on pavement,not_rumour,0,0,not_rumour,0.618838,0.381162,True
+Fight intimidation with controversy CharlieHebdos response to critics,not_rumour,0,0,not_rumour,0.99929583,0.0007041515,True
+Who are the two brothers suspected of launching CharlieHebdo attack? We explain Pic AFP,rumour,1,0,not_rumour,0.9967397,0.0032603461,False
+"Charlie Hebdo wasn't singling out Islam. It's target was authority, whatever its source. via",not_rumour,0,0,not_rumour,0.99903786,0.0009622126,True
+Nova Scotia CAN Halifax UPDATE 659 Charlie Hebdo Charlie Hebdo has had a long tradition of disrespect and pro,not_rumour,0,0,not_rumour,0.9992505,0.0007495314,True
+I support CharlieHebdo and a free press. Please RT these cartoons to show a united and dignified defiance.,not_rumour,0,0,not_rumour,0.9993625,0.0006374342,True
+Charlie Hebdo Suspects Are Reported Killed by Police,not_rumour,0,1,rumour,0.020606475,0.9793935,False
+"Those who died at CharlieHebdo will live forever, because pens are more powerful than guns. Don't ever let terror make you think otherwise.",not_rumour,0,0,not_rumour,0.99927634,0.00072365726,True
+"Forget truth, today even satire is unacceptable. CharlieHebdo",not_rumour,0,0,not_rumour,0.99939287,0.0006070755,True
+"FRANCE - PHOTO Ahmed Merabet, French Muslim Cop, first victim of CharlieHebdo attack today.",rumour,1,1,rumour,0.016705094,0.9832949,True
+"Officials say 3 gunmen carried out Charlie Hebdo shootings, Frances bloodiest terrorist attack in nearly 2 decades.",rumour,1,1,rumour,0.18177101,0.818229,True
+Here's a rundown of the cartoons the Muslim savages in Paris just slaughtered 12 people over,not_rumour,0,0,not_rumour,0.99907815,0.0009217804,True
+Islam is not the enemy. Muslims are not the enemy. hatecannotdriveouthate jesuischarlie,not_rumour,0,0,not_rumour,0.99928623,0.0007138379,True
+Cartoonists respond with the only tools they have JeSuisCharlie,not_rumour,0,0,not_rumour,0.998844,0.0011559008,True
+"According to AFP ""a number"" of hostages have been freed after police raided supermarket Hostage in Dammartin free",rumour,1,1,rumour,0.006050398,0.99394965,True
+"I wake up to NAACPBombing and CharlieHebdo massacre, the violence of both betraying the insecurity amp weakness of the assailants.",not_rumour,0,0,not_rumour,0.9994653,0.0005347357,True
+"Looks like every Charlie Hebdo cartoonist has been killed 1. Charb - was on Al-Qaeda's hit list 2. Cabu, 3. Wolinski, 4. Tignous",rumour,1,1,rumour,0.024656855,0.9753431,True
+"Good night, people. May tomorrow be a better day for France, for the world, and for freedom of speech. JeSuisCharlie",not_rumour,0,0,not_rumour,0.9992792,0.000720838,True
+Scene at Paris HQ of satirical magazine Charlie Hebdo - police confirm gunmen kill at least 10,rumour,1,1,rumour,0.003370046,0.9966299,True
+A Tribute to the Cartoonists of Charlie Hebdo JeSuisCharlie,not_rumour,0,0,not_rumour,0.9992749,0.000725071,True
+In case you are confusedCharlieHebdo via,not_rumour,0,0,not_rumour,0.99864894,0.0013511209,True
+Update - AFP reports CharlieHebdo will publish an edition of the magazine as normal next week,not_rumour,0,1,rumour,0.3543772,0.6456228,False
+Awful. 11 shot dead in an assault on a Paris magazine. CharlieHebdo,rumour,1,1,rumour,0.004582765,0.99541724,True
+"The Prophet was insulted amp hit by stones, till his body was covered in blood. Yet he forgave them, and prayed for them. CharlieHebdo",not_rumour,0,0,not_rumour,0.99865675,0.0013432378,True
+Don't let Islamists intimidate u. Republish the cartoons in solidarity with CharlieHebdo victims amp 4 free expression,not_rumour,0,0,not_rumour,0.99942964,0.00057031563,True
+"Hostage-taker in supermarket siege killed, reports say. ParisAttacks",rumour,1,1,rumour,0.011136502,0.98886347,True
+JUST IN A separate shooting and hostage situation at a supermarket in eastern Paris has been reported ... developing,rumour,1,1,rumour,0.014913983,0.98508596,True
+"Snipers, helicopters turn French town Dammartin-en-Goele into warzone. Photo Dominique Faget AFP",not_rumour,0,1,rumour,0.09973295,0.900267,False
+Satire is a symptom of a healthy society and always a prime target for fundamentalism. There is no 'right not to be offended' CharlieHebdo,not_rumour,0,0,not_rumour,0.9994128,0.0005872614,True
+Three large explosions and gunfire heard where CharlieHebdo suspects are holed up.,not_rumour,0,0,not_rumour,0.9990854,0.0009146137,True
+BREAKING French far-right leader Le Pen calls for death penalty CharlieHebdo,not_rumour,0,0,not_rumour,0.98544043,0.014559518,True
+Armed men were reportedly asking for journalists by name at Charlie Hebdo. Unimaginable..,rumour,1,1,rumour,0.007907292,0.99209267,True
+"Breaking french police release portrait of susp Montrouge shooters same of hostage situation Paris """,not_rumour,0,0,not_rumour,0.99773055,0.0022694687,True
+"JeSuisCharlie They're only cartoons ,or am I also prone to being killed for posting them",not_rumour,0,0,not_rumour,0.99908185,0.0009181901,True
+". calls CharlieHebdo ""stupid"" amp calls for editorial ""common sense."" Capitulation of free speech h t",not_rumour,0,0,not_rumour,0.99917847,0.00082153385,True
+Wrote and drew this on CharlieHebdo and the history of cartoonists killed for their work,not_rumour,0,0,not_rumour,0.9991221,0.00087789143,True
+"CharlieHebdo journalists 'provoked' their own slaughter, says American Catholic group",not_rumour,0,0,not_rumour,0.9992387,0.0007613259,True
+MORE Official French terror suspects want to be martyrs are holed up with hostage north of Paris,rumour,1,1,rumour,0.034553625,0.96544635,True
+"JUST IN Officials report suspects in Charlie Hebdo massacre are dead, hostages freed",not_rumour,0,1,rumour,0.28701782,0.7129822,False
+"11 just killed in Paris by ""Alu Akhbar"" shouting armed men in attack on satirical mag Charlie Hebdo. Background",rumour,1,1,rumour,0.0039839703,0.99601597,True
+We are observing a minute's silence at 11am today. If you support press freedom please share amp join us JeSuisCharlie,not_rumour,0,0,not_rumour,0.9992175,0.000782414,True
+Pencil Eraseris mightier than the sword CharlieHebdo,not_rumour,0,0,not_rumour,0.9983059,0.0016941031,True
+- If you support this freedom fighter! StopIslamists FreedomOfSpeech CharlieHebdo RedNationRising,not_rumour,0,0,not_rumour,0.9992446,0.00075540564,True
+Telling that some are calling the Charlie Hebdo shootings the worst terrorist attack in Europe since 2005. Breivik doesnt even register.,not_rumour,0,0,not_rumour,0.9992592,0.0007408056,True
+"We condemn the attack on CharlieHebdo Whomever the attackers are, and whatever the cause may be, nothing justifies the taking of life",not_rumour,0,0,not_rumour,0.9992267,0.00077330566,True
+Should our media show Charlie Hedbo cartoons like this? Absolutely. JeSuisCharlie,not_rumour,0,0,not_rumour,0.9993513,0.0006487309,True
+"""I may not agree with what you say but will defend your right to say it."" - Voltaire shocked JeSuisCharlie",not_rumour,0,0,not_rumour,0.9991186,0.0008813243,True
+"A brief history of Charlie Hebdo, the satirical magazine at the centre of today's terror attack in Paris paris",not_rumour,0,0,not_rumour,0.99909604,0.00090396777,True
+UPDATE Three men including two brothers identified in France newspaper attack source JeSuisCharlie CharlieHebdo,rumour,1,1,rumour,0.010408315,0.98959166,True
+BREAKING Le Monde newspaper says hostage take at Kosher supermarket in Paris dead. PorteDeVincennes ParisTerrorAttacks,rumour,1,1,rumour,0.0062899017,0.99371004,True
+France Dark day for freedom of expression as gunmen attack newspaper office. CharlieHebdo,not_rumour,0,0,not_rumour,0.9993135,0.0006865099,True
+LIVE REPORT - Assault in Dammartin CharlieHebdo,not_rumour,0,1,rumour,0.009090384,0.99090964,False
+Every time I think I see the best CharlieHebdo cartoon another great one comes out. JeSuisCharlie,not_rumour,0,0,not_rumour,0.9993845,0.0006154273,True
+"MORE Operation to detain massacre suspects unfolding in Dammartin-en-Goele, about 25 miles northeast of Paris",rumour,1,1,rumour,0.11706649,0.8829335,True
+BREAKING Police Hostage-taker at Paris market is suspect in slaying of policewoman a day earlier.,rumour,1,1,rumour,0.0058653387,0.9941347,True
+"The shooting ""Charlie Hebdo"", in France, is a horrible tragedy. Ignorance, hatred and cowardice has no religion, no political allegiance.",not_rumour,0,0,not_rumour,0.9991991,0.0008009536,True
+Political cartoonists are mourning CharlieHebdo by retaliating the only way they know how. On pen and paper.,not_rumour,0,0,not_rumour,0.9993175,0.00068250194,True
+"Breaking Armed men attack offices of French satirical magazine Charlie Hebdo, killing at least 10, police say",rumour,1,1,rumour,0.008968053,0.991032,True
+CharlieHebdo's lawyer says the magazine's editor-in-chief was killed in the attack. More on this developing story,rumour,1,0,not_rumour,0.648522,0.351478,False
+Charlie Hebdo to continue publishing in the wake of the attack,not_rumour,0,0,not_rumour,0.9991221,0.00087789143,True
+If you want to show your support for please share this cartoon. JeSuisCharlie,not_rumour,0,0,not_rumour,0.9991474,0.0008525667,True
+"10 people confirmed dead in Paris attack - rocket launcher used in assault, according to reports",rumour,1,1,rumour,0.003004343,0.9969957,True
+"Awesome Next issue of CharlieHebdo will have 1 million copy run, up from 30,000 circulation.",not_rumour,0,0,not_rumour,0.9992022,0.0007978335,True
+FUCK THE TERRORIST IN PARIS I BREAK THERE FUCKING NECKS,not_rumour,0,0,not_rumour,0.99920684,0.00079317606,True
+The pen is mightier This is how cartoonists responded to CharlieHebdo attack,not_rumour,0,0,not_rumour,0.99911696,0.00088304584,True
+"Hundreds of Muslims in Sweden celebrate terrorist attack on Charlie Hebdo in France shouting,Islam will take over the world",not_rumour,0,0,not_rumour,0.9993424,0.00065765524,True
+"Schools closed, Dammartin-en-Goele residents told to stay indoors, town 'like warzone'",rumour,1,0,not_rumour,0.9559813,0.04401865,False
+Salman Rushdie Respect for religion has become a code phrase meaning fear of religion. CharlieHebdo,not_rumour,0,0,not_rumour,0.99938333,0.00061662967,True
+"As a Muslim, I condemn the cruel attack on CharlieHebdo amp offer condolences to the French people. The ""Islam"" of the murderers is not mine.",not_rumour,0,0,not_rumour,0.9994035,0.00059650384,True
+"FYI - the cop was Muslim! RIP Ahmed Merabet. Blame TERROR, not Islam! JeSuisCharlie CharlieHebdo",not_rumour,0,0,not_rumour,0.99863833,0.0013617034,True
+"6 days after Charlie Hebdo's 2011 firebombing, it ran an image of a cartoonist kissing a jihadi, with caption Love is stronger than hate",not_rumour,0,0,not_rumour,0.999159,0.0008409995,True
+"MT Can't sleep, thoughts with my French cartooning colleagues, their families amp loved ones CharlieHebdo",not_rumour,0,0,not_rumour,0.9991424,0.0008575725,True
+"There are causes worth dying for, but none worth killing for. Albert Camus CharlieHebdo",not_rumour,0,0,not_rumour,0.9989956,0.0010044163,True
+BREAKING Car chase under way in Paris as officers pursue CharlieHebdo suspects down motorway,rumour,1,1,rumour,0.018387254,0.9816127,True
+Everything we know about the CharlieHebdo attack so far,not_rumour,0,0,not_rumour,0.9991928,0.0008072305,True
+BREAKING Police official Hostage-taker at Paris market appears linked to newspaper attack suspects.,rumour,1,1,rumour,0.0039839703,0.99601597,True
+Julian Assange has lost the plot. Blames Jewish pro-censorship lobby for legitimizing the Charlie Hebdo massacre.,not_rumour,0,0,not_rumour,0.99896574,0.001034247,True
+"Paris Terrorist was Radicalized by Bushs Iraq War, Abu Ghraib Torture",not_rumour,0,0,not_rumour,0.9992563,0.00074370287,True
+Two mosque attacks reported in wake of Charlie Hebdo attack C4News,not_rumour,0,0,not_rumour,0.9990471,0.0009528706,True
+France is in shock after brutal attack on satirical newspaper CharlieHebdo,not_rumour,0,0,not_rumour,0.99918,0.0008199321,True
+1st they came for the Jews. Then they came for the Jews again amp again... then they came for CharlieHebdo. Then they came for the Jews again,not_rumour,0,0,not_rumour,0.9970247,0.0029752331,True
+Free speech must not be silenced in the wake of Charlie Hebdo attack,not_rumour,0,0,not_rumour,0.9992417,0.00075836,True
+Charlie Hebdo Dont blame this bloodshed on Frances Muslims Nabila Ramdani,not_rumour,0,0,not_rumour,0.9993228,0.0006771942,True
+"If your argument involves silencing critics by murdering them, then you have irretrievably lost the argument. CharlieHebdo",not_rumour,0,0,not_rumour,0.9993857,0.00061422714,True
+The world would be a far better place if all religious fanatics followed this advice CharlieHebdo,not_rumour,0,0,not_rumour,0.9993475,0.00065254065,True
+"Charlie Hebdos editor ""When activists need a pretext to justify their violence, they always find it. CharlieHebdo",not_rumour,0,0,not_rumour,0.99930406,0.00069595367,True
+Charlie Hebdo to Print 1 Million Copies in Defiance After Attack via,not_rumour,0,0,not_rumour,0.9990638,0.0009362829,True
+Gallery Tank amp armoured car seen near CharlieHebdo seige outside Paris by,rumour,1,1,rumour,0.11417084,0.88582915,True
+"Counter terrorism expert Colonel Mike Dewar says Paris will have been put on ""virtual shutdown"" CharlieHebdo",not_rumour,0,0,not_rumour,0.9947084,0.005291605,True
+Agence France-Presse staff line up to proclaim JeSuisCharlie,not_rumour,0,0,not_rumour,0.99909246,0.00090750254,True
+Turns out CharlieHebdo was a two face douche on free speech - Telegraph,not_rumour,0,0,not_rumour,0.99903405,0.00096597493,True
+"""Female Islamist terrorist"" attacks Paris Jewish store. As a woman, she has equal rights only when it comes to murdering nonbelievers.",not_rumour,0,0,not_rumour,0.99930537,0.0006945966,True
+if you respect Muslims not the fanatics JeSuisCharlie RespectForMuslims,not_rumour,0,0,not_rumour,0.99938333,0.00061662967,True
+MORE Police official Hostage-taker at Paris market appears linked to newspaper attack suspects,rumour,1,1,rumour,0.003937739,0.9960622,True
+"""Our thoughts are w our allies over in France,"" spokesman says. CharlieHebdo",not_rumour,0,0,not_rumour,0.9971328,0.0028671583,True
+Reprinting CharlieHebdo Mohammed Cartoons is Best Way to Defy Islamic Cartoonophobia,not_rumour,0,0,not_rumour,0.9994012,0.00059883716,True
+In memory for those killed in ParisShooting. CharlieHebdo,not_rumour,0,0,not_rumour,0.99916387,0.0008360903,True
+Top editor in Qatar urges Muslims not to apologize for CharlieHebdo ParisShooting,not_rumour,0,0,not_rumour,0.9993026,0.00069731334,True
+At least 11 dead in shooting at HQ of CharlieHebdo in Paris police source,rumour,1,1,rumour,0.002795477,0.9972045,True
+We begin in Paris with a moment of silence for those killed in the CharlieHebdo attacks.,not_rumour,0,0,not_rumour,0.9990601,0.00093994394,True
+"He drew first Cartoon for CharlieHebdo team from cartoonist Canberra Times, Australie",not_rumour,0,0,not_rumour,0.9987576,0.0012424174,True
+Pope Francis prays for gunmen who executed 12 people at CharlieHebdo,not_rumour,0,0,not_rumour,0.9990564,0.0009436193,True
+I am reminded of the words of ... JeSuisCharlie,not_rumour,0,0,not_rumour,0.99916065,0.00083935994,True
+CharlieHebdo shooting what we know so far,not_rumour,0,0,not_rumour,0.99926645,0.0007336117,True
+Prophet Mohammed cartoons republished by Danish newspaper in wake of CharlieHebdo attack,not_rumour,0,0,not_rumour,0.99914575,0.000854232,True
+"Salman Rushdie ""Satire has always been a force for liberty and against tyranny, dishonesty and stupidity"" CharlieHebdo",not_rumour,0,0,not_rumour,0.99935883,0.0006411777,True
+"Police seen in Longpont, a village near to a petrol station reportedly robbed by the two CharlieHebdo suspects.",rumour,1,0,not_rumour,0.8755211,0.12447884,False
+"A great many frauds, the Guardian included, claiming to be ""Charlie Hebdo"" but too cowardly to publish their cartoons.",not_rumour,0,0,not_rumour,0.99883956,0.0011604195,True
+Our ally Saudi Arabia is such an advocate of free speech that it flogged a liberal blogger with the lash for blasphemy today JeSuisCharlie,not_rumour,0,0,not_rumour,0.9993333,0.00066670234,True
+"We're different, pls understand JeSuisCharlie NotInMyName",not_rumour,0,0,not_rumour,0.9991689,0.0008312098,True
+Update - AFP says gunman who has taken a hostage at kosher supermarket in Paris believed to be suspect in killing of policewoman on Thursday,rumour,1,1,rumour,0.0036216858,0.99637836,True
+JeSuisCharlie moving minute of silence at AFP headquarters for the victims of Charlie Hebdo,not_rumour,0,0,not_rumour,0.9990638,0.0009362829,True
+Paris staff in solidarity with CharlieHebdo. Freedom of expression is a human right,not_rumour,0,0,not_rumour,0.9993525,0.0006474658,True
+"Breaking automatic gunfire reported at Montrouge near Paris. Gunmen escaped in metro, say French reports",rumour,1,1,rumour,0.005876738,0.9941233,True
+Paris update 3 Multiple mosques attacked in France after CharlieHebdo. via,not_rumour,0,0,not_rumour,0.99789655,0.002103369,True
+Over a thousand have gathered at Martin Place to pay their respects CharlieHebdo JeSuisCharlie. Photo,not_rumour,0,0,not_rumour,0.9990656,0.0009344577,True
+CharlieHebdo cartoonist was on al Qaeda's wanted list Pic EPA,not_rumour,0,0,not_rumour,0.9991048,0.00089519075,True
+"Everybody has the right to mock religion. Mock religion, specially that one which doesn't want to be mocked. charliehebdo",not_rumour,0,0,not_rumour,0.9994504,0.0005495509,True
+Smoke seen from building where Charlie Hebdo attack suspects are located. LIVE video,not_rumour,0,0,not_rumour,0.9988949,0.0011051808,True
+"CharlieHebdo journalist ""We want to laugh at the extremistsevery extremist. They can be Muslim, Jewish, Catholic""",not_rumour,0,0,not_rumour,0.99928623,0.0007138379,True
+Nova Scotia CAN Halifax UPDATE 442 Charlie Hebdo Charlie Hebdo Paris shooting 12 dead after gunmen storm sat,not_rumour,0,0,not_rumour,0.7200731,0.2799269,True
+Charlie Hebdo will publish one million copies next week with help from Google,not_rumour,0,0,not_rumour,0.9991817,0.0008183336,True
+BREAKING - At least 2 dead in hostage standoff in Paris Kosher supermarket AFP,rumour,1,1,rumour,0.0036499873,0.99635005,True
+The building of 1 of the biggest TV channels in Germany Berlin today. We are with you PrayForParis JeSuisCharlie,not_rumour,0,0,not_rumour,0.9993687,0.00063124346,True
+"French cartoonists Charb, Cabu, Tignous and Wolinski all killed in Charlie Hebdo attack",rumour,1,1,rumour,0.031499382,0.9685006,True
+BREAKING NEWS Ten dead in shooting at headquarters of French satirical weekly Charlie Hebdo - French media,rumour,1,1,rumour,0.0029579026,0.9970421,True
+Cowardly attack on Charlie Hebdo's offices. The humourless fanatics can fuck off. Freedom of speech is more important than your feelings.,not_rumour,0,0,not_rumour,0.9992706,0.0007293288,True
+Hezbollah chief Extremists harm Islam more than cartoons CharlieHebdo,not_rumour,0,0,not_rumour,0.99930537,0.0006945966,True
+JeSuisCharlie vigils held around the world - in pictures Pic E CASTRO-MENDIVIL REUTERS,not_rumour,0,0,not_rumour,0.9991491,0.0008509045,True
+Steve Bell on the Charlie Hebdo attack cartoon,not_rumour,0,0,not_rumour,0.9991848,0.0008151457,True
+"At least 12 people were killed in today's deadly attack on CharlieHebdo, an official says.",rumour,1,1,rumour,0.005576545,0.99442345,True
+France on high alert after deadly attack on Paris offices of Charlie Hebdo,not_rumour,0,0,not_rumour,0.9984692,0.001530745,True
+CharlieHebdo will print 1 million copies next week,not_rumour,0,0,not_rumour,0.99892044,0.0010796069,True
+Join us in hating horrible crimes and racist cartoons at the same time CitizenRadio CharlieHebdo,not_rumour,0,0,not_rumour,0.99928623,0.0007138379,True
+Did they draw cartoons? JeSuisCharlie RT Why no outrage for the 100s of people Boko Haram wiped out yesterday?,not_rumour,0,0,not_rumour,0.9993242,0.00067587383,True
+"He drew first, by . CharlieHebdo JeSuisCharlie",not_rumour,0,0,not_rumour,0.9974837,0.0025163612,True
+"Google is donating nearly 300,000 to Charlie Hebdo",not_rumour,0,0,not_rumour,0.99911517,0.00088477065,True
+Leading article We are all Charlie now CharlieHebdo,not_rumour,0,0,not_rumour,0.99920374,0.000796278,True
+"""Banksy"" reacts to CharlieHebdo attack with poignant drawing",rumour,1,1,rumour,0.005030917,0.99496907,True
+The Guardian has live coverage of the Paris shooting at Charlie Hebdo,not_rumour,0,0,not_rumour,0.9989371,0.0010628869,True
+12 people have been confirmed dead in attack on French satire magazine CharlieHebdo,not_rumour,0,1,rumour,0.0040860027,0.99591404,False
+"Cartoon from Egypt daily JeSuisCharlie CharlieHebdo ""Long Live Satire!"" on the top",not_rumour,0,0,not_rumour,0.99907637,0.0009235809,True
+"BREAKING Three gunmen involved in attack on Charlie Hebdo magazine, French Interior Minister Bernard Cazeneuve says.",rumour,1,1,rumour,0.034848027,0.965152,True
+"At least five people have been taken hostage at the kosher grocery, reports say ParisAttacks",rumour,1,1,rumour,0.0058996035,0.9941004,True
+"BREAKING At least 10 killed in shooting at French satirical newspaper Charlie Hebdo, Paris prosecutor's office says.",rumour,1,1,rumour,0.0045208177,0.9954791,True
+Heartbreakingly brilliant cartoon by in solidarity with his French colleagues. CharlieHebdo,not_rumour,0,0,not_rumour,0.9990978,0.00090220553,True
+"Police confirm deaths of four of France's most celebrated cartoonists Charb, Cabu, Wolinski and Tignous CharlieHebdo",rumour,1,1,rumour,0.034358688,0.9656413,True
+"I don't need Muslims to ""condemn"" acts of Islamic terror, I need Muslims to stop committing acts of Islamic terror. CharlieHebdo",not_rumour,0,0,not_rumour,0.9994547,0.0005452766,True
+"The ""appropriate"" response to CharlieHebdo is not to urge ""respect"" for Islam, but to assert liberty JeSuisCharlie",not_rumour,0,0,not_rumour,0.99928063,0.00071943254,True
+Charlie Hebdo will print a million copies of its next edition with government and Google help,not_rumour,0,0,not_rumour,0.99924755,0.00075246283,True
+Charlie Hebdo shooting reports of attacks on Mosques in France live updates,not_rumour,0,0,not_rumour,0.9989392,0.0010608153,True
+A message to all religions CharlieHebdo,not_rumour,0,0,not_rumour,0.9992889,0.0007110568,True
+Horrific footage shows police officer begging for his life before gunman shoots him in the head CharlieHebdo,not_rumour,0,0,not_rumour,0.97074324,0.029256707,True
+"Slain Charlie Hebdo editor ""I prefer to die standing than live on my knees""",not_rumour,0,0,not_rumour,0.9991991,0.0008009536,True
+LIVE Police close in on Charlie Hebdo suspects hostages taken in eastern Paris,not_rumour,0,0,not_rumour,0.76038384,0.23961613,True
+Amateur video shows chaos of Paris shooting CharlieHebdo,not_rumour,0,0,not_rumour,0.99584997,0.004150081,True
+France's interior minister says operation to detain Charlie Hebdo suspects is now underway northeast of Paris -,rumour,1,1,rumour,0.021553464,0.9784466,True
+This cartoon by Robert Mankoff from The New Yorker Sept 2012. CharlieHebdo,not_rumour,0,0,not_rumour,0.9991117,0.00088823045,True
+BREAKING - Both CharlieHebdo suspects killed as police storm building gt gt gt More gt gt gt,not_rumour,0,1,rumour,0.013610589,0.98638946,False
+NEW The Salafi response to the Terrorist ParisShooting France Were they forbidding an evil? Please spread.,not_rumour,0,0,not_rumour,0.99937004,0.00063001254,True
+JeSuisCharlie trends as social media users express solidarity over Charlie Hebdo attack,not_rumour,0,0,not_rumour,0.99929035,0.0007096704,True
+At least 12 dead in terrorist attack at satirical magazine in Paris. Our live blog,not_rumour,0,1,rumour,0.0073173973,0.99268264,False
+BREAKING CharlieHebdo Terrorists Attended Radical Mosque in Paris JeSuisCharlie,not_rumour,0,0,not_rumour,0.99915576,0.0008442883,True
+"""this is not a religion"" IamCharlie CharlieHebdo",not_rumour,0,0,not_rumour,0.99918646,0.00081355654,True
+Breaking Gunman at Paris store threatens to kill hostages if CharlieHebdo suspects are harmed.,rumour,1,1,rumour,0.005533388,0.9944666,True
+"At 87 years of age, Asterix cartoonist Uderzo gets back on the drawing board JeSuisCharlie via",not_rumour,0,0,not_rumour,0.9986303,0.0013696945,True
+Cartoonists Georges Wolinski and Cabu are among victims of attack on CharlieHebdo in Paris,not_rumour,0,1,rumour,0.30564553,0.69435453,False
+Paris Schools near the kosher grocery siege are in lockdown,not_rumour,0,0,not_rumour,0.97767127,0.022328785,True
+CharlieHebdo suspects were on British terror watch list for years,not_rumour,0,0,not_rumour,0.86787784,0.13212213,True
+Charlie Hebdo 218 Charlie Hebdo A Profile of the Satirical French Newspaper,not_rumour,0,0,not_rumour,0.99924016,0.00075984147,True
+BREAKING NEWS Killed Charlie Hebdo suspects came out firing on security forces. AFP,rumour,1,1,rumour,0.0047092056,0.99529076,True
+Terrorists shoot officer in Paris during terrorist attack at Charlie Hebdo Graphic content 18,not_rumour,0,0,not_rumour,0.99897385,0.0010262068,True
+French police publishes photos of suspect in yesterday's Montrouge shooting. Maybe the same persons in Kosher market,rumour,1,0,not_rumour,0.9956176,0.0043823365,False
+The problem isnt Islam. The problem is assholes. Every religion has em. JeSuisCharlie,not_rumour,0,0,not_rumour,0.99910825,0.0008917038,True
+For people to even try and say that the Paris shootings were staged is disgusting. Ahmed was murdered in broad day light. JeSuisCharlie,not_rumour,0,0,not_rumour,0.99918324,0.00081673806,True
+"BREAKING CharlieHebdo suspects almost certainly behind hostage taking,"" say officials",rumour,1,1,rumour,0.22499062,0.77500933,True
+Police have surrounded this building where the suspected CharlieHebdo attackers are holed-up,rumour,1,1,rumour,0.1550145,0.8449855,True
+"How the Jewish pro-censorship lobby legitimized attacks on Carlie Hebdo for ""offensive"" speech CharlieHebdo",not_rumour,0,0,not_rumour,0.9993135,0.0006865099,True
+"Proud of NDTV for upholding India's SECULAR credentials! Nidhi Razdan ""NOTORIOUS French magazine attacked by armed men""!! CharlieHebdo",not_rumour,0,0,not_rumour,0.9992446,0.00075540564,True
+Killing writers and journalists and cartoonists will not silence them but make their voices louder. CharlieHebdo,not_rumour,0,0,not_rumour,0.9994128,0.0005872614,True
+A 2012 cartoon by the - well worth remembering today CharlieHebdo ParisShooting,not_rumour,0,0,not_rumour,0.9991912,0.00080880744,True
+BREAKING ANOTHER HOSTAGE SITUATION IN EASTERN PARIS.,not_rumour,0,1,rumour,0.016029146,0.9839708,False
+Please RT petition calling for solidarity w CharlieHebdo,not_rumour,0,0,not_rumour,0.9991272,0.000872767,True
+"Kudos to Google for donating 250,000 to help Charlie Hebdo publish next week",not_rumour,0,0,not_rumour,0.9992792,0.000720838,True
+"BREAKING Suspects in CharlieHebdo shooting ""still free"" and ""heavily armed,"" French Prime Minister says.",not_rumour,0,1,rumour,0.06307716,0.9369228,False
+Chilling video allegedly of CharlieHebdo attackers filmed from rooftop. A cry of 'Allahou Akbar' followed by shots,rumour,1,1,rumour,0.25851315,0.74148685,True
+"A dark day for freedom of expression, an appalling human tragedy. JeSuisCharlie CharlieHebdo",not_rumour,0,0,not_rumour,0.9993345,0.0006654022,True
+My clip on - scrutinising Islam as an idea is not the same as anti-Muslim hate crime JeSuisCharlie,not_rumour,0,0,not_rumour,0.9993881,0.000611834,True
+Here comes another Pakistani's take CharlieHebdo. How does one country produce so many brilliant minds?,not_rumour,0,0,not_rumour,0.99916065,0.00083935994,True
+"R.I.P. Ahmed Merabet, a French Muslim Cop, first victim of CharlieHebdo attack",rumour,1,1,rumour,0.005332886,0.9946672,True
+Sums up the absurdity of the killings. CharlieHebdo by cartoon,not_rumour,0,0,not_rumour,0.99921906,0.00078088854,True
+CharlieHebdo gunmen fled in stolen car after 'mass shoot-out' with police officers,rumour,1,1,rumour,0.0051296344,0.9948704,True
+Several hostages freed at Jewish supermarket in Paris. Photo Thomas Samson AFP,rumour,1,0,not_rumour,0.60798323,0.39201677,False
+BREAKING Paris hostage-taker 'knows' one Charlie Hebdo killer source,rumour,1,1,rumour,0.0049149487,0.99508506,True
+"At least 5 hostages in kosher supermarket in eastern Paris, according to reports",not_rumour,0,1,rumour,0.003707253,0.99629277,False
+Charlie Hebdo mocked Jews. Number of people killed 0,not_rumour,0,0,not_rumour,0.9991672,0.0008328334,True
+"ID card of Said Kouachi, suspect in CharlieHebdo attack, found in car left by 2 suspects",rumour,1,1,rumour,0.453035,0.54696506,True
+"UK border security increased after CharlieHebdo attack, terror threat level unchanged - UK home secretary",not_rumour,0,0,not_rumour,0.998835,0.0011649561,True
+"Charlie Hebdo will print one million copies of next issue, 20 times bigger than normal",not_rumour,0,0,not_rumour,0.9991066,0.0008934456,True
+"UPDATE Car chase, hostage drama as Paris massacre suspects cornered",rumour,1,1,rumour,0.10438598,0.89561397,True
+12 people have reportedly been killed in a shooting at French satirical magazine Charlie Hebdo,not_rumour,0,1,rumour,0.0040622284,0.9959378,False
+And best drawing so far RT This is just brilliant charliehebdo sonyhack,not_rumour,0,0,not_rumour,0.9055731,0.094426885,True
+MaryamRajavi strongly condemns criminal attack in Paris and offers her condolences to French Government and people CharlieHebdo Paris,not_rumour,0,0,not_rumour,0.9991541,0.0008459375,True
+"Americans, rest assured that if we could've prevented today's Paris terrorist attack by waterboarding, we wouldn't. Too mean.",not_rumour,0,0,not_rumour,0.9992778,0.00072224624,True
+Charlie Hebdo This is the terrifying price we pay for free speech in a liberal democracy,not_rumour,0,0,not_rumour,0.9993773,0.00062267727,True
+Publish a Charlie Hebdo cartoon show them the pen will still flourish when their guns have rusted JeSuisCharlie,not_rumour,0,0,not_rumour,0.99937856,0.00062146306,True
+Witnesses say several masked men were involved in the shooting at CharlieHebdo's Paris HQ.,rumour,1,1,rumour,0.009689717,0.99031025,True
+Shots fired and hostages taken in a building east of Paris as police hunt CharlieHebdo attackers,rumour,1,1,rumour,0.006944127,0.9930559,True
+"I deleted my suggestion that Paris attacks be blamed on US drones, when it became apparent that even that EXTREME sarcasm was being missed.",not_rumour,0,0,not_rumour,0.9976586,0.0023413405,True
+JesuisAhmed commemorates Muslim police officer Ahmed Merabet murdered in Charlie Hebdo attack,not_rumour,0,0,not_rumour,0.99910825,0.0008917038,True
+Sunni extremists behind CharlieHebdo attack have no issues mocking Shia holy figures in their own cartoons,not_rumour,0,0,not_rumour,0.9993538,0.0006462033,True
+Obama told Sony to stand up to North Korea in support of free speech. He will make no such declaration to us about Islamism CharlieHebdo,not_rumour,0,0,not_rumour,0.99935,0.00064999826,True
+"You know what is sad about Indian media? We don't have a CharlieHebdo, with guts to offend one and all even in the face of bullets",not_rumour,0,0,not_rumour,0.9994,0.00060000725,True
+There can be no justification whatsoever for such taking of life CharlieHebdo 2 2,not_rumour,0,0,not_rumour,0.99895763,0.0010423502,True
+BREAKING Armed man takes hostage in kosher grocery east of Paris,rumour,1,1,rumour,0.0047092056,0.99529076,True
+Breaking News Reports of Gunfire and Hostage in Search for Suspects in Paris Attack,rumour,1,1,rumour,0.026305282,0.97369474,True
+"Powerful image, yes. But it was drawn by , not by Banksy. Details charliehebdo",rumour,1,1,rumour,0.013020489,0.9869795,True
+"Great picture by Banksy. So simple, yet so powerful. JeSuisCharlie Please share.",rumour,1,1,rumour,0.018176932,0.9818231,True
+People worldwide are breaking out their pens to pay tribute to CharlieHebdo shooting victims,not_rumour,0,0,not_rumour,0.99937975,0.0006202512,True
+World leaders condemn attack on Charlie Hebdo in Paris,not_rumour,0,0,not_rumour,0.99921453,0.0007854739,True
+My cartoon today on Islamist terror a cartoon fightback CharlieHebdo,not_rumour,0,0,not_rumour,0.9992175,0.000782414,True
+This is what courage and duty look like... CharlieHebdo,not_rumour,0,0,not_rumour,0.9992778,0.00072224624,True
+"The extremists will benefit from an escalation, it justifies them. People who just want to coexist are thrown under the bus. CharlieHebdo",not_rumour,0,0,not_rumour,0.99944824,0.0005517006,True
+AFP staff observe minute of silence at AFP HQ for the victims of CharlieHebdo JeSuisCharlie,not_rumour,0,0,not_rumour,0.99931216,0.00068785116,True
+"After CharlieHebdo attack, satirists express solidarity and vow that fun would never die.",not_rumour,0,0,not_rumour,0.9992944,0.0007055272,True

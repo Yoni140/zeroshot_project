@@ -1,52 +1,43 @@
-# Zero-Shot vs Fine-Tuned RoBERTa for Misinformation Detection
+# Zero-Shot vs Fine-Tuned Transformers for Misinformation Detection
 
 ## Overview
 
-This project is a graduation thesis comparing two approaches to misinformation classification on tweets:
+This project is a graduation thesis comparing approaches to misinformation / rumour classification on tweets:
 
-- **Fine-Tuned RoBERTa**: `roberta-base` fine-tuned via 5-fold stratified cross-validation on labeled tweet datasets.
-- **Zero-Shot LLM (Gemini Pro)**: `gemini-1.5-pro` with dataset-specific Chain-of-Thought prompts, no task-specific training.
+- **Fine-tuned encoders**: `roberta-base`, `vinai/bertweet-base`, `microsoft/MiniLM-L12-H384-uncased`, and `answerdotai/ModernBERT-base` via stratified cross-validation on labeled tweet datasets.
+- **Zero-Shot LLMs**: local (Ollama) and cloud models with dataset-specific prompts, no task-specific training.
 
-Three real-world tweet datasets are used, each covering a different topic and annotation scheme. The goal is to determine whether a powerful zero-shot LLM can match or surpass a fine-tuned transformer without any labeled training data.
+Core topic datasets (Manchester, Monkeypox, PHEME) plus **PHEME per-event** splits are used so results can be compared across events as well as across models.
 
 ---
 
 ## Directory Structure
 
 ```
-ZEROSHO_CODE/
+zeroshot_project/
 ├── data/
 │   ├── raw/                        # Original unmodified source files
 │   ├── processed/                  # Cleaned full datasets (after preprocessing)
 │   └── gold_standard/              # Train / val / test CSVs per dataset
 ├── notebooks/
 │   ├── manchester/
-│   │   ├── 01_EDA_Manchester.ipynb
-│   │   └── 02_Preprocessing_Manchester.ipynb
 │   ├── monkeypox/
-│   │   ├── 03_EDA_Monkeypox.ipynb
-│   │   └── 04_Preprocessing_Monkeypox.ipynb
 │   ├── pheme/
-│   │   ├── 05_EDA_PHEME.ipynb
-│   │   └── 06_Preprocessing_PHEME.ipynb
-│   ├── 07_RoBERTa_Finetuning.ipynb
-│   ├── 08_ZeroShot_Classification.ipynb
-│   └── 09_Comparison.ipynb
+│   └── models/
 ├── scripts/
-│   ├── preprocessing.py            # CLI preprocessing pipeline (all 3 datasets)
-│   ├── train_manchester_roberta.py
-│   ├── train_monkeypox_roberta.py
-│   ├── train_pheme_roberta.py
-│   ├── zeroshot_manchester_ollama.py
-│   ├── zeroshot_monkeypox_ollama.py
-│   ├── zeroshot_pheme_ollama.py
-│   └── plot_training_curves.py
+│   ├── preprocessing.py            # CLI preprocessing (core + PHEME events)
+│   ├── train_transformer.py        # Unified fine-tuning (RoBERTa/BERTweet/MiniLM/ModernBERT)
+│   ├── run_all_transformers.py     # Batch runner over datasets × models
+│   ├── plot_pheme_events.py        # EDA + t-SNE plots for PHEME events
+│   ├── train_*_roberta.py          # Legacy per-dataset RoBERTa scripts
+│   ├── zeroshot_*.py
+│   └── run_comparison.py
 ├── results/
-│   ├── figures/                    # All saved plots (.png)
-│   ├── models/                     # Saved RoBERTa model checkpoints
-│   ├── predictions/                # Per-dataset summary CSVs
-│   └── master_results.csv          # Aggregated comparison table (notebook 09)
-├── config.py                       # Central configuration (paths, hyperparams, labels)
+│   ├── figures/                    # Plots per dataset + comparison/
+│   ├── models/                     # Saved checkpoints
+│   ├── predictions/                # Summary + prediction CSVs
+│   └── master_results.csv
+├── config.py
 ├── requirements.txt
 └── README.md
 ```
@@ -55,20 +46,52 @@ ZEROSHO_CODE/
 
 ## Datasets
 
-| Dataset    | Source tweets | Gold standard | Labels                          | Text column     |
-|------------|--------------|---------------|---------------------------------|-----------------|
-| Manchester | 89,147       | ~2,427        | `reliable` / `misinformation`   | `cleaned_tweet` |
-| Monkeypox  | 6,287        | ~3,043        | `reliable` / `misinformation`   | `cleaned_tweet` |
-| PHEME      | 62,443       | ~12,887       | `not_rumour` / `rumour`         | `cleaned_tweet` |
+### Core datasets
 
-### Manchester
-Tweets related to the 2017 Manchester Arena bombing. Labeled via the `Rumour` column (`True` → `reliable`, `Fake` → `misinformation`). Raw file: `data/raw/manchester_raw.xlsx`.
+| Dataset    | Labels (gold)                                      | Text column     |
+|------------|----------------------------------------------------|-----------------|
+| Manchester | `reliable` / `misinformation` / `unrelated`        | `cleaned_tweet` |
+| Monkeypox  | `reliable` / `misinformation` / `unrelated`        | `cleaned_tweet` |
+| PHEME      | `not_rumour` / `rumour` / `unrelated`              | `cleaned_tweet` |
 
-### Monkeypox
-Tweets about the 2022 Monkeypox outbreak. Labels come from a binary classifier column (`binary_class`: 0 = reliable, 1 = misinformation). Combined from two CSVs: `monkeypox.csv` and `monkeypox-followup.csv`.
+### PHEME event datasets (2-class)
 
-### PHEME
-A large multi-event rumour dataset. Labels from `is_rumor` column (0.0 = `not_rumour`, 1.0 = `rumour`). Raw file: `data/raw/PHEME-rumourdetection.csv`.
+Raw CSVs in `data/raw/`. Cleaned → `data/processed/{name}_clean.csv`. Gold splits → `data/gold_standard/`.
+
+| Dataset key          | Notes |
+|----------------------|-------|
+| `pheme_all_events`   | All annotated PHEME source tweets combined |
+| `charliehebdo`       | Charlie Hebdo attack |
+| `sydneysiege`        | Sydney Lindt café siege |
+| `ferguson`           | Ferguson unrest |
+| `ottawashooting`     | Ottawa Parliament shooting *(filename spelling)* |
+| `germanwings-crash`  | Germanwings Flight 9525 |
+| `putinmissing`       | Putin missing rumours |
+| `prince-toronto`     | Prince secret Toronto show *(very imbalanced)* |
+| `gurlitt`            | Gurlitt art bequest |
+| `ebola-essien`       | Michael Essien Ebola rumour *(single-class after clean — training skipped)* |
+
+Event gold standards use labels `not_rumour` / `rumour` (no `unrelated`; event files have no `topic==unknown`).
+
+---
+
+## Encoder models
+
+| Key          | HuggingFace id                         |
+|--------------|----------------------------------------|
+| `roberta`    | `roberta-base`                         |
+| `bertweet`   | `vinai/bertweet-base`                  |
+| `minilm`     | `microsoft/MiniLM-L12-H384-uncased`    |
+| `modernbert` | `answerdotai/ModernBERT-base`          |
+
+Training protocol (same for all encoders): stratified K-fold CV on the gold standard, then a final model on train+val evaluated on held-out test. Outputs:
+
+- `results/predictions/{dataset}_{model}_summary.csv`
+- `results/predictions/{dataset}_{model}_test_predictions.csv`
+- `results/figures/{dataset}/{dataset}_{model}_*.png`
+- `results/models/{dataset}_{model}_final/`
+
+For `roberta`, legacy filenames `{dataset}_roberta_summary.csv` are also written for existing comparison scripts.
 
 ---
 
@@ -77,8 +100,8 @@ A large multi-event rumour dataset. Labels from `is_rumor` column (0.0 = `not_ru
 ### Prerequisites
 
 - Python 3.9+
-- CUDA-capable GPU (required for RoBERTa fine-tuning, notebook 07)
-- Gemini API key with access to `gemini-1.5-pro` (required for notebook 08)
+- CUDA-capable GPU recommended for fine-tuning
+- API keys only if running cloud zero-shot notebooks/scripts
 
 ### 1. Install dependencies
 
@@ -88,101 +111,97 @@ pip install -r requirements.txt
 
 ### 2. Place raw data files
 
-Put the following files in `data/raw/`:
-- `manchester_raw.xlsx`
-- `monkeypox.csv`
-- `monkeypox-followup.csv`
-- `PHEME-rumourdetection.csv`
+Put core files and PHEME event CSVs in `data/raw/`:
 
-### 3. Run preprocessing notebooks (one per dataset)
+- `manchester_raw.xlsx`, `monkeypox.csv`, `monkeypox-followup.csv`
+- Optional legacy: `PHEME-rumourdetection.csv`
+- Event CSVs: `pheme_all_events.csv`, `gurlitt.csv`, `germanwings-crash.csv`, `ebola-essien.csv`, `charliehebdo.csv`, `ferguson.csv`, `ottawashooting.csv`, `prince-toronto.csv`, `putinmissing.csv`, `sydneysiege.csv`
 
-Each notebook cleans text, builds a balanced gold standard, and saves train/val/test splits.
-
-| Notebook | Dataset | Output |
-|----------|---------|--------|
-| `notebooks/manchester/02_Preprocessing_Manchester.ipynb` | Manchester | `data/gold_standard/manchester_*.csv` |
-| `notebooks/monkeypox/04_Preprocessing_Monkeypox.ipynb`  | Monkeypox  | `data/gold_standard/monkeypox_*.csv`  |
-| `notebooks/pheme/06_Preprocessing_PHEME.ipynb`           | PHEME      | `data/gold_standard/pheme_*.csv`      |
-
-Alternatively, run all preprocessing via the CLI script:
+### 3. Preprocess
 
 ```bash
 python scripts/preprocessing.py
 ```
 
-### 4. Fine-tune RoBERTa (notebook 07)
+This writes cleaned CSVs under `data/processed/` and gold train/val/test under `data/gold_standard/` for Manchester, Monkeypox, legacy PHEME (if present), and all PHEME event datasets.
 
-Open `notebooks/07_RoBERTa_Finetuning.ipynb`. Set the `DATASET` variable to `manchester`, `monkeypox`, or `pheme`, then run all cells. Repeat for each dataset.
+### 4. EDA / projection plots (PHEME events)
 
-- Uses stratified 5-fold CV, then trains a final model on train+val.
-- Outputs: `results/models/{dataset}_roberta_final/` and `results/predictions/{dataset}_roberta_summary.csv`
+```bash
+python scripts/plot_pheme_events.py
+```
 
-### 5. Zero-shot classification with Gemini (notebook 08)
+### 5. Fine-tune encoders
 
-Open `notebooks/08_ZeroShot_Classification.ipynb`.
+Single run:
 
-1. In cell 2, set your API key: `GEMINI_API_KEY = "your-key-here"`
-2. Set the `DATASET` variable to `manchester`, `monkeypox`, or `pheme`.
-3. Run all cells. Repeat for each dataset.
+```bash
+python scripts/train_transformer.py --dataset charliehebdo --model roberta
+python scripts/train_transformer.py --dataset manchester --model bertweet
+```
 
-- Output: `results/predictions/{dataset}_zeroshot_summary.csv`
+Batch (all datasets × all models; resumes with `--skip-if-done`):
 
-### 6. Generate comparison figures (notebook 09)
+```bash
+python scripts/run_all_transformers.py --skip-if-done
+```
 
-Open `notebooks/09_Comparison.ipynb` and run all cells. This loads all summary CSVs from the previous steps and produces:
+Useful filters:
 
-- Grouped bar charts, heatmaps, confusion matrices
-- Per-dataset winner analysis
-- `results/master_results.csv` — the full aggregated results table
+```bash
+# Only new event datasets, all 4 encoders
+python scripts/run_all_transformers.py --events-only --skip-if-done
 
----
+# Only BERTweet / MiniLM / ModernBERT on everything (RoBERTa already done)
+python scripts/run_all_transformers.py --new-models-only --skip-if-done
+```
 
-## API Key Setup (Gemini)
+Legacy RoBERTa-only scripts (`scripts/train_pheme_roberta.py`, etc.) remain available.
 
-Notebook 08 requires a Google Gemini API key:
+### 6. Zero-shot LLMs (cloud)
 
-1. Obtain a key at [https://aistudio.google.com/app/apikey](https://aistudio.google.com/app/apikey)
-2. Open `notebooks/08_ZeroShot_Classification.ipynb`
-3. In **cell 2**, set:
-   ```python
-   GEMINI_API_KEY = "your-key-here"
-   ```
+Requires `GROQ_API_KEY` and/or `GEMINI_API_KEY` in a project-root `.env` (see `.env.example`).
 
-The key is never written to disk or committed to version control. Do not hard-code it anywhere else.
+```bash
+# All PHEME event datasets × cloud models (gpt_oss, llama33, qwen3, gemini_flash)
+python scripts/run_all_cloud.py --events-only
 
----
+# Single combo
+python scripts/run_all_cloud.py --dataset charliehebdo --model gemini_flash
+```
 
-## Results
+Outputs: `results/predictions/{dataset}_{model}_summary.csv` (+ test predictions / checkpoints).
 
-After running all notebooks:
+### 7. Comparison (all models × all datasets)
 
-- **Master results table**: `results/master_results.csv`
-- **Figures**: `results/figures/comparison_*.png`
+```bash
+python scripts/compare_all_models.py
+```
 
-Key metrics reported: Accuracy, Precision, Recall, F1-score (macro and per-class), and AUC-ROC where applicable.
-
----
-
-## Requirements
-
-See `requirements.txt`. Key dependencies:
-
-| Package | Purpose |
-|---------|---------|
-| `transformers` | RoBERTa model and tokenizer |
-| `torch` | PyTorch (GPU training) |
-| `datasets` | HuggingFace dataset utilities |
-| `scikit-learn` | Stratified splits, metrics |
-| `pandas` / `numpy` | Data handling |
-| `matplotlib` / `seaborn` | Plotting |
-| `google-generativeai` | Gemini API client |
+Writes `results/master_results_all_models.csv` and figures under `results/figures/comparison/` (heatmaps + per-dataset bars).
 
 ---
 
 ## Configuration
 
-All paths, label maps, and hyperparameters are centralized in `config.py`. Import it in any notebook or script:
+Paths, dataset registry, label maps, and encoder hub ids live in `config.py`:
 
 ```python
-from config import DATASETS, TRAIN_PARAMS, LABEL_MAPS
+from config import DATASETS, PHEME_EVENT_KEYS, ENCODER_MODELS, TRAIN_PARAMS, LABEL_MAPS
 ```
+
+---
+
+## Results
+
+- Per-run summaries: `results/predictions/*_summary.csv`
+- Figures: `results/figures/{dataset}/` and `results/figures/comparison/`
+- Aggregated table (when comparison is run): `results/master_results.csv`
+
+Key metrics: Accuracy, Precision, Recall, F1 (macro / weighted / positive class).
+
+---
+
+## Requirements
+
+See `requirements.txt`. Key packages: `transformers`, `torch`, `datasets`, `scikit-learn`, `pandas`, `matplotlib`, `seaborn`.

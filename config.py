@@ -75,11 +75,51 @@ DATASETS = {
         "test_file":   os.path.join(PATHS["gold_standard"], "pheme_test.csv"),
         "text_col":    "cleaned_tweet",
         "label_col":   "label",
-        "labels":      ["not_rumour", "rumour"],
+        "labels":      ["not_rumour", "rumour", "unrelated"],
         "roberta_dir": os.path.join(PATHS["models"], "pheme_roberta_final"),
         "roberta_summary": os.path.join(PATHS["predictions"], "pheme_roberta_summary.csv"),
         "zeroshot_summary": os.path.join(PATHS["predictions"], "pheme_zeroshot_summary.csv"),
     },
+}
+
+# PHEME event-level datasets (2-class: not_rumour / rumour).
+# Raw files live in data/raw/{key}.csv (ottawashooting spelling matches the source file).
+PHEME_EVENT_KEYS = [
+    "pheme_all_events",
+    "gurlitt",
+    "germanwings-crash",
+    "ebola-essien",
+    "charliehebdo",
+    "ferguson",
+    "ottawashooting",
+    "prince-toronto",
+    "putinmissing",
+    "sydneysiege",
+]
+
+for _key in PHEME_EVENT_KEYS:
+    DATASETS[_key] = {
+        "name":        _key,
+        "raw_file":    os.path.join(PATHS["data_raw"], f"{_key}.csv"),
+        "clean_file":  os.path.join(PATHS["data_processed"], f"{_key}_clean.csv"),
+        "gold_file":   os.path.join(PATHS["gold_standard"], f"{_key}_gold_standard.csv"),
+        "train_file":  os.path.join(PATHS["gold_standard"], f"{_key}_train.csv"),
+        "val_file":    os.path.join(PATHS["gold_standard"], f"{_key}_val.csv"),
+        "test_file":   os.path.join(PATHS["gold_standard"], f"{_key}_test.csv"),
+        "text_col":    "cleaned_tweet",
+        "label_col":   "label",
+        "labels":      ["not_rumour", "rumour"],
+        "roberta_dir": os.path.join(PATHS["models"], f"{_key}_roberta_final"),
+        "roberta_summary": os.path.join(PATHS["predictions"], f"{_key}_roberta_summary.csv"),
+        "zeroshot_summary": os.path.join(PATHS["predictions"], f"{_key}_zeroshot_summary.csv"),
+    }
+
+# Fine-tuning encoder models (HF hub ids)
+ENCODER_MODELS = {
+    "roberta":    "roberta-base",
+    "bertweet":   "vinai/bertweet-base",
+    "minilm":     "microsoft/MiniLM-L12-H384-uncased",
+    "modernbert": "answerdotai/ModernBERT-base",
 }
 
 # ──────────────────────────────────────────────
@@ -103,6 +143,10 @@ LABEL_MAPS = {
         1.0: "rumour",
     },
 }
+
+# Shared rumour label map for all PHEME event CSVs
+for _key in PHEME_EVENT_KEYS:
+    LABEL_MAPS[_key] = {0: "not_rumour", 1: "rumour", 0.0: "not_rumour", 1.0: "rumour"}
 
 # ──────────────────────────────────────────────
 # Training hyperparameters (RoBERTa fine-tuning)

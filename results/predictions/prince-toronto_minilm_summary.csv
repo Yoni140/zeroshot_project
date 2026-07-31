@@ -1,0 +1,2 @@
+dataset,model,model_key,cv_f1_macro_mean,cv_f1_macro_std,test_accuracy,test_f1_macro,test_f1_weighted,test_precision,test_recall,test_f1_rumour
+prince-toronto,microsoft/MiniLM-L12-H384-uncased,minilm,0.495349,4.3e-05,0.977273,0.494253,0.96604,0.488636,0.5,0.988506

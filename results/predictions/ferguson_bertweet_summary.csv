@@ -1,0 +1,2 @@
+dataset,model,model_key,cv_f1_macro_mean,cv_f1_macro_std,test_accuracy,test_f1_macro,test_f1_weighted,test_precision,test_recall,test_f1_rumour
+ferguson,vinai/bertweet-base,bertweet,0.823699,0.015221,0.829268,0.788504,0.833798,0.77614,0.807182,0.695652

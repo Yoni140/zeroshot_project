@@ -1,0 +1,2 @@
+dataset,model,model_key,cv_f1_macro_mean,cv_f1_macro_std,test_accuracy,test_f1_macro,test_f1_weighted,test_precision,test_recall,test_f1_rumour
+putinmissing,answerdotai/ModernBERT-base,modernbert,0.744231,0.046824,0.914286,0.914005,0.913865,0.925,0.916667,0.909091

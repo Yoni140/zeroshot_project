@@ -1,0 +1,2 @@
+dataset,model,model_key,cv_f1_macro_mean,cv_f1_macro_std,test_accuracy,test_f1_macro,test_f1_weighted,test_precision,test_recall,test_f1_rumour
+ottawashooting,roberta-base,roberta,0.884762,0.035414,0.861538,0.860714,0.861538,0.860714,0.860714,0.871429
