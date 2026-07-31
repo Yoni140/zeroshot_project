@@ -31,14 +31,15 @@ CFG = {
     'test':        'data/gold_standard/pheme_test.csv',
     'text_col':    'cleaned_tweet',
     'label_col':   'label',
-    'label_map':   {'not_rumour': 0, 'rumour': 1},
-    'label_names': ['not_rumour', 'rumour'],
+    'label_map':   {'not_rumour': 0, 'rumour': 1, 'unrelated': 2},
+    'label_names': ['not_rumour', 'rumour', 'unrelated'],
     'pos_label':   'rumour',
     'topic':       'breaking news events (Charlie Hebdo attack 2015, Ferguson unrest 2014)',
-    'class_a':     'not_rumour',
-    'class_b':     'rumour',
-    'class_a_desc': 'verified news, factual reporting, or confirmed information about the events',
-    'class_b_desc': 'unverified claims, speculation, or information that has not been confirmed by credible sources',
+    'classes': {
+        'not_rumour': 'verified news, factual reporting, or confirmed information about the events',
+        'rumour':     'unverified claims, speculation, or information that has not been confirmed by credible sources',
+        'unrelated':  'the tweet is NOT about either tracked event (Charlie Hebdo / Ferguson) — off-topic or irrelevant content',
+    },
 }
 LABEL_MAP = CFG['label_map']
 
@@ -73,28 +74,30 @@ print(f"Label distribution: {df_test[CFG['label_col']].value_counts().to_dict()}
 
 # ── Prompt builder ────────────────────────────────────────────────────────────
 def build_prompt(tweet_text: str) -> str:
+    class_lines   = "\n".join(f'- "{name}": {desc}' for name, desc in CFG['classes'].items())
+    label_options = " or ".join(f'"{name}"' for name in CFG['classes'])
     return f"""You are an expert fact-checker and misinformation analyst specializing in social media content.
 
 Your task: Classify the following tweet about {CFG['topic']}.
 
 CLASSES:
-- "{CFG['class_a']}": {CFG['class_a_desc']}
-- "{CFG['class_b']}": {CFG['class_b_desc']}
+{class_lines}
 
 TWEET:
 \"\"\"{tweet_text}\"\"\"
 
 INSTRUCTIONS:
 Think step-by-step before classifying. Consider:
-1. What specific claim does the tweet make?
-2. Does it present verifiable facts, or unverified/emotional claims?
-3. Are there signals of rumour: unconfirmed reports, speculation, "I heard that", implausible claims?
-4. What is your final classification?
+1. Is the tweet actually about {CFG['topic']}, or is it off-topic/unrelated?
+2. If on-topic: what specific claim does the tweet make?
+3. Does it present verifiable facts, or unverified/emotional claims?
+4. Are there signals of rumour: unconfirmed reports, speculation, "I heard that", implausible claims?
+5. What is your final classification?
 
 Respond in this exact JSON format (no extra text before or after):
 {{
   "reasoning": "<your step-by-step reasoning in 2-4 sentences>",
-  "label": "{CFG['class_a']}" or "{CFG['class_b']}",
+  "label": {label_options},
   "confidence": <float between 0.0 and 1.0>
 }}"""
 
@@ -252,7 +255,7 @@ metrics = {
     'test_f1_weighted':     f1_score(y_true, y_pred, average='weighted'),
     'test_precision': precision_score(y_true, y_pred, average='macro', zero_division=0),
     'test_recall':    recall_score(y_true, y_pred, average='macro', zero_division=0),
-    f'f1_{CFG["pos_label"]}': f1_score(y_true, y_pred, pos_label=pos_label_int, zero_division=0),
+    f'f1_{CFG["pos_label"]}': f1_score(y_true, y_pred, labels=[pos_label_int], average='macro', zero_division=0),
     'null_predictions':       int(null_mask.sum()),
     'parse_errors':           int(df_results['parse_error'].sum()),
     'parse_json':             parse_counts.get('json', 0),

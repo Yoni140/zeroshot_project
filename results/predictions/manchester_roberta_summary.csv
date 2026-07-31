@@ -1,2 +1,2 @@
 dataset,model,cv_f1_macro_mean,cv_f1_macro_std,test_accuracy,test_f1_macro,test_f1_weighted,test_precision,test_recall,test_f1_misinformation,test_roc_auc,test_pr_auc
-manchester,roberta-base,0.96077,0.011895,0.991781,0.985701,0.991755,0.988752,0.982714,0.976378,0.99891,0.995074
+manchester,roberta-base,0.964612,0.006573,0.976699,0.964972,0.976547,0.970423,0.959894,0.928,0.99561,0.990383

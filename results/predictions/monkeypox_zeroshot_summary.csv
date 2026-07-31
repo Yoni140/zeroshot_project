@@ -1,2 +1,2 @@
 dataset,model,test_accuracy,test_f1_macro,test_f1_weighted,test_precision,test_recall,f1_misinformation,null_predictions,parse_errors,parse_json,parse_keyword_fallback,parse_empty,parse_default
-monkeypox,ollama-zero-shot (llama3.1),0.612691466083151,0.6126617919581676,0.611600941990009,0.6845330237358102,0.6822292993630573,0.6160520607375272,5,5,452,0,0,5
+monkeypox,ollama-zero-shot (llama3.1),0.6474464579901154,0.6441185535462011,0.6445577016217142,0.6564744658415166,0.6649964614295825,0.6401985111662531,4,5,602,1,0,4

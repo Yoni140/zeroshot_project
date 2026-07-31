@@ -1,0 +1,2 @@
+dataset,model,model_display,params_b,provider,model_id,test_accuracy,test_f1_macro,test_f1_weighted,test_precision,test_recall,test_f1_misinformation,null_predictions,parse_errors,parse_json,parse_keyword_fallback,parse_empty,parse_default
+monkeypox,llama33,Llama 3.3 70B,70,groq,llama-3.3-70b-versatile,0.729818780889621,0.7180240883944587,0.7184428848349772,0.7323880026413652,0.7397121962727059,0.7142857142857144,0,0,607,0,0,0

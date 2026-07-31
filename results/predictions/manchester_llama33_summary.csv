@@ -1,0 +1,2 @@
+dataset,model,model_display,params_b,provider,model_id,test_accuracy,test_f1_macro,test_f1_weighted,test_precision,test_recall,test_f1_misinformation,null_predictions,parse_errors,parse_json,parse_keyword_fallback,parse_empty,parse_default
+manchester,llama33,Llama 3.3 70B,70,groq,llama-3.3-70b-versatile,0.7553398058252427,0.7149943161282638,0.7622755192157875,0.7073760160805073,0.7391175024582104,0.5641025641025642,0,0,515,0,0,0

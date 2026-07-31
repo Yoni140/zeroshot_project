@@ -2,6 +2,23 @@
 preprocessing.py - pipeline ניקוי ועיבוד מקדים לציוצים
 שימוש: python scripts/preprocessing.py
 מריץ את כל שלושת ה-datasets: Manchester, Monkeypox, PHEME
+
+==========================================================================
+סכמת 3 קלאסים (3-CLASS SCHEME)
+==========================================================================
+כל דאטהסט מקבל קלאס שלישי "unrelated" (ציוץ שאינו רלוונטי לאירוע/נושא):
+
+  Manchester : reliable / misinformation / unrelated
+  Monkeypox  : reliable / misinformation / unrelated
+  PHEME      : not_rumour / rumour / unrelated   (שמות נטיביים + unrelated)
+
+מקור הקלאס "unrelated" בכל דאטהסט:
+  Manchester : relevance filter לפי מילות-מפתח של האירוע. ציוץ מתויג
+               'reliable' שאינו מזכיר את פיגוע מנצ'סטר ארנה -> unrelated
+               (וכן 3 ה-'Not related' המקוריים).
+  Monkeypox  : עמודת ternary_class המקורית — 9 -> unrelated, 0 -> reliable,
+               1 -> misinformation.
+  PHEME      : topic == 'unknown' (ציוץ שלא שויך לאף אירוע מתועד) -> unrelated.
 """
 
 import pandas as pd
@@ -9,6 +26,21 @@ import numpy as np
 import re
 import os
 from sklearn.model_selection import train_test_split
+
+
+# ===== קונפיגורציה =====
+
+# כמה דוגמאות מקסימום לכל קלאס ב-gold standard (לאיזון יחסי).
+PER_CLASS_CAP = 1500
+
+# Manchester — מילות מפתח של פיגוע מנצ'סטר ארנה (2017).
+# ציוץ 'reliable' שאינו מכיל אף אחת מהן נחשב לא-רלוונטי (unrelated).
+MANCHESTER_KEYWORDS = re.compile(
+    r'manchester|arena|\bbomb|blast|explos|\battack|ariana|grande|concert|'
+    r'terror|abedi|suicide|victim|evacuat|injur|prayformanchester|attacker|'
+    r'salman|libyan|\bmci\b|ambulanc|emergency|wewillnot|standtogether',
+    re.IGNORECASE,
+)
 
 
 # ===== פונקציות ניקוי =====
@@ -26,10 +58,26 @@ def clean_tweet(text: str, max_chars: int = 350) -> str:
     return text[:max_chars]
 
 
+def _build_gold_3class(df: pd.DataFrame, classes: list, per_class_cap: int,
+                       random_state: int = 42) -> pd.DataFrame:
+    """
+    בונה gold standard מאוזן יחסית: עד `per_class_cap` דוגמאות מכל קלאס.
+    קלאס קטן מה-cap נלקח במלואו.
+    """
+    parts = []
+    for cls in classes:
+        pool = df[df['label'] == cls]
+        n = min(per_class_cap, len(pool))
+        parts.append(pool.sample(n, random_state=random_state))
+    gold = pd.concat(parts, ignore_index=True)
+    gold = gold.sample(frac=1, random_state=random_state).reset_index(drop=True)
+    return gold
+
+
 def _split_and_save(gold: pd.DataFrame, gold_dir: str, prefix: str,
                     random_state: int = 42) -> tuple:
     """
-    מחלק gold standard ל-train/val/test (70/15/15) ושומר את כל הקבצים.
+    מחלק gold standard ל-train/val/test (70/15/15, stratified) ושומר את כל הקבצים.
     מחזיר (train, val, test).
     """
     train, temp = train_test_split(gold, test_size=0.30,
@@ -49,6 +97,7 @@ def _split_and_save(gold: pd.DataFrame, gold_dir: str, prefix: str,
                 index=False, encoding='utf-8')
 
     print(f'Train: {len(train):,} | Val: {len(val):,} | Test: {len(test):,}')
+    print('  test label dist:', test['label'].value_counts().to_dict())
     return train, val, test
 
 
@@ -69,15 +118,30 @@ def normalize_labels_manchester(df: pd.DataFrame) -> pd.DataFrame:
     return df
 
 
+def apply_relevance_filter_manchester(df: pd.DataFrame) -> pd.DataFrame:
+    """
+    קלאס שלישי 'unrelated' עבור Manchester באמצעות relevance filter:
+      - ציוץ 'reliable' שאינו מזכיר את האירוע (אין מילת מפתח) -> 'unrelated'
+      - ציוץ 'not_related' מקורי                              -> 'unrelated'
+      - 'misinformation' נשמר כפי שהוא (תיוג אנושי קיים לא נדרס)
+    """
+    df = df.copy()
+    has_kw = df['cleaned_tweet'].apply(lambda t: bool(MANCHESTER_KEYWORDS.search(str(t))))
+    reliable_off_topic = (df['label'] == 'reliable') & (~has_kw)
+    native_not_related = (df['label'] == 'not_related')
+    df.loc[reliable_off_topic | native_not_related, 'label'] = 'unrelated'
+    return df
+
+
 def run_preprocessing_manchester(input_path: str, output_dir: str, gold_dir: str,
                                   min_words: int = 5, max_chars: int = 350,
-                                  reliable_sample: int = 2000, random_state: int = 42):
-    """Pipeline עיבוד מקדים מלא - Manchester."""
+                                  per_class_cap: int = PER_CLASS_CAP, random_state: int = 42):
+    """Pipeline עיבוד מקדים מלא - Manchester (3 קלאסים)."""
     os.makedirs(output_dir, exist_ok=True)
     os.makedirs(gold_dir, exist_ok=True)
 
     print(f'\n{"="*60}')
-    print('MANCHESTER PREPROCESSING')
+    print('MANCHESTER PREPROCESSING (3-class)')
     print(f'{"="*60}')
     print(f'טוען: {input_path}')
     df = pd.read_excel(input_path) if input_path.endswith('.xlsx') else pd.read_csv(input_path)
@@ -93,6 +157,10 @@ def run_preprocessing_manchester(input_path: str, output_dir: str, gold_dir: str
     df = df.drop_duplicates(subset='cleaned_tweet')
     print(f'אחרי dedup: {len(df):,}')
 
+    df = apply_relevance_filter_manchester(df)
+    print('התפלגות תיוג (3-class):')
+    print(df['label'].value_counts().to_string())
+
     # שמירת קובץ נקי מלא
     cols = ['Id', 'CreatedAt', 'author_id', 'OrigTweet', 'cleaned_tweet',
             'label', 'rumour_type', 'mVader', 'mRetweets', 'mLikes',
@@ -102,14 +170,8 @@ def run_preprocessing_manchester(input_path: str, output_dir: str, gold_dir: str
     df[cols].to_csv(clean_path, index=False, encoding='utf-8')
     print(f'נשמר: {clean_path}')
 
-    # Gold Standard
-    misinfo = df[df['label'] == 'misinformation']
-    reliable_pool = df[df['label'] == 'reliable']
-    reliable_n = min(reliable_sample, len(reliable_pool))
-    reliable = reliable_pool.sample(reliable_n, random_state=random_state)
-
-    gold = pd.concat([misinfo, reliable], ignore_index=True)
-    gold = gold.sample(frac=1, random_state=random_state).reset_index(drop=True)
+    gold = _build_gold_3class(df, ['reliable', 'misinformation', 'unrelated'],
+                              per_class_cap, random_state)
     print(f'\nGold Standard: {len(gold):,}')
     print(gold['label'].value_counts().to_string())
 
@@ -123,34 +185,34 @@ def run_preprocessing_manchester(input_path: str, output_dir: str, gold_dir: str
 
 def normalize_labels_monkeypox(df: pd.DataFrame) -> pd.DataFrame:
     """
-    נרמול עמודת binary_class לתיוגים אחידים (Monkeypox).
-    binary_class: 0 = reliable, 1 = misinformation
-    ternary_class: 9 = reliable, 0 = borderline, 1 = misinformation
+    נרמול לתיוג 3-class (Monkeypox) מתוך עמודת ternary_class המקורית:
+        ternary_class: 9 = unrelated, 0 = reliable, 1 = misinformation
+    שורות ללא ternary_class תקין מושמטות.
+    (binary_class נשמר ב-label_binary לצורך השוואה/אסמכתא.)
     """
     df = df.copy()
-    df['label'] = df['binary_class'].map({0: 'reliable', 1: 'misinformation'})
-    if 'ternary_class' in df.columns:
-        df['label_3'] = df['ternary_class'].map(
-            {9: 'reliable', 0: 'borderline', 1: 'misinformation'}
-        )
+    if 'binary_class' in df.columns:
+        df['label_binary'] = df['binary_class'].map({0: 'reliable', 1: 'misinformation'})
+    df['label'] = df['ternary_class'].map(
+        {9: 'unrelated', 0: 'reliable', 1: 'misinformation'}
+    )
     return df
 
 
 def run_preprocessing_monkeypox(main_path: str, followup_path: str,
                                   output_dir: str, gold_dir: str,
                                   min_words: int = 5, max_chars: int = 350,
-                                  reliable_sample: int = 2000, random_state: int = 42):
+                                  per_class_cap: int = PER_CLASS_CAP, random_state: int = 42):
     """
-    Pipeline עיבוד מקדים מלא - Monkeypox.
+    Pipeline עיבוד מקדים מלא - Monkeypox (3 קלאסים).
     טוען שני קבצי CSV (main + followup) ומאחד אותם.
-    עמודת טקסט: 'text'
-    עמודת תיוג: 'binary_class' (0=reliable, 1=misinformation)
+    עמודת טקסט: 'text' | עמודת תיוג: 'ternary_class'
     """
     os.makedirs(output_dir, exist_ok=True)
     os.makedirs(gold_dir, exist_ok=True)
 
     print(f'\n{"="*60}')
-    print('MONKEYPOX PREPROCESSING')
+    print('MONKEYPOX PREPROCESSING (3-class)')
     print(f'{"="*60}')
 
     df_main = pd.read_csv(main_path)
@@ -172,10 +234,11 @@ def run_preprocessing_monkeypox(main_path: str, followup_path: str,
 
     df = df.drop_duplicates(subset='cleaned_tweet')
     print(f'אחרי dedup: {len(df):,}')
+    print('התפלגות תיוג (3-class):')
     print(df['label'].value_counts().to_string())
 
     # שמירת קובץ נקי מלא
-    cols = ['number', 'created_at', 'text', 'cleaned_tweet', 'label', 'label_3',
+    cols = ['number', 'created_at', 'text', 'cleaned_tweet', 'label', 'label_binary',
             'source_file', 'retweet_count', 'reply_count', 'like_count',
             'quote_count', 'followers count', 'following count',
             'user is verified', 'user has url']
@@ -184,14 +247,8 @@ def run_preprocessing_monkeypox(main_path: str, followup_path: str,
     df[cols].to_csv(clean_path, index=False, encoding='utf-8')
     print(f'נשמר: {clean_path}')
 
-    # Gold Standard — all misinformation + sample of reliable
-    misinfo = df[df['label'] == 'misinformation']
-    reliable_pool = df[df['label'] == 'reliable']
-    reliable_n = min(reliable_sample, len(reliable_pool))
-    reliable = reliable_pool.sample(reliable_n, random_state=random_state)
-
-    gold = pd.concat([misinfo, reliable], ignore_index=True)
-    gold = gold.sample(frac=1, random_state=random_state).reset_index(drop=True)
+    gold = _build_gold_3class(df, ['reliable', 'misinformation', 'unrelated'],
+                              per_class_cap, random_state)
     print(f'\nGold Standard: {len(gold):,}')
     print(gold['label'].value_counts().to_string())
 
@@ -205,30 +262,31 @@ def run_preprocessing_monkeypox(main_path: str, followup_path: str,
 
 def normalize_labels_pheme(df: pd.DataFrame) -> pd.DataFrame:
     """
-    נרמול עמודת is_rumor לתיוגים אחידים (PHEME).
-    is_rumor: 0.0 = not_rumour, 1.0 = rumour
+    נרמול לתיוג 3-class (PHEME):
+        is_rumor: 0.0 = not_rumour, 1.0 = rumour
+        topic == 'unknown' (ציוץ שלא שויך לאף אירוע מתועד) -> unrelated
+    הקלאס 'unrelated' גובר על rumour/not_rumour עבור ציוצים ללא אירוע.
     """
     df = df.copy()
     df['label'] = df['is_rumor'].map({0.0: 'not_rumour', 1.0: 'rumour'})
     if 'topic' in df.columns:
         df['topic'] = df['topic'].fillna('unknown')
+        df.loc[df['topic'] == 'unknown', 'label'] = 'unrelated'
     return df
 
 
 def run_preprocessing_pheme(input_path: str, output_dir: str, gold_dir: str,
                               min_words: int = 5, max_chars: int = 350,
-                              reliable_sample: int = 2000, random_state: int = 42):
+                              per_class_cap: int = PER_CLASS_CAP, random_state: int = 42):
     """
-    Pipeline עיבוד מקדים מלא - PHEME.
-    עמודת טקסט: 'text'
-    עמודת תיוג: 'is_rumor' (0.0=not_rumour, 1.0=rumour)
-    הערה: PHEME לא מאוזן (rumours << not_rumours), לכן דוגמים not_rumour.
+    Pipeline עיבוד מקדים מלא - PHEME (3 קלאסים).
+    עמודת טקסט: 'text' | עמודת תיוג: 'is_rumor' + 'topic'
     """
     os.makedirs(output_dir, exist_ok=True)
     os.makedirs(gold_dir, exist_ok=True)
 
     print(f'\n{"="*60}')
-    print('PHEME PREPROCESSING')
+    print('PHEME PREPROCESSING (3-class)')
     print(f'{"="*60}')
     print(f'טוען: {input_path}')
     df = pd.read_csv(input_path)
@@ -247,6 +305,7 @@ def run_preprocessing_pheme(input_path: str, output_dir: str, gold_dir: str,
 
     df = df.drop_duplicates(subset='cleaned_tweet')
     print(f'אחרי dedup: {len(df):,}')
+    print('התפלגות תיוג (3-class):')
     print(df['label'].value_counts().to_string())
 
     # שמירת קובץ נקי מלא
@@ -256,14 +315,8 @@ def run_preprocessing_pheme(input_path: str, output_dir: str, gold_dir: str,
     df[cols].to_csv(clean_path, index=False, encoding='utf-8')
     print(f'נשמר: {clean_path}')
 
-    # Gold Standard — all rumours + sample of not_rumour
-    rumour = df[df['label'] == 'rumour']
-    not_rumour_pool = df[df['label'] == 'not_rumour']
-    not_rumour_n = min(reliable_sample, len(not_rumour_pool))
-    not_rumour = not_rumour_pool.sample(not_rumour_n, random_state=random_state)
-
-    gold = pd.concat([rumour, not_rumour], ignore_index=True)
-    gold = gold.sample(frac=1, random_state=random_state).reset_index(drop=True)
+    gold = _build_gold_3class(df, ['not_rumour', 'rumour', 'unrelated'],
+                              per_class_cap, random_state)
     print(f'\nGold Standard: {len(gold):,}')
     print(gold['label'].value_counts().to_string())
 
@@ -277,18 +330,15 @@ def run_preprocessing_pheme(input_path: str, output_dir: str, gold_dir: str,
 
 def run_preprocessing(input_path: str, output_dir: str, gold_dir: str,
                       min_words: int = 5, max_chars: int = 350,
-                      reliable_sample: int = 2000, random_state: int = 42):
-    """
-    Backward-compatible wrapper that calls run_preprocessing_manchester.
-    Use the dataset-specific functions for new code.
-    """
+                      per_class_cap: int = PER_CLASS_CAP, random_state: int = 42):
+    """Backward-compatible wrapper that calls run_preprocessing_manchester."""
     run_preprocessing_manchester(
         input_path=input_path,
         output_dir=output_dir,
         gold_dir=gold_dir,
         min_words=min_words,
         max_chars=max_chars,
-        reliable_sample=reliable_sample,
+        per_class_cap=per_class_cap,
         random_state=random_state,
     )
 
@@ -322,4 +372,4 @@ if __name__ == '__main__':
         gold_dir=GOLD,
     )
 
-    print('\n✅ כל ה-datasets עובדו בהצלחה.')
+    print('\n✅ כל ה-datasets עובדו בהצלחה (3-class).')

@@ -233,6 +233,36 @@ for ds in datasets:
     except Exception as e:
         print(f'  {ds}: {e}')
 
+# ── Figure 5: Final summary table (3-class) ───────────────────────────────────
+fig, ax = plt.subplots(figsize=(10, 2 + 0.5 * len(datasets)))
+ax.axis('off')
+rows = []
+for ds in datasets:
+    sub = df_summary[df_summary['dataset'] == ds].set_index('model_type')
+    try:
+        r_f1 = float(sub.loc['RoBERTa Fine-Tuned', 'test_f1_macro'])
+        z_f1 = float(sub.loc['Zero-Shot LLM', 'test_f1_macro'])
+        r_acc = float(sub.loc['RoBERTa Fine-Tuned', 'test_accuracy'])
+        z_acc = float(sub.loc['Zero-Shot LLM', 'test_accuracy'])
+        winner = 'RoBERTa' if r_f1 > z_f1 else 'Zero-Shot'
+        rows.append([ds.capitalize(), f'{r_f1:.3f}', f'{z_f1:.3f}',
+                     f'{r_acc:.3f}', f'{z_acc:.3f}', f'{abs(r_f1 - z_f1):.3f}', winner])
+    except Exception:
+        pass
+col_labels = ['Dataset', 'RoBERTa F1', 'Zero-Shot F1', 'RoBERTa Acc',
+              'Zero-Shot Acc', 'Δ F1', 'Winner']
+table = ax.table(cellText=rows, colLabels=col_labels, loc='center', cellLoc='center')
+table.auto_set_font_size(False); table.set_fontsize(11); table.scale(1, 1.6)
+for j in range(len(col_labels)):
+    table[0, j].set_facecolor('#1565C0'); table[0, j].set_text_props(color='white', fontweight='bold')
+ax.set_title('RoBERTa Fine-Tuned vs Zero-Shot LLM — 3-Class (reliable / misinformation / unrelated)',
+             fontsize=12, fontweight='bold', pad=14)
+plt.tight_layout()
+plt.savefig('results/figures/comparison/comparison_final_table.png', dpi=150, bbox_inches='tight')
+plt.savefig('results/figures/comparison_final_table.png', dpi=150, bbox_inches='tight')
+plt.close()
+print('Saved: comparison_final_table.png')
+
 # ── Save master results ───────────────────────────────────────────────────────
 df_summary.to_csv('results/master_results.csv', index=False)
 print('\nSaved: results/master_results.csv')

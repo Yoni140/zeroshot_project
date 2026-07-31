@@ -1,0 +1,2 @@
+dataset,model,model_display,params_b,provider,model_id,test_accuracy,test_f1_macro,test_f1_weighted,test_precision,test_recall,test_f1_misinformation,null_predictions,parse_errors,parse_json,parse_keyword_fallback,parse_empty,parse_default
+manchester,gemini_flash,Gemini 2.5 Flash,,gemini,gemini-2.5-flash,0.7572815533980582,0.7311793526463827,0.7577012578464823,0.742189269651448,0.736754137987545,0.6466165413533834,0,0,515,0,0,0

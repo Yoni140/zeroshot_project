@@ -1,0 +1,2 @@
+dataset,model,model_display,params_b,provider,model_id,test_accuracy,test_f1_macro,test_f1_weighted,test_precision,test_recall,test_f1_misinformation,null_predictions,parse_errors,parse_json,parse_keyword_fallback,parse_empty,parse_default
+monkeypox,gemini_flash,Gemini 2.5 Flash,,gemini,gemini-2.5-flash,0.7759472817133443,0.7725915793733803,0.771145665232397,0.7744143795863367,0.7811936777541874,0.785498489425982,0,0,607,0,0,0

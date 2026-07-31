@@ -1,0 +1,2 @@
+dataset,model,model_display,params_b,provider,model_id,test_accuracy,test_f1_macro,test_f1_weighted,test_precision,test_recall,test_f1_misinformation,null_predictions,parse_errors,parse_json,parse_keyword_fallback,parse_empty,parse_default
+manchester,qwen3,Qwen3.6 27B,27,groq,qwen/qwen3.6-27b,0.6776699029126214,0.6444410493892102,0.6856944592932468,0.6703466749245911,0.6984728367748279,0.5130890052356021,0,5,510,5,0,0

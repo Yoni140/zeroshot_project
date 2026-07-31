@@ -1,2 +1,2 @@
 dataset,model,cv_f1_macro_mean,cv_f1_macro_std,test_accuracy,test_f1_macro,test_f1_weighted,test_precision,test_recall,test_f1_misinformation
-monkeypox,roberta-base,0.892566,0.013534,0.921225,0.912675,0.921225,0.912675,0.912675,0.88535
+monkeypox,roberta-base,0.858811,0.004809,0.873147,0.868655,0.872376,0.868298,0.869884,0.835443

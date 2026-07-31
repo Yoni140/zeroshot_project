@@ -39,13 +39,13 @@ MAX_LEN     = 128
 BATCH_SIZE  = 16
 NUM_EPOCHS  = 4
 
-LABEL_MAP   = {'not_rumour': 0, 'rumour': 1}
-ID2LABEL    = {0: 'not_rumour', 1: 'rumour'}
-LABEL_NAMES = ['not_rumour', 'rumour']
+LABEL_MAP   = {'not_rumour': 0, 'rumour': 1, 'unrelated': 2}
+ID2LABEL    = {0: 'not_rumour', 1: 'rumour', 2: 'unrelated'}
+LABEL_NAMES = ['not_rumour', 'rumour', 'unrelated']
 POS_LABEL   = 'rumour'
 TEXT_COL    = 'cleaned_tweet'
 LABEL_COL   = 'label'
-NUM_LABELS  = 2
+NUM_LABELS  = 3
 
 ROOT      = Path(__file__).parent.parent
 DATA_DIR  = ROOT / 'data' / 'gold_standard'
@@ -104,7 +104,8 @@ def full_report(true, pred, label_names, tag, fold=None):
     prec = precision_score(true, pred, average='macro', zero_division=0)
     rec  = recall_score(true, pred, average='macro', zero_division=0)
     pos  = LABEL_MAP[POS_LABEL]
-    f1p  = f1_score(true, pred, average='binary', pos_label=pos, zero_division=0)
+    # F1 for the positive class only (works for any number of classes)
+    f1p  = f1_score(true, pred, labels=[pos], average='macro', zero_division=0)
     print(f"\n[{tag_str}] Acc={acc:.4f}  F1m={f1m:.4f}  F1w={f1w:.4f}  F1_{POS_LABEL}={f1p:.4f}")
     return {'accuracy': acc, 'f1_macro': f1m, 'f1_weighted': f1w,
             'precision_macro': prec, 'recall_macro': rec, 'f1_pos': f1p}
@@ -253,7 +254,7 @@ f1w  = f1_score(test_true, test_preds, average='weighted')
 prec = precision_score(test_true, test_preds, average='macro', zero_division=0)
 rec  = recall_score(test_true, test_preds, average='macro', zero_division=0)
 pos  = LABEL_MAP[POS_LABEL]
-f1p  = f1_score(test_true, test_preds, average='binary', pos_label=pos, zero_division=0)
+f1p  = f1_score(test_true, test_preds, labels=[pos], average='macro', zero_division=0)
 
 print(f"\nTest Results:")
 print(f"  Accuracy : {acc:.4f}")
@@ -285,7 +286,7 @@ summary = pd.DataFrame([{
     'test_f1_weighted':        round(f1w,  6),
     'test_precision':          round(prec, 6),
     'test_recall':             round(rec,  6),
-    'test_f1_misinformation':  round(f1p,  6),
+    f'test_f1_{POS_LABEL}':    round(f1p,  6),
 }])
 summary.to_csv(PREDS_DIR / f'{DATASET}_roberta_summary.csv', index=False)
 print(f"Summary saved: results/predictions/{DATASET}_roberta_summary.csv")
@@ -293,16 +294,17 @@ print(f"Summary saved: results/predictions/{DATASET}_roberta_summary.csv")
 # ── Save test predictions CSV ────────────────────────────────────────────────
 pred_label_names = [ID2LABEL[p] for p in test_preds]
 true_label_names = df_test[LABEL_COL].values
-test_pred_df = pd.DataFrame({
+pred_cols = {
     'cleaned_tweet':  df_test[TEXT_COL].values,
     'label':          true_label_names,
     'true_label_int': test_true,
     'pred_label_int': test_preds,
     'pred_label':     pred_label_names,
-    'prob_not_rumour': test_probs[:, 0],
-    'prob_rumour':     test_probs[:, 1],
-    'correct':        test_true == test_preds,
-})
+}
+for idx, name in ID2LABEL.items():
+    pred_cols[f'prob_{name}'] = test_probs[:, idx]
+pred_cols['correct'] = test_true == test_preds
+test_pred_df = pd.DataFrame(pred_cols)
 test_pred_df.to_csv(PREDS_DIR / f'{DATASET}_roberta_test_predictions.csv', index=False)
 print(f"Predictions saved: results/predictions/{DATASET}_roberta_test_predictions.csv")
 

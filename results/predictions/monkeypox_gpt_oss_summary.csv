@@ -1,0 +1,2 @@
+dataset,model,model_display,params_b,provider,model_id,test_accuracy,test_f1_macro,test_f1_weighted,test_precision,test_recall,test_f1_misinformation,null_predictions,parse_errors,parse_json,parse_keyword_fallback,parse_empty,parse_default
+monkeypox,gpt_oss,GPT-OSS 120B,120,groq,openai/gpt-oss-120b,0.700164744645799,0.690431376910437,0.6887004603205026,0.7015935866772964,0.710478886529842,0.7058823529411764,2,2,605,0,0,2

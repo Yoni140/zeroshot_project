@@ -1,0 +1,2 @@
+dataset,model,model_display,params_b,provider,model_id,test_accuracy,test_f1_macro,test_f1_weighted,test_precision,test_recall,test_f1_misinformation,null_predictions,parse_errors,parse_json,parse_keyword_fallback,parse_empty,parse_default
+manchester,gpt_oss,GPT-OSS 120B,120,groq,openai/gpt-oss-120b,0.7708737864077669,0.7250173359599993,0.7829783562975684,0.7255002145002144,0.7772670845624385,0.5396825396825398,1,2,513,1,0,1

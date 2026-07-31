@@ -32,13 +32,13 @@ MAX_LEN     = 128
 BATCH_SIZE  = 16
 NUM_EPOCHS  = 4
 
-LABEL_MAP   = {'reliable': 0, 'misinformation': 1}
-ID2LABEL    = {0: 'reliable', 1: 'misinformation'}
-LABEL_NAMES = ['reliable', 'misinformation']
+LABEL_MAP   = {'reliable': 0, 'misinformation': 1, 'unrelated': 2}
+ID2LABEL    = {0: 'reliable', 1: 'misinformation', 2: 'unrelated'}
+LABEL_NAMES = ['reliable', 'misinformation', 'unrelated']
 POS_LABEL   = 'misinformation'
 TEXT_COL    = 'cleaned_tweet'
 LABEL_COL   = 'label'
-NUM_LABELS  = 2
+NUM_LABELS  = 3
 
 ROOT       = Path(__file__).parent.parent
 DATA_DIR   = ROOT / 'data' / 'gold_standard'
@@ -94,7 +94,8 @@ def full_report(true, pred, tag, fold=None):
     f1w  = f1_score(true, pred, average='weighted')
     prec = precision_score(true, pred, average='macro', zero_division=0)
     rec  = recall_score(true, pred, average='macro', zero_division=0)
-    f1p  = f1_score(true, pred, average='binary', pos_label=LABEL_MAP[POS_LABEL], zero_division=0)
+    # F1 for the positive class only (works for any number of classes)
+    f1p  = f1_score(true, pred, labels=[LABEL_MAP[POS_LABEL]], average='macro', zero_division=0)
     print(f"[{tag_str}] Acc={acc:.4f}  F1m={f1m:.4f}  F1_{POS_LABEL}={f1p:.4f}")
     return {'accuracy': acc, 'f1_macro': f1m, 'f1_weighted': f1w,
             'precision_macro': prec, 'recall_macro': rec, 'f1_pos': f1p}
@@ -196,7 +197,7 @@ f1m  = f1_score(test_true, test_preds, average='macro')
 f1w  = f1_score(test_true, test_preds, average='weighted')
 prec = precision_score(test_true, test_preds, average='macro', zero_division=0)
 rec  = recall_score(test_true, test_preds, average='macro', zero_division=0)
-f1p  = f1_score(test_true, test_preds, average='binary', pos_label=LABEL_MAP[POS_LABEL], zero_division=0)
+f1p  = f1_score(test_true, test_preds, labels=[LABEL_MAP[POS_LABEL]], average='macro', zero_division=0)
 
 print(f"\nTest: Acc={acc:.4f}  F1m={f1m:.4f}  F1_{POS_LABEL}={f1p:.4f}")
 print(classification_report(test_true, test_preds, target_names=LABEL_NAMES))
@@ -214,14 +215,16 @@ pd.DataFrame([{
     'test_recall': round(rec, 6), 'test_f1_misinformation': round(f1p, 6),
 }]).to_csv(PREDS_DIR / f'{DATASET}_roberta_summary.csv', index=False)
 
-pred_df = pd.DataFrame({
+pred_cols = {
     'cleaned_tweet': df_test[TEXT_COL].values,
     'label': df_test[LABEL_COL].values,
     'true_label_int': test_true, 'pred_label_int': test_preds,
     'pred_label': [ID2LABEL[p] for p in test_preds],
-    'prob_reliable': test_probs[:, 0], 'prob_misinformation': test_probs[:, 1],
-    'correct': test_true == test_preds,
-})
+}
+for idx, name in ID2LABEL.items():
+    pred_cols[f'prob_{name}'] = test_probs[:, idx]
+pred_cols['correct'] = test_true == test_preds
+pred_df = pd.DataFrame(pred_cols)
 pred_df.to_csv(PREDS_DIR / f'{DATASET}_roberta_test_predictions.csv', index=False)
 
 fig, ax = plt.subplots(figsize=(6, 5))

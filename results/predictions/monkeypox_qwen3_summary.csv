@@ -1,0 +1,2 @@
+dataset,model,model_display,params_b,provider,model_id,test_accuracy,test_f1_macro,test_f1_weighted,test_precision,test_recall,test_f1_misinformation,null_predictions,parse_errors,parse_json,parse_keyword_fallback,parse_empty,parse_default
+monkeypox,qwen3,Qwen3.6 27B,27,groq,qwen/qwen3.6-27b,0.6803953871499177,0.6627716002693661,0.6637119181701608,0.7147699667417596,0.7029676810568529,0.6543778801843317,0,16,591,16,0,0

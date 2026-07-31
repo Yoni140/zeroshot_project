@@ -18,11 +18,24 @@ data/raw/*.csv
 data/raw/*.json
 data/raw/*.tsv
 data/raw/*.zip
+data/raw/*.xlsx
 data/processed/*.csv
 data/processed/*.json
 
 # Models (large binaries)
 results/models/
+
+# Run logs / scratch experiment dumps
+results/*_run.log
+results/log_*.txt
+results/inference_*.txt
+results/_backup_*/
+results/_fulldata_experiment/
+results/_fulldata_experiment_run.log
+results/_smoothed_manchester_v2/
+
+# Editor workspace
+*.code-workspace
 
 # OS
 .DS_Store
