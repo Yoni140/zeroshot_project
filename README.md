@@ -158,27 +158,9 @@ python scripts/run_all_transformers.py --new-models-only --skip-if-done
 
 Legacy RoBERTa-only scripts (`scripts/train_pheme_roberta.py`, etc.) remain available.
 
-### 6. Zero-shot LLMs (cloud)
+### 6. Zero-shot & comparison
 
-Requires `GROQ_API_KEY` and/or `GEMINI_API_KEY` in a project-root `.env` (see `.env.example`).
-
-```bash
-# All PHEME event datasets × cloud models (gpt_oss, llama33, qwen3, gemini_flash)
-python scripts/run_all_cloud.py --events-only
-
-# Single combo
-python scripts/run_all_cloud.py --dataset charliehebdo --model gemini_flash
-```
-
-Outputs: `results/predictions/{dataset}_{model}_summary.csv` (+ test predictions / checkpoints).
-
-### 7. Comparison (all models × all datasets)
-
-```bash
-python scripts/compare_all_models.py
-```
-
-Writes `results/master_results_all_models.csv` and figures under `results/figures/comparison/` (heatmaps + per-dataset bars).
+See notebooks under `notebooks/models/` and `scripts/run_comparison.py` / `scripts/run_all_cloud.py` for LLM zero-shot and aggregate figures.
 
 ---
 
