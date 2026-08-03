@@ -1,0 +1,71 @@
+cleaned_tweet,label,true_label_int,pred_label_int,pred_label,prob_not_rumour,prob_rumour,correct
+Our last position reports of the Germanwings plane shows a very rapid descent,rumour,1,0,not_rumour,0.71701187,0.28298813,False
+Germanwings Airbus A320 crashes in French Alps What we do and do not know,not_rumour,0,0,not_rumour,0.66709346,0.33290654,True
+Two gut-wrenching pieces about the Germanwings crash From the mind From the heart,not_rumour,0,0,not_rumour,0.7313465,0.2686535,True
+"BREAKING A Lufthansa Germanwings Airbus jet carrying 148 people has crashed in southern France, en route from Barcelona to Duesseldorf",rumour,1,1,rumour,0.25321412,0.7467858,True
+"BREAKING Germanwings crash victims include 72 German citizens, 35 Spaniards, 2 Americans, per CEO - via",rumour,1,1,rumour,0.25146386,0.74853617,True
+R.I.P. My sincere condolences to colleagues and families.,not_rumour,0,0,not_rumour,0.7336904,0.26630956,True
+"FOX NEWS ALERT Germanwings Airbus A320 was 24 years old, traveling from Barcelona to Dusseldorf",not_rumour,0,1,rumour,0.26497602,0.735024,False
+Its not just CNN. This France24 anchor is asking whether its normal that planes would fly over mountains. 4U9525,not_rumour,0,0,not_rumour,0.5882093,0.41179076,True
+BREAKING Hollande expresses 'solidarity' with families of A320 airbus victims Germanwings,not_rumour,0,1,rumour,0.4602434,0.5397566,False
+UPDATE Black box recorder reveals one of 4U9525's pilots was banging on the door to get into the cockpit 9News,rumour,1,1,rumour,0.38777727,0.61222273,True
+"GermanWings A320 Airbus 24 yrs old, first flight was in November 1990 4U9525",not_rumour,0,1,rumour,0.39449254,0.6055075,False
+BREAKING reporting one pilot on 4U9525 locked out of cockpit before deadly descent. Crash as an accident now called into doubt,rumour,1,1,rumour,0.24990462,0.7500954,True
+"BREAKING A Germanwings Airbus A320 plane has crashed in southern France, police and aviation officials say.",rumour,1,1,rumour,0.26114246,0.73885757,True
+"My thoughts, prayers, and deepest condolences go out to the passengers and families of flight 4U9525",not_rumour,0,0,not_rumour,0.74148685,0.25851315,True
+"Flight 4U9525 climbed to 38,000 feet before before it started to descend and lost signal at 6,800ft",rumour,1,1,rumour,0.2625581,0.7374419,True
+What we know about the Germanwings crash so far,not_rumour,0,0,not_rumour,0.7396576,0.26034245,True
+Thank God he's not a Muslim! Otherwise the world'd be on a Muslim hate spree now Germanwings,rumour,1,0,not_rumour,0.7150759,0.28492406,False
+French PM fears 142-150 passengers died when flight 4U9525 crashed in the French Alps Airbus A320,rumour,1,1,rumour,0.24972162,0.7502784,True
+"If our fears are confirmed, this is a dark day for Lufthansa, says CEO of Germanwings' parent company after crash",not_rumour,0,0,not_rumour,0.7324962,0.26750386,True
+Germanwings crew didn't send distress signal it was sent by air traffic control - civil aviation authorities to AFP,rumour,1,1,rumour,0.2635994,0.7364006,True
+French Air Force Boeing C-135FR Stratotanker flying over 4U9525 crash site,not_rumour,0,0,not_rumour,0.519906,0.480094,True
+BREAKING a Germanwings A320 has crashed in the French Alps with 142 passengers on board,rumour,1,1,rumour,0.24935585,0.7506442,True
+"Reports of ""moving body"" amidst Germanwings wreckage A320",rumour,1,1,rumour,0.42966864,0.57033134,True
+"142 passengers on board GermanWings plane which has crashed in French Alps, according to AFP",rumour,1,1,rumour,0.26057756,0.7394224,True
+"French officials say they have now spotted debris from Germanwings flight, more than 6K feet high in the Alps. --",not_rumour,0,0,not_rumour,0.57560295,0.42439708,True
+"PHOTO This 2014 file photo shows a Germanwings Airbus 320 parked at the airport in Duesseldorf, Germany",not_rumour,0,0,not_rumour,0.6877873,0.3122127,True
+4U9525 Robin names Andreas Lubitz as the copilot in the flight deck who crashed the aircraft.,rumour,1,1,rumour,0.28293857,0.7170614,True
+Here's what we know so far about the Germanwings flight that crashed in the French Alps,not_rumour,0,0,not_rumour,0.734691,0.26530904,True
+"Andreas Lubitz, co-pilot who brought down Germanwings flight intentionally, recently commended by the FAA",rumour,1,1,rumour,0.27096224,0.72903776,True
+All Muslims are not like that... Okay? RT The co-pilot of the Germanwings Airbus was a convert to Islam,rumour,1,1,rumour,0.30964962,0.69035035,True
+. reports Germanwings pilot locked out of cockpit amp could not get back in before crash. AC360 begins now,rumour,1,1,rumour,0.2786983,0.72130173,True
+Germanwings Flight 9525 co-pilot deliberately crashed plane! My Prayers go out to the families!,not_rumour,0,0,not_rumour,0.5057981,0.49420196,True
+French junior minister for Transport Alain Vidalies confirms they are no survivors in the Germanwings A320 crash.,rumour,1,1,rumour,0.42575446,0.5742456,True
+DGAC clarifies Germanwings didn't itself issue distress call but ATC launhed distress phase due combination of descent and no radio contact,rumour,1,1,rumour,0.27717942,0.72282064,True
+Update - AFP Aviation official says Germanwings crew did not send a distress signal,rumour,1,1,rumour,0.26507115,0.73492885,True
+We must confirm to our deepest regret that Germanwings Flight 4U 9525 from Barcelona to Dsseldorf has suffered an accident over the...,rumour,1,0,not_rumour,0.50185394,0.49814606,False
+"Germanwings Airbus A320 climbed to 38,000 feet before starting to descend and lose signal",not_rumour,0,1,rumour,0.26284185,0.7371582,False
+Germanwings pilot 'was locked out of cockpit' before fatal plane crash,rumour,1,1,rumour,0.2600135,0.7399865,True
+"16 schoolchildren, two teachers may have been on crashed Germanwings plane German town Haltern.",rumour,1,1,rumour,0.2524762,0.74752384,True
+PHOTO Arrivals board in Dusseldorf Airport shows information for Germanwings plane that crashed in French Alps,not_rumour,0,0,not_rumour,0.6648124,0.3351876,True
+NEWS Germanwings flight crashes in south of France,not_rumour,0,1,rumour,0.45704585,0.54295415,False
+This picture from a helicopter sent to the Germanwings Alps plane crash site shows how remote the area is,not_rumour,0,0,not_rumour,0.73843336,0.26156664,True
+"Germanwings co-pilot battled depression in '09, friends say.",rumour,1,1,rumour,0.26678687,0.7332131,True
+BREAKING Germanwings Airbus A320 crashes in French Alps via,rumour,1,1,rumour,0.26293644,0.7370635,True
+Our thoughts are with the passengers and crew of flight 4U-9525 and all relatives and colleagues unitedbywings,not_rumour,0,0,not_rumour,0.741674,0.258326,True
+4U9525 Hollande expresses his solidarity to families of Germanwings crash victims,not_rumour,0,0,not_rumour,0.74148685,0.25851315,True
+. have darkened their logo on Twitter following the crash of one of their planes in the French Alps,not_rumour,0,0,not_rumour,0.66055566,0.3394443,True
+"Pilot on Germanwings 4U9525 was locked out of cockpit, tried to smash door down to re-enter, the reports.",rumour,1,1,rumour,0.2793859,0.7206141,True
+"The Germanwings A320 plane that crashed in the Alps did make a distress call, CNN's French affiliate says",rumour,1,1,rumour,0.27067295,0.729327,True
+Photos show emergency services in French Alps after Germanwings crash,not_rumour,0,0,not_rumour,0.7254056,0.27459446,True
+4U9525 UPDATE 150 people were on board 142 passengers and 8 crew members,rumour,1,1,rumour,0.26246357,0.73753643,True
+We're shocked and devastated. Our deepest sympathy goes out to the families of all the victims. Our thoughts are with you all. 4U9525,not_rumour,0,0,not_rumour,0.7416272,0.25837275,True
+"France's transport minister says distress signal was sent from Germanwings plane - ,",rumour,1,1,rumour,0.26057756,0.7394224,True
+Germanwings could face enormous legal liabilities in the crash that killed 150 people,not_rumour,0,1,rumour,0.32960746,0.6703925,False
+"France's Interior Ministry says debris located at 2,000 meters altitude in French Alps. Airbus A320 GermanWings",not_rumour,0,1,rumour,0.34643075,0.6535693,False
+The latest Airline Germanwings now says there were 144 passengers and six crew aboard plane that crashed,rumour,1,1,rumour,0.26057756,0.7394224,True
+"To cap its liability, the airline has to prove it was without fault - Aviation Attorney Justin Green on Germanwings",not_rumour,0,1,rumour,0.355607,0.6443929,False
+"If the Germanwings copilot Lubitz was Muslim,it wud hv been a classic terrorism case.But hes not brown,so clearly it a mental heath issue!",rumour,1,1,rumour,0.38528794,0.61471206,True
+"Debris from the Germanwings crash has already been found, says French interior minister",not_rumour,0,0,not_rumour,0.69569993,0.30430004,True
+We get reports about an Germanwings A320 crash. Flight 4U9525 was lost from Flightradar24 at 6800 feet near Digne in southern France.,rumour,1,1,rumour,0.31394538,0.68605465,True
+The route of the Germanwings Airbus A320 plane which has crashed. Updates of alpscrash here,not_rumour,0,0,not_rumour,0.7240418,0.27595824,True
+"One pilot was locked out of cockpit before Germanwings flight 4U9525 crashed, killing 150",rumour,1,1,rumour,0.2520157,0.7479843,True
+BREAKING We got reports the crash could be an Airbus A320 Germanwings between Barcelona and Dusseldorf.,rumour,1,1,rumour,0.31547233,0.68452775,True
+"French interior ministry Debris from GermanWings Airbus A320 4U9525 at 2,000m altitude",not_rumour,0,1,rumour,0.28353333,0.71646667,False
+nearly perfect loop around crash area by EC-135. germanwings,not_rumour,0,0,not_rumour,0.734691,0.26530904,True
+IMAGE . altitude amp speed chart of 4U9525. Aircraft entered a steep but constant descent.,rumour,1,0,not_rumour,0.6469901,0.35300988,False
+"The door is solid, you cant knock it down its bulletproof- on rpt Germanwings pilot locked out",rumour,1,0,not_rumour,0.5772422,0.42275783,False
+A look at the cockpit-security measures that prevented Germanwings pilot from reentering,not_rumour,0,0,not_rumour,0.58305496,0.41694498,True
+Germanwings 4U9525 crash amp response sites amp LIVE UPDATES amp reactions,not_rumour,0,0,not_rumour,0.7400805,0.25991955,True
+Watch our live and rolling coverage of Germanwings plane crash in southern France,not_rumour,0,0,not_rumour,0.7364954,0.26350462,True

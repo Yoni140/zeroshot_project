@@ -1,0 +1,2 @@
+dataset,model,model_key,cv_f1_macro_mean,cv_f1_macro_std,test_accuracy,test_f1_macro,test_f1_weighted,test_precision,test_recall,test_f1_rumour
+sydneysiege,vinai/bertweet-base,bertweet,0.826439,0.007096,0.821229,0.817673,0.821514,0.816768,0.818792,0.792208

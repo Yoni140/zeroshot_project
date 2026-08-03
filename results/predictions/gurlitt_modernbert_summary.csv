@@ -1,0 +1,2 @@
+dataset,model,model_key,cv_f1_macro_mean,cv_f1_macro_std,test_accuracy,test_f1_macro,test_f1_weighted,test_precision,test_recall,test_f1_rumour
+gurlitt,answerdotai/ModernBERT-base,modernbert,0.722739,0.068843,0.631579,0.590769,0.611174,0.621429,0.596591,0.461538

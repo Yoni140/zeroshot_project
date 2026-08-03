@@ -1,0 +1,36 @@
+cleaned_tweet,label,true_label_int,pred_label_int,pred_label,prob_not_rumour,prob_rumour,correct
+Putin's Weird Disappearance PutinDead Russia WhereIsPutin,not_rumour,0,1,rumour,0.49847412,0.5015259,False
+Trying to out-Merkel Merkel again. Someone tell Vlad it won't work. putindead ringer!,not_rumour,0,0,not_rumour,0.68167377,0.31832618,True
+Military coup in Kremlin and putin has been removed from power? Bullsh1t! 89 Russian people support amp adore him! putin is their new stalin,rumour,1,1,rumour,0.48376274,0.51623726,True
+Vladimir Putin's Disappearance Could Mean Russia's Undergoing a Coup,rumour,1,1,rumour,0.33616757,0.6638324,True
+"putindead it's entirely possible that this is a staged ""disappearrance"". Ivan the Terrible and Stalin both pulled that gag, IIRC.",rumour,1,0,not_rumour,0.5905136,0.4094864,False
+Can Putin's Absence Indicate A Palace Coup In Moscow? Russia,rumour,1,1,rumour,0.35653067,0.64346933,True
+putindead putin Can Putin's Absence Indicate A Palace Coup In Moscow? via,rumour,1,0,not_rumour,0.6668223,0.3331777,False
+Poll shows that Putin's popularity - amidst rumours of his death - is increasing now 88 . I.e Russians like him better DEAD? putindead,rumour,1,0,not_rumour,0.6383,0.36170003,False
+"So there really were tanks APCs moving on Moscow. Not because PutinMissing, but for Monday Crimea bash via",not_rumour,0,1,rumour,0.48327497,0.516725,False
+?! ! According to reports in Russia there was a military coup. President Vladimir Putin killed,rumour,1,1,rumour,0.38751647,0.6124835,True
+"Looks like Obama outmaneuvered Putin, forcing him to overreach and fall. putinmissing putindead via",not_rumour,0,0,not_rumour,0.6577583,0.3422417,True
+Reports claim Putin disappeared due to impending political coup,rumour,1,1,rumour,0.355607,0.6443929,True
+Lk t RT Rumors in Switzerland Putin absence due to his girlfriend Alina Kabaeva giving birth in Ticino,rumour,1,1,rumour,0.2909305,0.7090695,True
+Where is Putin? Here is the answer! He has opened a pub on Jaffa street in Jerusalem! putindead Putin putinumer,not_rumour,0,0,not_rumour,0.6867903,0.31320962,True
+"Putin will probably be found naked in a 7-Eleven staring at the freezer. Fugue state, that's all. putinmissing BreakingBad",not_rumour,0,0,not_rumour,0.5520492,0.44795078,True
+Is Putin facing palace coup?,rumour,1,1,rumour,0.37917718,0.6208227,True
+". ""Some day, I suspect Putin will fall to a political coup,"" but not today.",rumour,1,1,rumour,0.43426636,0.5657337,True
+"Tanks in Moscow, no tanks in Moscow, Putindead, putin not dead, Kabayeva gave birth, Kabayeva was't pregnant. Too much speculations. Night",not_rumour,0,0,not_rumour,0.5004883,0.49951172,True
+"After their exclusives on Putin and Kabayeva's first two babies, Page Six must be mad at getting scooped on the third",rumour,1,1,rumour,0.40192252,0.5980775,True
+In game of Kremlin you either win or you die... putindead,not_rumour,0,0,not_rumour,0.7334519,0.26654816,True
+We've sussed it. The Kremlin's getting ready for St Patrick's Day putinmissing putindead,not_rumour,0,0,not_rumour,0.6566032,0.34339675,True
+"Welp, Putin is fine, guys. These photos PROVE IT. putindead putinstroke",not_rumour,0,0,not_rumour,0.70304,0.29696,True
+PutinDead - Amazing how quickly the satirical songs and videos are produced.,not_rumour,0,1,rumour,0.4832874,0.51671267,False
+"Has Putin Fallen Ill, or Fallen to a Coup?",rumour,1,1,rumour,0.39951876,0.6004813,True
+Swiss tabloid drops this about Putin secret baby mission in Ticino,rumour,1,1,rumour,0.37983838,0.62016165,True
+And you thought it was Putin's back? Alina Kabaeva allegedly gave birth to a child in Switzerland.,rumour,1,1,rumour,0.37708178,0.62291825,True
+Putin juggling enough instability. He would make a live appearance by now to squash death coup jitters.,not_rumour,0,1,rumour,0.4551683,0.54483163,False
+Expert Vladimir Putin's Disappearance Could Mean Russia's Undergoing a Coup Russian President Vladimir Putin...,rumour,1,1,rumour,0.31195062,0.6880493,True
+putindead Check out this.A monk in Ukr predicted on Jan28 that the Russian Empire would start collapsing on Mar.12,not_rumour,0,0,not_rumour,0.6569335,0.3430666,True
+Putin has obviously disappeared to binge watch the entire season 3 of House of Cards.. putinmissing putin,not_rumour,0,0,not_rumour,0.5155132,0.48448676,True
+BREAKING Russia Moscow today Putin Putindead,not_rumour,0,0,not_rumour,0.6971968,0.30280328,True
+BREAKING NEWS Putin biographer confirms ' something happening at the kremlin ' Military Coup?,rumour,1,1,rumour,0.33290654,0.66709346,True
+Russian President Vladimir Putin to be 'ousted in coup' as rumours swirl over ill-health,rumour,1,1,rumour,0.32750696,0.67249304,True
+""" The silence of those who know seems much more telling than the words of those who guess - putindead""",not_rumour,0,0,not_rumour,0.6853707,0.31462938,True
+Is Putin dead? 144 of people say no. putindead Russia,not_rumour,0,0,not_rumour,0.67928505,0.3207149,True

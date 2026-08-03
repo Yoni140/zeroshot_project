@@ -1,0 +1,2 @@
+dataset,model,model_key,cv_f1_macro_mean,cv_f1_macro_std,test_accuracy,test_f1_macro,test_f1_weighted,test_precision,test_recall,test_f1_rumour
+germanwings-crash,microsoft/MiniLM-L12-H384-uncased,minilm,0.845475,0.032064,0.8,0.79852,0.799013,0.804167,0.798203,0.815789

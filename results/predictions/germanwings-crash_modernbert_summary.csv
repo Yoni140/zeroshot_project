@@ -1,0 +1,2 @@
+dataset,model,model_key,cv_f1_macro_mean,cv_f1_macro_std,test_accuracy,test_f1_macro,test_f1_weighted,test_precision,test_recall,test_f1_rumour
+germanwings-crash,answerdotai/ModernBERT-base,modernbert,0.849566,0.023878,0.842857,0.842051,0.842374,0.84574,0.841503,0.853333

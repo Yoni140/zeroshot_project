@@ -1,0 +1,45 @@
+cleaned_tweet,label,true_label_int,pred_label_int,pred_label,prob_not_rumour,prob_rumour,correct
+Prince rumoured to play secret Toronto show Tuesday music,rumour,1,1,rumour,0.00020502215,0.999795,True
+How can u leave me standing alone in a world so cold? literally dovescry prince toronto,rumour,1,1,rumour,0.0031480708,0.996852,True
+Is Prince Playing A Surprise Show At Massey Hall Tonight? Toronto. It certainly looks like it.,rumour,1,1,rumour,0.00020582441,0.9997942,True
+BREAKING The Artist Formerly Known To Perform Will Not Be Doing So Anymore. Sorry Prince Fans. Toronto Concert Fail,rumour,1,1,rumour,0.0012594985,0.9987405,True
+Prince rumoured to be performing surprise show in Toronto,rumour,1,1,rumour,7.226082e-05,0.99992776,True
+Here's a picture of a prince stage set up right now at masseyhall in Toronto,rumour,1,1,rumour,0.0001280591,0.99987197,True
+Big rumour of the day. Prince is playing Massey Hall tonight.. barriers and fans showing up outside,rumour,1,1,rumour,0.00018740873,0.99981266,True
+TORONTO In case you missed it are saying no Prince shows either today or tomorrow.,rumour,1,1,rumour,0.0018422535,0.9981578,True
+I know why Prince amp starts the tour by Toronto... BikeSculture,rumour,1,1,rumour,0.0025163612,0.9974837,True
+Toronto People ----- gt Prince to perform surprise show in Toronto,rumour,1,1,rumour,0.0005162725,0.9994837,True
+"Contrary to popular belief, has stated that there will not be a secret Prince show at Massey Hall",rumour,1,1,rumour,0.00012632042,0.99987364,True
+VIDEO Prince to perform a surprise show in Toronto,rumour,1,1,rumour,0.00029711513,0.9997029,True
+Wish I was going to that secret concert that and Prince are performing at in Toronto,rumour,1,1,rumour,0.0019380354,0.99806195,True
+Prince won't be performing tomorrow night either. He's actually performing in an alternate reality for the next few days. PrinceTO Toronto,rumour,1,1,rumour,0.00028797647,0.99971205,True
+Prince is playing a surprise show tonight at Massey Hall! Toronto,rumour,1,1,rumour,3.778375e-05,0.9999622,True
+From on Facebook. Toronto Prince,rumour,1,1,rumour,0.0051897867,0.9948102,True
+Yes!! is doing a concert tonight and tickets are ONLY 10!!! Toronto rocks,rumour,1,1,rumour,0.00012982171,0.9998702,True
+"In response to inquiries, we can confirm that Prince will not be performing at tonight.",rumour,1,1,rumour,0.0003618828,0.9996381,True
+Prince and are rumoured to be performing a surprise show Tuesday night in Toronto,rumour,1,1,rumour,4.629322e-05,0.99995375,True
+PRINCE gives Toronto purple balls .....,not_rumour,0,1,rumour,0.0023141266,0.9976859,False
+Prince and 3RDEYEGIRL playing last minute show at Massey Hall. Tix 10,rumour,1,1,rumour,0.00016410438,0.99983585,True
+Prince in Toronto cancelled! WTF!!,rumour,1,1,rumour,0.0005092657,0.99949074,True
+A look at the stage where prince is performing sent by a friend toronto prince tdot concert,rumour,1,1,rumour,0.00068785116,0.99931216,True
+"omggggg ' "" Sorry, fans. Prince will not be performing at Massey Hall tonight",rumour,1,1,rumour,3.3214194e-05,0.99996674,True
+Prince to perform surprise show in Toronto Prince,rumour,1,1,rumour,0.0006130294,0.9993869,True
+"Prince is doing a ""secret"" concert in Toronto tonight and tickets are ONLY 10!!!",rumour,1,1,rumour,4.8514772e-05,0.9999515,True
+The music legend known as Prince is rumoured to be having a surprise pop-up show tonight Massey Hall in Toronto fb,rumour,1,1,rumour,2.1112483e-05,0.9999789,True
+Prince fans still holding out hope outside Massey Hall even after being told there will be no show tonight.,rumour,1,1,rumour,9.187512e-06,0.9999908,True
+Is Prince planning a secret show in Toronto tonight?,rumour,1,1,rumour,9.387641e-05,0.99990606,True
+Is Prince doing surprise show in Toronto? hotticket,rumour,1,1,rumour,0.0015158918,0.9984841,True
+Sample of line-up outside Massey Hall for rumoured Prince concert via cbcto,rumour,1,1,rumour,0.00016997529,0.99983,True
+". tweets ""Prince will not be performing at Massey Hall tonight."" cbcto",rumour,1,1,rumour,0.00020263405,0.9997974,True
+"""How can you just leave me standing, alone in a world that's so cold?"" Prince fans in line outside Massey Hall since 7am",rumour,1,1,rumour,0.0003859661,0.99961406,True
+Fans have told me they overheard security saying that Prince's drumkit has already been set up inside Massey Hall in Toronto.,rumour,1,1,rumour,8.0612095e-05,0.9999194,True
+Prince Reportedly Pulls Out of Secret Toronto Show Because He 'Just Wasn't Feeling It' via,rumour,1,1,rumour,0.00498227,0.9950177,True
+Updated Story Secret Prince show rumored for Toronto tonight,rumour,1,1,rumour,0.00016474657,0.99983525,True
+Are you in line for Prince's rumoured show in Toronto?,rumour,1,1,rumour,0.00023050672,0.9997695,True
+Prince Playing Surprise Show in Toronto Tonight? Are you lined up at Masey Hall?,rumour,1,1,rumour,0.00033015275,0.9996699,True
+Prince to perform surprise show tonight at Massey Hall,rumour,1,1,rumour,4.315016e-05,0.99995685,True
+"Prince is insulted by Massey Hall's reservation costs, books a show at Izakaya Sushi House princeTOrumours",rumour,1,1,rumour,0.0005254231,0.9994746,True
+WOW. It seems as though Prince will not be playing at toronto's MasseyHall after all. A sad turnout for those who played hooky today!,rumour,1,1,rumour,0.00016603847,0.99983394,True
+"Lots of disappointment and disbelief at Massey Hall after would-be Prince called off. Five hours in line based on media speculation, ouch!",rumour,1,1,rumour,0.00075540564,0.9992446,True
+Rumor has it PRINCE will perform a FREE private show Massey Hall tonight! Toronto Will you stand in line? -,rumour,1,1,rumour,0.0003399649,0.99966,True
+Surprise Prince show at Massey Hall tonight?,rumour,1,1,rumour,2.046293e-05,0.9999795,True

@@ -1,0 +1,180 @@
+cleaned_tweet,label,true_label_int,pred_label_int,pred_label,prob_not_rumour,prob_rumour,correct
+Did somebody forget to tell that radical Islamist that guns are banned in Australia?!?! BadGuysDontFollowGunLaws. sydneysiege,not_rumour,0,0,not_rumour,0.88861394,0.11138611,True
+Uber Sydney trips from CBD will be free for riders. Higher rates are still in place to encourage drivers to get into the CBD.,rumour,1,0,not_rumour,0.8507168,0.14928316,False
+There's anger after people start taking selfies outside the sydneysiege cafe.,not_rumour,0,0,not_rumour,0.8879841,0.11201596,True
+Three people seen running out of Sydney cafe where hostages have been held for hours - live updates sydneysiege,rumour,1,1,rumour,0.12732674,0.8726732,True
+"What's happening in Sydney will happen in the uk it's inevitable, and our political leaders will have blood on their hands",not_rumour,0,0,not_rumour,0.88885534,0.11114469,True
+Prayers go out to the hostages in Sydney,not_rumour,0,0,not_rumour,0.872293,0.12770702,True
+SYDNEY ATTACK LATEST - 16th hour - 5 people escaped GUNMAN DEMANDS - Speak to PM - ISIS flag Claims he has 2 bombs with him amp 2 in city,not_rumour,0,1,rumour,0.22388572,0.7761143,False
+Sydney 2GB radio shock jock Ray Hadley now retracting many of his earlier claims about SydneySiege. Appalling 'journalism',rumour,1,0,not_rumour,0.88563144,0.11436852,False
+illridewithyou Australians stand up to racism following sydneysiege,not_rumour,0,0,not_rumour,0.8892887,0.1107113,True
+UPDATE Police have confirmed that live ammunition was used as heavily armed police stormed the caf in MartinPl. SydneySiege 9News,rumour,1,1,rumour,0.15908672,0.8409133,True
+Australian Police Operation Under Way In Sydney,not_rumour,0,0,not_rumour,0.8317589,0.1682411,True
+Tomorrow the exclusion zone will stay in place in Sydney - if you work in the area please stay at home. sydneysiege,rumour,1,0,not_rumour,0.8736466,0.12635334,False
+We are calling on all to PrayForHostages amp that Australia will not be hostage to fear amp hate. sydneysiege,not_rumour,0,0,not_rumour,0.8897206,0.11027937,True
+WH now confirming with me President Obama HAS been briefed on sydneysiege by Homeland Security and Counterterrorism chief Lisa Monaco,not_rumour,0,0,not_rumour,0.8830344,0.11696559,True
+BREAKING NEWS Australian authorities confirm that the SydneySiege is over and all hostages have been freed...,not_rumour,0,1,rumour,0.16512139,0.8348786,False
+BREAKING NEWS 2 PEOPLE HAVE DIED AND 5 PEOPLE BEING TREATED BY PARAMEDICS IN SYDNEY. SKY NEWS,rumour,1,1,rumour,0.1368966,0.8631034,True
+"North East doesn't get reported because it's far off from main cities, editors argue. Guess Sydney is closer to India than Imphal.",not_rumour,0,0,not_rumour,0.8816658,0.118334144,True
+illridewithyou How Australians are responding to the sydneysiege,not_rumour,0,0,not_rumour,0.8892887,0.1107113,True
+"SYDNEYSIEGE Hostage-takers have suicide belts, demand radio convo with Abbott report",rumour,1,1,rumour,0.13927926,0.8607207,True
+"Still no information about hostage taker unclear if alive, injured or killed sydneysiege",rumour,1,1,rumour,0.1340941,0.8659059,True
+"NSW police commissioner Suspect holding ""undisclosed"" number of hostages in Sydney situation contained -",not_rumour,0,1,rumour,0.13245843,0.86754155,False
+Thanks for protecting my sisters illridewithyou big love and prayers for australia sydneysiege,not_rumour,0,0,not_rumour,0.8895768,0.11042318,True
+CNN hasn't been able to rule out the Sydney Tea Party in the Australian hostage crisis.,not_rumour,0,0,not_rumour,0.8740772,0.12592277,True
+The Australian Muslim community love their home and worked hard to dispel myths. I hope they do not suffer because of this. sydneysiege,not_rumour,0,0,not_rumour,0.8897206,0.11027937,True
+Uber Is Allegedly Charging Passengers 100 Minimum During Sydney Siege via,rumour,1,1,rumour,0.13580412,0.8641959,True
+We can see people coming out a firedoor near the Lindt cafe to waiting police. 2-3 people. Hard to see. sydneysiege,rumour,1,1,rumour,0.20378675,0.7962132,True
+"DRAMATIC PHOTO Woman running from SYDNEYSIEGE cafe, unknown number of hostages remain trapped",rumour,1,1,rumour,0.13139598,0.86860406,True
+"this photo speaks a thousand words, praying for all people being held hostage sydneysiege SydneyHostageCrisis",not_rumour,0,0,not_rumour,0.8832863,0.11671366,True
+"Dear God, Please protect and bless The hostages in Sydney. Pour forth Your Light And work a miracle. May sanity...",not_rumour,0,0,not_rumour,0.88832355,0.11167642,True
+Vision now confirms sydneysiege perpetrator is using young woman as a shield as he paces around in view of windows amp police outside.,rumour,1,0,not_rumour,0.5164259,0.48357412,False
+US consulate reportedly evacuated amid Sydneysiege hostage situation martinplace,rumour,1,1,rumour,0.13609089,0.86390907,True
+Thoughts amp prayers to all those who have been affected by the SydneySiege today. Sad to see this sort of terror ...,not_rumour,0,0,not_rumour,0.888372,0.111627996,True
+who takes a selfie in the middle of a hostage siege ? well these idiots do sydneysiege,not_rumour,0,0,not_rumour,0.885582,0.11441799,True
+"My prayers go out to everyone who's involved in the disaster in Sydney, hope everyone will get out safe!",not_rumour,0,0,not_rumour,0.88842046,0.11157958,True
+If Islam is a religion of peace why aren't their extremist extremely peaceful? sydneysiege,not_rumour,0,0,not_rumour,0.8891444,0.110855594,True
+Australians respond to racism by telling Muslim community illridewithyou. sydneysiege MartinPlace,not_rumour,0,0,not_rumour,0.8897206,0.11027937,True
+I'm not Australian but I'm so happy there are people like this in the world. sydneysiege illridewithyou,not_rumour,0,0,not_rumour,0.8895288,0.11047115,True
+WATCH The moment two women escaped the sydneysiege.,rumour,1,1,rumour,0.16451646,0.83548355,True
+The crowd and media at Martin Place. Photo by MartinPlaceSiege sydneysiege,not_rumour,0,0,not_rumour,0.8725104,0.12748958,True
+BREAKING Terrorist involved in Sydney siege is 50 year old Iranian known as 'Sheikh Haron'.,not_rumour,0,1,rumour,0.14145923,0.8585408,False
+Police confirm Sydney siege has ended -,not_rumour,0,1,rumour,0.14829372,0.8517063,False
+Stop racism now. Sydney is a beautiful multicultural city illridewithyou Please share this for me and help Sydney.,not_rumour,0,0,not_rumour,0.8895288,0.11047115,True
+"Developing Hostage situation in Sydney, Australia. Updates Video",rumour,1,1,rumour,0.13683891,0.8631611,True
+BREAKING Another four or five hostages have escaped from the caf in MartinPl. SydneySiege 9News,rumour,1,1,rumour,0.12613791,0.87386215,True
+BREAKING Police believe the man behind the Sydney siege is Iraninan cleric Man Haron Monis sydneysiege,rumour,1,1,rumour,0.14681971,0.85318035,True
+sydneysiege No confirmation airspace has been shut down yet in Sydney but planes are avoiding the area.,rumour,1,1,rumour,0.18907149,0.8109285,True
+VIDEO Hostages flee from Sydney cafe,not_rumour,0,1,rumour,0.12956785,0.87043214,False
+"UPDATE There are reports police have discovered the identity of the lone gunman, with the SydneySiege in its sixth hour. 9News",rumour,1,1,rumour,0.16613355,0.8338664,True
+PM Abbott calls for calm amid Sydney hostage situation,rumour,1,0,not_rumour,0.82914644,0.17085359,False
+SYDNEY SIEGE Gunman forces hostages to hold up ISIS flag in window,rumour,1,1,rumour,0.12716407,0.87283593,True
+"STAND WITH AUSTRALIA-one monarch, one lanaguage, shared culture amp history Live Sydney updates",not_rumour,0,0,not_rumour,0.88774097,0.11225903,True
+PM Tony Abbott has just provided an update on SydneySiege. Here's the transcript,not_rumour,0,0,not_rumour,0.8807458,0.1192542,True
+It's a shame that Australians gave up all their guns on orders of the government. Now only ISIS lunatics are armed. sydneysiege,not_rumour,0,0,not_rumour,0.88880706,0.11119294,True
+.'s report on what we know right now about the sydneysiege,not_rumour,0,0,not_rumour,0.88875884,0.11124121,True
+"Sydney kidnap black flag ""There is no God but Allah , , ,"" Clear evidence, if evidence were needed, that religion is not involved.",not_rumour,0,0,not_rumour,0.8668668,0.1331332,True
+Sydney siege highlights rise of Islamist extremism in Australia,not_rumour,0,0,not_rumour,0.8731607,0.12683924,True
+From on Ray Hadley's speculative reports sydneysiege,rumour,1,0,not_rumour,0.8842893,0.11571067,False
+MOMENTS AGO Police storm cafe in Sydney where hostages have been held,not_rumour,0,1,rumour,0.12978828,0.8702117,False
+Prophet Muhammad said He will not enter Paradise whose neighbor is not secure from wrongful acts. illridewithyou sydneysiege,not_rumour,0,0,not_rumour,0.8893848,0.11061518,True
+BREAKING Australian police have named the suspect in the Sydney siege Islamic leader Sheik Man Haron Monis,not_rumour,0,1,rumour,0.15778464,0.84221536,False
+MT Uber intros surge pricing during sydneysiege -,rumour,1,1,rumour,0.40919125,0.5908087,True
+A post of what we actually do know about the Lindt Sydney siege. It is not very long.,not_rumour,0,0,not_rumour,0.8813088,0.118691206,True
+BREAKING NEWS GUNMAN DEMANDING TO SPEAK TO AUSTRALIAN PRIME MINISTER AND ALSO ASKING FOR AN ISLAMIC STATE FLAG TO BE BROUGHT TO LINDT CAFE.,rumour,1,1,rumour,0.16198196,0.83801806,True
+PM Modi condemns Sydney hostage crisis,rumour,1,0,not_rumour,0.88171685,0.11828322,False
+You only look like a fuck wit when you make up stories relating to the sydneysiege - Unless you read it from the police - don't believe it,not_rumour,0,0,not_rumour,0.8895288,0.11047115,True
+Geoblock lifted on ABCNews24. Streaming coverage of the Martin Place siege in Sydney here,rumour,1,0,not_rumour,0.63660735,0.3633927,False
+Police chopper hovers over a deserted Opera House concourse. sydneysiege,not_rumour,0,0,not_rumour,0.6699068,0.33009315,True
+"A terrorist attack in Sydney. A major police operation is under way in Sydney, Australia.",not_rumour,0,1,rumour,0.19644055,0.8035595,False
+The media need to take a step back and realize this is people's lives not a Kardashian wedding. sydneysiege,not_rumour,0,0,not_rumour,0.8891926,0.11080748,True
+illridewithyou hashtag offers solidarity with Sydney's Muslims after cafe siege sydneysiege,not_rumour,0,0,not_rumour,0.8881781,0.11182181,True
+"SYDNEYSIEGE Loud bang heard, five more hostages run from Lindt cafe - WATCH LIVE",rumour,1,1,rumour,0.13245843,0.86754155,True
+BREAKING Police say Sydney cafe hostage situation is over after more than 16 hours.,not_rumour,0,1,rumour,0.14847884,0.8515212,False
+"An ISIS ""lonewolf"" has taken around 30 people hostage in a Sydney cafe and demanded to talk to the PM, according to Australian media.",rumour,1,1,rumour,0.13957219,0.86042774,True
+"Praying for the hostages, and praying for my religion to one day be free of those who think that Allah demands killing. sydneysiege islam",not_rumour,0,0,not_rumour,0.88875884,0.11124121,True
+Sydney hostage situation. LIVE VIDEO - via UPDATES,not_rumour,0,1,rumour,0.1454792,0.85452086,False
+Major police operation unfolding in downtown Sydney,not_rumour,0,0,not_rumour,0.82976806,0.17023194,True
+"Let us pray for the hostages taken in MartinPlace, Sydney as well as for the police handling the situation amp for a peaceful resolution.",rumour,1,0,not_rumour,0.51125526,0.4887447,False
+"It's early Tuesday in Sydney, crisis in 16th hour, as authorities try to secure safe release of hostages",not_rumour,0,1,rumour,0.29158568,0.7084144,False
+Take a break from bashing Cheney and waterboarding. Possible ISIS terrorist attack ongoing in Sydney.,rumour,1,0,not_rumour,0.868938,0.13106197,False
+Picture of one of the women seen running from the sydneysiege cafe. She is wearing a uniform with the Lindt logo,rumour,1,1,rumour,0.38748753,0.6125125,True
+"SydneySiege ""We are only dealing with one location"" says police chief, responding to rumours of bombs elsewhere",rumour,1,0,not_rumour,0.87065226,0.12934774,False
+sydneysiege Police confirm only one armed suspect is holding undisclosed number of hostages at a cafe,rumour,1,1,rumour,0.12830654,0.8716935,True
+"BREAKING Hostages held inside Sydney cafe, Islamic flag held up",rumour,1,1,rumour,0.12651514,0.87348485,True
+I condemn the Sydney cafe siege of innocent civilians ... such terrorism and negativity has no place in 21st century civilization.,not_rumour,0,0,not_rumour,0.88418937,0.11581063,True
+We love the illridewithyou initiative. Spread love and compassion. Thoughts are with all those affected. sydney,not_rumour,0,0,not_rumour,0.8896248,0.110375226,True
+I was briefed overnight on the siege in Sydney. It's deeply concerning and my thoughts are with all those caught up in it.,not_rumour,0,0,not_rumour,0.8840393,0.11596072,True
+"Finally a news presenter has said ""this is not a terrorist event, it is a criminal event involving hostages"" sydneysiege",rumour,1,0,not_rumour,0.88577974,0.11422024,False
+"BREAKING NSW police have confirmed the siege in Sydney's CBD is now over, a police officer is reportedly among the several injured.",rumour,1,1,rumour,0.19790912,0.8020909,True
+A Muslim woman took her scarf off out of fear after the Sydney Siege But she's comforted by strangers illridewithyou,not_rumour,0,0,not_rumour,0.8842893,0.11571067,True
+2 more people have fled from Sydney cafe where hostages are being held. sydneysiege,rumour,1,1,rumour,0.12646118,0.8735388,True
+"If anything positive can come from todays events, its this illridewithyou campaign sydneysiege",not_rumour,0,0,not_rumour,0.8896727,0.11032729,True
+"Local media 2 more people appear to escape Martin Place, Sydney, caf amid hostage situation 5 now free -",rumour,1,1,rumour,0.14092635,0.8590736,True
+"""Australia is a peaceful, open, generous society and nothing should change that"" - PM Tony Abbott on hostage situation at Sydney cafe 7News",not_rumour,0,0,not_rumour,0.8774768,0.12252322,True
+FUCK THE MONDAY AND THE FUCKING AUSTRALIA TERRORIST FOREVER sydneysiege,not_rumour,0,0,not_rumour,0.8892406,0.11075937,True
+"He's a man, we don't blame all men. He has a gun, we don't blame all gunowners. He's a Muslim, we should not blame all Muslims. sydneysiege",not_rumour,0,0,not_rumour,0.88890356,0.111096464,True
+"illridewithyou . Sydney, you're amazing",not_rumour,0,0,not_rumour,0.88880706,0.11119294,True
+BREAKING UPDATE Gunman says four devices are located around Sydney. Security response underway. Police calling for calm. 9News,rumour,1,1,rumour,0.13145173,0.8685483,True
+"Muslim community reacts with 'horror, aversion' to SydneySiege, reports",not_rumour,0,0,not_rumour,0.8885172,0.11148281,True
+For those confused gunmen have taken hostages in a Sydney cafe holding a Shahada flag NOT THE SAME AS ISIS,rumour,1,1,rumour,0.1416966,0.8583034,True
+"Total 5 hostages have left Lindt MartinPlace 3 men, 2 women. LIVE SydneySiege 9News",rumour,1,1,rumour,0.13061774,0.86938226,True
+"Australian PM Abbott expected to speak soon on ""reported hostage-taking incident"" in Sydney, reports -",not_rumour,0,1,rumour,0.30440342,0.6955966,False
+it'll be hard sleeping tonight knowing innocent people not far from me have been in fear for over 11 hours sydneysiege PrayForSydney,not_rumour,0,0,not_rumour,0.8896727,0.11032729,True
+"NSW Police ""Police urge the media to be responsible in their reporting. Speculation can cause unnecessary alarm."" SydneySiege",not_rumour,0,0,not_rumour,0.88769233,0.11230769,True
+Ambulance workers rush injured out moments ago sydneysiege,rumour,1,1,rumour,0.14798562,0.85201436,True
+"7 people left SydneySiege on stretchers, 5 receiving immediate treatment, Australia's ABC reports.",rumour,1,1,rumour,0.1334152,0.8665848,True
+"sydneysiege We sit in the reality of grief, shock and unknowing. For this moment that is enough.",not_rumour,0,0,not_rumour,0.8894329,0.11056716,True
+BREAKING The man behind the hostage situation at Martin Place has been identified as Man Monis sydneysiege,rumour,1,1,rumour,0.13454832,0.86545163,True
+"Sydney is a safe amp welcoming city, proud of its diversity. Great to see our best nature on show at a time like this. illridewithyou",not_rumour,0,0,not_rumour,0.8891926,0.11080748,True
+"I guess when police told the media not to name the gunman they actually meant ""please put his name and face on the front page""? sydneysiege",not_rumour,0,0,not_rumour,0.85421705,0.14578296,True
+What is happing in sydneysiege has nothing to do with islam. These terrorist groups do NOT represent Islam at all.,not_rumour,0,0,not_rumour,0.88861394,0.11138611,True
+"Things getting ugly... A racist bloke yelling at rest of the crowd, ""Muhammed is a pedophile, rapist"" sydneysiege",not_rumour,0,0,not_rumour,0.88899994,0.11100007,True
+"BREAKING Gunfire heard in vicinity of Sydney cafe where hostages are being held, state broadcaster reports.",rumour,1,1,rumour,0.12613791,0.87386215,True
+Sending love to Sydney. illridewithyou sydneysiege,not_rumour,0,0,not_rumour,0.88899994,0.11100007,True
+Fear and relief as these two hostages escape sydneysiege - LIVE,rumour,1,1,rumour,0.15310544,0.8468945,True
+Customers in Sydney cafe taken hostage. Siege in center of city. Watch our friends,rumour,1,1,rumour,0.13392411,0.8660759,True
+I admire how the Australian police have dealt with sydneysiege so far. Patience. Communication. No bullets fired. US Police - take note.,not_rumour,0,0,not_rumour,0.88861394,0.11138611,True
+2 hostages in Sydney caf confirm to gunman's demands 1 He wants ISIS flag delivered 2 He wants to speak to Prime Minster,rumour,1,1,rumour,0.15241033,0.84758973,True
+SYDNEY SIEGE ENDS - After 16 hours - 2 dead - 3 injured - Status of gunman unknown -1 officer injured Stay with for the latest.,not_rumour,0,1,rumour,0.16046327,0.8395367,False
+Approximately 50 hostages may be held captive at Lindt caf local reports sydneysiege,rumour,1,1,rumour,0.12678517,0.87321484,True
+Follow all of the latest updates on sydneysiege on our live blog,not_rumour,0,0,not_rumour,0.8874487,0.112551324,True
+"SYDNEY HOSTAGE-TAKER - Man Monis, 49 - Originally from Iran - Self-styled sheikh - Accused of sexually assaulting 7 women DEVELOPING..",rumour,1,1,rumour,0.19185707,0.80814296,True
+Hostage situation ongoing in Sydney business district. UPDATES LIVE,not_rumour,0,1,rumour,0.13840355,0.8615964,False
+Police Negotiators are now in contact with armed hostage-taker in Sydney situation motive remains unknown -,rumour,1,1,rumour,0.14163722,0.8583628,True
+Dont you dare blame zayn for whatever is happening is sydney. 'terrorist' is not just a word you can throw around like this. Grow up.,not_rumour,0,0,not_rumour,0.8894329,0.11056716,True
+"Gunman takes several hostages in Sydney cafe, parades Islamic militants' flag in window. Opera House also evacuated.",rumour,1,1,rumour,0.12797923,0.8720208,True
+Praying for all still being held hostage xxx sydneysiege,not_rumour,0,0,not_rumour,0.8579467,0.14205328,True
+"Don't forget, at this moment, there are thousands of Muslims in Australia rejoicing sydneysiege MartinPlace Auspol",not_rumour,0,0,not_rumour,0.8894329,0.11056716,True
+Every citizen of Sydney has an obligation to help Police etal maintain operational security around Lindt Cafe. Do NOT tweet Police moves,not_rumour,0,0,not_rumour,0.88705796,0.11294209,True
+IllRideWithYou Sydney Stands Up To Racism amp Bigotry With One Beautiful Hashtag,not_rumour,0,0,not_rumour,0.88976854,0.110231474,True
+"Praying for Sydney. These crazies have no idea what Islam is, yet have the hubris to act in the name of it. Despicable.",not_rumour,0,0,not_rumour,0.8893368,0.110663235,True
+Map shows Martin Place in Sydney where hostages are being held in a cafe,rumour,1,1,rumour,0.12787028,0.87212974,True
+Is the Sydney hostage taker a Muslim because of the flag hoisted?,not_rumour,0,0,not_rumour,0.6759785,0.32402143,True
+BREAKING Another hostage has been seen running out of the cafe sydneysiege,rumour,1,1,rumour,0.12754393,0.87245613,True
+Scary scenes in Sydney right now. Thoughts go out to everyone involved. Hopefully the hostage situation can be resolved peacefully.,rumour,1,0,not_rumour,0.8829839,0.11701602,False
+Australia has a long history of terrorism the use of violence in the pursuit of political aims .... SydneySiege,not_rumour,0,0,not_rumour,0.8886622,0.111337796,True
+New South Wales Police confirms the siege in a Lindt cafe in Sydney is over sydneysiege,not_rumour,0,1,rumour,0.14300808,0.85699195,False
+BREAKING Heavily armed police storm Sydney cafe where gunman has been holding hostages.,rumour,1,1,rumour,0.12830654,0.8716935,True
+SYDNEY TERROR - Heavily-armed police storm cafe - Multiple hostages flee - Hostages seriously wounded - Gunman said to be dead,not_rumour,0,1,rumour,0.13986564,0.8601343,False
+"Sydney cafe siege Two gunmen and up to a dozen hostages inside the cafe under siege in Martin Place, Sydney. ISIS flags remain in display.",rumour,1,1,rumour,0.1304515,0.8695485,True
+Hey Hillary R U home empathizing with these scumbags! I want a leader who will wipe them off the planet! sydneysiege,not_rumour,0,0,not_rumour,0.8895288,0.11047115,True
+Video The moment the police stormed the Sydney cafe. Police confirm the siege is now over.,not_rumour,0,1,rumour,0.2307464,0.7692537,False
+"Hostages reported in armed robbery situation inside caf in Martin Place, Sydney -",rumour,1,1,rumour,0.12940274,0.8705973,True
+SYDNEY Reports of people with their hands up against a window black flag with Arabic writing - MORE,rumour,1,1,rumour,0.1454792,0.85452086,True
+Can't believe what's happening in Sydney... Just hoping that no one gets hurt.,not_rumour,0,0,not_rumour,0.88759494,0.11240509,True
+Basically there are 1-2 men holding 13 ppl hostage in a caf in Sydney and has made some of the hostages hold an islamic flag in the window,rumour,1,1,rumour,0.1322902,0.8677098,True
+BREAKING Reports that some of the hostages have escaped. LIVE Ch 601 sydneysiege,rumour,1,1,rumour,0.1301748,0.8698252,True
+sydneysiege A series of loud blasts and bursts of ammunition have been heard at the cafe.,rumour,1,1,rumour,0.1466363,0.8533637,True
+All quiet again after multiple gunshots in MartinPlace. No word on whether hostages are free SydneySiege,not_rumour,0,1,rumour,0.13817081,0.86182916,False
+"BREAKING UPDATE Gunman demands to speak to Abbott, asks to bring him ISIS flag SydneySiege",rumour,1,1,rumour,0.15597628,0.8440237,True
+"LIVE ""People panicking told to stay indoors when everyone wants to return home"" sydneysiege",not_rumour,0,0,not_rumour,0.88861394,0.11138611,True
+Outrage as bystanders take selfies at Sydney siege,not_rumour,0,0,not_rumour,0.88696,0.113039955,True
+"Uber backtracks, offers free rides after prices were gouged for people fleeing from Sydney hostage drama",rumour,1,1,rumour,0.22051026,0.7794897,True
+Major landmarks in Sydney evacuated as police respond to hostage situation at caf in city's Martin Place -,rumour,1,1,rumour,0.17462131,0.8253787,True
+The truth is the Sydney man holding Hostages is not just putting the people in the cafe in danger but the Whole Ummah in Australia amp Outside,not_rumour,0,0,not_rumour,0.74097174,0.25902823,True
+Uber intros surge pricing in downtown Sydney during hostage siege,rumour,1,1,rumour,0.17546742,0.82453257,True
+14 Dec Australian Muslim youth handed out 2000 flowers and 3600 water bottles to ppl in sydney illridewithyou,not_rumour,0,0,not_rumour,0.8695485,0.1304515,True
+Siege situation currently unfolding at Sydney's Martin Place. Updates here,rumour,1,1,rumour,0.1424107,0.85758924,True
+BREAKING Sydney hostage-taker believed to be self-styled Muslim cleric facing string of violent charges.,not_rumour,0,1,rumour,0.13701202,0.86298794,False
+Aussie Muslim Mullah on brings up 'Australia's Foreign Policy' in discussion over SydneySiege. Shame for indulging him.,not_rumour,0,0,not_rumour,0.8893368,0.110663235,True
+Hostages seen fleeing from cafe at centre of SydneySiege moments ago,rumour,1,1,rumour,0.12912793,0.8708721,True
+"Religion Of COWARDS- gt Hostages Forced Display Islamic Flag, Women Used AsShields sydneysiege",rumour,1,0,not_rumour,0.8156734,0.18432663,False
+Prime Minister Tony Abbott's statement on the SydneySiege. Updates,rumour,1,0,not_rumour,0.8691048,0.13089524,False
+Prayers needed for the situation happening in Sydney right now.,not_rumour,0,0,not_rumour,0.88710684,0.11289318,True
+Deeply proud of our cops and community leaders today and deeply concerned for those still inside. Our prayers are with you. sydneysiege,not_rumour,0,0,not_rumour,0.8894809,0.11051915,True
+SIEGE ERUPTS At least 7 Hostages released. Police fire live ammunition as they move into building. sydneysiege,rumour,1,1,rumour,0.13117322,0.8688268,True
+"Unless you work in an exclusion zone, please go about tomorrow as you normally would. Exclusion zones can be found at",not_rumour,0,0,not_rumour,0.8857304,0.11426965,True
+A kind lady named Mica drove me home after a cab that we shared from Sydney'sCBD wasn't able to drop me off all the way home illridewithyou,not_rumour,0,0,not_rumour,0.8785229,0.12147717,True
+This is well written and comforting as well. sydneysiege SydneyHostageCrisis,not_rumour,0,0,not_rumour,0.88899994,0.11100007,True
+The flag in the window of the Lindt cafe in Martin Place is not an Islamic State flag. An explanation SydneySiege,rumour,1,1,rumour,0.28611937,0.71388066,True
+Hostages are posting the requests of the gunman on social media. has asked the media not to publish those requests SydneySiege,rumour,1,1,rumour,0.45146254,0.5485375,True
+Massive respect to today. Their professionalism and calmness under such circumstances is amazing. sydneysiege,not_rumour,0,0,not_rumour,0.8895768,0.11042318,True
+I just pray for a peaceful safe resolution for all involved in Sydney tonight.,not_rumour,0,0,not_rumour,0.88880706,0.11119294,True
+Breaking Reports that the Sydney Opera House has now been evacuated due to findings of a suspicious package. More to come.,rumour,1,1,rumour,0.13939638,0.86060363,True
+All my thoughts amp prayers are with the people of Sydney.,not_rumour,0,0,not_rumour,0.8880812,0.11191885,True
+BREAKING amp have the latest on the hostages inside the Lindt Cafe SydneySiege. Ch 601,rumour,1,1,rumour,0.15437602,0.845624,True
+A Muslim lady took off her scarf out of fear after the Sydney Siege amp is comforted by strangers. illridewithyou,not_rumour,0,0,not_rumour,0.8833366,0.11666334,True
+"hope they'll be safe. I'm at the opposite of the world but I'll pray for you, Sydney illridewithyou PrayForSydney",not_rumour,0,0,not_rumour,0.8891926,0.11080748,True
+"Update After price hikes, says all rides will be free for passengers leaving SydneySiege area",rumour,1,0,not_rumour,0.7866228,0.21337716,False
+The SydneySiege has now been going for six hours.,not_rumour,0,0,not_rumour,0.87779135,0.12220857,True

@@ -1,0 +1,2 @@
+dataset,model,model_key,cv_f1_macro_mean,cv_f1_macro_std,test_accuracy,test_f1_macro,test_f1_weighted,test_precision,test_recall,test_f1_rumour
+ottawashooting,answerdotai/ModernBERT-base,modernbert,0.875333,0.030013,0.830769,0.830609,0.83101,0.831439,0.833333,0.835821

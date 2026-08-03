@@ -1,0 +1,676 @@
+cleaned_tweet,label,true_label_int,pred_label_int,pred_label,prob_not_rumour,prob_rumour,prob_unrelated,correct
+"They waited six days to develop the best diversion tactic they could create to demonize MikeBrown and make him the ""bad guy""",rumour,1,1,rumour,0.0017661816,0.99822444,9.35217e-06,True
+Yeah but turns out he might've been a violent thug who doesn't deserve benefit of the doubt. HandsUpDontRob,rumour,1,1,rumour,0.002769599,0.9971818,4.8569746e-05,True
+Will it ever stop? Israel is surrounded by a Religious Fanatics. There has to be a solution!,not_rumour,0,2,unrelated,0.011443881,4.9481896e-05,0.9885067,False
+a particularly interesting question given that St. Louis is home to this thing,not_rumour,0,0,not_rumour,0.970111,0.0015647452,0.028324272,True
+"So last week NYPD tried to tell us that EricGarner wasn't in a chokehold, now Ferguson police telling us MikeBrown assaulted the officer",rumour,1,1,rumour,0.00398397,0.99601585,1.508293e-07,True
+"The ""Extremist"" Muslims are actually obeying The Qur'an. The ""Moderate"" Muslims merely stand by and watch. CharlieHebdo",not_rumour,0,0,not_rumour,0.6606092,1.8949623e-06,0.33938897,True
+Can you explain this tweet? Please,not_rumour,0,2,unrelated,0.11357925,0.0171479,0.8692728,False
+those cartoons are not made to offend people but to make them think. too bad most are too narrow minded to get it,not_rumour,0,0,not_rumour,0.92163527,0.00046321983,0.077901594,True
+"CharlieHebdo suspects killed, hostage freed and safe after police assault. Photo Joel Saget AFP",unrelated,2,2,unrelated,0.00017485686,7.8713725e-07,0.99982435,True
+what do we gain other than offending mainstream people?,not_rumour,0,0,not_rumour,0.9238374,0.009500911,0.06666165,True
+looks like 6 civilians in the latest photo,unrelated,2,0,not_rumour,0.73521477,0.000580208,0.26420498,False
+not laughing. The Christian faith puts up with pics of sexy Jesus and other blasphemy.They don't shoot people.,not_rumour,0,0,not_rumour,0.78691703,0.00025042106,0.21283254,True
+while you're at it why don't you also give address and phone numbers of cops? THIS IS NOT A VIDEO GAME FOR FUCK SAKE,unrelated,2,0,not_rumour,0.9274298,0.07228808,0.0002821718,False
+"Sadly, since none of the UK press dared reprint the Jyllands-Posten cartoons, I think that's very unlikely.",unrelated,2,2,unrelated,0.080769874,4.3819207e-05,0.9191863,True
+"our country stood up 4Syrian children ppl, stood up 4 Iraqi ppl but watch their own b treated this way? Ferguson",not_rumour,0,0,not_rumour,0.9928859,0.007079228,3.49691e-05,True
+that's true and sad at the same time,rumour,1,2,unrelated,0.06374974,0.38419038,0.5520599,False
+StayWoke Hold on while Chief Jackson sprinkles a little crack on that Mike Brown crime scene ... Ferguson,rumour,1,1,rumour,0.3402626,0.6597276,9.800122e-06,True
+how convenient for killer-cop Darren Wilson no? Thin Blue Line protects him long enough for him to flee amp avoid public scrutiny.,rumour,1,1,rumour,0.004352554,0.9956344,1.3052085e-05,True
+you just agreed with me,not_rumour,0,1,rumour,0.06658179,0.9146563,0.018761927,False
+im sure none of the officers in fergurson have any infractions against them........,rumour,1,0,not_rumour,0.8562677,0.010611709,0.13312054,False
+"You're trying some really difficult mental gymnastics to justify this attack, aren't you?",not_rumour,0,1,rumour,0.015001839,0.9841384,0.00085967383,False
+"HOSTAGE? Fucking hell, when will they realize enough is enough?",unrelated,2,2,unrelated,0.11500803,0.0069304164,0.8780616,True
+What station are you watching? Several that last bit of info was from fox4 to my memory ...,rumour,1,1,rumour,0.022517534,0.9773082,0.00017412002,True
+"You talk about taking an officer's word over his ""friend"" ignoring that there are MULTIPLE eyewitness",rumour,1,1,rumour,0.005881341,0.9941128,5.897035e-06,True
+"That only proves what I said earlier, that black men are arrested and convicted for situations white men get away with.",rumour,1,1,rumour,0.005716319,0.99427766,6.085236e-06,True
+Every idiot know fashists from Hamas start War against Israel. Advice Your Hate will kill you from inside!,unrelated,2,2,unrelated,0.005590095,7.859381e-07,0.99440914,True
+making it worst for who? Are you threatening me? Do you think Islamists need excuse to kill??,not_rumour,0,2,unrelated,0.12743232,2.3242108e-05,0.8725444,False
+"the answer to your question is ""Yes, Constantly""",rumour,1,1,rumour,0.10710426,0.8352723,0.05762345,True
+"per chief belmar ""a shot was fired inside the car, and Brown was eventually shot about 35 feet away from the vehicle.""",rumour,1,1,rumour,0.0010282088,0.9989697,2.1129256e-06,True
+The traitor n coward hiding from justice!!,not_rumour,0,2,unrelated,0.17116977,0.0025990757,0.8262312,False
+"Besides, the case is still active. My guess is there are plenty more. FergusonHistory",rumour,1,1,rumour,0.0010005041,0.9989992,3.643248e-07,True
+yeah but he didn't fill him full of lead! He was a thug that deserved justice. These pigs should be slaughtered!!!,rumour,1,1,rumour,0.028150465,0.9695873,0.002262168,True
+kashmiries will b liberated InshaAllah. But even if india breaks balochstn dat wnt do any good,unrelated,2,2,unrelated,0.11456636,1.247542e-06,0.8854324,True
+is that why they brought in StL police?,rumour,1,0,not_rumour,0.7602919,0.22299291,0.01671522,False
+no very imaginable It is only a minority in denial unfortunately they form the chattering classes,unrelated,2,0,not_rumour,0.50925374,4.430477e-05,0.490702,False
+"Islam until now, has stifled criticism of itself, this is no longer viable,",not_rumour,0,2,unrelated,0.0247267,2.8698641e-05,0.9752446,False
+but he would have written his own incident report re jaywalking amp subsequent contact.,rumour,1,1,rumour,0.00017743667,0.99982196,6.300152e-07,True
+People on Twitter? Forgive me I need more than that. Their track record isn't good.,rumour,1,0,not_rumour,0.8625814,0.009582413,0.12783621,False
+The local elections where city and county leaders are chosen.,not_rumour,0,0,not_rumour,0.4323793,0.17123446,0.39638627,True
+there is nothing to protest in what Sakshi Maharaj said.... congress poodles find everything wrong with Hindu's.,unrelated,2,0,not_rumour,0.82947415,2.15409e-05,0.17050433,False
+Protestors outside Ferguson police dept now,not_rumour,0,0,not_rumour,0.84405565,0.15567784,0.00026651402,True
+"Answer ""STAND YOUR GROUND LAW"" In every state.",rumour,1,1,rumour,0.058276314,0.932928,0.008795722,True
+is it true there another terror attack near the Aifel tower?,unrelated,2,2,unrelated,0.005025962,1.3669207e-05,0.9949603,True
+"Why are you not calling them Islamic, Muslim Terrorists? Thats what they are. fvckingscum",unrelated,2,2,unrelated,0.21011701,1.1393066e-06,0.7898818,True
+Muslims....I dare you to tell the truth,not_rumour,0,0,not_rumour,0.8514347,2.9064628e-05,0.14853625,True
+Last week I suggested they are the same person. Neither denied.,rumour,1,0,not_rumour,0.49816012,0.38829914,0.113540746,False
+at war with itself ?? How is that ??,unrelated,2,2,unrelated,0.07027215,0.00045092576,0.92927694,True
+they left him in the streets for 10mins or so with him just lying there..,rumour,1,1,rumour,0.037239682,0.6688491,0.29391116,True
+PrayForParis Police Two hostage situations Paris CharlieHebdo. Watch,unrelated,2,2,unrelated,0.05389915,6.1619886e-08,0.9461008,True
+"That's what is wrong with the country, people take no responsibility for their own actions. Seemed like an 'innocent"" kid",not_rumour,0,0,not_rumour,0.82662624,0.15443933,0.018934496,True
+installed video cameras on patrol cars to make video amp audio recording of contact with the public or suspect,rumour,1,1,rumour,0.014832519,0.9849814,0.00018607677,True
+... I think this is not terrorism ...,not_rumour,0,0,not_rumour,0.5257767,0.00061322114,0.47361007,True
+Photos from the aftermath of the attack on the Charlie Hebdo newspaper in Paris,not_rumour,0,0,not_rumour,0.8025547,9.747849e-07,0.19744426,True
+"Obviously not, with that question",rumour,1,1,rumour,0.022821842,0.96851593,0.008662195,True
+Gracias amigo Israel hoy llora por sus hnos de Francia.!,unrelated,2,2,unrelated,0.041500535,1.3746253e-05,0.9584858,True
+"haha yes... Takes one to know one, I guess",not_rumour,0,0,not_rumour,0.6261191,0.17209327,0.20178774,True
+Of course. RT The surviving staff at CharlieHebdo have just announced that the magazine will publish next week--ON SCHEDULE.,not_rumour,0,0,not_rumour,0.5634291,0.0037302056,0.43284065,True
+does it matter? I'm a regular human being,not_rumour,0,0,not_rumour,0.91934574,0.061292317,0.019361967,True
+"In the best tradition of Woodward and Bernstein, well done The Washington Post.",not_rumour,0,1,rumour,0.26467666,0.7329399,0.0023834477,False
+"Ironic thing is? Never in Jews history, jews harmed anyone, yet victimized by hateful religions cultures.",unrelated,2,2,unrelated,0.1463836,5.7833033e-05,0.85355854,True
+the riots to begin shortly I'm sure....,not_rumour,0,0,not_rumour,0.50607103,0.48906595,0.0048630093,True
+I'm so confused. Are you saying bigotry isn't wrong?,unrelated,2,0,not_rumour,0.69329685,0.24132882,0.06537436,False
+A brilliant bit of news in an otherwise horrific story.,unrelated,2,2,unrelated,0.03539265,0.003330835,0.9612765,True
+they must of run a cartoon with mohamed islam nibbling pork rinds from allu akbars shitty camel asshole,unrelated,2,2,unrelated,0.18154666,3.6295358e-05,0.8184171,True
+Sounds like typical scramble to 'backfill facts' after a crime.,rumour,1,1,rumour,0.24751002,0.7520322,0.00045771082,True
+This is the real face of Islam unbound. Both Radical and Moderate must subscribe to this or be removed in kind by Islam,not_rumour,0,0,not_rumour,0.5832017,2.7906885e-06,0.4167955,True
+So you stand with Thugs! SMH,not_rumour,0,0,not_rumour,0.99155945,0.007091162,0.0013494128,True
+"... and pls pardon my letting slip the imperial American ""we"" ... too easy to type without thinking ... ugh.",unrelated,2,2,unrelated,0.410859,0.0011871677,0.58795387,True
+yes like us today... and sadness just after...,not_rumour,0,2,unrelated,0.49042836,0.0008503199,0.5087213,False
+I can confirm that the people of GAZA are totally terrified just in case anyone is interested,not_rumour,0,0,not_rumour,0.9665563,0.008026303,0.025417397,True
+Could've been a 60 count box which are 40. Box like this,rumour,1,2,unrelated,0.38725436,0.22097434,0.39177135,False
+BREAKING French police tell AP suspects in CharlieHebdo attack have taken a hostage northeast of Paris.,unrelated,2,2,unrelated,3.2129523e-05,3.0644475e-08,0.9999678,True
+It's amazing she wasn't killed. ThankGoodness I hope somebody's comping her hospitalbill,rumour,1,0,not_rumour,0.7259858,0.12552759,0.14848655,False
+Funny how things develop. How can some minorities cry racism amp then justify it with looting amp committing other crimes?,rumour,1,1,rumour,0.07670673,0.91640484,0.0068883616,True
+Not surprising at all. Report Ferguson cop identified as unarmed teen's killer skipped town days ago,rumour,1,1,rumour,0.011380302,0.9885501,6.951167e-05,True
+"when you draw a picture of a black person and call them monkeys like they did that's not freedom if speech, called haterd!",unrelated,2,1,rumour,0.31566107,0.6646749,0.019664012,False
+"they never make it out alive. Would like to hear their motives and mindset directly, rather than constructed narratives.",unrelated,2,1,rumour,0.051513307,0.9457672,0.0027194617,False
+with the writing in black surely it is inclusive! Or is that reverse discrimination!,not_rumour,0,0,not_rumour,0.9864563,0.007509653,0.0060341763,True
+"Police reports released this morning indicate Mike Brown was a suspect in a ""strong-armed"" robbery in FergusonSo kill him?",rumour,1,1,rumour,0.0008787471,0.9991198,1.3697525e-06,True
+"that's not news lol, think we all gathered that!",unrelated,2,0,not_rumour,0.5107796,0.039118767,0.4501016,False
+"BREAKING PHOTO Hostages being led away from the scene of Paris Kosher grocery siege, gunman killed via",unrelated,2,2,unrelated,6.2653544e-06,4.116338e-07,0.9999933,True
+"some idiot photoshopped that June 9 date on there. Seriously, research before spreading rumors",rumour,1,1,rumour,0.0015256115,0.996093,0.0023814458,True
+And not take off running when the cops roll up on them. Getting more ridiculous by the minute! Ferguson,rumour,1,1,rumour,0.2271221,0.7728594,1.85261e-05,True
+Unbelieveable ..... We R in double digits with white men killing black male children. This has got 2 stop ppl! racism,rumour,1,1,rumour,0.09503681,0.90388817,0.0010750107,True
+doesn't it auto credit him at the bottom? Apologies if not but seems to say via,not_rumour,0,0,not_rumour,0.93678397,0.00017905768,0.06303702,True
+At the Ferguson police dept headquarters That's what I'm talking about.,not_rumour,0,0,not_rumour,0.68510365,0.31489095,5.42616e-06,True
+"Copyright is owned by my employer, the St. Louis Post-Dispatch. Even stylized versions are copyright infringement.",not_rumour,0,1,rumour,0.23502082,0.75275254,0.012226666,False
+"Thank you PBO. Ferguson MikeBrown you may want to verse yourself on ""The Little Rock 9"" and Eisenhower.",not_rumour,0,0,not_rumour,0.99741554,0.0025708328,1.3596301e-05,True
+"Heart-wrenching. Little babies. Note young boy wearing ""Caution Extreme Awesomeness"" t-shirt. Wear it proud.",not_rumour,0,0,not_rumour,0.6040361,0.006729923,0.38923407,True
+"I am Charlie BUT I am an American first. Die Islam just die,",not_rumour,0,0,not_rumour,0.8999257,0.0011550101,0.09891931,True
+"seemingly so, can't believe the media are criminalising the poor boy. It's horrendous.",not_rumour,0,2,unrelated,0.30214915,0.0065622325,0.69128865,False
+how very brave of you to publish that but not the cartoons in question. 'freedom of the press' my arse.,not_rumour,0,0,not_rumour,0.5335465,0.00017621001,0.46627733,True
+Same here. Justice system is fucked in this country.,rumour,1,0,not_rumour,0.9393818,0.009427769,0.051190503,False
+They've already said he shot him once from the car. Christ.,rumour,1,1,rumour,0.018191895,0.97880036,0.0030076872,True
+Eastern Kentucky University professor cited as source in this story.,not_rumour,0,1,rumour,0.0039374135,0.7237103,0.27235225,False
+The CIA-----created Al Qaeda Pictures and videos,unrelated,2,2,unrelated,0.17939687,0.05939035,0.7612128,True
+please view amp RT original tweet,rumour,1,1,rumour,0.120705515,0.46452254,0.41477194,True
+. Backfilling And still no narrative of the shooting from bullet 1 to bullet X. They hope we and lazy media don't notice.,rumour,1,1,rumour,0.002381933,0.99727017,0.0003478737,True
+Germans used to get upset when we condemned the Nazis. You'll get over it when you get it.,unrelated,2,0,not_rumour,0.5840795,0.0001250325,0.41579542,False
+the sad part is they do that with a bomb around them in a crowd,not_rumour,0,2,unrelated,0.01052452,1.0181222e-05,0.98946536,False
+Please check these inconsistencies How is it that these inconsistencies are overlooked by MSM?,rumour,1,1,rumour,0.040768877,0.9471209,0.0121102445,True
+If this was in the UK the pair would either be banged up or shot dead long ago,unrelated,2,1,rumour,0.12273008,0.7636522,0.113617666,False
+Gendarmerie arrive at the hostage taking in Dammartin-en-Goele. Latest Pic Martmann Reuters,unrelated,2,2,unrelated,0.00012399846,1.4848521e-07,0.9998758,True
+Offend -it's your right. CharlieHebdo,not_rumour,0,0,not_rumour,0.99206924,4.9645405e-07,0.007930304,True
+no need for those first four words. really touching. brave woman.,unrelated,2,2,unrelated,0.06928155,0.037292562,0.8934259,True
+Terror may not have a religion but terrorists do claim to have one amp they kill in its name,not_rumour,0,0,not_rumour,0.753733,0.0001276382,0.24613929,True
+Waiting for the European op-eds blaming Islamic aggression on Israeli aggression.,unrelated,2,2,unrelated,0.3415696,3.7712012e-05,0.65839267,True
+Sh t! RT Swat team in Ferguson have state mandated 'murder insurance' to protect them from lawsuits if they kill anyone.,rumour,1,1,rumour,0.1957597,0.80351615,0.00072417554,True
+Horrible! Charlie Hebdo shooting latest 12 dead and gunmen still at large,unrelated,2,2,unrelated,0.04922179,6.516935e-06,0.9507717,True
+wow u don't even know me but u see me as a racist? That seems logical hope you're proud,not_rumour,0,0,not_rumour,0.79097486,0.19717784,0.0118472325,True
+he won't call it an act of terror though,not_rumour,0,0,not_rumour,0.624172,0.00238929,0.37343878,True
+"""Yes We Can"".. now where did I hear that slogan before...",unrelated,2,0,not_rumour,0.9116541,0.020042958,0.06830289,False
+"CharlieHebdo attack shows a complete change in terrorist methods', French FM tells me gt",unrelated,2,2,unrelated,0.01175513,1.15191646e-07,0.9882448,True
+The tone of their reporting was weasely at times.,not_rumour,0,0,not_rumour,0.7986958,0.023872478,0.17743167,True
+Oh yeah you're being targeted because you're African American. ThisIsnt1955,not_rumour,0,1,rumour,0.3377258,0.65930057,0.002973716,False
+Get ready to tweet the address SpikeLee and other vigilantes .,rumour,1,0,not_rumour,0.91229767,0.08703906,0.0006632547,False
+They'll be easy to spot...,rumour,1,2,unrelated,0.30675566,0.0656638,0.62758046,False
+"wonderful, no teeth lingering in the air though...? -",unrelated,2,2,unrelated,0.070679344,0.0001194737,0.9292012,True
+nothing about this humorous. You seem to be missing that point,unrelated,2,0,not_rumour,0.5126948,0.010353628,0.47695163,False
+Killing of policewoman in Paris linked to CharlieHebdo killers.,unrelated,2,2,unrelated,0.0043367194,1.16544015e-05,0.99565166,True
+I hope they kill them. No mercy.,unrelated,2,2,unrelated,0.048619706,0.021365197,0.9300151,True
+How to face Islam and terrorism ???,unrelated,2,0,not_rumour,0.58175933,3.280592e-05,0.4182079,False
+"Michael Brown, unarmed black teen killed by police in Ferguson was set to start college on Monday.",not_rumour,0,0,not_rumour,0.71780306,0.2821959,1.097819e-06,True
+"the Gov have sat back amp let this happen, go for the jugular France amp the UK",unrelated,2,2,unrelated,0.027447427,0.00073610694,0.9718165,True
+time for a stand to be made,not_rumour,0,0,not_rumour,0.5675015,0.07166256,0.36083597,True
+"U mean as in the gang ""bloods""?",rumour,1,0,not_rumour,0.778914,0.1994808,0.021605322,False
+is islam a race now?,unrelated,2,0,not_rumour,0.93591774,1.792151e-05,0.06406429,False
+It is very necessary to take actions against the supporting countries of these Islamic Terrorists,unrelated,2,2,unrelated,0.052908536,6.1949526e-05,0.9470296,True
+in one photo it looked like a pistol fell on floor as he got out and he recovered it when he got in.,unrelated,2,1,rumour,0.0026223785,0.9967614,0.0006162143,False
+because u or other don't know Islam so it's bad.,unrelated,2,2,unrelated,0.029680366,7.685667e-05,0.97024274,True
+U mean ur justifying Godase?,not_rumour,0,2,unrelated,0.18667047,0.00048800363,0.8128416,False
+"they shot her up with less lethals then blamed ""black people"" then killed another black man over it. Fuckers.",rumour,1,1,rumour,0.03125164,0.9684197,0.00032869805,True
+to call a bitch when I see a bitch.,rumour,1,1,rumour,0.27111515,0.7283815,0.0005033252,True
+"jesuisAhmed seems a better HT IMO only I am not, I live, no stigma for my apparent religion. I have privilege to choose",unrelated,2,0,not_rumour,0.93603957,1.2809592e-05,0.0639476,False
+Why we must not let the Isis propoganda machine win CharlieHebdo JeSuisCharlie,not_rumour,0,2,unrelated,0.25054577,3.6850886e-07,0.7494539,False
+"Im n StLouis amp saw video on sat imdtly after, it cont'd to film after sheet. Frm inside bttm Apt acros strt ill keep srchng",not_rumour,0,1,rumour,0.00010656805,0.9997576,0.00013590387,False
+"the G20 riots here, sure gave us a glimpse of our own loss of freedoms to protest. dd",rumour,1,0,not_rumour,0.98876905,0.00057423813,0.010656685,False
+I hope no one accepts KKK money. But it'll come up that intl hacker and player going by supports ME hate.,rumour,1,0,not_rumour,0.7705786,0.023360532,0.20606095,False
+"I know, I tweeted in support of your point, sorry if it didn't sound that way",rumour,1,0,not_rumour,0.95474553,0.0029974831,0.042256963,False
+"If no one knows where he is, and he killed someone, what else can we call him",rumour,1,1,rumour,0.3318047,0.51768696,0.15050845,True
+We should just let them kill each other off and be done with it,unrelated,2,2,unrelated,0.044597264,6.943804e-06,0.95539576,True
+"JUST IN Two brothers responsible for Charlie Hebdo massacre have been killed in Dammartin standoff, according to multiple reports",unrelated,2,2,unrelated,0.011168808,3.0845166e-07,0.98883086,True
+RIP satire CharlieHebdo The cartoonists Charb amp Cabu are dead.,unrelated,2,2,unrelated,0.029388618,4.1308767e-06,0.9706072,True
+"""Cowardly?"" It's not because you defend someone's right to free speech that you have to approve of everything they say.",unrelated,2,1,rumour,0.45241126,0.54624534,0.0013434698,False
+"No, there are many many cases for any religion. Look at Christianity and the IRF or the KKK or the crusades.",not_rumour,0,0,not_rumour,0.56886685,4.9298127e-05,0.43108386,True
+"when W amp Cheney LIED to the whole world about Iraq in the 1st place, were they Muslims too?",not_rumour,0,0,not_rumour,0.7529536,0.009655795,0.23739055,True
+Almost as if they think they're an oil company.,not_rumour,0,2,unrelated,0.14155892,0.0043145516,0.8541265,False
+for his and his family's death!,unrelated,2,1,rumour,0.05806506,0.8959568,0.04597812,False
+"No confirmation yet, but hopefully good news",unrelated,2,2,unrelated,0.011414619,0.00043743645,0.9881479,True
+"look at the times on the frames. 52 to 53. And somebody said ferguson said he paid, so was there another altercation?",rumour,1,1,rumour,0.0025311033,0.9974657,3.1919415e-06,True
+but when will he lead,not_rumour,0,0,not_rumour,0.85855687,0.048721105,0.09272201,True
+. You got that right Amy! This is all they want is to STIR THE POT THAT IS RUNNING OVER!,not_rumour,0,1,rumour,0.029788332,0.96672505,0.003486555,False
+He admitted the OFFicer stopped MichaelBrown for walking in the street-not a robbery.,rumour,1,1,rumour,0.00045677763,0.9995432,1.03220906e-07,True
+"France faces 2 hostage-taking attacks Paris kosher market attack has 5 hostages, some wounded",unrelated,2,2,unrelated,1.9223171e-05,2.6728934e-08,0.9999808,True
+i kno shopliftin is a crime but he doesn't deserve to die. They hav to stop usin the lame self defence excuse.,rumour,1,1,rumour,0.051891353,0.9476046,0.0005040271,True
+My heart is tearing apart. This is so close... so close.,unrelated,2,2,unrelated,0.106958896,0.21637961,0.6766615,True
+"Martyr wannabes inspired by jihadists that want to control and run the world, they can't have it so they kill the innocent.",unrelated,2,2,unrelated,0.116300195,9.774745e-05,0.8836021,True
+What? We should share racist cartoons because some people got murdered for them?,not_rumour,0,0,not_rumour,0.99343574,2.5598109e-05,0.0065386575,True
+he never lied about the theft Clear reason this case shouldn't have no problems in court. Seems He told the truth on his part,rumour,1,1,rumour,0.00039860068,0.9995981,3.3003048e-06,True
+The whole police force there is probably a member. I would not be surprised!,rumour,1,0,not_rumour,0.82914793,0.08997874,0.08087332,False
+I don't buy into any. Spirituality is enough.,not_rumour,0,2,unrelated,0.21330993,0.025253305,0.76143676,False
+Here is an so called Secular Indian Parliamentarian's thought.This party has ruled us for 60 years,unrelated,2,0,not_rumour,0.58344454,0.00040003355,0.4161554,False
+get folks to slam the police stations phone line 314-522-3100,not_rumour,0,0,not_rumour,0.83853066,0.16129155,0.00017775783,True
+"Right. Think first, type later.",not_rumour,0,2,unrelated,0.063187666,0.20870742,0.7281049,False
+Cowardly attack on Charlie Hebdo's offices. The humourless fanatics can fuck off. Freedom of speech is more important than your feelings.,not_rumour,0,0,not_rumour,0.57128775,9.690286e-07,0.42871127,True
+The truth just came out today of what happened maybe you should check it out. He attack the police,not_rumour,0,1,rumour,0.13562776,0.82596695,0.038405295,False
+een notoir haatzaaier als vandaag? Echt? partoftheproblem,not_rumour,0,2,unrelated,0.010601138,3.4233876e-06,0.98939544,False
+Spray tan orange skin color is a dead give away. The kind most Fox news 'journalists' seem to use,unrelated,2,1,rumour,0.13870372,0.8569547,0.0043415385,False
+"they're you go, you have your answer. Propagated by media to brainwash. Think for yourself for once instead of being fed",unrelated,2,2,unrelated,0.33827883,0.075738646,0.5859825,True
+you're basically saying if 1 media outlet reports something then every media outlet is responsible juststop,not_rumour,0,0,not_rumour,0.97201204,0.003319057,0.024668818,True
+why does one feel that this may have something to so with freedom of speech -,unrelated,2,0,not_rumour,0.7886396,0.0015738307,0.20978658,False
+Loved your Paris Post hy Not post on Proximity Based Travel Network?,not_rumour,0,0,not_rumour,0.9397904,0.00010135676,0.060108136,True
+we have laws against racism. they actually keep many white people from getting jobs.,rumour,1,1,rumour,0.39202535,0.6054045,0.0025701975,True
+"No, it doesn't. It does show how a media circus can inflame passions and fan the flames of hatred in a jiffy.",not_rumour,0,0,not_rumour,0.5338899,0.023931824,0.44217822,True
+brown was placed in a coroner's vehicle there was ems and ambulance on scene theres a vid on utube,rumour,1,1,rumour,0.44981724,0.5097097,0.04047313,True
+not a shovel A...SPADE LOL,rumour,1,0,not_rumour,0.8200633,0.060636032,0.1193007,False
+"Do you really think US govt is your government, govt only for European American not anyone else.",not_rumour,0,2,unrelated,0.4072015,0.0009021301,0.59189636,False
+PHOTOS Two standoffs in Paris,unrelated,2,2,unrelated,0.014873075,0.00028148625,0.9848454,True
+"2 2 your timing was insensitive 2 an OPEN situation in France. Suggest U wait 3-4 hours then GO, hit that",unrelated,2,0,not_rumour,0.7028882,0.00093989255,0.2961719,False
+GET IN! Fucking lunatic prick,unrelated,2,2,unrelated,0.093675815,0.027049066,0.8792751,True
+theve acted the same even over a bag of chips,rumour,1,1,rumour,0.0990555,0.5643477,0.33659682,True
+Boy do I agree with this. We should have done this years ago. This cult is nothing but trouble for everyone,unrelated,2,2,unrelated,0.17850079,0.0047394964,0.8167597,True
+"learn to understand wht he was saying properly GG ""KID""",unrelated,2,1,rumour,0.043030094,0.93348616,0.023483755,False
+Is he Stressing Restraint by the over equipped PD??,not_rumour,0,0,not_rumour,0.8335803,0.1340667,0.032353,True
+The information evolving just gets more and more heinous MikeBrown,not_rumour,0,1,rumour,0.000582646,0.9993351,8.2153994e-05,False
+dudes running around shaming people for jumping to conclusions while doing the same thing. It's funny,rumour,1,1,rumour,0.24875006,0.7415435,0.009706506,True
+I just believe in GOD amp I do not fear death for it is a part of our lives.,unrelated,2,0,not_rumour,0.73043406,0.0011165466,0.2684494,False
+Things must and will change. Tell everyone to get out the Vote.,rumour,1,0,not_rumour,0.7604176,0.21511494,0.024467465,False
+And does UK or USA care...I didn't think so. FreedomOfSpeech hypocrites,unrelated,2,2,unrelated,0.10767571,0.00039949434,0.8919248,True
+"you never know, they might just find something offensive in this too.",not_rumour,0,1,rumour,0.24597275,0.58339715,0.1706301,False
+Will our own neighbors shoot with deadly force? StLouis its time for Federal Assistance.,not_rumour,0,1,rumour,0.47849765,0.49731594,0.024186341,False
+Bloody Muslims need to chuck them back to where they came from. Hell!,not_rumour,0,2,unrelated,0.13567069,0.0015091905,0.8628201,False
+and where did you SEE them fighting or getting Attacked?,rumour,1,2,unrelated,0.045733448,0.00049170083,0.9537748,False
+"-apologies, but this is what I got Ferguson is a city in St. Louis County, Missouri, United States Population 21,135 2012",not_rumour,0,0,not_rumour,0.70536333,0.29461402,2.2708022e-05,True
+Islamic law will not wash in our Western society. Those who object get a passport and one way ticket to Saudi Emirates,unrelated,2,2,unrelated,0.24040914,3.5787456e-05,0.75955504,True
+"And that's in war. Human history is that of war. No matter the religion, race, place or time. It has nothing to do 3",not_rumour,0,0,not_rumour,0.49364045,0.024624959,0.48173463,True
+or perhaps it's not as great as you think.. Do you want me to believe the majority of Islam followers wants to kill me?,unrelated,2,2,unrelated,0.010263444,2.7302963e-06,0.9897339,True
+yes my brother is his size....,rumour,1,0,not_rumour,0.958254,0.011817778,0.029928293,False
+Vous tes tout le monde!,not_rumour,0,2,unrelated,0.21782161,0.02079173,0.76138663,False
+Every 28 hours a black male is killed in the United States by police or vigilantes. Ferguson Can I have your source?,rumour,1,1,rumour,0.0402379,0.959761,1.0247408e-06,True
+Yes they will...that's the world we're always in personal choices-actions-consequences...and me?,not_rumour,0,0,not_rumour,0.96875215,0.007461809,0.023786057,True
+"And worse, it took 'em a week to come up with that half assed story.",rumour,1,1,rumour,0.0014663299,0.9964978,0.0020357973,True
+"The Israeli are proud ppl, they dont defame dead by putting images all over internet.",not_rumour,0,2,unrelated,0.096534334,1.0170088e-05,0.9034555,False
+God bless him and comfort his loved ones.,unrelated,2,2,unrelated,0.27037627,0.12947482,0.6001489,True
+UPDATE CharlieHebdo's editor-in-chief was killed in attack - Magazine's lawyer well..,unrelated,2,0,not_rumour,0.5114055,0.0010842765,0.48751023,False
+Merci pour tes mots Jeff. Ca fait peur de savoir que des malades se baladent dans Paris quand tu as de la famille l-bas.,not_rumour,0,2,unrelated,0.021024449,3.8906077e-07,0.9789752,False
+Usually if something doesn't sound right...it isn't. I'm sure there is more to this than aftermath snipets.. Need full story,rumour,1,2,unrelated,0.2943598,0.20791858,0.4977216,False
+Human Rights Chief has to read 7th century diktats of feudal Arabia which are considered God given.Opinion will change!,not_rumour,0,0,not_rumour,0.5973597,2.2221406e-05,0.40261802,True
+Possibly because police did not put two incidents together yet. AND officers who shoot Brown didn't knew this.,rumour,1,1,rumour,0.0004999062,0.999496,4.106876e-06,True
+"CHARLIEHEBDO SHOOTING Gunmen shouted 'we have avenged the prophet"" during attack"" Now that's tolerance for you",unrelated,2,2,unrelated,0.05619926,0.00065941055,0.9431413,True
+hasn't your show been cancelled...enough?,not_rumour,0,2,unrelated,0.3011553,0.13041374,0.568431,False
+Just saw TOM JACKSON reading event's of the lead up to shooting seems put together in a hurry to SMEAR Michael Brown .,rumour,1,1,rumour,0.27854663,0.7099058,0.011547626,True
+Don't understand your argument - we're both on same side. Was repeating what Dorian said. Also Chief walked stmt back later,rumour,1,1,rumour,0.31736505,0.6824421,0.00019278162,True
+"They know they don't need to convince the public, just have enough lies to justify the internal investigation.",not_rumour,0,1,rumour,0.00012906165,0.9998578,1.3158752e-05,False
+nah...you followed blindly and believed all his shit. Lurk moar and believe less.,rumour,1,1,rumour,0.0053466046,0.99430865,0.00034481433,True
+"the point of releasing the video was to slander mike brown an give him a ""dangerous black male"" aesthetic",rumour,1,1,rumour,0.0015823414,0.99841726,3.9834038e-07,True
+That is not up to me. And who was the punishment taken out on?,not_rumour,0,0,not_rumour,0.9597473,0.0104965335,0.029756192,True
+You Better Get Informed Instead of saying me idiot.,unrelated,2,0,not_rumour,0.8558116,0.09999074,0.044197638,False
+let a man eat his chips in peace.,not_rumour,0,0,not_rumour,0.7903987,0.009757208,0.19984409,True
+"NO, we WON'T. ""Now they're gonna think we're all bad guys"", a Muslim bar owner from the neighborhood told me CharlieHebdo""",not_rumour,0,0,not_rumour,0.862832,0.0016112607,0.13555668,True
+or he did but -geeze it seems he lost it! Bogus bull!,rumour,1,1,rumour,0.114832245,0.8715144,0.013653316,True
+so they killed him for stealing chips and juice gtfoh point is he was unarmed,rumour,1,1,rumour,0.0069106654,0.9930473,4.2023166e-05,True
+"OK I misunderstood it. No struggle, but Brown was in the police car at one point.",rumour,1,1,rumour,0.024053207,0.97593236,1.4384462e-05,True
+"mam u r correct,infact god bcmes happy that my son is doing right thing",not_rumour,0,1,rumour,0.26514202,0.6837082,0.051149756,False
+absolutely not! That's a false choice. You don't have to smear one to defend the other.,rumour,1,0,not_rumour,0.6689606,0.25822228,0.07281716,False
+Too bad they werent smart enough to arm themselves.,unrelated,2,2,unrelated,0.07743901,0.0059510795,0.91660994,True
+The West doesn't have the balls.,unrelated,2,1,rumour,0.14855182,0.8393463,0.012101937,False
+and the last time i checked the eyewitness testimony overrides the testimony of the defident's friends,rumour,1,1,rumour,0.004549131,0.9953752,7.567895e-05,True
+. THIS. This is what the police reaction reminds me of.,not_rumour,0,0,not_rumour,0.74343675,0.2025508,0.054012388,True
+pity to see France helpless in hands of Muslims,unrelated,2,2,unrelated,0.011233699,8.4168454e-07,0.9887655,True
+They found something unrelated to the shooting and this will be the free ticket. This poor dead kid villified,rumour,1,1,rumour,0.00016522707,0.999818,1.6862534e-05,True
+"Yes, Eric Garner killed over cigarettes and Mike Brown killed over Swisher Sweets cigars.",rumour,1,1,rumour,0.09025229,0.9097372,1.0524686e-05,True
+"Not respect the religion of others is right to want to be respected? It is the law of life,he who sows the wind reaps storm!",unrelated,2,0,not_rumour,0.78953975,2.3599763e-05,0.21043663,False
+If God put Humans on Earth then he's a fucking idiot,unrelated,2,2,unrelated,0.45442918,0.00062694564,0.5449438,True
+"BBC reporter noting that Charlie Hebdo also mocks Christians, Jews and atheists. Oddly, though, those groups don't seem to bomb them.",not_rumour,0,2,unrelated,0.33155188,1.7629848e-06,0.66844636,False
+The world is looking at these pics. What douchebags. Maybe we can waterboard a protester?,not_rumour,0,0,not_rumour,0.913027,0.0049819825,0.08199098,True
+And a strongarm robbery at that. At a different store.,rumour,1,1,rumour,0.00055268285,0.9992741,0.00017323137,True
+". no, but being killed as the result of attempting to wrestle an Officer's gun can get you killed - rightfully so!",rumour,1,0,not_rumour,0.5848013,0.4078586,0.0073400266,False
+BREAKING NEWS Market gunman threatens to kill hostages if police storm terrorist brothers. -Paris police,unrelated,2,2,unrelated,1.2482709e-06,2.779419e-08,0.9999987,True
+Odd. Its a Daily Beast article. Should be fine.,rumour,1,0,not_rumour,0.6842678,0.29229495,0.023437236,False
+I think you are looking to make a point that just doesn't apply in this instance,unrelated,2,1,rumour,0.34165177,0.6129385,0.045409694,False
+yes Twitter and similar are better tools for free speech than mainstream media.,not_rumour,0,0,not_rumour,0.8155733,0.009931267,0.17449553,True
+according to their initial report Brown initiates contact. NOW the cop stopped him as a potential suspect?,rumour,1,1,rumour,0.0012254159,0.9987728,1.7998801e-06,True
+I saw that too..like are you assuming it was him the same day it happened lol,rumour,1,1,rumour,0.001677563,0.99728584,0.0010365489,True
+There is nothing wrong with cartoon but how it shows the face of their Prophet,not_rumour,0,2,unrelated,0.118996225,1.4945723e-05,0.8809888,False
+why do you want to gratuitously offend ordinary muslims ?,unrelated,2,2,unrelated,0.2790369,1.821746e-05,0.72094494,True
+No he can't but since witnesses lied shouldn't we wait for the rest of the story?,rumour,1,1,rumour,0.0015853978,0.99839383,2.0671312e-05,True
+"no more freedom of speech, no more journalists or journalism. Just political correct crap off the media because of fear",unrelated,2,0,not_rumour,0.6649569,0.009700556,0.3253425,False
+all white boys ready to take out them black ones with no disregard.,not_rumour,0,0,not_rumour,0.51489305,0.47946465,0.005642275,True
+"An investigation takes time, jumping to conclusions based on questionably credible witnesses is ignorant amp irresponsible.",rumour,1,1,rumour,0.0025944258,0.99678695,0.00061864196,True
+I didn't mean the police. I meant the looters,not_rumour,0,0,not_rumour,0.8034469,0.18723567,0.009317365,True
+Everyone wants answers. Can't have police randomly shooting people. But it's not an excuse to destroy my property.,not_rumour,0,1,rumour,0.12531613,0.8741241,0.00055973424,False
+Islamophobia is a fatuous phrase designed to silence criticism of an evil ideology.,unrelated,2,2,unrelated,0.111075364,0.00018987808,0.8887347,True
+don't deny the truth go to any Islamic country and say you're gay and they will kill you,unrelated,2,2,unrelated,0.27491832,0.0014754086,0.7236063,True
+"I do respect individual peaceful Xtians, Muslims, Jews etc. I do not have to respect dangerous Neolithic beliefs.",unrelated,2,2,unrelated,0.3867616,4.7259273e-06,0.6132336,True
+Hope they get evidence from it as to who these evil people are.,not_rumour,0,2,unrelated,0.014279619,0.00016207722,0.9855583,False
+No one should feel entitled to special treatment. Especially when they think irrational violence is acceptable.,unrelated,2,0,not_rumour,0.8687095,0.02512944,0.106161125,False
+i wasn't talking to you. I was talking to the white guy lol,not_rumour,0,0,not_rumour,0.88921773,0.10946617,0.0013161582,True
+"Hey, you know, I have other paid work to do.",rumour,1,1,rumour,0.277045,0.7014398,0.02151521,True
+"actually, Twitter is an open forum, by design. enjoy feigning outrage and crocodile tears though, ciao!",not_rumour,0,0,not_rumour,0.9831806,0.0009432481,0.015876122,True
+You're missing facts. County police took over investigation same night. Google it,rumour,1,1,rumour,0.0013131202,0.99868494,1.8714146e-06,True
+police are humans too and when confronted with that situation no training is perfect to predict a response,rumour,1,0,not_rumour,0.9131848,0.017252278,0.06956289,False
+". There was no ""gun control"" in the 7th Century. They just plain KILL. No reason. Just KILL.",unrelated,2,1,rumour,0.39532098,0.57913405,0.025544964,False
+and since white people make up the greater majority it would have been impossible for Obama to be POTUS w o them,rumour,1,1,rumour,0.11760052,0.8817794,0.0006201315,True
+Staff observe minute of silence at headquarters for the victims of CharlieHebdo JeSuisCharlie,not_rumour,0,0,not_rumour,0.7174079,2.029643e-07,0.28259194,True
+warm words for these fighters of liberty with pensil ! thx,not_rumour,0,0,not_rumour,0.59599096,0.0007413906,0.40326765,True
+why cant the federal govt take control of this scene?,rumour,1,1,rumour,0.022836512,0.97530985,0.001853601,True
+What an inhumane statement. WHATISWRONGWITHYOU,rumour,1,0,not_rumour,0.8973136,2.4902623e-05,0.102661446,False
+How can it be SAFE in FergusonMO when the Cops have Guns amp CAN shoot at you amp SWAT aka FERGiraq has EVERYTHING,not_rumour,0,1,rumour,0.13683859,0.863159,2.4567098e-06,False
+the fact you excuse murder of children deny blame says it all. Should defend ICC no prob,not_rumour,0,0,not_rumour,0.5985872,0.012522247,0.3888905,True
+"""This is a dark day for freedom of expression"" CharlieHebdo JeSuisCharlie",not_rumour,0,0,not_rumour,0.95159394,9.231544e-08,0.04840595,True
+"Pls. Dont link it to Islam.They are simply terrorists. Like any other groups in Israel, Ireland, Spain Mexico or even Washington!",not_rumour,0,2,unrelated,0.009605739,1.9033196e-07,0.99039406,False
+But the Kalashnikov is mightier than both,not_rumour,0,2,unrelated,0.07693142,0.013355626,0.909713,False
+I am not angry. Have a good day.,not_rumour,0,0,not_rumour,0.88429433,0.065130405,0.050575227,True
+they must have a trial be judge by law .But it is not necessary to add comments.Unless u were a witness SHUT UP,unrelated,2,1,rumour,0.43520758,0.5575911,0.007201293,False
+Update - French television channel 'France 2' are reporting that the hostage held by suspected CharlieHebdo gunmen is male and 26 years old,unrelated,2,2,unrelated,0.00012669097,2.2116745e-07,0.99987304,True
+it says June 9 2014 smh,rumour,1,2,unrelated,0.40292925,0.0070969705,0.5899738,False
+Looks like Ferguson PD spent their whole week on a smear campaign against MikeBrown instead of investigating or being at all helpful.,rumour,1,1,rumour,0.0048297183,0.9951696,7.0504916e-07,True
+he wasn't shot TEN times. Stop making the independent media look bad.,rumour,1,1,rumour,0.004508445,0.99542433,6.731357e-05,True
+they put him in a minivan?,rumour,1,1,rumour,0.07918387,0.90621144,0.014604693,True
+"a cop, not matter his race has a right to defend himself against attack..",rumour,1,0,not_rumour,0.51022804,0.48972407,4.790288e-05,False
+"Blacks go to jail more often. Also true. That could account for some of the discrepancy. However, even if it counted as HALF of",rumour,1,1,rumour,0.0014353249,0.99855894,5.718782e-06,True
+and millions of them condemning such violence !!,unrelated,2,0,not_rumour,0.88107085,0.00044369765,0.11848547,False
+"Capt Ron Johnson truly cares, I love this guy.",not_rumour,0,0,not_rumour,0.8341057,0.15013221,0.015762128,True
+"that's because the black communities are under attack, from our own government.",not_rumour,0,1,rumour,0.3036686,0.694765,0.0015665051,False
+"I too am Irish, amp Muslim. and express my right to defend my Religious views. but I also support your right to express yours too.",not_rumour,0,0,not_rumour,0.9517584,1.608336e-05,0.048225567,True
+Fact Dorian Johnson admitted to robbing store. that's an ACTUAL fact .,rumour,1,1,rumour,0.000437494,0.99956125,1.1999251e-06,True
+I was just going off what I read in the ferguson tag early last night. Wasn't any real news out at that point.,rumour,1,1,rumour,0.0005368273,0.9994629,2.3533497e-07,True
+"CharlieHebdo suspects killed, according to .",unrelated,2,2,unrelated,0.053107858,9.241284e-07,0.94689125,True
+MikeBrown would need to be shot in Benghazi for foxnews to cover it,rumour,1,1,rumour,0.42693713,0.5711503,0.0019125429,True
+This guy is 100 full of shit. The story just keeps changing.,rumour,1,1,rumour,0.00063805364,0.9993573,4.598845e-06,True
+Paris is on alert after gunmen killed twelve people at the office of satirical magazine Charlie Hebdo,unrelated,2,2,unrelated,0.06198945,2.0267736e-07,0.9380104,True
+There was every color in that.,not_rumour,0,1,rumour,0.17835377,0.8146935,0.00695277,False
+What do you mean 'if'? There's pictures and his friend admitted it.,rumour,1,1,rumour,0.14974687,0.61512077,0.23513238,True
+BREAKING Gunmen in CharlieHebdo massacre reportedly killed justice?,unrelated,2,2,unrelated,0.00036047245,5.110298e-08,0.9996395,True
+you are jumping to conclusions moron. Are you some dope that believes everything the govt tells you?,rumour,1,1,rumour,0.014159226,0.982512,0.0033288023,True
+maybe those so-called Muslims terrorist are CIA operatives. We can go on and on wih this.,not_rumour,0,2,unrelated,0.042562727,1.02011256e-07,0.9574372,False
+"Suspects in CharlieHebdo attack spoke to police by phone and said they wanted to die as martyrs, says MP.",unrelated,2,2,unrelated,0.001213668,3.0737147e-06,0.9987833,True
+"Quick justice with a gun in this really dangerous world where minorities rule rather than appreciate ""Law and Order"".",unrelated,2,0,not_rumour,0.9749346,0.013825448,0.01124001,False
+What a difference a new police officer makes.,not_rumour,0,1,rumour,0.1321299,0.8628582,0.0050118887,False
+I'm not talking about religion in general. I'm focusing on Islam. Surely you can't be serious.,not_rumour,0,2,unrelated,0.46559402,7.8230776e-05,0.53432775,False
+BREAKING - At least five hostages in Paris kosher supermarket AFP,unrelated,2,2,unrelated,1.0069399e-06,3.4249175e-09,0.99999905,True
+Come on. You're linking to motherjones now?,not_rumour,0,0,not_rumour,0.9820885,0.012993979,0.0049175303,True
+Celui-Ci est la bande de fanatiques,unrelated,2,2,unrelated,0.00691359,4.3187913e-05,0.9930432,True
+Second hostage situation unfolding at Paris grocery store fb,unrelated,2,2,unrelated,3.0123954e-05,3.4464747e-06,0.9999664,True
+"""In deliberately targeting journalists the terrorists were attacking freedom and democracy."" - Theresa May CharlieHebdo",unrelated,2,0,not_rumour,0.7739002,5.0019617e-07,0.22609928,False
+The name of the officer who fatally shot teenager MichaelBrown will be released shortly. Watch CNN Ferguson,rumour,1,1,rumour,0.00043648138,0.9995634,1.17424776e-07,True
+"he is not hiding, he is saving his life...",not_rumour,0,1,rumour,0.1373292,0.8237647,0.03890608,False
+so MikeBrown's hat disappeared and he changed into shoes right? Ferguson pants.,rumour,1,1,rumour,0.02173958,0.9782597,6.536263e-07,True
+"The kid was jaywalking, with collaborating witnesses. Yes. You've heard of the broken window theory?",not_rumour,0,1,rumour,0.00027640274,0.9997079,1.5685213e-05,False
+"very true - but I don't think anyone can deny that he blew up because of critics, not because of some public love.",unrelated,2,0,not_rumour,0.87587714,0.0006831614,0.12343975,False
+Have you seen this? will be supporting this bill. You all should too.,not_rumour,0,0,not_rumour,0.9299752,0.05590392,0.014120927,True
+"So now that the cops admit they didn't know about the shoplifting, what were those grounds again?",rumour,1,1,rumour,0.001361031,0.9986327,6.232437e-06,True
+"It sucks that he died but damn, attacking 2 ppl and 1 being a cop? That's just stupid. Especially if the cops have a reputation.",rumour,1,1,rumour,0.19382785,0.7987005,0.0074716145,True
+"I know that's the scary part. It like a bate and switch. Or, wag the dog. It takes the focus off of the officer.",rumour,1,1,rumour,0.009500813,0.9748043,0.015694816,True
+"Wow, missed that one.. Outcome of the fundraising just made me cry. Yes, I'm sleep-deprived",not_rumour,0,2,unrelated,0.27874053,0.17856787,0.5426915,False
+Boosting signal Ferguson police chief just confirmed that officer's interaction with Michael Brown NOT related to the robbery.,rumour,1,1,rumour,0.00039521183,0.99960476,4.370917e-08,True
+So a large Negro robbed a store and then the cops saw a large Negro. WHAT WERE THEY SUPPOSED TO DO?!?! Perhaps not execute him. Ferguson,rumour,1,1,rumour,0.40543815,0.59453577,2.6059435e-05,True
+often enough I fear for my life when I criticise a certain religion.,not_rumour,0,0,not_rumour,0.7000386,0.00078365504,0.29917774,True
+"Arab cartoonists join others in condemning the attacks,and lampooning the attackers",not_rumour,0,0,not_rumour,0.7108162,1.8067072e-05,0.28916568,True
+"Or it may well be that the French police want them alive, so as not to give them the bonus of being martyrs.",unrelated,2,2,unrelated,0.0020229009,2.5916139e-05,0.9979512,True
+"As a Muslim, killing innocent people in the name of Islam is much, much more offensive to me than any cartoon can ever be. CharlieHebdo",not_rumour,0,0,not_rumour,0.92791176,9.363186e-06,0.07207886,True
+"Has condemned Boko Haram already or is it not the ""appropriate timing"" yet?",unrelated,2,2,unrelated,0.07654393,2.2265578e-05,0.92343384,True
+"i'm not sure how that matters, he's still underage",rumour,1,1,rumour,0.05546269,0.7026754,0.24186185,True
+Aljazeera cameraman released after 6 yrs of horribles in the Freedom College of Guantanamo France JeSuisCharlie,unrelated,2,2,unrelated,0.0039626514,1.5873467e-05,0.99602145,True
+As you wish. I hope someday you'll realise that not everyone was bad for christians had the KKK as well.,unrelated,2,0,not_rumour,0.9451676,0.00018675931,0.054645557,False
+"The American People have soundly rejected the GW Bush doctrine, including no longer blind support of Israel.",unrelated,2,0,not_rumour,0.59515846,0.008767522,0.396074,False
+"It's a Dumb and Dumber police department the chiefs explanations add up to. ""0"". Haven't they interviewed any witnesses?",rumour,1,1,rumour,0.123073295,0.8762669,0.00065985473,True
+information verification takes time especially when people are rioting. Executive witness is alleged accomplice,rumour,1,0,not_rumour,0.6359377,0.22869642,0.1353659,False
+thank you for proving my precise point. Let's let the evidence speak.,rumour,1,1,rumour,0.124637894,0.85900223,0.016359912,True
+"""As they left, one came back to finish off a policeman who lay wounded in the street"" sequence's strange FF",not_rumour,0,2,unrelated,0.1712713,0.009741816,0.81898695,False
+Unarmed weren't only ones in Ferguson. Rioters and looters ruin protests for good folks.,not_rumour,0,0,not_rumour,0.91389626,0.086091645,1.2074519e-05,True
+Er is ALTIJD tijd voor instagramfilters Our vantage point on the gunfire and explosions in Dammartin,unrelated,2,2,unrelated,0.16613318,2.2824113e-06,0.8338645,True
+". If you want credibility, why don't you link to a news source that isn't your own?",rumour,1,0,not_rumour,0.634022,0.075630754,0.2903473,False
+what should that 'ruthless' response look like?,not_rumour,0,0,not_rumour,0.8083213,0.17059556,0.021083174,True
+"my brother played, I'm familiar with their size",rumour,1,0,not_rumour,0.60629994,0.2742834,0.11941669,False
+CAUTION Attack on could well be an orchestrated manipulation designed to stigmatise a community,not_rumour,0,0,not_rumour,0.67177206,0.0008324016,0.32739556,True
+". Police say 11 now dead in ""carnage"" at CharlieHebdo HQ in Paris - follow our coverage.",unrelated,2,2,unrelated,0.037326247,1.7114944e-05,0.9626566,True
+yes. any and everything to cover the cops ass. ageold white supremacist move actually. and u kno what. it'll prolly wrk,rumour,1,1,rumour,0.002903576,0.99705935,3.708998e-05,True
+OMG best thing anyone's ever said to me,unrelated,2,1,rumour,0.024594028,0.8940533,0.08135259,False
+"Agree those Cops in Ferguson are filled with FEAR so they hide behind military equipment, outrageous tactics",rumour,1,0,not_rumour,0.96770936,0.032267254,2.3424462e-05,False
+"How did suspects known to French security services get hold of an RPG? But that may be a reason for the tank, yes.",unrelated,2,2,unrelated,0.0025682696,3.710245e-05,0.99739456,True
+"NIGGA, PLEASE. "" Important new image in Ferguson via .",not_rumour,0,0,not_rumour,0.9084187,0.09154069,4.0602747e-05,True
+I'm watching! Ready to hear some common sense today.,not_rumour,0,1,rumour,0.026294118,0.973044,0.0006619671,False
+Agreed regarding the lack of discipline maintaining the respect of people you're charged to protect is part too.,not_rumour,0,1,rumour,0.3534771,0.6413157,0.0052072154,False
+no it's not useless. It explains what had been put officers mind. May have been why he attempted to make contact,rumour,1,2,unrelated,0.28985855,0.3355857,0.37455577,False
+Very hard to believe! Thank you very much for this information. I am so sorry for EEUU,not_rumour,0,2,unrelated,0.14408365,0.0037875602,0.8521288,False
+"I don't think these type of Muslims know what the word ""martyr"" means.",unrelated,2,2,unrelated,0.046493646,7.479102e-05,0.95343155,True
+supposed to be in the case file.No wonder there's nothing in Wilson's file that shows previous problems.,rumour,1,1,rumour,0.00057759264,0.99941313,9.290441e-06,True
+""" Twin hostage situations Erupt in Paris. Two victims have been killed. Our updated story",unrelated,2,2,unrelated,0.00010170216,9.23926e-07,0.99989736,True
+thought it was that they had purchased them but never installed them.,rumour,1,0,not_rumour,0.49562374,0.36714914,0.13722712,False
+"Operation to detain massacre suspects unfolding in Dammartin-en-Goele, about 25 miles northeast of Paris",unrelated,2,2,unrelated,0.006122757,1.5929974e-06,0.9938757,True
+Maybe the gunmen were better trained than the getaway driver? weakestlink,unrelated,2,2,unrelated,0.10299027,0.0007692509,0.8962405,True
+they found his red cap in the middle of the street and thats why people are jumping to the conclusion that it was him,rumour,1,1,rumour,0.00018486408,0.9998135,1.6405172e-06,True
+"Tonight, I spoke to President Hollande to convey Australia's solidarity, sympathy and friendship with the people of France CharlieHebdo",unrelated,2,0,not_rumour,0.8814047,7.0631922e-06,0.11858827,False
+...Rocket launcher MT French official says attack on Paris weekly CharlieHebdo was w Kalachnikovs and rocket launcher. -AFP,unrelated,2,2,unrelated,0.003096399,2.421835e-07,0.99690336,True
+Hezbollah chief Extremists harm Islam more than cartoons CharlieHebdo,unrelated,2,2,unrelated,0.04940524,6.463087e-08,0.95059466,True
+who gave them thinking of martyr? Those continually hurting Muslims by their irrespective behavior for Messenger of God.,unrelated,2,2,unrelated,0.009152158,9.670274e-07,0.99084693,True
+Because people who commit robberies are less likely to deal on friendly terms with police.,rumour,1,1,rumour,0.032545935,0.96516675,0.002287316,True
+Thanks for the info. Is your server lagging?,unrelated,2,0,not_rumour,0.3895292,0.22459754,0.38587323,False
+"And OF COURSE she's a Libertarian and ""pro-constitution""",rumour,1,0,not_rumour,0.7854541,0.20812461,0.006421305,False
+Peace loving countries should unite to fight against terror amp bycott countries who support!!,unrelated,2,2,unrelated,0.22472739,3.5195724e-05,0.7752374,True
+Its a joke for Indian Media.....,not_rumour,0,2,unrelated,0.34103954,0.013043977,0.6459165,False
+Really? Nothing like that being said on .,unrelated,2,2,unrelated,0.29380715,0.14152141,0.5646714,True
+"Again, intelligent comeback. Well done.",not_rumour,0,0,not_rumour,0.540665,0.41657132,0.042763732,True
+"what? "" In 2009, Ferguson police beat a man and charged him for bleeding on them",rumour,1,1,rumour,0.0046954937,0.99530435,2.3253202e-07,True
+awk theyre christians as well. silently unretweets,not_rumour,0,2,unrelated,0.17161553,1.6718811e-06,0.82838285,False
+"I think you just DDOS'd yourself, sir",not_rumour,0,0,not_rumour,0.9649756,0.015460892,0.019563494,True
+"Yeah, since they got a real cop in there and put Boss Hogg and Sheriff Roscoe P. Coltraine on the bench.",not_rumour,0,1,rumour,0.1507567,0.84910506,0.00013828019,False
+wouldn't hurt a fly I'm sure lol,rumour,1,0,not_rumour,0.6328716,0.038718686,0.32840964,False
+it's also pretty upsetting that a kid was summarily executed for maybe stealing a pack of cigars.,rumour,1,1,rumour,0.005414071,0.99027795,0.0043080514,True
+Agreed. So many devious political and socio-economic machinations of which we're probably unaware. It feels hopeless.,not_rumour,0,2,unrelated,0.034804724,0.00018301781,0.9650122,False
+Please do not buy chips off zynga poker it is rigged for you to lose so you buy more chips it's a scam stock buyers beware,not_rumour,0,2,unrelated,0.42590818,0.0026463177,0.5714455,False
+"Despite all the Black faces in high places, the cops ain't killing white kids on the streets.",not_rumour,0,1,rumour,0.18009853,0.81985635,4.5073328e-05,False
+What? RT BREAKING Police order all shops closed in famed Jewish neighborhood in central Paris far from attacks.,unrelated,2,2,unrelated,0.004053974,1.3653995e-06,0.9959447,True
+BREAKING Paris police Market gunman threatens to kill hostages if police storm terrorist brothers.,unrelated,2,2,unrelated,6.059873e-07,6.058064e-09,0.9999994,True
+"I understand your point of view, but from where I stand the jesuischarlie is an expression or sorrow and solidarity.",unrelated,2,0,not_rumour,0.9686558,2.3816614e-05,0.031320374,False
+But I don't think spreading unproven facts is the way to go.,rumour,1,2,unrelated,0.4496901,0.03196098,0.5183489,False
+so then there was no reason he killed him. That's a better story?,rumour,1,1,rumour,0.015739944,0.97284526,0.01141482,True
+We are DONE . with FERGUSON Police Chief THOMAS JACKSON THOMASJACKSONMUSTGONOW,rumour,1,0,not_rumour,0.6657479,0.06904772,0.2652044,False
+"Not in most peoples minds. Look at all the great black leaders, West, Carson, both probably running for president",rumour,1,1,rumour,0.35526758,0.62963283,0.015099597,True
+Words are wind. The Arab League is as useless and corrupt as the . brokenrecords JeSuisCharlie,not_rumour,0,2,unrelated,0.14092535,7.10272e-06,0.8590675,False
+France amp UK wake up fools Israel deals with ISLAM pond scum every day. You asked for this. Tip of iceberg. More to come.,unrelated,2,2,unrelated,0.09576518,6.5853186e-05,0.904169,True
+Usa is back to the 50s MLK would turn in his grave heaing about this.,rumour,1,0,not_rumour,0.7667416,0.00089513574,0.2323633,False
+Malcolm X a good Muslim!,not_rumour,0,0,not_rumour,0.9617547,0.029213144,0.009032153,True
+They are quite fierce-interestingly French military have recently savaged Hollande-not like UK pussy Generals,not_rumour,0,2,unrelated,0.1965169,3.711925e-06,0.80347943,False
+what matters here is the reaction. this has brought a lot of racially-motivated events to light.,rumour,1,1,rumour,0.024329975,0.97566116,8.790602e-06,True
+So? That doesn't mean it wasn't justified. Cops shoot unarmed people all the time if they are threatened. It's justifiable.,rumour,1,1,rumour,0.25089207,0.7490254,8.253702e-05,True
+WTF? Is this for real?,rumour,1,1,rumour,0.06112638,0.8454734,0.093400225,True
+"If YOU have a gun, someone runs FROM you, DROPPED TO THEIR KNEES W ARMS RAISED...HOW IS YOUR LIFE ENDANGERED?!?",rumour,1,1,rumour,0.08039752,0.9183055,0.0012969692,True
+Not important. A Minnesota Hayseed,not_rumour,0,1,rumour,0.1741267,0.57003415,0.2558391,False
+Exactly! It make it easier for whites to absorb that Mike Brown was a thug criminal and rightly shot!,rumour,1,1,rumour,0.082697004,0.91729885,4.172049e-06,True
+"Ok, so you get accounts from the community he lives in where people already have a distrust in police",rumour,1,1,rumour,0.27169013,0.72637075,0.0019392073,True
+"Vacationing on the Bundy Ranch, Id imagine.",rumour,1,2,unrelated,0.3849146,0.15742964,0.45765573,False
+You're responding to the wrong person. Should be responding to .,not_rumour,0,0,not_rumour,0.5157859,0.47238818,0.011826008,True
+Literally the best! Likely the best CharlieHebdo solidarity sign yet. JeSuisCharlie,unrelated,2,2,unrelated,0.45616707,9.117108e-07,0.543832,True
+Shoving a clerk means you'll take on a police officer with a gun? SoundLogic YesThisIsSarcasm MikeBrown,rumour,1,0,not_rumour,0.59782106,0.40214273,3.6238034e-05,False
+duh and I dont have the systematic power to be a racist. Maybe prejudice. So you go back to school.,rumour,1,0,not_rumour,0.9203101,0.05990602,0.01978387,False
+"and even more importantly, there is a difference between 'not publishing' and 'brutally killing with machine guns'",not_rumour,0,1,rumour,0.015622865,0.983933,0.00044416144,False
+"why aren't police armed to defend themselves amp lawful citizens. That's why our police are being attacked, to disarm them. NO WAY",unrelated,2,0,not_rumour,0.89488363,0.09533871,0.009777581,False
+"Good, now some closure for the victims families.",unrelated,2,0,not_rumour,0.6957552,0.069310844,0.23493397,False
+"he didnt give up. worked three jobs, living shelter, got college degree. live right, work hard.",not_rumour,0,1,rumour,0.22163333,0.7626763,0.01569033,False
+"Well done NOT for promoting that racist far-right NF party, it will really help keep us safe, as the death penalty does NOT do!!",not_rumour,0,0,not_rumour,0.7037817,0.0036967157,0.29252163,True
+Whoa if you live long enough you'll see everything When you've lost Hezbollah...,unrelated,2,2,unrelated,0.051345106,2.5516772e-05,0.9486294,True
+bro as we Muslims we are taught not to hurt anybody in anyway unless they hurt us,unrelated,2,2,unrelated,0.45084235,1.2657564e-06,0.5491564,True
+how about the kid was a thief and was running from the cops,not_rumour,0,1,rumour,0.12941603,0.81315595,0.057428017,False
+If they think they are going to pull a fast one on the DOJ and FBI they are in for a big surprise.,rumour,1,1,rumour,0.005062005,0.99478275,0.00015519069,True
+"Stress due to the difficult economic climate, hate talk, frustration with poorly paying jobs, lots",not_rumour,0,0,not_rumour,0.5685423,0.015909301,0.4155484,True
+I was thinking feed them alive to pigs.,unrelated,2,2,unrelated,0.03592487,0.002532194,0.9615429,True
+the invasion of irak or afghanistan !! But you wont consider these innocent muslim people who were bombarded by your military !!,unrelated,2,2,unrelated,0.019624956,4.346491e-07,0.98037463,True
+"From point of view of someone who hasn't had a chance to catch up on what's happened in Ferguson story today, yet .",not_rumour,0,1,rumour,0.0012778612,0.9987186,3.6073677e-06,False
+You'd let a child be sacrificed for a religion?,not_rumour,0,2,unrelated,0.32907838,0.0063273404,0.66459435,False
+Yeah that's the important thing huh,not_rumour,0,2,unrelated,0.17642781,0.33697426,0.48659796,False
+"The two suspects in the CharlieHebdo ParisShooting have been located, reports say.",unrelated,2,2,unrelated,0.0015978216,1.49471625e-05,0.9983872,True
+"""The officers were literally putting hands on media personnel, throwing people..."" Ferguson",rumour,1,1,rumour,0.034618758,0.9653788,2.368619e-06,True
+Le Spiegel de cette semaine. Our cover CharlieHebdo JeSuisCharlie,unrelated,2,2,unrelated,0.33873072,6.9248e-06,0.6612624,True
+"or be white. Or old and white. Or an old, rich and white Senator.",rumour,1,0,not_rumour,0.61545986,0.055269074,0.3292711,False
+"Correct, they mocked a man. Same as they do politicians, etc. He was a man who founded a violent cult.",not_rumour,0,0,not_rumour,0.9777641,0.0037906372,0.018445298,True
+so how does that justify murder? corruption from within! dont let em fool ya!,rumour,1,2,unrelated,0.09013814,0.32007495,0.5897869,False
+let the Muslim welcome to freedom and thy stab you in the back!!!,unrelated,2,2,unrelated,0.005117181,1.6908347e-06,0.99488115,True
+yes it seems so ....... plenty of evidence to back you up on that,unrelated,2,1,rumour,0.17525218,0.66139483,0.163353,False
+Not always there when it's called but it's always on time,rumour,1,0,not_rumour,0.6247292,0.0089069335,0.36636382,False
+..Live with it..or..die with it...your religion murderers anyone who doesn't COMPLY.,unrelated,2,2,unrelated,0.24689,2.5707333e-05,0.75308436,True
+Was b4 Obama signed NDAA nullifying the bill ofRights Now UR not evenprotected Self incrimination No taking 5th,rumour,1,1,rumour,0.3397276,0.6593339,0.0009385141,True
+if state cannot control such irresponsible magazines making fun of people's faith then monsters come and do thejob.Face consequences,unrelated,2,2,unrelated,0.23056954,1.5320124e-05,0.76941514,True
+I am very familiar with the Fullerton case you are referring to. Sorry he was not a kid although his death was tragic.,not_rumour,0,0,not_rumour,0.68139964,0.31657097,0.002029405,True
+"BECAUSE THEY HAVE STATED IT IS FOR A NEW ISLAMIC STATE!!! like i said, i know not all muslims are murderers",unrelated,2,2,unrelated,0.06227318,1.2933151e-05,0.93771386,True
+Sending prayers to All you guys be careful reporting this and stay safe !!,unrelated,2,2,unrelated,0.35274336,0.013491622,0.63376504,True
+Thank you Mr. French for keeping St. Louis informed on the latest news.,not_rumour,0,2,unrelated,0.336553,0.13308536,0.53036165,False
+For them shooting him that many times. It has nothing to do with race,not_rumour,0,1,rumour,0.0003576666,0.9996376,4.764735e-06,False
+"Not at all upset at you just UPSET! MLK amp Malcolm X, Medgar Evers, etc did NOT die for THIS!",rumour,1,0,not_rumour,0.8031827,0.18364349,0.013173809,False
+"Va Polica toma posiciones cerca al supermercado kosher en Saint-Mande, Pars. terrorenparis",unrelated,2,2,unrelated,0.011114994,1.796035e-06,0.9888832,True
+seen these types before. First round half cut and run and puss themselves. Tough guy cowards who are simply criminals.,rumour,1,2,unrelated,0.43329263,0.048124023,0.51858336,False
+"My point is logical. Freedom of opinion requires, by definition , its absoluteness. Otherwise you are no more free.",unrelated,2,0,not_rumour,0.9780999,0.00077946007,0.02112071,False
+It's different now bc he's not just some innocent teen like he has been portrayed.,rumour,1,1,rumour,0.076913215,0.91999406,0.0030927316,True
+Bullets will never stop the PEN!,unrelated,2,2,unrelated,0.16471069,0.014196829,0.82109255,True
+I fear it is the beginning of things to be. The tightening of the vice of tyranny.,not_rumour,0,2,unrelated,0.25890717,0.0002865957,0.7408062,False
+"Now, reporting French police have ordered all shops closed in a famed Jewish neighborhood in central Paris far from the attacks.",unrelated,2,2,unrelated,0.020509763,4.160993e-05,0.9794486,True
+"research it, they're protecting and serving the shit outta everybody. It's not just black v white. And they're getting off",not_rumour,0,1,rumour,0.396884,0.60222805,0.00088790094,False
+"'Yeah, but you're forgetting, they're French. We'll do it properly. Then it'll definitely, definitely probably work!'",not_rumour,0,2,unrelated,0.04654079,0.002085191,0.951374,False
+because it is not relevant to ques of WHY cop shot amp killed Brown,rumour,1,1,rumour,0.0009975723,0.9989943,8.131573e-06,True
+"Charlie watch your manners. I road around Vietnam DMZ with black tank commander, DON'T GENERALIZE!",not_rumour,0,0,not_rumour,0.762285,0.040985763,0.19672923,True
+I'm so scared I live in France and it's horrible,unrelated,2,2,unrelated,0.030198434,0.0071378197,0.96266377,True
+. Hello King Love Songs WE are theWORLD WE are the children Heal theWORLD.Man in theMRROR.AMEN Sevgiler,not_rumour,0,0,not_rumour,0.84917915,0.00053795107,0.15028293,True
+"WTF? RT What are Police hiding about ""drive by"" shooting of woman recording last night's action?",rumour,1,1,rumour,0.091765076,0.90798146,0.00025350548,True
+I love amp respect the Kurds!,unrelated,2,2,unrelated,0.3674829,3.9094997e-05,0.63247806,True
+Can we please stop reporting every single firefight until it's really verified that it has something to do with CharlieHebdo?,unrelated,2,2,unrelated,0.12821902,0.00068209367,0.8710989,True
+Now they say this? Not very believable.,rumour,1,1,rumour,0.0013052212,0.89048225,0.10821253,True
+was 18 and assaulted a police officer.,rumour,1,1,rumour,0.0045694085,0.99542797,2.579632e-06,True
+"See, this whole thing just reminds me of WWII.",unrelated,2,0,not_rumour,0.6012878,0.27441725,0.12429498,False
+i thought so that they would time those Attacks so both can be taken out at the Same time. Kudos to French Police After all.,unrelated,2,2,unrelated,0.035543725,1.8979561e-05,0.9644373,True
+"Killing defenceless humans is not honourable. It is cowardly. And ultimately, self defeating.",unrelated,2,0,not_rumour,0.8826808,5.740284e-05,0.11726179,False
+"now you tell me you ignorant, blind uneducated piece of shit! Who is the real terrorists!",unrelated,2,2,unrelated,0.40526804,0.0016052808,0.5931267,True
+do you see how desperately they are trying to connect Mike Brown to a 'Strong Armed' robbery?,rumour,1,1,rumour,0.0012980802,0.99870086,1.1306632e-06,True
+is one of the attackers picking up a shoe or trainer here?,unrelated,2,2,unrelated,0.30959618,0.0035346437,0.68686914,True
+the PD did that community a favor..I don't expect you to see that tho..you need crisis to affirm your racism,rumour,1,1,rumour,0.109514415,0.89047885,6.8357817e-06,True
+Regardless. He was shot in the back with his hands up while he was 35 feet from the officer.,rumour,1,1,rumour,0.014909364,0.9847809,0.0003097363,True
+You mean the pedophile? How old was that young wife again?,not_rumour,0,1,rumour,0.24798533,0.57954687,0.17246778,False
+Adres ver Selefi dalyarak adres,unrelated,2,2,unrelated,0.02112514,2.4876638e-06,0.97887236,True
+!!!! She gets it. Why can't everyone else? Ferguson Equality MikeBrown,not_rumour,0,0,not_rumour,0.97684526,0.023153381,1.3817262e-06,True
+you know who did it?,not_rumour,0,0,not_rumour,0.63241285,0.003713026,0.36387414,True
+"He's an incompetent liar, that's for sure.",rumour,1,1,rumour,0.001750089,0.9976173,0.0006326035,True
+why are they waiting so long? They got time now to make the house unsafe to enter.,unrelated,2,1,rumour,0.018964676,0.8787633,0.10227208,False
+EXACTLY!! Since when is jaywalking punishable by DEATH?,rumour,1,1,rumour,0.28309867,0.7106682,0.0062331236,True
+very important we all show unity with our Muslim friends at this time. Islamophobia will need to be challenged everywhere.,not_rumour,0,0,not_rumour,0.84645015,7.8827196e-07,0.15354905,True
+Your ignorance is obvious. Muslims understand USURY TREASON. We are so stupid it is embarrassing. Do the math.,unrelated,2,2,unrelated,0.115062125,5.4160146e-06,0.8849324,True
+they shot innocent people how they innocent,unrelated,2,0,not_rumour,0.7336088,0.16249572,0.10389555,False
+"It's the same as the other tweet, a different language. My only problem is that it wasn't translated before BBC sent",unrelated,2,2,unrelated,0.05350127,1.6373495e-05,0.94648236,True
+I think blacks have known for a long time about the militarization of the police force... Just the USA never listened.,not_rumour,0,1,rumour,0.32590193,0.6739521,0.00014597194,False
+doesn't justify him getting shot several times.,rumour,1,1,rumour,0.0001556757,0.99984264,1.6992669e-06,True
+how reliable is that source?,unrelated,2,1,rumour,0.37210193,0.5305447,0.09735339,False
+"President Obama's been briefed about this Attack,almost,4 hrs ago.His Services work with . .",not_rumour,0,0,not_rumour,0.6974914,0.044155814,0.25835282,True
+Jews are welcome in Morocco. Roi Mohammed VI et grand rabbin de Paris,unrelated,2,2,unrelated,0.06620586,2.496719e-06,0.93379164,True
+I admit based on history with LE. Better than all ur assumptions.,rumour,1,1,rumour,0.00048642352,0.99949896,1.461717e-05,True
+until they murder the next black teenager. and the nxt one. and the nxt one. and the nxt one. and the nxt one. and..,not_rumour,0,1,rumour,0.0078421,0.9916304,0.00052744424,False
+glad u finally got it!,not_rumour,0,0,not_rumour,0.6066571,0.28457534,0.10876762,True
+"it's murder when the person you shoot has his hands up, surrendering. This is why this isn't going anywhere.",not_rumour,0,1,rumour,0.0024390453,0.99752635,3.4587854e-05,False
+my bf tryna tell me that was him. Saying his shoes and clothes match. I'm like I can't say for that was him fuckthat nothim,rumour,1,1,rumour,0.0056906617,0.99368894,0.00062034343,True
+Awful. RT At least 12 dead in the Paris shooting. CharlieHebdo,unrelated,2,2,unrelated,0.1560998,3.2769585e-05,0.8438675,True
+JeSuisCharlie A complete GIF guide to Muslims Denouncing terrorism.,not_rumour,0,2,unrelated,0.24981296,5.232457e-07,0.7501865,False
+"There's tension between blacks amp police in area. If Brown had his hands up, unarmed, he shouldn't have been shot.",rumour,1,1,rumour,0.070175625,0.9298148,9.530141e-06,True
+"I agree, there are serial killers who are still alive and well sitting in jail, killing someone for theft makes no sense",rumour,1,1,rumour,0.06644121,0.93095416,0.002604664,True
+interesting. Imti have you got a link to support?,unrelated,2,0,not_rumour,0.56351024,0.011752528,0.42473722,False
+hope they are taken alive...don't give them what they want,unrelated,2,2,unrelated,0.00081988383,5.8815007e-05,0.99912125,True
+"thats not what i was referring to, i was just saying it doesnt have to be money to be a robbery",rumour,1,1,rumour,0.12056793,0.87509286,0.004339197,True
+So your pro free speech but i can't disagree with those calling for deaths of innocent Americans?,unrelated,2,0,not_rumour,0.709626,0.00027940146,0.29009452,False
+Any statement on US treatment of courageous whistleblowers? Assange Snowden CharlieHebdo,unrelated,2,0,not_rumour,0.72353804,0.00022404126,0.2762379,False
+!!!!!!!!!! RT right. RT blocking traffic on an empty street inside a neighborhood...got it,rumour,1,1,rumour,0.03126135,0.9687206,1.7978926e-05,True
+"Viva la Charlie! Love your enemys, They want to die for their religion thats the least Justice can do for them JeSuisCharlie",unrelated,2,0,not_rumour,0.6293181,1.5083042e-06,0.37068033,False
+"Remember that CharlieHebdo, like Theo Van Gogh, criticized ALL religions and people, not just Islam and Muslims!",not_rumour,0,0,not_rumour,0.7876043,4.782115e-07,0.21239525,True
+are you justifying the murder of an unarmed ADULT?,rumour,1,0,not_rumour,0.6707947,0.32819876,0.0010065313,False
+Why city council? Isn't it elected?,not_rumour,0,1,rumour,0.44582656,0.5258253,0.02834807,False
+"Before his death MikeBrown told his mother, ""The world will know who MichaelBrown is!"" Ferguson sigh",rumour,1,1,rumour,0.012147168,0.9878527,9.772309e-08,True
+"The Terrorist in the USA are the GOP, they are the ISIL of this nation. they will destroy us by bills not by cutting our heads off",unrelated,2,2,unrelated,0.3467235,0.0029764022,0.6503001,True
+"THOUGHT? I admire ur generosity, Mr. Shuckrow.",rumour,1,0,not_rumour,0.5407486,0.00032401437,0.45892736,False
+who did they think they were? Avenging in the name of the Prophet. The Prophet doesn't even need that.,unrelated,2,2,unrelated,0.007812582,0.0004230436,0.99176437,True
+. I give about -5000 fucks about your opinion.,not_rumour,0,1,rumour,0.11902159,0.8730394,0.007938985,False
+your reporters behaving like vultures. Step back a bit!,unrelated,2,0,not_rumour,0.59955,0.1974694,0.20298062,False
+so shooting an unarmed black teen in cold blood b c he could be a robbery suspect is ok?,rumour,1,1,rumour,0.0021146268,0.9978636,2.1821663e-05,True
+"like rabbi kahane once said ""there is no coexistence with cancer""",unrelated,2,0,not_rumour,0.90294087,0.000107582295,0.09695159,False
+Powerful Point wow!! We gotta elaborate on that one!,not_rumour,0,2,unrelated,0.06334094,0.09082036,0.8458387,False
+I'll dumb it down for you You insult someone's faith with a vile cartoon amp print nationwide. Does it look pretty or ugly?,not_rumour,0,0,not_rumour,0.8837764,0.014243126,0.101980366,True
+Likely the best CharlieHebdo solidarity sign yet. JeSuisCharlie,unrelated,2,0,not_rumour,0.6838416,4.569102e-07,0.31615794,False
+Have to show Mike without clean hands somehow.,rumour,1,1,rumour,0.0069103423,0.9920922,0.0009974755,True
+Was he shot in the chest or back? From 35' away or 3' away? Which wounds came first?,rumour,1,1,rumour,0.2648037,0.39509857,0.3400977,True
+This is for the Western world to witness what we the Biafrans are going through in Nigeria. Islam is Evil.Free Biafra now,not_rumour,0,2,unrelated,0.08670845,1.0565684e-05,0.91328096,False
+Have a nice lunch you two!,unrelated,2,0,not_rumour,0.95083815,0.021737168,0.027424736,False
+En goguette pr un exercice vers Mourmelon ou Mailly ? MT There's a tank near the Paris hostage scene,unrelated,2,2,unrelated,0.030763011,7.0296016e-07,0.96923625,True
+"French President condemns ""barbaric act"" CharlieHebdo gun attack kills 11",unrelated,2,2,unrelated,0.21337715,8.315941e-08,0.78662276,True
+London declared JeSuisCharlie last night. Photos by,not_rumour,0,0,not_rumour,0.92073596,0.00017427995,0.07908977,True
+thats just horrible.this is not the way to honour our prophet who was a man who advocated peace amongst man.,unrelated,2,2,unrelated,0.2624489,5.5962773e-05,0.7374952,True
+"Coming 2 a town near you...FEMA is just waiting in the wings guys, get ready for war! policebrutality",not_rumour,0,1,rumour,0.15496057,0.8044376,0.040601913,False
+oh well that just justifies everything doesn't it. HANDSUPdontshoot,rumour,1,1,rumour,0.085477084,0.847004,0.067518964,True
+"yes, I am watching now",not_rumour,0,2,unrelated,0.15628193,0.08861302,0.7551051,False
+"I prefer Grimms fairy tales, but the Bible has prety cool stories too",unrelated,2,0,not_rumour,0.5410112,0.14618109,0.31280765,False
+What in the holy hell??!!! . Ferguson Police apparently has a history of fabrication.,rumour,1,1,rumour,0.001632884,0.99836534,1.7574688e-06,True
+that's because it's important to be ready to slaughter people who think they have rights. That proves they never did.,rumour,1,2,unrelated,0.15676376,0.33235538,0.5108809,False
+Police in armored trucks riot gear in Ferguson unsuccessfully trying to get demonstrators to leave. MichaelBrown,not_rumour,0,0,not_rumour,0.71817786,0.28179234,2.9920237e-05,True
+no. That bird is Algerian. Not french.,unrelated,2,2,unrelated,0.1076134,0.001847978,0.8905386,True
+"But by that token Jews, Blacks and Irish people would have to 'learn' not to be offended either",not_rumour,0,0,not_rumour,0.84078753,0.00053733704,0.15867506,True
+Kinda like the whale suing Jonah for food poisoning after he ate him. shakes head,rumour,1,2,unrelated,0.031119974,0.002242111,0.96663797,False
+All religions are man made. They are political tools to control the ignorant masses!,unrelated,2,2,unrelated,0.19114827,0.00014836446,0.80870336,True
+Bunch of fkin cowards...leave our children alone!!,unrelated,2,0,not_rumour,0.8948869,0.00030137607,0.10481177,False
+Wow! What was the point of bring out the robbery footage today if it had nothing to do with Michael Brown being stopped? Ferguson,rumour,1,1,rumour,0.0019154997,0.9980844,1.4309889e-07,True
+has Jewish blood been spilt in any of these attacks?,unrelated,2,2,unrelated,0.03392633,0.00040158667,0.9656721,True
+YES. It's like how fucking hard is is to be like murder AND racism is bad?!,not_rumour,0,0,not_rumour,0.88318753,0.08099419,0.03581832,True
+you are saying that's mike brown in the picture? It's not. Two events unconnected. What's your point?,rumour,1,1,rumour,0.001260651,0.9986786,6.07737e-05,True
+aren't you doing the same thing but on the other side of the issue?,rumour,1,1,rumour,0.05010026,0.9485013,0.0013984324,True
+What else could have been the motive ? To prevent it from happening keep religion out,unrelated,2,2,unrelated,0.44575307,0.0038153138,0.55043155,True
+hahahahahha oh shit why am I laughing this is horrible HAHAHAHAHAHAHAHA,unrelated,2,1,rumour,0.3107807,0.605737,0.08348227,False
+almost retweeted this for irony,rumour,1,0,not_rumour,0.64099693,0.09706,0.26194307,False
+superbbbb thought and act of courage .. Salutes!! Pen is mightier than sword,unrelated,2,2,unrelated,0.1517729,5.081479e-05,0.84817624,True
+"report came over about the robbery. He has similar characteristics, approached again and scuffle happened and shot rang out.",rumour,1,1,rumour,0.0009030321,0.999037,5.9969974e-05,True
+race doesn't matter to me nor should it matter to this case. You are the racist. Facts don't matter 2u Just blindly follow the herd.,rumour,1,0,not_rumour,0.5392718,0.46036357,0.00036472615,False
+"You are right . Could be obstruction of justice, planting evidence, a felony, if this was backdated. If so, arrest them.",rumour,1,1,rumour,0.002999931,0.9969909,9.15995e-06,True
+you born in country where women r not safe every day about 20k women raped in India,unrelated,2,0,not_rumour,0.54109657,0.012503638,0.44639978,False
+"yes, I get what you're saying amp am open to reevaluation...",not_rumour,0,1,rumour,0.06961215,0.9295829,0.00080491236,False
+it started because of Islam sadly. Some crazy people out there,unrelated,2,2,unrelated,0.058234222,0.00030551056,0.9414603,True
+"""Je suis Charlie European newspapers show solidarity with CharlieHebdo after attack",not_rumour,0,2,unrelated,0.4464947,9.258406e-09,0.5535053,False
+"I think many cultures have killed to enforce their views of what is ""Godly"" upon others.",unrelated,2,0,not_rumour,0.83748573,0.00047697136,0.16203722,False
+"Murder?! So, it's OK to skip over the facts and Due Process.",rumour,1,1,rumour,0.0067209397,0.9931021,0.0001769339,True
+Let's pretend I DO see him paying--which I don't... Then there's this! lol,rumour,1,1,rumour,0.07593891,0.9175566,0.006504508,True
+He is innocent of any death penalty offense. Even if assault is involved.,rumour,1,1,rumour,0.00036793717,0.9996283,3.6818674e-06,True
+like Hundreds of millions of Muslims who support death for apostasy amp blasphemy? Idiot,unrelated,2,2,unrelated,0.07811046,3.6646885e-05,0.9218529,True
+How come he is being flogged? Wouldn't making fun of Islam count as rida?,unrelated,2,0,not_rumour,0.63511944,0.00016208661,0.36471844,False
+This is the lie perpetuated by the right.,rumour,1,0,not_rumour,0.69197434,0.29100427,0.01702139,False
+Ferguson chief said the officer stopped MikeBrown for jay walking. TheJig,rumour,1,1,rumour,0.013519107,0.98648006,7.8272285e-07,True
+Gentleness is expected only from the strong. Because the weak is cruel PrayersForParis WorldPeace,not_rumour,0,2,unrelated,0.36658797,4.881396e-06,0.6334072,False
+it is crazy. Video footage will back such claims...,not_rumour,0,1,rumour,0.056871943,0.85528475,0.08784339,False
+"these are real people, experiencing real grief, and real violence. Comparing them to television for entertainment is wrong.",not_rumour,0,0,not_rumour,0.7537823,0.012991724,0.23322599,True
+"That is a fallacy. Come up with a more logical argument, denying that they were muslims weakens your cause.",not_rumour,0,2,unrelated,0.4540182,0.013233307,0.53274846,False
+"wen d fanatics were busy fckin bali,mumbai,madrid,london,NY ,french were sayin ""Keep Calm"",nw c d reaction, hipocrites",unrelated,2,2,unrelated,0.013795055,2.2425316e-05,0.9861826,True
+"even more than demand. You DESERVE justice, young man. And so does Mr. Brown.",not_rumour,0,1,rumour,0.017160036,0.9828287,1.1193996e-05,False
+Do BBC news still include weather forecasts. seen precious little so far. Give us all the news please BBC. REPETITIOUS BBC,unrelated,2,2,unrelated,0.043916885,9.723581e-05,0.9559859,True
+been here since before the London bombings.........,unrelated,2,2,unrelated,0.097902186,4.6044795e-05,0.9020518,True
+violent extremists the ultimate expression of a lack of tolerance of diversity and free thought. Thoughts amp prayers 4 victims families,not_rumour,0,0,not_rumour,0.68801695,4.7074194e-05,0.31193596,True
+"Indeed, but I wished not to edit Boris I may not RT him ever again, who knows.",not_rumour,0,2,unrelated,0.24868345,0.009609602,0.74170697,False
+even if he did you still don't shoot someone who has his hands up and is surrendering. The guy had the right to a trial by a jury,rumour,1,1,rumour,0.002026885,0.9979658,7.3387005e-06,True
+"These books are littered with commands to genocide, rape amp slave trade. Its barbaric.",not_rumour,0,2,unrelated,0.116902635,0.0005382038,0.8825591,False
+Un mgalomane qui pense tre autoris parler au nom de TOUS les musulmans.,unrelated,2,2,unrelated,0.047403604,4.4788385e-06,0.9525919,True
+And why should they not? Everyone should. Muslims should also stand up for free speech and the right to offend.,not_rumour,0,0,not_rumour,0.76592875,1.9544083e-05,0.23405175,True
+"Seems extreme.Yet, if attacks are ongoing and steady and ""moderate"" Muslims say Nothing, then I say Yes, We Must.",unrelated,2,0,not_rumour,0.8486935,3.308598e-05,0.15127338,False
+and charged him for getting blood on their uniforms. Racists dirtbags. I hope he wins the lawsuit against those officers.,rumour,1,1,rumour,0.0022507426,0.9977457,3.575808e-06,True
+Calm down is the end of this convo. Again with the projection. No one's upset. Bye.,not_rumour,0,2,unrelated,0.17359781,0.08329314,0.74310905,False
+"Eyewitness terrorists said, Tell the media that this is al Qaeda in the Yemen before attacking CharlieHebdo",unrelated,2,2,unrelated,0.004046445,2.652535e-06,0.99595094,True
+free speech by definition does,unrelated,2,2,unrelated,0.08487295,0.0018766908,0.9132503,True
+"Incredible. We are supposed to ignore that though. He was a good kid. Ya know, Inside. Ridiculous.",rumour,1,1,rumour,0.0092744455,0.9894851,0.0012405367,True
+this justifies killing someone as they turn around and put their hands up?,rumour,1,1,rumour,0.43738127,0.45424974,0.108368956,True
+"Because free speech amp democracy. Now piss off ""Why it's Charlie Hebdo's right to draw Muhammad""",not_rumour,0,0,not_rumour,0.99187016,5.1721318e-06,0.008124667,True
+I thought you weren't a white man?,rumour,1,1,rumour,0.27228412,0.7272483,0.0004675068,True
+some developments on this matter here if you're interested in this,unrelated,2,2,unrelated,0.06788557,0.00091278163,0.93120164,True
+Where has big media been for the last four days?,not_rumour,0,0,not_rumour,0.7534637,0.19693701,0.049599346,True
+"Yup, you had, as you suddenly started brain farting some stuff about some books, and it even lasted some time.",not_rumour,0,2,unrelated,0.11362127,0.4271826,0.45919603,False
+now we now why!! Jeez!!,rumour,1,0,not_rumour,0.48191264,0.044802975,0.4732844,False
+Great. See you in court.,rumour,1,1,rumour,0.00037332595,0.9995196,0.00010716879,True
+"oh no then that would be ""ACTUAL"" news. And who wants to be educated?? Am I right?",rumour,1,0,not_rumour,0.70795363,0.018037569,0.27400872,False
+"They mishandle situations amp create situations where they actually feel, or can claim, their lives are threatened.",rumour,1,1,rumour,0.057215348,0.92025816,0.022526521,True
+"Tunisian origin woman and Yemen or Mali man,French nationals",unrelated,2,2,unrelated,0.0009946566,8.4555195e-06,0.9989969,True
+A silent vigil was held in London last night for the victims of ....so sad...,not_rumour,0,0,not_rumour,0.9102789,0.006038321,0.0836827,True
+Just keep religion what it is. Sacred.,not_rumour,0,0,not_rumour,0.7467119,0.00071638374,0.25257167,True
+Murdered. The struggle with the officer can't possibly justify it.,rumour,1,1,rumour,9.242049e-05,0.9999006,6.9888597e-06,True
+yes - and they should have been more forthcoming -regardless innocent kid dead!,rumour,1,1,rumour,0.032581788,0.96011615,0.007301998,True
+looks like such incidents is going to be an everyday affairother EU countries could be nextsad,unrelated,2,0,not_rumour,0.6782502,0.00011307517,0.32163665,False
+not getting anywhere here. talk later cos.,rumour,1,1,rumour,0.033094417,0.864421,0.10248463,True
+Equine cocoa and ball syndrome is no laughing matter!,unrelated,2,2,unrelated,0.08498936,0.11336493,0.8016457,True
+any lawyer folk on your internets? I know in PA the diff between town city borough defines who can,not_rumour,0,1,rumour,0.33763614,0.65783954,0.004524327,False
+no I am just amazed that so many are sleepwalking into the Islamification of Europe.,not_rumour,0,2,unrelated,0.10865747,3.226185e-05,0.89131033,False
+Who ordered them out? Who told him to order them out? Who does that a-hole take directives from? THE VERY TOP.,rumour,1,1,rumour,0.41341025,0.5503604,0.036229372,True
+". so much for being ""peace officers"". This has to be stopped.",not_rumour,0,0,not_rumour,0.8655056,0.1322767,0.0022178027,True
+"We don't have the balls for that, so here are some that we hope will offend other people instead.",not_rumour,0,0,not_rumour,0.6564201,0.21093439,0.13264547,True
+"""Facts about a religion"" Do you see the irony in that statement?",unrelated,2,0,not_rumour,0.77752405,0.00025478814,0.22222118,False
+I fear cops more than criminals,not_rumour,0,1,rumour,0.36586908,0.60145146,0.032679506,False
+Or the day you wonder why you didn't just study creative writing and adopt some nice cats in Vermont.... or something.,unrelated,2,1,rumour,0.124041885,0.81122786,0.06473025,False
+"A new crop will rise,louder than the ones before them.Never surrender to terrorists. CharlieHebdo",unrelated,2,2,unrelated,0.062216844,2.22142e-06,0.9377809,True
+Why is the term racism used when muslims try to justify acts of terrorism? Islam is a religion not a race.,unrelated,2,0,not_rumour,0.68044263,1.6828551e-05,0.31954053,False
+the store owner thru his attorney NEVER called the police so where did they get the video?,rumour,1,1,rumour,0.0029178446,0.99707854,3.6581584e-06,True
+the availability heuristic applies to the cops decision making and now the crowds here is summary,rumour,1,0,not_rumour,0.84919715,0.14807358,0.0027293323,False
+"True, what stirs a murderous heart is beyond my remit. Did you think the material offensive?",unrelated,2,0,not_rumour,0.81056917,0.00821482,0.18121602,False
+So playing with words n logic without any limit is illogical and dangerous,not_rumour,0,0,not_rumour,0.60044235,0.0015251315,0.39803258,True
+don't think any1 is having trouble understanding what this is about. Kind if silly to compare this to anti-Semitism,unrelated,2,2,unrelated,0.09636426,8.734642e-06,0.903627,True
+PD. Clarified in followup tweets,not_rumour,0,2,unrelated,0.32598194,0.06075129,0.61326677,False
+that is a pretty good reason to shoot some one,rumour,1,1,rumour,0.046287704,0.91173106,0.041981123,True
+Pretty sure it's a bad day for twelve people and their families. How about we leave the sweeping declarations for a wee bit?,not_rumour,0,0,not_rumour,0.7181871,0.010878503,0.27093437,True
+Salman Rushdie Respect for religion has become a code phrase meaning fear of religion. CharlieHebdo,not_rumour,0,0,not_rumour,0.96765566,4.5929408e-08,0.032344334,True
+He is large. In the store photos you have some prospective unlike the still photos.,rumour,1,1,rumour,0.09982341,0.8817156,0.018460967,True
+seem like a thug? Some would say strong armed robbery thug,rumour,1,1,rumour,0.039080463,0.95752627,0.0033932056,True
+"Well, at least they wont be serving our children up as kebabs, anymore! CharleneDownes",not_rumour,0,0,not_rumour,0.9592269,0.028768808,0.01200434,True
+because you keep defending his actions by continually trying to paint his as a victim while he's a perpetrator,rumour,1,1,rumour,0.0070799035,0.99288976,3.026335e-05,True
+He shouldn't have been allowed to leave but they probably didn't think the FBI would get involved.,rumour,1,1,rumour,0.0017853841,0.9980521,0.00016253682,True
+Germany today?biggest donator fm households amp private companies to anti-Israel organizations AntiSemite,unrelated,2,2,unrelated,0.021104999,4.045259e-07,0.9788946,True
+Listen to the eye witness account that I Posted.,rumour,1,1,rumour,0.006158799,0.9936429,0.00019826449,True
+"Where are the facts ? Video from robbed store show victim pushing employee amp stealing cigars, so let's get all the facts first, OK?",rumour,1,1,rumour,0.0013230391,0.9986419,3.50347e-05,True
+but the question is are the makers of such cartoons innocent ?,not_rumour,0,0,not_rumour,0.7464723,0.018926326,0.23460138,True
+Police in Ferguson plan to release name of officer who shot unarmed teen Michael Brown,rumour,1,1,rumour,0.017275877,0.9827225,1.6507126e-06,True
+"they should have released cops name ASAP, and also the robbery info ASAP. U can't argue w that",rumour,1,1,rumour,0.00015491767,0.9998442,8.089736e-07,True
+"well good thing OUR military is in place to counter them-- oh wait Obama completely retreated our military from evrywhere, nvm",unrelated,2,1,rumour,0.32477456,0.61541164,0.059813816,False
+Japanese killed your soldiers. But you killed innocent people in mass... CharlieHebdo,not_rumour,0,0,not_rumour,0.98161227,5.1883296e-07,0.018387247,True
+"BAG OF CHIPS "" Police fire tear gas at protestors for the third night in a row in Ferguson, Mo. Ferguson",not_rumour,0,0,not_rumour,0.6851014,0.3148899,8.738957e-06,True
+"Guys, Lincoln freed the slaves. MT Ferguson heavily armed police in military gear arriving...",not_rumour,0,1,rumour,0.25164554,0.7483459,8.523339e-06,False
+too bad you are too young to know how much he did and how many he helped. sad people don't know our history.,not_rumour,0,2,unrelated,0.178765,0.14526397,0.67597103,False
+and 100 of them had 2 legs too let's blame the people with 2 legs because why not? Aren't we totally dumb?,unrelated,2,0,not_rumour,0.55727214,0.29846838,0.14425942,False
+from what I understand the FBI has taken over,rumour,1,1,rumour,0.007148949,0.9928296,2.1458629e-05,True
+"What's more frustrating even than that is that this is exactly why they did it that way, and everyone is falling for it.",rumour,1,1,rumour,0.049823027,0.5649289,0.38524804,True
+"Serious problem with your reading? I don't compare, neither does he! He's telling us that it's wrong!",not_rumour,0,2,unrelated,0.32403657,0.026644036,0.6493194,False
+You admit Assange publishes stolen info and bitches like a clown when Wikieaks is asked to retweet cartoon? ROFL,not_rumour,0,2,unrelated,0.23046763,0.22598757,0.54354477,False
+have introduced male Pym Jr to Asterix - he loves him too,unrelated,2,2,unrelated,0.067967184,0.0069670575,0.92506576,True
+and a cover up is a COVER UP!!,rumour,1,0,not_rumour,0.632356,0.3170384,0.05060558,False
+"pero es fox news,media novedad.",unrelated,2,0,not_rumour,0.77049196,0.016644308,0.21286374,False
+"there needs to be some clarity to the use of ""robbed"" as there is a difference btwn robbery theft. Perceptively and legally",rumour,1,1,rumour,0.005248017,0.99425226,0.0004997176,True
+CNN Antisemitismus why can't you write the word Jewish in your story,unrelated,2,2,unrelated,0.3186668,9.526543e-05,0.68123794,True
+oh believe me they getting warrant drafted now.,rumour,1,1,rumour,0.00021235125,0.9997625,2.5164374e-05,True
+I disagree. We have convicted them for deploying tanks and blocking 1st amendment rights to peaceably assemble.,rumour,1,0,not_rumour,0.9593242,0.02622255,0.01445321,False
+"Schools closed, Dammartin-en-Goele residents told to stay indoors, town 'like warzone'",unrelated,2,2,unrelated,0.018635634,1.0396515e-06,0.9813633,True
+perfect! Also in Paris one pig killed.,unrelated,2,2,unrelated,0.32734036,0.00034457454,0.67231506,True
+Nice. Police begged media for discretion about location of q amp a. Are set up about half a mile from QuikTrip protest site,not_rumour,0,0,not_rumour,0.72644657,0.03270667,0.2408468,True
+"It ALLLLLL plays a part. There is always a starting point, the history of a problem.",not_rumour,0,1,rumour,0.24890828,0.6404774,0.1106143,False
+sorry to hear that news,not_rumour,0,2,unrelated,0.008942306,0.0067236903,0.98433405,False
+Saudi's are the biggest hypocrites here.,unrelated,2,2,unrelated,0.036767337,5.7930276e-05,0.96317476,True
+is this all part of a plan .. a spread of attacks by different associates to cause maximum confusion ..playing hostages . Max PR?,unrelated,2,2,unrelated,0.08137262,1.237624e-05,0.9186149,True
+. WRONG - he shot after Brown pushed him back into car amp grabbed4fun amp he couldn't get out amp Brown RAN,rumour,1,1,rumour,0.00028268291,0.9997137,3.568893e-06,True
+"Together with NSA, that's for sure.",unrelated,2,1,rumour,0.2919562,0.46110922,0.24693453,False
+Every 28 hours a black male is killed in the United States by police or vigilantes. Ferguson this makes me cry.,rumour,1,1,rumour,0.006513494,0.99348587,6.535084e-07,True
+Yes... It seems like the police are using deceit to win the battle. It could cost them the war.,rumour,1,2,unrelated,0.12384593,0.011018819,0.8651353,False
+ask yourself why black on black crime might be a focus of media attention and white on white crime isn't.,rumour,1,1,rumour,0.01962751,0.98026294,0.00010950462,True
+What definitive evidence exists that validates that statement?,rumour,1,1,rumour,0.024586128,0.94677484,0.028639026,True
+is there a ink to any video on attack on kosher grocery market with children and women inside?,unrelated,2,2,unrelated,0.021429114,5.254992e-05,0.97851837,True
+"they just went ""aye, you're fucking nuts you lad"".",unrelated,2,1,rumour,0.25522804,0.44153315,0.3032388,False
+THIS NEEDS TO STOP NOW. WHAT DO WE DO?????? stoptheviolence peoplehavelosttheirsouls peace,unrelated,2,0,not_rumour,0.98777336,3.6601294e-05,0.012190011,False
+Stats that say nothing. Obama elected 2008. Let's see 2010-2014 stats amp per ethnicity,not_rumour,0,1,rumour,0.0055821487,0.99420834,0.0002095282,False
+"i need a gilet protection they kouachi friends, came to my door last night after identified them on twitter one black African, Arab",unrelated,2,0,not_rumour,0.92573494,0.05510822,0.01915681,False
+Multiple incidents by French citizens all of whom have not been neutralised. What a nightmare for French Security.,unrelated,2,2,unrelated,0.0042130365,1.7634633e-05,0.9957694,True
+Amazing photo apparently of hostages at Paris supermarket siege being carried away. All app alive c4news,unrelated,2,2,unrelated,1.6061611e-05,5.4417576e-08,0.9999839,True
+its all about freedom of speach! Just ask Julian Assange....,not_rumour,0,0,not_rumour,0.87861073,0.0011980386,0.120191246,True
+thank you very much. I appreciate it! Stay well!!,rumour,1,0,not_rumour,0.66227883,0.0076205074,0.33010066,False
+Its horrible that Paris has to deal with all these violent attacks. What a way to start 2015.,unrelated,2,2,unrelated,0.17160146,0.00048791297,0.8279106,True
+What time is it in Missouri? At 8 00 police will release the name of the officer who shot Michael Brown. Ferguson,rumour,1,1,rumour,0.036493756,0.963506,1.9943019e-07,True
+bravo... You are the best... We have missed you.,unrelated,2,0,not_rumour,0.901971,0.003885753,0.094143175,False
+OTOH you could have been tweeting that in German.,not_rumour,0,2,unrelated,0.086782515,4.856384e-05,0.9131689,False
+Appreciate feedback but I don't see why. Very similar issue Islamist violence against freedom of thought and expression.,unrelated,2,0,not_rumour,0.67874604,1.0201487e-05,0.32124376,False
+"France's most talented cartoonists Cabu, Wolinski, Charb, Tignous died in CharlieHebdo attack"" They died defending liberty",unrelated,2,2,unrelated,0.028114054,1.1109369e-07,0.9718858,True
+This is so sick. This poor woman.,not_rumour,0,1,rumour,0.31279474,0.44959185,0.23761338,False
+"Yes, tweet actual covers instead of the mere JeSuisCharlie. They are, after all, what the bullies cant handle.",not_rumour,0,0,not_rumour,0.7202154,0.02892501,0.2508596,True
+"Most Germans weren't Nazis. Don't worry, we only executed very few Nazis.",unrelated,2,0,not_rumour,0.55531114,0.0002233912,0.44446546,False
+They are only to this world. Alhumdulillah Muslims have both the WORLDS.,unrelated,2,0,not_rumour,0.80224794,0.00038325042,0.19736879,False
+"If you're a media outlet reporting on CharlieHebdo and blurring out the cartoons you're reporting on, you're doing journalism wrong.",not_rumour,0,0,not_rumour,0.58604074,0.16930301,0.24465625,True
+Banksy account joins cartoonists support for CharlieHebdo JeSuisCharlie,unrelated,2,2,unrelated,0.1105956,1.42573945e-05,0.8893902,True
+Here Egypt you may shot in head with brain out and family arrested for just holding a sign Against Gov. welcome to the real world,rumour,1,2,unrelated,0.27456436,0.019329283,0.7061063,False
+"-D Someones shirt? Dude, you need to sacrifice yours I'm afraid. No one's gonna give you their shirt at that point.",not_rumour,0,0,not_rumour,0.84057635,0.0377344,0.121689245,True
+oh i think the world can do without 's opinion of Furguson.......,rumour,1,0,not_rumour,0.931958,1.7059217e-06,0.06804031,False
+"if I lived there I would be protesting, did see some white folks in the crowd though..",not_rumour,0,0,not_rumour,0.69550854,0.3035486,0.00094282714,True
+no it's time for Islamic extremist being stopped from murdering westerners !,unrelated,2,2,unrelated,0.07030355,4.179154e-06,0.92969227,True
+Witnesses came forward from the beginning saying he had stolen from a convenience store.,rumour,1,1,rumour,0.00042125894,0.9992218,0.00035682024,True
+Muslims have been speaking out,not_rumour,0,0,not_rumour,0.7333197,4.9978204e-05,0.2666303,True
+try readin books that don't have cartoons in them dipshit,not_rumour,0,2,unrelated,0.4184526,0.0005835461,0.58096385,False
+"Well one person already is collecting, a second almost collected, and it's only Wednesday...",rumour,1,0,not_rumour,0.62966484,0.26318923,0.10714591,False

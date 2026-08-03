@@ -1,0 +1,2 @@
+dataset,model,model_key,cv_f1_macro_mean,cv_f1_macro_std,test_accuracy,test_f1_macro,test_f1_weighted,test_precision,test_recall,test_f1_rumour
+sydneysiege,roberta-base,roberta,0.84057,0.015126,0.821229,0.817673,0.821514,0.816768,0.818792,0.792208

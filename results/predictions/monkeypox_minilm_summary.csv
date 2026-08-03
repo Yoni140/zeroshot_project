@@ -1,0 +1,2 @@
+dataset,model,model_key,cv_f1_macro_mean,cv_f1_macro_std,test_accuracy,test_f1_macro,test_f1_weighted,test_precision,test_recall,test_f1_misinformation
+monkeypox,microsoft/MiniLM-L12-H384-uncased,minilm,0.763064,0.020753,0.76771,0.753524,0.764734,0.754495,0.753895,0.653465

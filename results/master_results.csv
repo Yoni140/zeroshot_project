@@ -1,17 +1,29 @@
-dataset,model,cv_f1_macro_mean,cv_f1_macro_std,test_accuracy,test_f1_macro,test_f1_weighted,test_precision,test_recall,test_f1_misinformation,test_roc_auc,test_pr_auc,model_key,model_type,f1_misinformation,null_predictions,parse_errors,parse_json,parse_keyword_fallback,parse_empty,parse_default,model_display,params_b,provider,model_id,test_f1_rumour,f1_rumour
-manchester,roberta-base,0.964612,0.006573,0.976699,0.964972,0.976547,0.970423,0.959894,0.928,0.99561,0.990383,roberta,RoBERTa Fine-Tuned,,,,,,,,,,,,,
-manchester,ollama-zero-shot (llama3.1),,,0.6815533980582524,0.6507631330436318,0.6980035189592927,0.6557475366284026,0.7053396427400852,,,,llama31,Llama 3.1 8B,0.5,1.0,2.0,513.0,1.0,0.0,1.0,,,,,,
-manchester,gpt_oss,,,0.7708737864077669,0.7250173359599993,0.7829783562975684,0.7255002145002144,0.7772670845624385,0.5396825396825398,,,gpt_oss,GPT-OSS 120B,,1.0,2.0,513.0,1.0,0.0,1.0,GPT-OSS 120B,120.0,groq,openai/gpt-oss-120b,,
-manchester,llama33,,,0.7553398058252427,0.7149943161282638,0.7622755192157875,0.7073760160805073,0.7391175024582104,0.5641025641025642,,,llama33,Llama 3.3 70B,,0.0,0.0,515.0,0.0,0.0,0.0,Llama 3.3 70B,70.0,groq,llama-3.3-70b-versatile,,
-manchester,qwen3,,,0.6776699029126214,0.6444410493892102,0.6856944592932468,0.6703466749245911,0.6984728367748279,0.5130890052356021,,,qwen3,Qwen3.6 27B,,0.0,5.0,510.0,5.0,0.0,0.0,Qwen3.6 27B,27.0,groq,qwen/qwen3.6-27b,,
-manchester,gemini_flash,,,0.7572815533980582,0.7311793526463827,0.7577012578464823,0.742189269651448,0.736754137987545,0.6466165413533834,,,gemini_flash,Gemini 2.5 Flash,,0.0,0.0,515.0,0.0,0.0,0.0,Gemini 2.5 Flash,,gemini,gemini-2.5-flash,,
-monkeypox,roberta-base,0.858811,0.004809,0.873147,0.868655,0.872376,0.868298,0.869884,0.835443,,,roberta,RoBERTa Fine-Tuned,,,,,,,,,,,,,
-monkeypox,ollama-zero-shot (llama3.1),,,0.6474464579901154,0.6441185535462011,0.6445577016217142,0.6564744658415166,0.6649964614295825,,,,llama31,Llama 3.1 8B,0.6401985111662531,4.0,5.0,602.0,1.0,0.0,4.0,,,,,,
-monkeypox,gpt_oss,,,0.700164744645799,0.690431376910437,0.6887004603205026,0.7015935866772964,0.710478886529842,0.7058823529411764,,,gpt_oss,GPT-OSS 120B,,2.0,2.0,605.0,0.0,0.0,2.0,GPT-OSS 120B,120.0,groq,openai/gpt-oss-120b,,
-monkeypox,qwen3,,,0.6803953871499177,0.6627716002693661,0.6637119181701608,0.7147699667417596,0.7029676810568529,0.6543778801843317,,,qwen3,Qwen3.6 27B,,0.0,16.0,591.0,16.0,0.0,0.0,Qwen3.6 27B,27.0,groq,qwen/qwen3.6-27b,,
-monkeypox,gemini_flash,,,0.7759472817133443,0.7725915793733803,0.771145665232397,0.7744143795863367,0.7811936777541874,0.785498489425982,,,gemini_flash,Gemini 2.5 Flash,,0.0,0.0,607.0,0.0,0.0,0.0,Gemini 2.5 Flash,,gemini,gemini-2.5-flash,,
-pheme,roberta-base,0.632573,0.015955,0.656296,0.657538,0.657538,0.659894,0.656296,,,,roberta,RoBERTa Fine-Tuned,,,,,,,,,,,,0.762749,
-pheme,ollama-zero-shot (llama3.1),,,0.32,0.3195861261306339,0.3195861261306339,0.3198382844735443,0.32,,,,llama31,Llama 3.1 8B,,5.0,6.0,669.0,1.0,0.0,5.0,,,,,,0.3837471783295711
-pheme,gpt_oss,,,0.3481481481481481,0.281712248609001,0.2817122486090011,0.4195504457490759,0.3481481481481481,,,,gpt_oss,GPT-OSS 120B,,1.0,1.0,674.0,0.0,0.0,1.0,GPT-OSS 120B,120.0,groq,openai/gpt-oss-120b,0.261744966442953,
-pheme,qwen3,,,0.36,0.3532782715784965,0.3532782715784965,0.4008335715369374,0.36,,,,qwen3,Qwen3.6 27B,,0.0,4.0,671.0,4.0,0.0,0.0,Qwen3.6 27B,27.0,groq,qwen/qwen3.6-27b,0.3229813664596273,
-pheme,gemini_flash,,,0.3392592592592592,0.3190232963504029,0.3190232963504028,0.3729726021492711,0.3392592592592593,,,,gemini_flash,Gemini 2.5 Flash,,0.0,0.0,675.0,0.0,0.0,0.0,Gemini 2.5 Flash,,gemini,gemini-2.5-flash,0.2458471760797342,
+dataset,model_key,model_display,model,family,test_f1_macro,test_f1_weighted,test_accuracy,test_precision,test_recall,test_f1_pos,cv_f1_macro_mean,cv_f1_macro_std,source_file
+gurlitt,minilm,MiniLM,microsoft/MiniLM-L12-H384-uncased,Transformer (fine-tuned),0.366667,0.424561,0.578947,0.289474,0.5,0.0,0.452672,0.132375,gurlitt_minilm_summary.csv
+manchester,gemini_flash,Gemini 2.5 Flash,gemini_flash,LLM (zero-shot),0.7311793526463827,0.7577012578464823,0.7572815533980582,0.742189269651448,0.736754137987545,0.6466165413533834,,,manchester_gemini_flash_summary.csv
+manchester,gpt_oss,GPT-OSS 120B,gpt_oss,LLM (zero-shot),0.7250173359599993,0.7829783562975684,0.7708737864077669,0.7255002145002144,0.7772670845624385,0.5396825396825398,,,manchester_gpt_oss_summary.csv
+manchester,llama31,Llama 3.1 8B,ollama-zero-shot (llama3.1),LLM (zero-shot),0.6507631330436318,0.6980035189592927,0.6815533980582524,0.6557475366284026,0.7053396427400852,0.5,,,manchester_zeroshot_summary.csv
+manchester,llama33,Llama 3.3 70B,llama33,LLM (zero-shot),0.7149943161282638,0.7622755192157875,0.7553398058252427,0.7073760160805073,0.7391175024582104,0.5641025641025642,,,manchester_llama33_summary.csv
+manchester,qwen3,Qwen3.6 27B,qwen3,LLM (zero-shot),0.6444410493892102,0.6856944592932468,0.6776699029126214,0.6703466749245911,0.6984728367748279,0.5130890052356021,,,manchester_qwen3_summary.csv
+manchester,bertweet,BERTweet,vinai/bertweet-base,Transformer (fine-tuned),0.958332,0.971182,0.970874,0.950923,0.96665,0.917293,0.960252,0.004435,manchester_bertweet_summary.csv
+manchester,minilm,MiniLM,microsoft/MiniLM-L12-H384-uncased,Transformer (fine-tuned),0.951863,0.968839,0.968932,0.953505,0.950261,0.897638,0.939804,0.007972,manchester_minilm_summary.csv
+manchester,modernbert,ModernBERT,answerdotai/ModernBERT-base,Transformer (fine-tuned),0.963595,0.976656,0.976699,0.963581,0.963634,0.921875,0.953974,0.010095,manchester_modernbert_summary.csv
+manchester,roberta,RoBERTa,roberta-base,Transformer (fine-tuned),0.964972,0.976547,0.976699,0.970423,0.959894,0.928,0.964612,0.006573,manchester_roberta_summary.csv
+monkeypox,gemini_flash,Gemini 2.5 Flash,gemini_flash,LLM (zero-shot),0.7725915793733803,0.771145665232397,0.7759472817133443,0.7744143795863367,0.7811936777541874,0.785498489425982,,,monkeypox_gemini_flash_summary.csv
+monkeypox,gpt_oss,GPT-OSS 120B,gpt_oss,LLM (zero-shot),0.690431376910437,0.6887004603205026,0.700164744645799,0.7015935866772964,0.710478886529842,0.7058823529411764,,,monkeypox_gpt_oss_summary.csv
+monkeypox,llama31,Llama 3.1 8B,ollama-zero-shot (llama3.1),LLM (zero-shot),0.6441185535462011,0.6445577016217142,0.6474464579901154,0.6564744658415166,0.6649964614295825,0.6401985111662531,,,monkeypox_zeroshot_summary.csv
+monkeypox,llama33,Llama 3.3 70B,llama33,LLM (zero-shot),0.7180240883944587,0.7184428848349772,0.729818780889621,0.7323880026413652,0.7397121962727059,0.7142857142857144,,,monkeypox_llama33_summary.csv
+monkeypox,qwen3,Qwen3.6 27B,qwen3,LLM (zero-shot),0.6627716002693661,0.6637119181701608,0.6803953871499177,0.7147699667417596,0.7029676810568529,0.6543778801843317,,,monkeypox_qwen3_summary.csv
+monkeypox,bertweet,BERTweet,vinai/bertweet-base,Transformer (fine-tuned),0.873157,0.875464,0.876442,0.873832,0.873489,0.852564,0.866819,0.013149,monkeypox_bertweet_summary.csv
+monkeypox,minilm,MiniLM,microsoft/MiniLM-L12-H384-uncased,Transformer (fine-tuned),0.753524,0.764734,0.76771,0.754495,0.753895,0.653465,0.763064,0.020753,monkeypox_minilm_summary.csv
+monkeypox,modernbert,ModernBERT,answerdotai/ModernBERT-base,Transformer (fine-tuned),0.815534,0.822059,0.822076,0.81696,0.814334,0.757282,0.832048,0.009959,monkeypox_modernbert_summary.csv
+monkeypox,roberta,RoBERTa,roberta-base,Transformer (fine-tuned),0.868655,0.872376,0.873147,0.868298,0.869884,0.835443,0.858811,0.004809,monkeypox_roberta_summary.csv
+pheme,gemini_flash,Gemini 2.5 Flash,gemini_flash,LLM (zero-shot),0.3190232963504029,0.3190232963504028,0.3392592592592592,0.3729726021492711,0.3392592592592593,0.2458471760797342,,,pheme_gemini_flash_summary.csv
+pheme,gpt_oss,GPT-OSS 120B,gpt_oss,LLM (zero-shot),0.281712248609001,0.2817122486090011,0.3481481481481481,0.4195504457490759,0.3481481481481481,0.261744966442953,,,pheme_gpt_oss_summary.csv
+pheme,llama31,Llama 3.1 8B,ollama-zero-shot (llama3.1),LLM (zero-shot),0.3195861261306339,0.3195861261306339,0.32,0.3198382844735443,0.32,0.3837471783295711,,,pheme_zeroshot_summary.csv
+pheme,qwen3,Qwen3.6 27B,qwen3,LLM (zero-shot),0.3532782715784965,0.3532782715784965,0.36,0.4008335715369374,0.36,0.3229813664596273,,,pheme_qwen3_summary.csv
+pheme,bertweet,BERTweet,vinai/bertweet-base,Transformer (fine-tuned),0.659813,0.659813,0.659259,0.662701,0.659259,0.775599,0.640439,0.013173,pheme_bertweet_summary.csv
+pheme,minilm,MiniLM,microsoft/MiniLM-L12-H384-uncased,Transformer (fine-tuned),0.591028,0.591028,0.6,0.587434,0.6,0.719836,0.592256,0.011457,pheme_minilm_summary.csv
+pheme,modernbert,ModernBERT,answerdotai/ModernBERT-base,Transformer (fine-tuned),0.623586,0.623586,0.623704,0.623698,0.623704,0.710526,0.607531,0.018871,pheme_modernbert_summary.csv
+pheme,roberta,RoBERTa,roberta-base,Transformer (fine-tuned),0.657538,0.657538,0.656296,0.659894,0.656296,0.762749,0.632573,0.015955,pheme_roberta_summary.csv
+pheme_all_events,roberta,RoBERTa,roberta-base,Transformer (fine-tuned),0.859494,0.859494,0.86,0.86526,0.86,0.867925,0.851773,0.020372,pheme_all_events_roberta_summary.csv

@@ -1,0 +1,2 @@
+dataset,model,model_key,cv_f1_macro_mean,cv_f1_macro_std,test_accuracy,test_f1_macro,test_f1_weighted,test_precision,test_recall,test_f1_rumour
+pheme_all_events,vinai/bertweet-base,bertweet,0.85206,0.020652,0.864444,0.864025,0.864025,0.869,0.864444,0.871579

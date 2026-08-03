@@ -1,0 +1,2 @@
+dataset,model,model_key,cv_f1_macro_mean,cv_f1_macro_std,test_accuracy,test_f1_macro,test_f1_weighted,test_precision,test_recall,test_f1_misinformation
+manchester,microsoft/MiniLM-L12-H384-uncased,minilm,0.939804,0.007972,0.968932,0.951863,0.968839,0.953505,0.950261,0.897638

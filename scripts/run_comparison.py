@@ -1,6 +1,13 @@
 """
-Standalone comparison script — replicates notebook 09 logic.
+Standalone comparison script — replicates notebook 09 logic (RoBERTa vs one zero-shot).
+
+For full transformer-family vs LLM-family research plots (means, heatmaps, agreement),
+prefer: python scripts/plot_research_comparison.py
+
 Run from project root: python scripts/run_comparison.py
+
+NOTE: This script overwrites results/master_results.csv with a RoBERTa/zeroshot-only
+table. Use plot_research_comparison.py to refresh the full master table.
 """
 import pandas as pd
 import glob

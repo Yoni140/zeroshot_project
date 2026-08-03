@@ -1,0 +1,2 @@
+dataset,model,model_key,cv_f1_macro_mean,cv_f1_macro_std,test_accuracy,test_f1_macro,test_f1_weighted,test_precision,test_recall,test_f1_rumour
+ottawashooting,microsoft/MiniLM-L12-H384-uncased,minilm,0.861613,0.046258,0.846154,0.846008,0.846373,0.846828,0.84881,0.850746

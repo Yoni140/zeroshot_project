@@ -325,6 +325,154 @@ def run_preprocessing_pheme(input_path: str, output_dir: str, gold_dir: str,
 
 
 # ──────────────────────────────────────────────
+# PHEME per-event datasets (2-class: not_rumour / rumour)
+# ──────────────────────────────────────────────
+
+# Raw CSV stems under data/raw/ (filename without .csv).
+# Note: raw file is "ottawashooting.csv" (correct spelling).
+PHEME_EVENT_DATASETS = [
+    'pheme_all_events',
+    'gurlitt',
+    'germanwings-crash',
+    'ebola-essien',
+    'charliehebdo',
+    'ferguson',
+    'ottawashooting',
+    'prince-toronto',
+    'putinmissing',
+    'sydneysiege',
+]
+
+
+def _safe_split_and_save(gold: pd.DataFrame, gold_dir: str, prefix: str,
+                         random_state: int = 42) -> tuple:
+    """
+    Stratified 70/15/15 when possible; falls back to non-stratified or
+    train-only when a class is too small for stratification.
+    """
+    n = len(gold)
+    counts = gold['label'].value_counts()
+    min_count = int(counts.min()) if len(counts) else 0
+    n_classes = gold['label'].nunique()
+
+    gold.to_csv(os.path.join(gold_dir, f'{prefix}_gold_standard.csv'),
+                index=False, encoding='utf-8')
+
+    # Need ≥2 samples per class to stratify a single split; ≥ enough for 70/15/15.
+    can_stratify = n_classes >= 2 and min_count >= 2 and n >= 10
+
+    if not can_stratify:
+        # Put everything in train; empty val/test (still write files for pipeline).
+        train, val, test = gold.copy(), gold.iloc[0:0].copy(), gold.iloc[0:0].copy()
+        print(f'  [warn] {prefix}: too small / single-class for stratified split '
+              f'(n={n}, classes={counts.to_dict()}). All rows → train.')
+    else:
+        try:
+            train, temp = train_test_split(
+                gold, test_size=0.30, stratify=gold['label'], random_state=random_state)
+            # Second split needs ≥1 per class in temp for each of val/test.
+            temp_min = int(temp['label'].value_counts().min())
+            if temp_min < 2:
+                # Keep a stratified train/test only; empty val.
+                train, test = train_test_split(
+                    gold, test_size=0.20, stratify=gold['label'], random_state=random_state)
+                val = gold.iloc[0:0].copy()
+                print(f'  [warn] {prefix}: val fold skipped (temp too small).')
+            else:
+                val, test = train_test_split(
+                    temp, test_size=0.50, stratify=temp['label'], random_state=random_state)
+        except ValueError as e:
+            train, val, test = gold.copy(), gold.iloc[0:0].copy(), gold.iloc[0:0].copy()
+            print(f'  [warn] {prefix}: split failed ({e}). All rows → train.')
+
+    train.to_csv(os.path.join(gold_dir, f'{prefix}_train.csv'),
+                 index=False, encoding='utf-8')
+    val.to_csv(os.path.join(gold_dir, f'{prefix}_val.csv'),
+               index=False, encoding='utf-8')
+    test.to_csv(os.path.join(gold_dir, f'{prefix}_test.csv'),
+                index=False, encoding='utf-8')
+
+    print(f'Train: {len(train):,} | Val: {len(val):,} | Test: {len(test):,}')
+    if len(test):
+        print('  test label dist:', test['label'].value_counts().to_dict())
+    return train, val, test
+
+
+def run_preprocessing_pheme_event(input_path: str, dataset_key: str,
+                                    output_dir: str, gold_dir: str,
+                                    min_words: int = 5, max_chars: int = 350,
+                                    per_class_cap: int = PER_CLASS_CAP,
+                                    random_state: int = 42):
+    """
+    Preprocess one PHEME event CSV (2-class: not_rumour / rumour).
+    Event files have no topic=='unknown', so there is no unrelated class.
+    """
+    os.makedirs(output_dir, exist_ok=True)
+    os.makedirs(gold_dir, exist_ok=True)
+
+    print(f'\n{"="*60}')
+    print(f'PHEME EVENT PREPROCESSING (2-class): {dataset_key}')
+    print(f'{"="*60}')
+    print(f'טוען: {input_path}')
+    df = pd.read_csv(input_path)
+    print(f'נטען: {len(df):,} שורות')
+
+    # Binary rumour labels only (no unrelated for per-event files)
+    df = df.copy()
+    df['label'] = df['is_rumor'].map({0: 'not_rumour', 1: 'rumour',
+                                      0.0: 'not_rumour', 1.0: 'rumour'})
+    df = df.dropna(subset=['label'])
+    print(f'לאחר הסרת שורות ללא תיוג: {len(df):,}')
+
+    df['cleaned_tweet'] = df['text'].apply(lambda x: clean_tweet(x, max_chars))
+    df['word_count'] = df['cleaned_tweet'].str.split().str.len()
+
+    df = df[df['word_count'] >= min_words]
+    print(f'אחרי סינון (>={min_words} מילים): {len(df):,}')
+
+    df = df.drop_duplicates(subset='cleaned_tweet')
+    print(f'אחרי dedup: {len(df):,}')
+    print('התפלגות תיוג (2-class):')
+    print(df['label'].value_counts().to_string())
+
+    cols = ['text', 'cleaned_tweet', 'label', 'topic', 'user.handle', 'word_count']
+    cols = [c for c in cols if c in df.columns]
+    clean_path = os.path.join(output_dir, f'{dataset_key}_clean.csv')
+    df[cols].to_csv(clean_path, index=False, encoding='utf-8')
+    print(f'נשמר: {clean_path}')
+
+    present = [c for c in ['not_rumour', 'rumour'] if c in set(df['label'])]
+    if not present:
+        print(f'[skip gold] {dataset_key}: no usable labels after cleaning.')
+        return
+
+    gold = _build_gold_3class(df, present, per_class_cap, random_state)
+    print(f'\nGold Standard: {len(gold):,}')
+    print(gold['label'].value_counts().to_string())
+
+    _safe_split_and_save(gold, gold_dir, dataset_key, random_state)
+    print(f'{dataset_key}: הושלם.')
+
+
+def run_preprocessing_pheme_events(raw_dir: str, output_dir: str, gold_dir: str,
+                                     events: list = None, **kwargs):
+    """Run preprocessing for all (or selected) PHEME event CSVs."""
+    events = events or PHEME_EVENT_DATASETS
+    for key in events:
+        path = os.path.join(raw_dir, f'{key}.csv')
+        if not os.path.exists(path):
+            print(f'[skip] missing raw file: {path}')
+            continue
+        run_preprocessing_pheme_event(
+            input_path=path,
+            dataset_key=key,
+            output_dir=output_dir,
+            gold_dir=gold_dir,
+            **kwargs,
+        )
+
+
+# ──────────────────────────────────────────────
 # Legacy wrapper — kept for backward compatibility
 # ──────────────────────────────────────────────
 
@@ -366,10 +514,17 @@ if __name__ == '__main__':
         gold_dir=GOLD,
     )
 
-    run_preprocessing_pheme(
-        input_path=os.path.join(RAW, 'PHEME-rumourdetection.csv'),
-        output_dir=PROC,
-        gold_dir=GOLD,
-    )
+    # Legacy combined PHEME file (optional — may be absent if only event CSVs exist)
+    pheme_legacy = os.path.join(RAW, 'PHEME-rumourdetection.csv')
+    if os.path.exists(pheme_legacy):
+        run_preprocessing_pheme(
+            input_path=pheme_legacy,
+            output_dir=PROC,
+            gold_dir=GOLD,
+        )
+    else:
+        print('\n[skip] PHEME-rumourdetection.csv not found — using event CSVs only.')
 
-    print('\n✅ כל ה-datasets עובדו בהצלחה (3-class).')
+    run_preprocessing_pheme_events(raw_dir=RAW, output_dir=PROC, gold_dir=GOLD)
+
+    print('\n✅ כל ה-datasets עובדו בהצלחה.')
