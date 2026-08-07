@@ -1,0 +1,2 @@
+dataset,model,model_display,params_b,provider,model_id,test_accuracy,test_f1_macro,test_f1_weighted,test_precision,test_recall,test_f1_rumour,null_predictions,parse_errors,parse_json,parse_keyword_fallback,parse_empty,parse_default
+charliehebdo,qwen3,Qwen3.6 27B,27,groq,qwen/qwen3.6-27b,0.702054794520548,0.43374272786037493,0.644654700657924,0.4203980099502488,0.4660364842454395,0.04395604395604395,0,0,292,0,0,0

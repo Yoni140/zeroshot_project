@@ -1,0 +1,2 @@
+dataset,model,model_display,params_b,provider,model_id,test_accuracy,test_f1_macro,test_f1_weighted,test_precision,test_recall,test_f1_rumour,null_predictions,parse_errors,parse_json,parse_keyword_fallback,parse_empty,parse_default
+sydneysiege,gemini_flash,Gemini 2.5 Flash,,gemini,gemini-2.5-flash,0.5865921787709497,0.49272365196078427,0.5256385899331799,0.5666163901458019,0.5338528359734287,0.2745098039215686,0,0,179,0,0,0

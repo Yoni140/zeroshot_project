@@ -1,0 +1,2 @@
+dataset,model,model_display,params_b,provider,model_id,test_accuracy,test_f1_macro,test_f1_weighted,test_precision,test_recall,test_f1_rumour,null_predictions,parse_errors,parse_json,parse_keyword_fallback,parse_empty,parse_default
+pheme_all_events,gemini_flash,Gemini 2.5 Flash,,gemini,gemini-2.5-flash,0.5911111111111111,0.5630699088145897,0.5630699088145897,0.6225783305429323,0.5911111111111111,0.4523809523809524,0,1,449,1,0,0

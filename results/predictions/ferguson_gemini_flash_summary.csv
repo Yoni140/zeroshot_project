@@ -1,0 +1,2 @@
+dataset,model,model_display,params_b,provider,model_id,test_accuracy,test_f1_macro,test_f1_weighted,test_precision,test_recall,test_f1_rumour,null_predictions,parse_errors,parse_json,parse_keyword_fallback,parse_empty,parse_default
+ferguson,gemini_flash,Gemini 2.5 Flash,,gemini,gemini-2.5-flash,0.7195121951219512,0.619758064516129,0.7147619984264358,0.6244778613199666,0.6163153786104606,0.42500000000000004,0,0,164,0,0,0

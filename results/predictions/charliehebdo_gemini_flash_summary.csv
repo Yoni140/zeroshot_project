@@ -1,0 +1,2 @@
+dataset,model,model_display,params_b,provider,model_id,test_accuracy,test_f1_macro,test_f1_weighted,test_precision,test_recall,test_f1_rumour,null_predictions,parse_errors,parse_json,parse_keyword_fallback,parse_empty,parse_default
+charliehebdo,gemini_flash,Gemini 2.5 Flash,,gemini,gemini-2.5-flash,0.726027397260274,0.5013661202185792,0.6824706190583126,0.5257637341025305,0.5130348258706467,0.16666666666666663,0,0,292,0,0,0

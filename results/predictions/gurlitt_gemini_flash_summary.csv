@@ -1,0 +1,2 @@
+dataset,model,model_display,params_b,provider,model_id,test_accuracy,test_f1_macro,test_f1_weighted,test_precision,test_recall,test_f1_rumour,null_predictions,parse_errors,parse_json,parse_keyword_fallback,parse_empty,parse_default
+gurlitt,gemini_flash,Gemini 2.5 Flash,,gemini,gemini-2.5-flash,0.5789473684210527,0.3666666666666667,0.4245614035087719,0.2894736842105263,0.5,0.0,0,0,19,0,0,0

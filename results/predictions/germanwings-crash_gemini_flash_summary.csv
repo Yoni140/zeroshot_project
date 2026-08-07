@@ -1,0 +1,2 @@
+dataset,model,model_display,params_b,provider,model_id,test_accuracy,test_f1_macro,test_f1_weighted,test_precision,test_recall,test_f1_rumour,null_predictions,parse_errors,parse_json,parse_keyword_fallback,parse_empty,parse_default
+germanwings-crash,gemini_flash,Gemini 2.5 Flash,,gemini,gemini-2.5-flash,0.5714285714285714,0.4897959183673469,0.4839650145772595,0.765625,0.5833333333333334,0.2857142857142857,0,0,70,0,0,0

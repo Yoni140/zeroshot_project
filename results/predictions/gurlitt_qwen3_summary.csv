@@ -1,0 +1,2 @@
+dataset,model,model_display,params_b,provider,model_id,test_accuracy,test_f1_macro,test_f1_weighted,test_precision,test_recall,test_f1_rumour,null_predictions,parse_errors,parse_json,parse_keyword_fallback,parse_empty,parse_default
+gurlitt,qwen3,Qwen3.6 27B,27,groq,qwen/qwen3.6-27b,0.631578947368421,0.49042145593869735,0.5327687033676145,0.8055555555555556,0.5625,0.2222222222222222,0,0,19,0,0,0

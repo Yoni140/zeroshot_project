@@ -1,0 +1,2 @@
+dataset,model,model_display,params_b,provider,model_id,test_accuracy,test_f1_macro,test_f1_weighted,test_precision,test_recall,test_f1_rumour,null_predictions,parse_errors,parse_json,parse_keyword_fallback,parse_empty,parse_default
+charliehebdo,gpt_oss,GPT-OSS 120B,120,groq,openai/gpt-oss-120b,0.6678082191780822,0.5704775336275267,0.681112413605856,0.5681305034996613,0.5800663349917081,0.36601307189542487,1,1,291,0,0,1

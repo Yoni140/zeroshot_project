@@ -1,0 +1,2 @@
+dataset,model,model_display,params_b,provider,model_id,test_accuracy,test_f1_macro,test_f1_weighted,test_precision,test_recall,test_f1_rumour,null_predictions,parse_errors,parse_json,parse_keyword_fallback,parse_empty,parse_default
+ferguson,gpt_oss,GPT-OSS 120B,120,groq,openai/gpt-oss-120b,0.5914634146341463,0.5817441285067184,0.6128458441144876,0.6407908909062933,0.6785714285714286,0.5179856115107913,0,0,164,0,0,0

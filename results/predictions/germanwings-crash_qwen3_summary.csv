@@ -1,0 +1,2 @@
+dataset,model,model_display,params_b,provider,model_id,test_accuracy,test_f1_macro,test_f1_weighted,test_precision,test_recall,test_f1_rumour,null_predictions,parse_errors,parse_json,parse_keyword_fallback,parse_empty,parse_default
+germanwings-crash,qwen3,Qwen3.6 27B,27,groq,qwen/qwen3.6-27b,0.5714285714285714,0.5028409090909091,0.49756493506493504,0.7036290322580645,0.5825163398692811,0.3181818181818182,0,0,70,0,0,0

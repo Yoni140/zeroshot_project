@@ -1,0 +1,2 @@
+dataset,model,model_display,params_b,provider,model_id,test_accuracy,test_f1_macro,test_f1_weighted,test_precision,test_recall,test_f1_rumour,null_predictions,parse_errors,parse_json,parse_keyword_fallback,parse_empty,parse_default
+pheme_all_events,gpt_oss,GPT-OSS 120B,120,groq,openai/gpt-oss-120b,0.6066666666666667,0.6066491844081959,0.6066491844081959,0.6066856330014225,0.6066666666666667,0.6040268456375839,0,0,450,0,0,0

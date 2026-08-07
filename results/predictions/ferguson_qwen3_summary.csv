@@ -1,0 +1,2 @@
+dataset,model,model_display,params_b,provider,model_id,test_accuracy,test_f1_macro,test_f1_weighted,test_precision,test_recall,test_f1_rumour,null_predictions,parse_errors,parse_json,parse_keyword_fallback,parse_empty,parse_default
+ferguson,qwen3,Qwen3.6 27B,27,groq,qwen/qwen3.6-27b,0.7317073170731707,0.6479313036690086,0.7317073170731707,0.6479313036690086,0.6479313036690086,0.47619047619047616,0,0,164,0,0,0

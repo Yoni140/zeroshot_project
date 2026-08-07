@@ -1,0 +1,2 @@
+dataset,model,model_display,params_b,provider,model_id,test_accuracy,test_f1_macro,test_f1_weighted,test_precision,test_recall,test_f1_rumour,null_predictions,parse_errors,parse_json,parse_keyword_fallback,parse_empty,parse_default
+pheme_all_events,qwen3,Qwen3.6 27B,27,groq,qwen/qwen3.6-27b,0.5355555555555556,0.5031039492801479,0.5031039492801479,0.5481283422459893,0.5355555555555556,0.3761194029850746,0,0,450,0,0,0

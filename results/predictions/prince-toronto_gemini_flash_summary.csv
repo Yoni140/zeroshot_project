@@ -1,0 +1,2 @@
+dataset,model,model_display,params_b,provider,model_id,test_accuracy,test_f1_macro,test_f1_weighted,test_precision,test_recall,test_f1_rumour,null_predictions,parse_errors,parse_json,parse_keyword_fallback,parse_empty,parse_default
+prince-toronto,gemini_flash,Gemini 2.5 Flash,,gemini,gemini-2.5-flash,0.7045454545454546,0.4776255707762557,0.8062681610626817,0.5357142857142857,0.8488372093023255,0.8219178082191781,0,0,44,0,0,0
