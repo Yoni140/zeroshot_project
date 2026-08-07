@@ -1,0 +1,2 @@
+dataset,model,model_display,params_b,provider,model_id,test_accuracy,test_f1_macro,test_f1_weighted,test_precision,test_recall,test_f1_rumour,null_predictions,parse_errors,parse_json,parse_keyword_fallback,parse_empty,parse_default
+sydneysiege,gpt_oss,GPT-OSS 120B,120,groq,openai/gpt-oss-120b,0.664804469273743,0.6591774562071592,0.6657830802418445,0.6585858585858586,0.6604496678589677,0.6153846153846154,0,0,179,0,0,0
