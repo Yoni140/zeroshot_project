@@ -1,0 +1,2 @@
+dataset,model,test_accuracy,test_f1_macro,test_f1_weighted,test_precision,test_recall,f1_rumour,null_predictions,parse_errors,parse_json,parse_keyword_fallback,parse_empty,parse_default
+sydneysiege,ollama-zero-shot (llama3.1:8b),0.4972067039106145,0.4447890818858561,0.4705213690616466,0.4518924936386769,0.46135666836995404,0.27419354838709675,0,0,179,0,0,0

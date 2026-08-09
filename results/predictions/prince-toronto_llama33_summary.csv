@@ -1,0 +1,2 @@
+dataset,model,model_display,provider,model_id,test_accuracy,test_f1_macro,test_f1_weighted,test_precision,test_recall,test_f1_rumour,null_predictions,parse_errors,parse_json,parse_keyword_fallback,parse_empty,parse_default
+prince-toronto,llama33,Ollama llama3.3,ollama,llama3.3,0.7954545454545454,0.4430379746835443,0.8659378596087457,0.4861111111111111,0.4069767441860465,0.8860759493670886,0,0,44,0,0,0

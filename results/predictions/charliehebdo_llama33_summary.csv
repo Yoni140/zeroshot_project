@@ -1,0 +1,2 @@
+dataset,model,model_display,provider,model_id,test_accuracy,test_f1_macro,test_f1_weighted,test_precision,test_recall,test_f1_rumour,null_predictions,parse_errors,parse_json,parse_keyword_fallback,parse_empty,parse_default
+charliehebdo,llama33,Ollama llama3.3,ollama,llama3.3,0.5924657534246576,0.4590824888307726,0.6044242530089369,0.4625,0.45781094527363186,0.19047619047619047,0,0,292,0,0,0

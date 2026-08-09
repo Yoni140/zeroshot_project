@@ -1,0 +1,2 @@
+dataset,model,model_display,provider,model_id,test_accuracy,test_f1_macro,test_f1_weighted,test_precision,test_recall,test_f1_rumour,null_predictions,parse_errors,parse_json,parse_keyword_fallback,parse_empty,parse_default
+ferguson,llama33,Ollama llama3.3,ollama,llama3.3,0.524390243902439,0.503030303030303,0.5532889874353288,0.5424641148325359,0.5554254488680719,0.4,0,0,164,0,0,0

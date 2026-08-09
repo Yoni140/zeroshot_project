@@ -1,0 +1,2 @@
+dataset,model,model_display,provider,model_id,test_accuracy,test_f1_macro,test_f1_weighted,test_precision,test_recall,test_f1_rumour,null_predictions,parse_errors,parse_json,parse_keyword_fallback,parse_empty,parse_default
+sydneysiege,llama33,Ollama llama3.3,ollama,llama3.3,0.547486033519553,0.4857963613150335,0.5126612185653888,0.5093672675857194,0.5067705671946857,0.3076923076923077,0,0,179,0,0,0

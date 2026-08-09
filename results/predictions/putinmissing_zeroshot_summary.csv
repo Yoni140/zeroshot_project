@@ -1,0 +1,2 @@
+dataset,model,test_accuracy,test_f1_macro,test_f1_weighted,test_precision,test_recall,f1_rumour,null_predictions,parse_errors,parse_json,parse_keyword_fallback,parse_empty,parse_default
+putinmissing,ollama-zero-shot (llama3.1:8b),0.4857142857142857,0.37,0.37771428571428567,0.41666666666666663,0.4738562091503268,0.64,0,0,35,0,0,0

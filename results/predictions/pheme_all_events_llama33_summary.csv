@@ -1,0 +1,2 @@
+dataset,model,model_display,provider,model_id,test_accuracy,test_f1_macro,test_f1_weighted,test_precision,test_recall,test_f1_rumour,null_predictions,parse_errors,parse_json,parse_keyword_fallback,parse_empty,parse_default
+pheme_all_events,llama33,Ollama llama3.3,ollama,llama3.3,0.5333333333333333,0.5230741279069768,0.5230741279069768,0.5364715035985217,0.5333333333333333,0.453125,0,0,450,0,0,0

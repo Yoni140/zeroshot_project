@@ -1,0 +1,2 @@
+dataset,model,test_accuracy,test_f1_macro,test_f1_weighted,test_precision,test_recall,f1_rumour,null_predictions,parse_errors,parse_json,parse_keyword_fallback,parse_empty,parse_default
+prince-toronto,ollama-zero-shot (llama3.1:8b),0.75,0.42857142857142855,0.8376623376623376,0.4852941176470588,0.38372093023255816,0.8571428571428571,0,0,44,0,0,0

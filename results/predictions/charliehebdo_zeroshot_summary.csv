@@ -1,0 +1,2 @@
+dataset,model,test_accuracy,test_f1_macro,test_f1_weighted,test_precision,test_recall,f1_rumour,null_predictions,parse_errors,parse_json,parse_keyword_fallback,parse_empty,parse_default
+charliehebdo,ollama-zero-shot (llama3.1:8b),0.6198630136986302,0.49081768910533347,0.629519466559353,0.4921519290678169,0.49131011608623554,0.23448275862068965,0,0,292,0,0,0

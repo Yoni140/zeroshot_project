@@ -1,0 +1,2 @@
+dataset,model,test_accuracy,test_f1_macro,test_f1_weighted,test_precision,test_recall,f1_rumour,null_predictions,parse_errors,parse_json,parse_keyword_fallback,parse_empty,parse_default
+ferguson,ollama-zero-shot (llama3.1:8b),0.5914634146341463,0.5514186568687487,0.6167978532204182,0.5654824627427367,0.5848946135831381,0.41739130434782606,0,1,163,1,0,0

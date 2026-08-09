@@ -1,0 +1,2 @@
+dataset,model,model_display,provider,model_id,test_accuracy,test_f1_macro,test_f1_weighted,test_precision,test_recall,test_f1_rumour,null_predictions,parse_errors,parse_json,parse_keyword_fallback,parse_empty,parse_default
+ottawashooting,llama33,Ollama llama3.3,ollama,llama3.3,0.5,0.45054945054945056,0.4378698224852071,0.5480559196155527,0.5261904761904762,0.2857142857142857,0,0,130,0,0,0
